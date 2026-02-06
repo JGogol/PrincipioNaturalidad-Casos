@@ -1,0 +1,697 @@
+{
+  "version": "7.5",
+  "total_classes": 51,
+  "statistics": {
+    "min_size": 2,
+    "max_size": 25,
+    "avg_size": 3.3333333333333335,
+    "min_actors": 2,
+    "max_actors": 3,
+    "classes_with_all_actors": 0
+  },
+  "classes": {
+    "Arab Republic of Egypt_3_20": {
+      "members": [
+        "Arab Republic of Egypt_3_20",
+        "Federal Democratic Republic of Ethiopia_5_392"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Federal Democratic Republic of Ethiopia"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_4_70": {
+      "members": [
+        "Arab Republic of Egypt_4_70",
+        "Federal Democratic Republic of Ethiopia_5_339"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Federal Democratic Republic of Ethiopia"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_310": {
+      "members": [
+        "Arab Republic of Egypt_6_310",
+        "Federal Democratic Republic of Ethiopia_6_713"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Federal Democratic Republic of Ethiopia"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_2_9": {
+      "members": [
+        "Arab Republic of Egypt_2_9",
+        "Arab Republic of Egypt_3_21",
+        "Arab Republic of Egypt_4_49",
+        "Arab Republic of Egypt_4_68",
+        "Arab Republic of Egypt_5_116",
+        "Arab Republic of Egypt_6_255",
+        "Arab Republic of Egypt_6_349",
+        "Arab Republic of Egypt_6_389",
+        "Arab Republic of Egypt_7_597",
+        "Arab Republic of Egypt_7_671",
+        "Republic of Sudan_5_562"
+      ],
+      "size": 11,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_3_17": {
+      "members": [
+        "Arab Republic of Egypt_3_17",
+        "Arab Republic of Egypt_5_125",
+        "Arab Republic of Egypt_5_140",
+        "Arab Republic of Egypt_5_142",
+        "Arab Republic of Egypt_5_167",
+        "Arab Republic of Egypt_6_211",
+        "Arab Republic of Egypt_6_270",
+        "Arab Republic of Egypt_6_278",
+        "Arab Republic of Egypt_6_282",
+        "Arab Republic of Egypt_6_298",
+        "Arab Republic of Egypt_6_332",
+        "Arab Republic of Egypt_6_333",
+        "Arab Republic of Egypt_6_347",
+        "Arab Republic of Egypt_6_521",
+        "Arab Republic of Egypt_6_630",
+        "Arab Republic of Egypt_7_712",
+        "Republic of Sudan_2_5",
+        "Republic of Sudan_2_8",
+        "Republic of Sudan_4_88",
+        "Republic of Sudan_4_97",
+        "Republic of Sudan_5_276",
+        "Republic of Sudan_5_506",
+        "Republic of Sudan_5_640",
+        "Republic of Sudan_5_642",
+        "Republic of Sudan_5_650"
+      ],
+      "size": 25,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_3_27": {
+      "members": [
+        "Arab Republic of Egypt_3_27",
+        "Arab Republic of Egypt_5_221",
+        "Republic of Sudan_4_81"
+      ],
+      "size": 3,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_3_29": {
+      "members": [
+        "Arab Republic of Egypt_3_29",
+        "Arab Republic of Egypt_5_180",
+        "Arab Republic of Egypt_5_185",
+        "Arab Republic of Egypt_6_426",
+        "Federal Democratic Republic of Ethiopia_3_68",
+        "Republic of Sudan_4_86",
+        "Republic of Sudan_5_648",
+        "Republic of Sudan_5_655"
+      ],
+      "size": 8,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Federal Democratic Republic of Ethiopia",
+        "Republic of Sudan"
+      ],
+      "num_actors": 3
+    },
+    "Arab Republic of Egypt_3_30": {
+      "members": [
+        "Arab Republic of Egypt_3_30",
+        "Republic of Sudan_4_186"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_4_45": {
+      "members": [
+        "Arab Republic of Egypt_4_45",
+        "Republic of Sudan_5_626"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_5_86": {
+      "members": [
+        "Arab Republic of Egypt_5_86",
+        "Arab Republic of Egypt_6_657",
+        "Republic of Sudan_4_209"
+      ],
+      "size": 3,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_4_100": {
+      "members": [
+        "Arab Republic of Egypt_4_100",
+        "Republic of Sudan_5_475"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_5_103": {
+      "members": [
+        "Arab Republic of Egypt_5_103",
+        "Republic of Sudan_4_170"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_5_109": {
+      "members": [
+        "Arab Republic of Egypt_5_109",
+        "Republic of Sudan_5_445",
+        "Republic of Sudan_5_446",
+        "Republic of Sudan_5_539"
+      ],
+      "size": 4,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_5_130": {
+      "members": [
+        "Arab Republic of Egypt_5_130",
+        "Republic of Sudan_5_268"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_295": {
+      "members": [
+        "Arab Republic of Egypt_5_132",
+        "Arab Republic of Egypt_6_208",
+        "Arab Republic of Egypt_6_295",
+        "Republic of Sudan_4_130",
+        "Republic of Sudan_4_82",
+        "Republic of Sudan_5_281",
+        "Republic of Sudan_5_283",
+        "Republic of Sudan_5_296"
+      ],
+      "size": 8,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_5_134": {
+      "members": [
+        "Arab Republic of Egypt_5_134",
+        "Republic of Sudan_5_395"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_5_147": {
+      "members": [
+        "Arab Republic of Egypt_5_147",
+        "Federal Democratic Republic of Ethiopia_4_166",
+        "Republic of Sudan_4_169"
+      ],
+      "size": 3,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Federal Democratic Republic of Ethiopia",
+        "Republic of Sudan"
+      ],
+      "num_actors": 3
+    },
+    "Arab Republic of Egypt_5_196": {
+      "members": [
+        "Arab Republic of Egypt_5_196",
+        "Republic of Sudan_3_49",
+        "Republic of Sudan_4_111",
+        "Republic of Sudan_5_368"
+      ],
+      "size": 4,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_5_198": {
+      "members": [
+        "Arab Republic of Egypt_5_198",
+        "Republic of Sudan_4_112"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_204": {
+      "members": [
+        "Arab Republic of Egypt_6_204",
+        "Republic of Sudan_4_122"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_230": {
+      "members": [
+        "Arab Republic of Egypt_6_230",
+        "Republic of Sudan_4_124"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_472": {
+      "members": [
+        "Arab Republic of Egypt_6_266",
+        "Arab Republic of Egypt_6_283",
+        "Arab Republic of Egypt_6_339",
+        "Arab Republic of Egypt_6_472",
+        "Republic of Sudan_4_117",
+        "Republic of Sudan_5_262",
+        "Republic of Sudan_5_427",
+        "Republic of Sudan_5_501",
+        "Republic of Sudan_5_503"
+      ],
+      "size": 9,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_274": {
+      "members": [
+        "Arab Republic of Egypt_6_274",
+        "Arab Republic of Egypt_6_318",
+        "Republic of Sudan_5_580"
+      ],
+      "size": 3,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_275": {
+      "members": [
+        "Arab Republic of Egypt_6_275",
+        "Republic of Sudan_5_298"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_303": {
+      "members": [
+        "Arab Republic of Egypt_6_303",
+        "Republic of Sudan_5_304"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_353": {
+      "members": [
+        "Arab Republic of Egypt_6_353",
+        "Republic of Sudan_5_287"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_362": {
+      "members": [
+        "Arab Republic of Egypt_6_362",
+        "Republic of Sudan_4_132"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_384": {
+      "members": [
+        "Arab Republic of Egypt_6_384",
+        "Republic of Sudan_5_385"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_402": {
+      "members": [
+        "Arab Republic of Egypt_6_402",
+        "Republic of Sudan_4_121"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_408": {
+      "members": [
+        "Arab Republic of Egypt_6_408",
+        "Arab Republic of Egypt_7_691",
+        "Republic of Sudan_4_190"
+      ],
+      "size": 3,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_450": {
+      "members": [
+        "Arab Republic of Egypt_6_450",
+        "Republic of Sudan_4_166"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_455": {
+      "members": [
+        "Arab Republic of Egypt_6_455",
+        "Arab Republic of Egypt_6_543",
+        "Federal Democratic Republic of Ethiopia_5_663",
+        "Republic of Sudan_5_307"
+      ],
+      "size": 4,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Federal Democratic Republic of Ethiopia",
+        "Republic of Sudan"
+      ],
+      "num_actors": 3
+    },
+    "Arab Republic of Egypt_7_485": {
+      "members": [
+        "Arab Republic of Egypt_7_485",
+        "Arab Republic of Egypt_7_564",
+        "Republic of Sudan_5_378"
+      ],
+      "size": 3,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_488": {
+      "members": [
+        "Arab Republic of Egypt_6_488",
+        "Republic of Sudan_4_167"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_490": {
+      "members": [
+        "Arab Republic of Egypt_6_490",
+        "Republic of Sudan_5_511"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_492": {
+      "members": [
+        "Arab Republic of Egypt_6_492",
+        "Republic of Sudan_4_175"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_529": {
+      "members": [
+        "Arab Republic of Egypt_6_529",
+        "Republic of Sudan_4_172"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_6_569": {
+      "members": [
+        "Arab Republic of Egypt_6_569",
+        "Republic of Sudan_3_26"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_7_634": {
+      "members": [
+        "Arab Republic of Egypt_7_634",
+        "Republic of Sudan_4_180"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_7_661": {
+      "members": [
+        "Arab Republic of Egypt_7_661",
+        "Republic of Sudan_4_94"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_7_663": {
+      "members": [
+        "Arab Republic of Egypt_7_663",
+        "Republic of Sudan_4_115"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_7_674": {
+      "members": [
+        "Arab Republic of Egypt_7_674",
+        "Republic of Sudan_2_17",
+        "Republic of Sudan_3_75"
+      ],
+      "size": 3,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_7_688": {
+      "members": [
+        "Arab Republic of Egypt_7_688",
+        "Republic of Sudan_4_127",
+        "Republic of Sudan_5_408"
+      ],
+      "size": 3,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_7_689": {
+      "members": [
+        "Arab Republic of Egypt_7_689",
+        "Republic of Sudan_5_456"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_7_699": {
+      "members": [
+        "Arab Republic of Egypt_7_699",
+        "Republic of Sudan_5_305",
+        "Republic of Sudan_5_504",
+        "Republic of Sudan_5_634"
+      ],
+      "size": 4,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Arab Republic of Egypt_7_707": {
+      "members": [
+        "Arab Republic of Egypt_7_707",
+        "Republic of Sudan_5_370"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Federal Democratic Republic of Ethiopia_5_282": {
+      "members": [
+        "Federal Democratic Republic of Ethiopia_5_282",
+        "Republic of Sudan_5_453"
+      ],
+      "size": 2,
+      "actors": [
+        "Federal Democratic Republic of Ethiopia",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Federal Democratic Republic of Ethiopia_5_381": {
+      "members": [
+        "Federal Democratic Republic of Ethiopia_5_381",
+        "Republic of Sudan_4_98"
+      ],
+      "size": 2,
+      "actors": [
+        "Federal Democratic Republic of Ethiopia",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Federal Democratic Republic of Ethiopia_5_616": {
+      "members": [
+        "Federal Democratic Republic of Ethiopia_5_616",
+        "Republic of Sudan_5_392"
+      ],
+      "size": 2,
+      "actors": [
+        "Federal Democratic Republic of Ethiopia",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Federal Democratic Republic of Ethiopia_6_679": {
+      "members": [
+        "Federal Democratic Republic of Ethiopia_6_679",
+        "Republic of Sudan_4_103",
+        "Republic of Sudan_5_259"
+      ],
+      "size": 3,
+      "actors": [
+        "Federal Democratic Republic of Ethiopia",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    },
+    "Federal Democratic Republic of Ethiopia_6_768": {
+      "members": [
+        "Federal Democratic Republic of Ethiopia_6_768",
+        "Republic of Sudan_5_531"
+      ],
+      "size": 2,
+      "actors": [
+        "Federal Democratic Republic of Ethiopia",
+        "Republic of Sudan"
+      ],
+      "num_actors": 2
+    }
+  }
+}

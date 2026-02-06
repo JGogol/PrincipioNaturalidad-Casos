@@ -1,0 +1,82 @@
+{
+  "total": 7,
+  "items": [
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Federal Democratic Republic of Ethiopia",
+      "node_a_id": "Arab Republic of Egypt_6_543",
+      "node_b_id": "Federal Democratic Republic of Ethiopia_4_100",
+      "node_a_texto": "Egypt loses bilateral leverage over Ethiopia and Sudan",
+      "node_b_texto": "Ethiopia reduces diplomatic pressure from Egypt and Sudan",
+      "nli_score": 0.6479237377643585,
+      "rejection_reason": "Egipto ve la pérdida de influencia bilateral como negativa, mientras Etiopía ve la reducción de presión diplomática como un logro positivo - perspectivas opuestas del mismo evento",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] MISMA PERSPECTIVA: Ambos actores describen el mismo evento (aumento del escrutinio internacional sobre las operaciones de GERD) desde perspectivas equivalentes.\n\n[1] MISMA PERSPECTIVA: Describen el mismo resultado (pérdida de influencia diplomática de Egipto) desde ángulos complementarios.\n\n[2] MISMA PERSPECTIVA: Ambos describen la misma presión internacional sobre Etiopía para acuerdos vinculantes.\n\n[3] ROLES INVERTIDOS: Egipto ve pérdida de influencia bilateral como negativo, mientras Etiopía ve la reducción de presión diplomática como positivo.\n\n[4] MISMA PERSPECTIVA: Ambos países buscan apoyo internacional para sus preocupaciones de seguridad hídrica.\n\n[5] MISMA PERSPECTIVA: Ambos países experimentan pérdida de control/autonomía sobre decisiones hídricas.\n\n[6] MISMA PERSPECTIVA: Ambos describen pérdida de control soberano sobre gestión hídrica.\n\n[7] MISMA PERSPECTIVA: Equivalente a [6], pérdida de control soberano.\n\n[8] MISMA PERSPECTIVA: Ambos buscan legitimación/apoyo internacional para sus narrativas de seguridad hídrica.\n\n[9] MISMA PERSPECTIVA: Ambos países experimentan debilitamiento de su poder de negociación.\n\n[10] MISMA PERSPECTIVA: Ambos pierden poder de negociación en futuras negociaciones del Nilo.\n\n[11] MISMA PERSPECTIVA: Ambos deben buscar mecanismos alternativos para asegurar suministro hídrico.\n\n[12] MISMA PERSPECTIVA: Ambos pierden control sobre aspectos relacionados con GERD.\n\n[13] MISMA PERSPECTIVA: Ambos buscan atraer apoyo internacional para seguridad hídrica.\n\n[14] MISMA PERSPECTIVA: Ambos reciben validación/apoyo internacional para sus preocupaciones hídricas.\n\nRECHAZAR: 3 | RAZÓN: Egipto ve la pérdida de influencia bilateral como negativa, mientras Etiopía ve la reducción de presión diplomática como un logro positivo - perspectivas opuestas del mismo evento"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Arab Republic of Egypt_6_313",
+      "node_b_id": "Republic of Sudan_5_598",
+      "node_a_texto": "Egypt can mobilize international pressure through sanctioning mechanisms",
+      "node_b_texto": "Sudan gains access to international arbitration mechanisms",
+      "nli_score": 0.5904886722564697,
+      "rejection_reason": "Egipto ejerce presión internacional mientras Sudán busca protección a través de arbitraje - perspectivas opuestas de poder vs vulnerabilidad",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos países sufren pérdidas económicas agrícolas - MISMA PERSPECTIVA\n[1] Ambos países sufren impactos económicos agrícolas/rurales - MISMA PERSPECTIVA  \n[2] Ambos países enfrentan problemas de irrigación - MISMA PERSPECTIVA\n[3] Ambos países tienen disrupciones en sistemas de irrigación - MISMA PERSPECTIVA\n[4] Ambos países sufren por problemas de irrigación - MISMA PERSPECTIVA\n[5] Ambos países sufren económicamente por fallas de irrigación - MISMA PERSPECTIVA\n[6] Ambos países pierden control/autonomía sobre agua - MISMA PERSPECTIVA\n[7] Ambos países pierden control/soberanía sobre gestión hídrica - MISMA PERSPECTIVA\n[8] Ambos países pierden control soberano sobre agua - MISMA PERSPECTIVA\n[9] Ambos países pierden control sobre intereses hídricos - MISMA PERSPECTIVA\n[10] Ambos países ven limitados sus recursos para desarrollo - MISMA PERSPECTIVA\n[11] Egipto puede presionar vs Sudán accede a arbitraje - ROLES INVERTIDOS (uno ejerce poder, otro busca protección)\n[12] Ambos países aumentan influencia regional - MISMA PERSPECTIVA\n[13] Ambos países aceptan limitaciones externas - MISMA PERSPECTIVA\n[14] Ambos países pierden autonomía/capacidad unilateral - MISMA PERSPECTIVA\n\nRECHAZAR: 11 | RAZÓN: Egipto ejerce presión internacional mientras Sudán busca protección a través de arbitraje - perspectivas opuestas de poder vs vulnerabilidad"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Arab Republic of Egypt_6_536",
+      "node_b_id": "Republic of Sudan_5_580",
+      "node_a_texto": "Egypt faces increased responsibility for Basin-wide water management",
+      "node_b_texto": "Sudan's regional influence in water management increases",
+      "nli_score": 0.6473371982574463,
+      "rejection_reason": "Egipto asume mayor responsabilidad (carga) mientras Sudán aumenta influencia (beneficio) - perspectivas opuestas sobre el resultado",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos países pierden posición negociadora - MISMA PERSPECTIVA\n[1] Ambos enfrentan amenazas a seguridad alimentaria - MISMA PERSPECTIVA  \n[2] Egipto ve deterioro con Etiopía vs Sudán se debilita ante ambos - MISMA PERSPECTIVA (ambos pierden posición)\n[3] Ambos experimentan dificultades económicas rurales - MISMA PERSPECTIVA\n[4] Ambos sufren impacto económico rural - MISMA PERSPECTIVA\n[5] Ambos enfrentan restricciones económicas - MISMA PERSPECTIVA\n[6] Ambos experimentan deterioro socioeconómico - MISMA PERSPECTIVA\n[7] Ambos reducen riesgos relacionados con agua - MISMA PERSPECTIVA\n[8] Ambos sufren impacto económico rural - MISMA PERSPECTIVA\n[9] Ambos pierden ingresos por exportaciones agrícolas - MISMA PERSPECTIVA\n[10] Ambos se vuelven más vulnerables a decisiones externas - MISMA PERSPECTIVA\n[11] Ambos ven comprometida su soberanía sobre agua - MISMA PERSPECTIVA\n[12] Ambos enfrentan condicionamiento externo en gestión hídrica - MISMA PERSPECTIVA\n[13] Ambos fortalecen su posición legal internacional - MISMA PERSPECTIVA\n[14] Egipto asume más responsabilidad vs Sudán aumenta influencia - ROLES INVERTIDOS (uno gana carga, otro gana poder)\n\nRECHAZAR: 14 | RAZÓN: Egipto asume mayor responsabilidad (carga) mientras Sudán aumenta influencia (beneficio) - perspectivas opuestas sobre el resultado"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Arab Republic of Egypt_7_623",
+      "node_b_id": "Republic of Sudan_4_170",
+      "node_a_texto": "International donors prioritize Egypt's water infrastructure projects",
+      "node_b_texto": "Sudan attracts international funding for water infrastructure projects",
+      "nli_score": 0.7759730219841003,
+      "rejection_reason": "Egipto recibe prioridad de donantes mientras Sudán solo atrae fondos, representando ventajas competitivas opuestas",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos actores expresan pérdida de poder negociador - MISMA PERSPECTIVA\n[1] Ambos se benefician de menor presión poblacional sobre recursos hídricos - MISMA PERSPECTIVA  \n[2] Ambos pierden capacidad negociadora en contexto multilateral - MISMA PERSPECTIVA\n[3] Ambos buscan legitimidad internacional para sus preocupaciones hídricas - MISMA PERSPECTIVA\n[4] Egipto es priorizado vs Sudán atrae fondos - ROLES INVERTIDOS (ventaja competitiva opuesta)\n[5] Ambos pierden autonomía sobre infraestructura hídrica - MISMA PERSPECTIVA\n[6] Ambos pierden control soberano sobre recursos hídricos - MISMA PERSPECTIVA\n[7] Ambos pierden capacidad de respuesta unilateral a crisis - MISMA PERSPECTIVA\n[8] Egipto busca garantías vs Sudán busca financiamiento - diferentes objetivos pero no opuestos\n[9] Ambos no pueden garantizar suministro hídrico - MISMA PERSPECTIVA\n[10] Ambos enfrentan problemas agrícolas por incertidumbre hídrica - MISMA PERSPECTIVA\n[11] Ambos reciben apoyo internacional para seguridad hídrica - MISMA PERSPECTIVA\n[12] Ambos mantienen poder de veto sobre operaciones de la presa - MISMA PERSPECTIVA\n[13] Ambos mantienen influencia sobre decisiones operativas de GERD - MISMA PERSPECTIVA\n[14] Ambos ganan mayor autonomía en políticas hídricas - MISMA PERSPECTIVA\n\nRECHAZAR: 4 | RAZÓN: Egipto recibe prioridad de donantes mientras Sudán solo atrae fondos, representando ventajas competitivas opuestas"
+    },
+    {
+      "actor_a": "Federal Democratic Republic of Ethiopia",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Federal Democratic Republic of Ethiopia_2_17",
+      "node_b_id": "Republic of Sudan_5_505",
+      "node_a_texto": "Ethiopia maintains sovereign control over its water resource development",
+      "node_b_texto": "Sudan's water infrastructure operates under Ethiopian control",
+      "nli_score": 0.64140684902668,
+      "rejection_reason": "En [9] Etiopía ejerce control mientras Sudán lo sufre; en [10] Etiopía es quien provoca la amenaza militar mientras Sudán es quien reacciona amenazando",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos actores ganan autonomía/control sobre decisiones hídricas - MISMA PERSPECTIVA\n[1] Ambos pueden invertir/asignar recursos a infraestructura hídrica - MISMA PERSPECTIVA  \n[2] Ambos reducen vulnerabilidad/pérdidas económicas relacionadas con agua - MISMA PERSPECTIVA\n[3] Ambos gobiernos enfrentan disturbios/oposición doméstica - MISMA PERSPECTIVA\n[4] Ambos gobiernos enfrentan disturbios/presión política doméstica - MISMA PERSPECTIVA\n[5] Ambos gobiernos enfrentan disturbios/insatisfacción pública - MISMA PERSPECTIVA\n[6] Ambos pierden poder de negociación en disputas hídricas regionales - MISMA PERSPECTIVA\n[7] Ambos se vuelven dependientes de actores externos para seguridad/infraestructura hídrica - MISMA PERSPECTIVA\n[8] Ambos pierden soberanía hídrica ante condiciones externas - MISMA PERSPECTIVA\n[9] Etiopía mantiene control soberano vs Sudán opera bajo control etíope - ROLES INVERTIDOS\n[10] Etiopía puede provocar postura militar vs Sudán puede amenazar con alinearse - ROLES INVERTIDOS\n[11] Ambos pierden poder de negociación en futuras negociaciones del Nilo - MISMA PERSPECTIVA\n[12] Ambos experimentan debilitamiento en posición negociadora futura - MISMA PERSPECTIVA\n[13] Ambos fortalecen/ganan ventaja en negociaciones hídricas regionales - MISMA PERSPECTIVA\n[14] Ambos ven deteriorada su capacidad de atraer inversión extranjera - MISMA PERSPECTIVA\n\nRECHAZAR: 9, 10 | RAZÓN: En [9] Etiopía ejerce control mientras Sudán lo sufre; en [10] Etiopía es quien provoca la amenaza militar mientras Sudán es quien reacciona amenazando"
+    },
+    {
+      "actor_a": "Federal Democratic Republic of Ethiopia",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Federal Democratic Republic of Ethiopia_3_59",
+      "node_b_id": "Republic of Sudan_4_337",
+      "node_a_texto": "Ethiopia may trigger military posturing from Egypt and Sudan",
+      "node_b_texto": "Sudan can threaten to align with Egypt against Ethiopia",
+      "nli_score": 0.6679889261722565,
+      "rejection_reason": "En [9] Etiopía ejerce control mientras Sudán lo sufre; en [10] Etiopía es quien provoca la amenaza militar mientras Sudán es quien reacciona amenazando",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos actores ganan autonomía/control sobre decisiones hídricas - MISMA PERSPECTIVA\n[1] Ambos pueden invertir/asignar recursos a infraestructura hídrica - MISMA PERSPECTIVA  \n[2] Ambos reducen vulnerabilidad/pérdidas económicas relacionadas con agua - MISMA PERSPECTIVA\n[3] Ambos gobiernos enfrentan disturbios/oposición doméstica - MISMA PERSPECTIVA\n[4] Ambos gobiernos enfrentan disturbios/presión política doméstica - MISMA PERSPECTIVA\n[5] Ambos gobiernos enfrentan disturbios/insatisfacción pública - MISMA PERSPECTIVA\n[6] Ambos pierden poder de negociación en disputas hídricas regionales - MISMA PERSPECTIVA\n[7] Ambos se vuelven dependientes de actores externos para seguridad/infraestructura hídrica - MISMA PERSPECTIVA\n[8] Ambos pierden soberanía hídrica ante condiciones externas - MISMA PERSPECTIVA\n[9] Etiopía mantiene control soberano vs Sudán opera bajo control etíope - ROLES INVERTIDOS\n[10] Etiopía puede provocar postura militar vs Sudán puede amenazar con alinearse - ROLES INVERTIDOS\n[11] Ambos pierden poder de negociación en futuras negociaciones del Nilo - MISMA PERSPECTIVA\n[12] Ambos experimentan debilitamiento en posición negociadora futura - MISMA PERSPECTIVA\n[13] Ambos fortalecen/ganan ventaja en negociaciones hídricas regionales - MISMA PERSPECTIVA\n[14] Ambos ven deteriorada su capacidad de atraer inversión extranjera - MISMA PERSPECTIVA\n\nRECHAZAR: 9, 10 | RAZÓN: En [9] Etiopía ejerce control mientras Sudán lo sufre; en [10] Etiopía es quien provoca la amenaza militar mientras Sudán es quien reacciona amenazando"
+    },
+    {
+      "actor_a": "Federal Democratic Republic of Ethiopia",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Federal Democratic Republic of Ethiopia_5_536",
+      "node_b_id": "Republic of Sudan_4_173",
+      "node_a_texto": "Ethiopia can negotiate from a position of strength with Egypt and Sudan",
+      "node_b_texto": "Sudan strengthens its negotiating position with Ethiopia and Egypt",
+      "nli_score": 0.8497993052005768,
+      "rejection_reason": "Perspectivas opuestas sobre poder negociador - una implica fortaleza mientras la otra también reclama fortalecimiento, creando contradicción",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Etiopía: dificultades en desarrollo económico vs Sudán: desarrollo limitado por prioridades etíopes - Perspectivas diferentes pero complementarias sobre impactos económicos.\n\n[1] Etiopía: negocia desde posición fuerte vs Sudán: fortalece posición negociadora - **ROLES INVERTIDOS**: Una perspectiva implica ventaja sobre la otra.\n\n[2] Etiopía: desarrollo limitado por recursos hídricos vs Sudán: desarrollo industrial depende de decisiones etíopes - Perspectivas complementarias sobre dependencias hídricas.\n\n[3] Etiopía: menor flexibilidad negociadora vs Sudán: posición negociadora más débil - Misma perspectiva de debilitamiento negociador.\n\n[4] Etiopía: protocolos de contingencia para sequías vs Sudán: políticas agrícolas para fallas del sistema - Misma perspectiva sobre necesidad de contingencias.\n\n[5] Etiopía: protocolos de contingencia para sequías vs Sudán: planes para inestabilidad gubernamental etíope - Perspectivas complementarias sobre diferentes tipos de contingencias.\n\n[6] Etiopía: ambiciones de exportación energética limitadas vs Sudán: planes de expansión energética menos viables - Misma perspectiva sobre limitaciones energéticas.\n\nRECHAZAR: 1 | RAZÓN: Perspectivas opuestas sobre poder negociador - una implica fortaleza mientras la otra también reclama fortalecimiento, creando contradicción"
+    }
+  ]
+}

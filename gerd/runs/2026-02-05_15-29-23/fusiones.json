@@ -1,0 +1,1355 @@
+{
+  "total": 135,
+  "fusiones": [
+    {
+      "nodo_a_id": "Arab Republic of Egypt_3_20",
+      "nodo_a_texto": "Ethiopia faces increased international scrutiny over GERD operations",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Federal Democratic Republic of Ethiopia_5_392",
+      "nodo_b_texto": "Ethiopia's dam operations become subject to increased international scrutiny",
+      "nodo_b_actor": "Federal Democratic Republic of Ethiopia",
+      "similitud": 0.8018933236598969,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_4_70",
+      "nodo_a_texto": "Egypt loses leverage in multilateral negotiations with Ethiopia",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Federal Democratic Republic of Ethiopia_5_339",
+      "nodo_b_texto": "Ethiopia reduces Egypt's diplomatic leverage with international partners",
+      "nodo_b_actor": "Federal Democratic Republic of Ethiopia",
+      "similitud": 0.5550354868173599,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_310",
+      "nodo_a_texto": "Ethiopia faces increased international pressure to accept binding water agreements",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Federal Democratic Republic of Ethiopia_6_713",
+      "nodo_b_texto": "Ethiopia faces increased international pressure for binding water agreements",
+      "nodo_b_actor": "Federal Democratic Republic of Ethiopia",
+      "similitud": 0.9745502471923828,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_2_9",
+      "nodo_a_texto": "Egypt gains international visibility for its water security concerns",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_562",
+      "nodo_b_texto": "Sudan attracts international support for its water security concerns",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9669485986232758,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_3_17",
+      "nodo_a_texto": "Egypt loses unilateral control over water security decisions",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_2_5",
+      "nodo_b_texto": "Sudan loses operational autonomy over its water infrastructure",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7908251285552979,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_3_17",
+      "nodo_a_texto": "Egypt loses unilateral control over water security decisions",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_2_8",
+      "nodo_b_texto": "Sudan's national sovereignty over water management becomes compromised",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8917206227779388,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_3_17",
+      "nodo_a_texto": "Egypt loses unilateral control over water security decisions",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_97",
+      "nodo_b_texto": "Sudan loses sovereign control over its water resource management",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.931839257478714,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_3_21",
+      "nodo_a_texto": "Egypt legitimizes its water security narrative in global discourse",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_562",
+      "nodo_b_texto": "Sudan attracts international support for its water security concerns",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8034590184688568,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_3_27",
+      "nodo_a_texto": "Egypt's diplomatic leverage in multilateral negotiations weakens",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_81",
+      "nodo_b_texto": "Sudan loses strategic bargaining power in trilateral negotiations",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6422071754932404,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_3_29",
+      "nodo_a_texto": "Egypt loses Ethiopia's cooperation in future Nile negotiations",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_86",
+      "nodo_b_texto": "Sudan loses bargaining power in future Nile negotiations",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7718790471553802,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_3_30",
+      "nodo_a_texto": "Egypt must seek alternative mechanisms to secure water guarantees",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_186",
+      "nodo_b_texto": "Sudan must establish alternative water supply arrangements",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8558997511863708,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_4_45",
+      "nodo_a_texto": "Egypt loses direct control over GERD operational decisions",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_626",
+      "nodo_b_texto": "Sudan loses sovereign control over its GERD response strategy",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.585000067949295,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_4_49",
+      "nodo_a_texto": "Egypt attracts potential international allies for water security issues",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_562",
+      "nodo_b_texto": "Sudan attracts international support for its water security concerns",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6986017823219299,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_4_68",
+      "nodo_a_texto": "Egypt receives validation for its water security concerns",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_562",
+      "nodo_b_texto": "Sudan attracts international support for its water security concerns",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.649755597114563,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_86",
+      "nodo_a_texto": "Egypt attracts international funding for water infrastructure projects",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_209",
+      "nodo_b_texto": "Sudan seeks external financing for water management operations",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6105986684560776,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_4_100",
+      "nodo_a_texto": "Egypt becomes more dependent on bilateral negotiations with Ethiopia",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_475",
+      "nodo_b_texto": "Sudan becomes more vulnerable to Egyptian-Ethiopian bilateral agreements",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7808455526828766,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_103",
+      "nodo_a_texto": "Egypt attracts greater international support for its water security positions",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_170",
+      "nodo_b_texto": "Sudan attracts international funding for water infrastructure projects",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5508200079202652,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_109",
+      "nodo_a_texto": "Egypt maintains agricultural production stability",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_445",
+      "nodo_b_texto": "Sudan's food security improves",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6166088283061981,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_109",
+      "nodo_a_texto": "Egypt maintains agricultural production stability",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_446",
+      "nodo_b_texto": "Sudan's rural economic stability strengthens",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8085325062274933,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_109",
+      "nodo_a_texto": "Egypt maintains agricultural production stability",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_539",
+      "nodo_b_texto": "Sudan's agricultural sector maintains stable productivity levels",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9356925785541534,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_116",
+      "nodo_a_texto": "Egypt's downstream rights doctrine receives international validation",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_562",
+      "nodo_b_texto": "Sudan attracts international support for its water security concerns",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.608201414346695,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_125",
+      "nodo_a_texto": "Egypt's sovereignty over water policy becomes subordinated to external authority",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_642",
+      "nodo_b_texto": "Sudan's water management sovereignty becomes subject to external conditions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9039536714553833,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_130",
+      "nodo_a_texto": "Egypt must explore alternative water sources beyond the Nile",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_268",
+      "nodo_b_texto": "Sudan must diversify its water sources beyond the Nile system",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.955726832151413,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_132",
+      "nodo_a_texto": "Egypt's agricultural productivity declines due to reduced irrigation",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_281",
+      "nodo_b_texto": "Sudan's farmers experience crop losses from inadequate irrigation",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7931669354438782,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_134",
+      "nodo_a_texto": "Egypt's economy suffers from water scarcity impacts",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_395",
+      "nodo_b_texto": "Sudan's economic development remains constrained by suboptimal water resource utilization",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7130961716175079,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_140",
+      "nodo_a_texto": "Egypt's national sovereignty over water resources becomes compromised",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_2_5",
+      "nodo_b_texto": "Sudan loses operational autonomy over its water infrastructure",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.851694643497467,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_140",
+      "nodo_a_texto": "Egypt's national sovereignty over water resources becomes compromised",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_88",
+      "nodo_b_texto": "Sudan's domestic political legitimacy regarding water sovereignty weakens",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7070897817611694,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_140",
+      "nodo_a_texto": "Egypt's national sovereignty over water resources becomes compromised",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_97",
+      "nodo_b_texto": "Sudan loses sovereign control over its water resource management",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9368298053741455,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_140",
+      "nodo_a_texto": "Egypt's national sovereignty over water resources becomes compromised",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_506",
+      "nodo_b_texto": "Sudan cannot protect its national water interests",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7713204920291901,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_140",
+      "nodo_a_texto": "Egypt's national sovereignty over water resources becomes compromised",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_642",
+      "nodo_b_texto": "Sudan's water management sovereignty becomes subject to external conditions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5797877609729767,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_142",
+      "nodo_a_texto": "Egypt's water security depends on external institutions' interpretations",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_642",
+      "nodo_b_texto": "Sudan's water management sovereignty becomes subject to external conditions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6898868978023529,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_147",
+      "nodo_a_texto": "Egypt strengthens its legal position in future transboundary water disputes",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_169",
+      "nodo_b_texto": "Sudan gains leverage in regional water negotiations",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5760905146598816,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_167",
+      "nodo_a_texto": "Egypt's national sovereignty over Nile waters becomes constrained",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_2_5",
+      "nodo_b_texto": "Sudan loses operational autonomy over its water infrastructure",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5579837411642075,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_167",
+      "nodo_a_texto": "Egypt's national sovereignty over Nile waters becomes constrained",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_2_8",
+      "nodo_b_texto": "Sudan's national sovereignty over water management becomes compromised",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6191838085651398,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_167",
+      "nodo_a_texto": "Egypt's national sovereignty over Nile waters becomes constrained",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_642",
+      "nodo_b_texto": "Sudan's water management sovereignty becomes subject to external conditions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5979902744293213,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_180",
+      "nodo_a_texto": "Egypt faces weakened position in future Nile Basin agreements",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_86",
+      "nodo_b_texto": "Sudan loses bargaining power in future Nile negotiations",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8133362829685211,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_180",
+      "nodo_a_texto": "Egypt faces weakened position in future Nile Basin agreements",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_655",
+      "nodo_b_texto": "Sudan loses leverage in future Nile water allocation negotiations",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8742785155773163,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_185",
+      "nodo_a_texto": "Egypt reduces its sovereign control over Nile negotiations",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_86",
+      "nodo_b_texto": "Sudan loses bargaining power in future Nile negotiations",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5971865653991699,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_196",
+      "nodo_a_texto": "Egypt cannot plan agricultural water allocation effectively",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_3_49",
+      "nodo_b_texto": "Sudan loses ability to plan irrigation schedules effectively",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.740687221288681,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_196",
+      "nodo_a_texto": "Egypt cannot plan agricultural water allocation effectively",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_111",
+      "nodo_b_texto": "Sudan's agricultural planning loses synchronization with water flows",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5904769897460938,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_196",
+      "nodo_a_texto": "Egypt cannot plan agricultural water allocation effectively",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_368",
+      "nodo_b_texto": "Sudan cannot guarantee water delivery commitments to its farmers",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7227013409137726,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_198",
+      "nodo_a_texto": "Egypt must develop emergency water management protocols",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_112",
+      "nodo_b_texto": "Sudan must develop contingency plans for water flow disruptions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6799570620059967,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_204",
+      "nodo_a_texto": "Egypt secures predictable water supply for agricultural planning",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_122",
+      "nodo_b_texto": "Sudan can optimize its agricultural irrigation scheduling",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5780061483383179,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_208",
+      "nodo_a_texto": "Egypt faces agricultural production collapse from insufficient irrigation water",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_281",
+      "nodo_b_texto": "Sudan's farmers experience crop losses from inadequate irrigation",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8444615006446838,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_208",
+      "nodo_a_texto": "Egypt faces agricultural production collapse from insufficient irrigation water",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_296",
+      "nodo_b_texto": "Sudan's agricultural sector collapses due to irrigation failures",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9240437150001526,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_211",
+      "nodo_a_texto": "Egypt loses sovereignty over its existential water resource management",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_2_8",
+      "nodo_b_texto": "Sudan's national sovereignty over water management becomes compromised",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5777769833803177,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_211",
+      "nodo_a_texto": "Egypt loses sovereignty over its existential water resource management",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_506",
+      "nodo_b_texto": "Sudan cannot protect its national water interests",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6223563998937607,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_221",
+      "nodo_a_texto": "Egypt faces diluted negotiating power in multilateral settings",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_81",
+      "nodo_b_texto": "Sudan loses strategic bargaining power in trilateral negotiations",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6013780832290649,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_230",
+      "nodo_a_texto": "Egypt reduces emergency water management expenditures",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_124",
+      "nodo_b_texto": "Sudan can reduce emergency response costs for water crises",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6896142959594727,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_255",
+      "nodo_a_texto": "Egypt's water security concerns receive greater international recognition",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_562",
+      "nodo_b_texto": "Sudan attracts international support for its water security concerns",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9371537268161774,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_266",
+      "nodo_a_texto": "Egypt's agricultural sector suffers significant economic losses",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_262",
+      "nodo_b_texto": "Sudan's agricultural economy suffers substantial losses",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.943427711725235,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_266",
+      "nodo_a_texto": "Egypt's agricultural sector suffers significant economic losses",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_427",
+      "nodo_b_texto": "Sudan's rural economy faces severe disruption",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7422789633274078,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_270",
+      "nodo_a_texto": "Egypt's national water strategy requires external approval",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_642",
+      "nodo_b_texto": "Sudan's water management sovereignty becomes subject to external conditions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6307079195976257,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_274",
+      "nodo_a_texto": "Egypt's regional leadership position in water security matters becomes strengthened",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_580",
+      "nodo_b_texto": "Sudan's regional influence in water management increases",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8709200322628021,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_275",
+      "nodo_a_texto": "Egypt's agricultural sector faces severe water shortages",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_298",
+      "nodo_b_texto": "Sudan's agricultural sector suffers from unpredictable water supply",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6708920300006866,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_278",
+      "nodo_a_texto": "Egypt loses its historical water rights precedent permanently",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_650",
+      "nodo_b_texto": "Sudan's national sovereignty over water resources diminishes permanently",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.767412543296814,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_282",
+      "nodo_a_texto": "Egypt's strategic autonomy in water management is diminished",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_2_5",
+      "nodo_b_texto": "Sudan loses operational autonomy over its water infrastructure",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8286488652229309,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_282",
+      "nodo_a_texto": "Egypt's strategic autonomy in water management is diminished",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_2_8",
+      "nodo_b_texto": "Sudan's national sovereignty over water management becomes compromised",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9637654721736908,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_282",
+      "nodo_a_texto": "Egypt's strategic autonomy in water management is diminished",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_97",
+      "nodo_b_texto": "Sudan loses sovereign control over its water resource management",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9234108328819275,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_283",
+      "nodo_a_texto": "Egypt's agricultural sector will face severe economic contraction",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_262",
+      "nodo_b_texto": "Sudan's agricultural economy suffers substantial losses",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7121476083993912,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_283",
+      "nodo_a_texto": "Egypt's agricultural sector will face severe economic contraction",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_427",
+      "nodo_b_texto": "Sudan's rural economy faces severe disruption",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8240545690059662,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_295",
+      "nodo_a_texto": "Egypt's agricultural sector faces reduced irrigation capacity",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_82",
+      "nodo_b_texto": "Sudan's agricultural irrigation systems experience irregular water supply",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6563018411397934,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_295",
+      "nodo_a_texto": "Egypt's agricultural sector faces reduced irrigation capacity",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_130",
+      "nodo_b_texto": "Sudan's irrigation systems face operational disruptions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6042693555355072,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_295",
+      "nodo_a_texto": "Egypt's agricultural sector faces reduced irrigation capacity",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_281",
+      "nodo_b_texto": "Sudan's farmers experience crop losses from inadequate irrigation",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5506499409675598,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_295",
+      "nodo_a_texto": "Egypt's agricultural sector faces reduced irrigation capacity",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_283",
+      "nodo_b_texto": "Sudan's rural economy suffers from irrigation-dependent sector failures",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6038554012775421,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_298",
+      "nodo_a_texto": "Egypt loses control over its water distribution priorities",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_2_5",
+      "nodo_b_texto": "Sudan loses operational autonomy over its water infrastructure",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.723268449306488,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_298",
+      "nodo_a_texto": "Egypt loses control over its water distribution priorities",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_2_8",
+      "nodo_b_texto": "Sudan's national sovereignty over water management becomes compromised",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8268653154373169,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_298",
+      "nodo_a_texto": "Egypt loses control over its water distribution priorities",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_97",
+      "nodo_b_texto": "Sudan loses sovereign control over its water resource management",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5995436310768127,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_298",
+      "nodo_a_texto": "Egypt loses control over its water distribution priorities",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_506",
+      "nodo_b_texto": "Sudan cannot protect its national water interests",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5707507133483887,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_303",
+      "nodo_a_texto": "Egypt's budget for other development priorities becomes constrained",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_304",
+      "nodo_b_texto": "Sudan's economic resources for other development priorities decrease",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7395448684692383,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_318",
+      "nodo_a_texto": "Egypt becomes a regional leader in water diplomacy",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_580",
+      "nodo_b_texto": "Sudan's regional influence in water management increases",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5818072706460953,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_332",
+      "nodo_a_texto": "Egypt must accept external constraints on its water management policies",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_642",
+      "nodo_b_texto": "Sudan's water management sovereignty becomes subject to external conditions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7142423689365387,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_333",
+      "nodo_a_texto": "Egypt's ability to unilaterally defend its water interests becomes limited",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_2_5",
+      "nodo_b_texto": "Sudan loses operational autonomy over its water infrastructure",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6960072815418243,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_333",
+      "nodo_a_texto": "Egypt's ability to unilaterally defend its water interests becomes limited",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_2_8",
+      "nodo_b_texto": "Sudan's national sovereignty over water management becomes compromised",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8909752368927002,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_333",
+      "nodo_a_texto": "Egypt's ability to unilaterally defend its water interests becomes limited",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_97",
+      "nodo_b_texto": "Sudan loses sovereign control over its water resource management",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7581752240657806,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_333",
+      "nodo_a_texto": "Egypt's ability to unilaterally defend its water interests becomes limited",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_506",
+      "nodo_b_texto": "Sudan cannot protect its national water interests",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6094504147768021,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_333",
+      "nodo_a_texto": "Egypt's ability to unilaterally defend its water interests becomes limited",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_650",
+      "nodo_b_texto": "Sudan's national sovereignty over water resources diminishes permanently",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6038291603326797,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_339",
+      "nodo_a_texto": "Egypt's agricultural sector experiences widespread crop failures",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_262",
+      "nodo_b_texto": "Sudan's agricultural economy suffers substantial losses",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5571477562189102,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_347",
+      "nodo_a_texto": "Egypt cannot guarantee water flows through sovereign action alone",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_2_8",
+      "nodo_b_texto": "Sudan's national sovereignty over water management becomes compromised",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6280326545238495,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_347",
+      "nodo_a_texto": "Egypt cannot guarantee water flows through sovereign action alone",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_276",
+      "nodo_b_texto": "Sudan cannot make reliable water management decisions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7518316805362701,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_347",
+      "nodo_a_texto": "Egypt cannot guarantee water flows through sovereign action alone",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_506",
+      "nodo_b_texto": "Sudan cannot protect its national water interests",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8150317072868347,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_349",
+      "nodo_a_texto": "Egypt gains international sympathy for its water security concerns",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_562",
+      "nodo_b_texto": "Sudan attracts international support for its water security concerns",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9781723916530609,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_353",
+      "nodo_a_texto": "Egypt must allocate significant financial resources for emergency agricultural measures",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_287",
+      "nodo_b_texto": "Sudan must allocate additional budget for agricultural contingency planning",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.635660707950592,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_362",
+      "nodo_a_texto": "Egypt reduces agricultural land due to water scarcity costs",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_132",
+      "nodo_b_texto": "Sudan's agricultural productivity declines due to water uncertainty",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8545849025249481,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_384",
+      "nodo_a_texto": "Egypt's government faces legitimacy crisis from failing farmers",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_385",
+      "nodo_b_texto": "Sudan's government loses credibility with farming communities",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8385136127471924,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_389",
+      "nodo_a_texto": "Egypt attracts international support for downstream water rights protection",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_562",
+      "nodo_b_texto": "Sudan attracts international support for its water security concerns",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6360359191894531,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_402",
+      "nodo_a_texto": "Egypt develops enhanced technical capabilities for water management",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_121",
+      "nodo_b_texto": "Sudan will strengthen its technical water management capacity",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.857210785150528,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_408",
+      "nodo_a_texto": "Egypt reduces its financial burden in the water dispute",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_190",
+      "nodo_b_texto": "Sudan minimizes economic losses from water-related disruptions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7444098591804504,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_426",
+      "nodo_a_texto": "Egypt loses preferential status in Nile water allocation discussions",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_655",
+      "nodo_b_texto": "Sudan loses leverage in future Nile water allocation negotiations",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6938186883926392,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_450",
+      "nodo_a_texto": "Egypt's food security becomes critically threatened",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_166",
+      "nodo_b_texto": "Sudan's food security becomes critically compromised",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7853354513645172,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_455",
+      "nodo_a_texto": "Egypt's diplomatic relations with Ethiopia deteriorate further",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_307",
+      "nodo_b_texto": "Sudan's negotiating position with Ethiopia and Egypt becomes weaker",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7265631854534149,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_472",
+      "nodo_a_texto": "Egypt's rural population experiences economic hardship",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_117",
+      "nodo_b_texto": "Sudan's rural population faces economic instability",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8106853365898132,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_472",
+      "nodo_a_texto": "Egypt's rural population experiences economic hardship",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_427",
+      "nodo_b_texto": "Sudan's rural economy faces severe disruption",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8542503118515015,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_472",
+      "nodo_a_texto": "Egypt's rural population experiences economic hardship",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_501",
+      "nodo_b_texto": "Sudan's economic development becomes severely constrained",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5856402963399887,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_472",
+      "nodo_a_texto": "Egypt's rural population experiences economic hardship",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_503",
+      "nodo_b_texto": "Sudan's population experiences deteriorating living standards",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7472524046897888,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_485",
+      "nodo_a_texto": "Egypt reduces risk of domestic social unrest from water shortages",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_378",
+      "nodo_b_texto": "Sudan's population faces reduced risk of water-related disruptions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5946129187941551,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_488",
+      "nodo_a_texto": "Egypt experiences significant rural unemployment and social displacement",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_167",
+      "nodo_b_texto": "Sudan's rural population faces economic hardship",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5803058594465256,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_490",
+      "nodo_a_texto": "Egypt faces reduced agricultural export revenues and economic losses",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_511",
+      "nodo_b_texto": "Sudan's economy suffers from reduced agricultural export revenues",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7334079146385193,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_492",
+      "nodo_a_texto": "Egypt faces increased vulnerability to Ethiopian unilateral decisions",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_175",
+      "nodo_b_texto": "Sudan becomes more vulnerable to imposed terms by Ethiopia and Egypt",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6671729534864426,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_521",
+      "nodo_a_texto": "Egypt's legal foundation for water allocation becomes vulnerable to revision",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_2_8",
+      "nodo_b_texto": "Sudan's national sovereignty over water management becomes compromised",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6437349319458008,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_521",
+      "nodo_a_texto": "Egypt's legal foundation for water allocation becomes vulnerable to revision",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_642",
+      "nodo_b_texto": "Sudan's water management sovereignty becomes subject to external conditions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.681395947933197,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_529",
+      "nodo_a_texto": "Egypt's position becomes legitimized in international law",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_172",
+      "nodo_b_texto": "Sudan can leverage international legal frameworks to support its position",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6250585615634918,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_543",
+      "nodo_a_texto": "Egypt loses bilateral leverage over Ethiopia and Sudan",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_307",
+      "nodo_b_texto": "Sudan's negotiating position with Ethiopia and Egypt becomes weaker",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6939452588558197,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_564",
+      "nodo_a_texto": "Egypt's population pressure on water resources decreases",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_378",
+      "nodo_b_texto": "Sudan's population faces reduced risk of water-related disruptions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6294317841529846,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_569",
+      "nodo_a_texto": "Egypt's negotiating leverage becomes diluted across multiple partners",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_3_26",
+      "nodo_b_texto": "Sudan's ability to negotiate as an equal partner diminishes",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8078889548778534,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_597",
+      "nodo_a_texto": "Egypt's water security concerns gain international legitimacy",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_562",
+      "nodo_b_texto": "Sudan attracts international support for its water security concerns",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9520181119441986,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_630",
+      "nodo_a_texto": "Egypt loses unilateral control over its Nile strategy",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_2_5",
+      "nodo_b_texto": "Sudan loses operational autonomy over its water infrastructure",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5596649497747421,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_630",
+      "nodo_a_texto": "Egypt loses unilateral control over its Nile strategy",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_97",
+      "nodo_b_texto": "Sudan loses sovereign control over its water resource management",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.563494049012661,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_634",
+      "nodo_a_texto": "Egypt loses flexibility to respond unilaterally to water crises",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_180",
+      "nodo_b_texto": "Sudan's ability to respond to water emergencies decreases",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6104397028684616,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_657",
+      "nodo_a_texto": "Egypt seeks external guarantors for water security arrangements",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_209",
+      "nodo_b_texto": "Sudan seeks external financing for water management operations",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.659246176481247,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_661",
+      "nodo_a_texto": "Egypt cannot guarantee water supply to its population",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_94",
+      "nodo_b_texto": "Sudan cannot guarantee water supply to its population",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9579424560070038,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_663",
+      "nodo_a_texto": "Egypt's agricultural planning becomes impossible",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_115",
+      "nodo_b_texto": "Sudan's agricultural productivity becomes unpredictable",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6610878705978394,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_671",
+      "nodo_a_texto": "Egypt's water security demands receive stronger multilateral support",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_562",
+      "nodo_b_texto": "Sudan attracts international support for its water security concerns",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.614864319562912,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_674",
+      "nodo_a_texto": "Egypt preserves its veto power over dam operations",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_2_17",
+      "nodo_b_texto": "Sudan maintains veto power over GERD operational frameworks",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6372022926807404,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_674",
+      "nodo_a_texto": "Egypt preserves its veto power over dam operations",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_3_75",
+      "nodo_b_texto": "Sudan maintains leverage over GERD operational decisions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7135395705699921,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_688",
+      "nodo_a_texto": "Egypt gains greater autonomy in water security policy decisions",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_127",
+      "nodo_b_texto": "Sudan gains greater autonomy in water infrastructure decision-making",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5651872158050537,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_688",
+      "nodo_a_texto": "Egypt gains greater autonomy in water security policy decisions",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_408",
+      "nodo_b_texto": "Sudan gains greater control over its water infrastructure decisions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8326803147792816,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_689",
+      "nodo_a_texto": "Egypt can invest more resources in domestic water infrastructure",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_456",
+      "nodo_b_texto": "Sudan can allocate resources to expand water infrastructure capacity",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6442480534315109,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_691",
+      "nodo_a_texto": "Egypt reduces vulnerability to external economic pressures in water disputes",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_190",
+      "nodo_b_texto": "Sudan minimizes economic losses from water-related disruptions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8187400698661804,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_699",
+      "nodo_a_texto": "Egypt's government faces increased social unrest",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_305",
+      "nodo_b_texto": "Sudan's government faces increased domestic opposition and protests",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7087660431861877,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_699",
+      "nodo_a_texto": "Egypt's government faces increased social unrest",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_504",
+      "nodo_b_texto": "Sudan's government faces increased domestic political pressure",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5792055130004883,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_699",
+      "nodo_a_texto": "Egypt's government faces increased social unrest",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_634",
+      "nodo_b_texto": "Sudan's government faces increased public dissatisfaction",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8986755907535553,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_707",
+      "nodo_a_texto": "Egypt's bargaining power in regional water negotiations diminishes significantly",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_370",
+      "nodo_b_texto": "Sudan loses negotiating power in regional water disputes",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5984766408801079,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_712",
+      "nodo_a_texto": "Egypt must depend on external actors for water security",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_640",
+      "nodo_b_texto": "Sudan becomes dependent on external donors for water infrastructure",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6828610897064209,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_712",
+      "nodo_a_texto": "Egypt must depend on external actors for water security",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_642",
+      "nodo_b_texto": "Sudan's water management sovereignty becomes subject to external conditions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5703859031200409,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federal Democratic Republic of Ethiopia_3_68",
+      "nodo_a_texto": "Ethiopia experiences reduced bargaining power in future Nile negotiations",
+      "nodo_a_actor": "Federal Democratic Republic of Ethiopia",
+      "nodo_b_id": "Republic of Sudan_4_86",
+      "nodo_b_texto": "Sudan loses bargaining power in future Nile negotiations",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6697586923837662,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federal Democratic Republic of Ethiopia_3_68",
+      "nodo_a_texto": "Ethiopia experiences reduced bargaining power in future Nile negotiations",
+      "nodo_a_actor": "Federal Democratic Republic of Ethiopia",
+      "nodo_b_id": "Republic of Sudan_5_648",
+      "nodo_b_texto": "Sudan's negotiating position weakens in future water agreements",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6572811603546143,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federal Democratic Republic of Ethiopia_4_166",
+      "nodo_a_texto": "Ethiopia strengthens its negotiating position in regional water disputes",
+      "nodo_a_actor": "Federal Democratic Republic of Ethiopia",
+      "nodo_b_id": "Republic of Sudan_4_169",
+      "nodo_b_texto": "Sudan gains leverage in regional water negotiations",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5692495107650757,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federal Democratic Republic of Ethiopia_5_282",
+      "nodo_a_texto": "Ethiopia's foreign investment climate deteriorates significantly",
+      "nodo_a_actor": "Federal Democratic Republic of Ethiopia",
+      "nodo_b_id": "Republic of Sudan_5_453",
+      "nodo_b_texto": "Sudan's ability to attract foreign investment diminishes significantly",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.603156641125679,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federal Democratic Republic of Ethiopia_5_381",
+      "nodo_a_texto": "Ethiopia's economic development goals become harder to achieve",
+      "nodo_a_actor": "Federal Democratic Republic of Ethiopia",
+      "nodo_b_id": "Republic of Sudan_4_98",
+      "nodo_b_texto": "Sudan's economic development becomes constrained by Ethiopian priorities",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7488497197628021,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federal Democratic Republic of Ethiopia_5_616",
+      "nodo_a_texto": "Ethiopia's economic development strategy becomes constrained by water resource limitations",
+      "nodo_a_actor": "Federal Democratic Republic of Ethiopia",
+      "nodo_b_id": "Republic of Sudan_5_392",
+      "nodo_b_texto": "Sudan's industrial development timeline depends on Ethiopian water decisions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.569797471165657,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federal Democratic Republic of Ethiopia_5_663",
+      "nodo_a_texto": "Ethiopia's negotiating flexibility with Egypt and Sudan decreases significantly",
+      "nodo_a_actor": "Federal Democratic Republic of Ethiopia",
+      "nodo_b_id": "Republic of Sudan_5_307",
+      "nodo_b_texto": "Sudan's negotiating position with Ethiopia and Egypt becomes weaker",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9288376271724701,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federal Democratic Republic of Ethiopia_6_679",
+      "nodo_a_texto": "Ethiopia must establish drought contingency protocols for GERD operations",
+      "nodo_a_actor": "Federal Democratic Republic of Ethiopia",
+      "nodo_b_id": "Republic of Sudan_4_103",
+      "nodo_b_texto": "Sudan requires contingency agricultural policies for Ethiopian system failures",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5881369411945343,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federal Democratic Republic of Ethiopia_6_679",
+      "nodo_a_texto": "Ethiopia must establish drought contingency protocols for GERD operations",
+      "nodo_a_actor": "Federal Democratic Republic of Ethiopia",
+      "nodo_b_id": "Republic of Sudan_5_259",
+      "nodo_b_texto": "Sudan requires contingency plans for Ethiopian governmental instability scenarios",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.5582197159528732,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federal Democratic Republic of Ethiopia_6_768",
+      "nodo_a_texto": "Ethiopia's energy export ambitions become financially constrained",
+      "nodo_a_actor": "Federal Democratic Republic of Ethiopia",
+      "nodo_b_id": "Republic of Sudan_5_531",
+      "nodo_b_texto": "Sudan's energy sector expansion plans become less viable",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.55022381991148,
+      "auto": true
+    }
+  ]
+}

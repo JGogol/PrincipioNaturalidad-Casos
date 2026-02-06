@@ -1,0 +1,29 @@
+{
+  "problema": {
+    "titulo": "Nile Hydropolitical Dispute (GERD Case)",
+    "descripcion": "The operation of the Grand Ethiopian Renaissance Dam (GERD), with a retention capacity of 74 billion cubic meters, generates a critical geopolitical tension between the right to upstream development and downstream water security. Ethiopia seeks to electrify its population and become an energy exporter, while Egypt maintains that uncoordinated flow control threatens its survival. Sudan faces immediate physical operational risks due to lack of synchronization.",
+    "contexto_adicional": "The Nile River provides 97% of Egypt's freshwater. The Blue Nile, controlled by the GERD, represents approximately 59% of the Nile's annual flow, rising to 85% during the rainy season (July-September). Negotiations have been ongoing for over 14 years without a definitive agreement on operation during prolonged droughts. The dam is already operational without a consensual trilateral legal framework. None of the three parties has ratified the UN Watercourses Convention (1997), leaving the conflict without an agreed binding international legal framework.",
+    "decision_central": "How should the GERD's operation and data exchange be governed during drought periods, in a manner that simultaneously satisfies Ethiopia's electricity generation, Egypt's existential water security, and the physical integrity of Sudanese infrastructure?",
+    "decision_central_embedding": "What governance framework should regulate the operation and real-time data exchange of a transboundary dam during drought periods, balancing upstream development rights, downstream water supply security, and transit-country infrastructure coordination?"
+  },
+  "actores": [
+    {
+      "nombre": "Arab Republic of Egypt",
+      "contexto": "Downstream country with over 100 million inhabitants concentrated in the Nile Valley. Depends almost exclusively on the river for agriculture and human consumption. Faces severe water deficit and considers historical flow a non-negotiable national security matter.",
+      "postura": "Egypt demands a legally binding agreement (not voluntary guidelines) that obliges Ethiopia to release guaranteed minimum flows during drought years to prevent irreversible damage. Invokes the international principle of 'no significant harm' and its historical rights based on the 1929 and 1959 treaties. Declares that all options remain open to protect its vital resource.",
+      "postura_embedding": "The downstream state demands a legally binding agreement establishing guaranteed minimum water releases during drought periods, invoking the principle of no significant harm and historical allocation rights. All protective measures remain available to safeguard its essential water supply."
+    },
+    {
+      "nombre": "Federal Democratic Republic of Ethiopia",
+      "contexto": "Upstream country and infrastructure owner. The GERD is a nationally-funded project to combat energy poverty (large portion of population without electricity access). Considers the dam a symbol of sovereignty and development. Did not participate in the colonial treaties that allocated Nile quotas.",
+      "postura": "Ethiopia invokes the principle of 'Equitable and Reasonable Utilization' recognized in customary international law, rejecting the 1929 and 1959 treaties as valid legal basis. Proposes flexible and revisable operational guidelines that do not restrict its future development rights, arguing that a rigid treaty would perpetuate historical inequities. Maintains that flow regulation will benefit the region by stabilizing discharge and reducing floods.",
+      "postura_embedding": "The upstream state invokes equitable and reasonable utilization under customary international law, rejecting colonial-era allocation frameworks as valid legal basis. It proposes flexible, revisable operational guidelines preserving sovereign development rights. Regulated discharge management would stabilize regional flow patterns and reduce seasonal flooding."
+    },
+    {
+      "nombre": "Republic of Sudan",
+      "contexto": "Transit country. Its Roseires Dam is located approximately 110 km downstream from the GERD. Vulnerable to both sudden droughts and devastating floods without coordination. Its political position has historically oscillated, seeking to balance technical benefits with national security.",
+      "postura": "Sudan conditions its acceptance on the implementation of a robust real-time technical data exchange mechanism (daily/hourly). While acknowledging that the GERD can control seasonal floods affecting Khartoum and reduce sedimentation at Roseires, it considers unacceptable the operational risk of a 74 billion cubic meter dam upstream without binding coordination, fearing the collapse of its own irrigation and electricity generation systems.",
+      "postura_embedding": "The transit state conditions its acceptance on a robust real-time data exchange mechanism with daily and hourly reporting. While acknowledging that regulated upstream storage can mitigate seasonal flooding and reduce reservoir sedimentation, it considers uncoordinated operation of large-scale upstream infrastructure an unacceptable risk to its own irrigation and electricity generation systems."
+    }
+  ]
+}

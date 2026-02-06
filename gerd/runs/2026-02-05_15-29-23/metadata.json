@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-02-05T15:29:23.634056",
+  "version": "7.5",
+  "caso": {
+    "nombre": "Nile Hydropolitical Dispute (GERD Case)",
+    "actores": [
+      "Arab Republic of Egypt",
+      "Federal Democratic Republic of Ethiopia",
+      "Republic of Sudan"
+    ],
+    "hash_descripcion": "199a2795"
+  },
+  "config": {
+    "embeddings_model": "paraphrase-multilingual-mpnet-base-v2",
+    "claude_model": "claude-sonnet-4-20250514",
+    "nli_model": "cross-encoder/nli-MiniLM2-L6-H768",
+    "nli_threshold": 0.55,
+    "nli_criterion": "avg",
+    "normalize_actors": true,
+    "contradiction_threshold": 0.3,
+    "nli_batch_size": 128,
+    "embedding_prefilter_threshold": 0.4,
+    "nli_device": -1,
+    "max_depth": 10,
+    "max_nodes_per_tree": 500,
+    "redundancy_threshold": 0.9,
+    "umbral_admision": 0.15,
+    "human_validation_mode": false,
+    "strict_mode": true,
+    "verify_fusions_llm": true,
+    "verify_fusions_batch_size": 15,
+    "visualization": "normal",
+    "save_audit": true
+  },
+  "versiones": {
+    "anthropic": "0.76.0",
+    "sentence_transformers": "5.2.0",
+    "networkx": "3.1",
+    "numpy": "1.26.4"
+  },
+  "python_version": "3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)]"
+}
