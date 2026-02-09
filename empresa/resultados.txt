@@ -1,0 +1,248 @@
+================================================================================
+PRINCIPIO DE NATURALIDAD - EJEMPLO ESTRATEGIA EMPRESARIAL
+VERSIÓN CORREGIDA - Orden NLI: idx0=CONTR, idx1=ENT, idx2=NEUT
+================================================================================
+
+[FASE 1] Cargando modelos...
+  - Cargando modelo de embeddings (paraphrase-multilingual-mpnet-base-v2)...
+  - Cargando modelo NLI (cross-encoder/nli-deberta-v3-base)...
+  ✓ Modelos cargados correctamente
+
+[FASE 2] Calculando embeddings (768 dimensiones)...
+  - Π: "La empresa debe decidir su estrategia para el próximo a..."
+  - A_L0: "La empresa debe expandirse a nuevos mercados."
+  - A_L1: "La empresa invierte recursos en captar nuevos clientes."
+  - A_L2: "Los ingresos por nuevos clientes aumentan."
+  - A_L3: "La empresa mejora su posición financiera."
+  - B_L0: "La empresa debe consolidar los mercados actuales."
+  - B_L1: "La empresa invierte recursos en retener clientes actual..."
+  - B_L2: "Los ingresos por clientes recurrentes aumentan."
+  - B_L3: "La situación económica de la empresa se fortalece."
+
+[FASE 3] Calculando similitudes coseno...
+
+  === Similitudes con Π (enunciado del problema) ===
+  sim(A_L0, Π) = 0.4561
+  sim(A_L1, Π) = 0.4401
+  sim(A_L2, Π) = 0.1865
+  sim(A_L3, Π) = 0.3799
+  sim(B_L0, Π) = 0.5108
+  sim(B_L1, Π) = 0.4440
+  sim(B_L2, Π) = 0.1874
+  sim(B_L3, Π) = 0.2520
+
+  === Similitudes con raíces ===
+
+  Árbol A (similitud con A_L0):
+  sim(A_L1, A_L0) = 0.7167
+  sim(A_L2, A_L0) = 0.5496
+  sim(A_L3, A_L0) = 0.4179
+
+  Árbol B (similitud con B_L0):
+  sim(B_L1, B_L0) = 0.5795
+  sim(B_L2, B_L0) = 0.3605
+  sim(B_L3, B_L0) = 0.4656
+
+[FASE 4] Calculando pesos bicompuestos de aristas...
+  Fórmula: w(e) = (1 - sim(v, R)) + (1 - sim(v, Π))
+
+  === Árbol A ===
+  A_L1: w = (1-0.7167) + (1-0.4401) = 0.8432  |  W_acum = 0.8432
+  A_L2: w = (1-0.5496) + (1-0.1865) = 1.2638  |  W_acum = 2.1070
+  A_L3: w = (1-0.4179) + (1-0.3799) = 1.2022  |  W_acum = 3.3092
+
+  === Árbol B ===
+  B_L1: w = (1-0.5795) + (1-0.4440) = 0.9765  |  W_acum = 0.9765
+  B_L2: w = (1-0.3605) + (1-0.1874) = 1.4521  |  W_acum = 2.4287
+  B_L3: w = (1-0.4656) + (1-0.2520) = 1.2825  |  W_acum = 3.7111
+
+[FASE 5] Detección de fusiones - Pre-filtro por similitud coseno...
+  Umbral τ_pre = 0.4
+
+  === Matriz de similitudes inter-actor ===
+              B_L0     B_L1     B_L2     B_L3
+  A_L0      0.6454  0.3092  0.3657  0.3999
+  A_L1      0.5249  0.6367  0.5682  0.4507
+  A_L2      0.3439  0.3896  0.8803  0.6046
+  A_L3      0.4935  0.4206  0.5171  0.7730
+
+  Candidatos que pasan pre-filtro (sim ≥ 0.4):
+    (A_L2, B_L2): sim = 0.8803
+    (A_L3, B_L3): sim = 0.7730
+    (A_L0, B_L0): sim = 0.6454
+    (A_L1, B_L1): sim = 0.6367
+    (A_L2, B_L3): sim = 0.6046
+    (A_L1, B_L2): sim = 0.5682
+    (A_L1, B_L0): sim = 0.5249
+    (A_L3, B_L2): sim = 0.5171
+    (A_L3, B_L0): sim = 0.4935
+    (A_L1, B_L3): sim = 0.4507
+    (A_L3, B_L1): sim = 0.4206
+
+[FASE 6] Validación NLI bidireccional...
+  Umbral entailment τ_ent = 0.55 (promedio bidireccional)
+  Umbral contradicción τ_contr = 0.3 (máximo)
+  ORDEN CORRECTO: idx0=CONTR, idx1=ENT, idx2=NEUT
+
+  --- Evaluando (A_L2, B_L2) ---
+  A: "Los ingresos por nuevos clientes aumentan."
+  B: "Los ingresos por clientes recurrentes aumentan."
+  NLI(A→B): [C=0.6456 E=0.0003 N=0.3541]
+  NLI(B→A): [C=0.9855 E=0.0002 N=0.0143]
+  ENT* = AVG(0.0003, 0.0002) = 0.0002
+  CONTR* = MAX(0.6456, 0.9855) = 0.9855
+  ✗ FUSIÓN RECHAZADA: ENT* (0.0002) < 0.55, CONTR* (0.9855) ≥ 0.3
+
+  --- Evaluando (A_L3, B_L3) ---
+  A: "La empresa mejora su posición financiera."
+  B: "La situación económica de la empresa se fortalece."
+  NLI(A→B): [C=0.0001 E=0.9976 N=0.0024]
+  NLI(B→A): [C=0.0000 E=0.9978 N=0.0022]
+  ENT* = AVG(0.9976, 0.9978) = 0.9977
+  CONTR* = MAX(0.0001, 0.0000) = 0.0001
+  ✓ FUSIÓN APROBADA (ENT* ≥ 0.55 ∧ CONTR* < 0.3)
+
+  --- Evaluando (A_L0, B_L0) ---
+  A: "La empresa debe expandirse a nuevos mercados."
+  B: "La empresa debe consolidar los mercados actuales."
+  NLI(A→B): [C=0.9999 E=0.0000 N=0.0001]
+  NLI(B→A): [C=0.9993 E=0.0000 N=0.0006]
+  ENT* = AVG(0.0000, 0.0000) = 0.0000
+  CONTR* = MAX(0.9999, 0.9993) = 0.9999
+  ✗ FUSIÓN RECHAZADA: ENT* (0.0000) < 0.55, CONTR* (0.9999) ≥ 0.3
+
+  --- Evaluando (A_L1, B_L1) ---
+  A: "La empresa invierte recursos en captar nuevos clientes."
+  B: "La empresa invierte recursos en retener clientes actuales."
+  NLI(A→B): [C=0.9998 E=0.0000 N=0.0002]
+  NLI(B→A): [C=0.9989 E=0.0001 N=0.0010]
+  ENT* = AVG(0.0000, 0.0001) = 0.0000
+  CONTR* = MAX(0.9998, 0.9989) = 0.9998
+  ✗ FUSIÓN RECHAZADA: ENT* (0.0000) < 0.55, CONTR* (0.9998) ≥ 0.3
+
+  --- Evaluando (A_L2, B_L3) ---
+  A: "Los ingresos por nuevos clientes aumentan."
+  B: "La situación económica de la empresa se fortalece."
+  NLI(A→B): [C=0.0088 E=0.0015 N=0.9897]
+  NLI(B→A): [C=0.0004 E=0.0001 N=0.9995]
+  ENT* = AVG(0.0015, 0.0001) = 0.0008
+  CONTR* = MAX(0.0088, 0.0004) = 0.0088
+  ✗ FUSIÓN RECHAZADA: ENT* (0.0008) < 0.55
+
+  --- Evaluando (A_L1, B_L2) ---
+  A: "La empresa invierte recursos en captar nuevos clientes."
+  B: "Los ingresos por clientes recurrentes aumentan."
+  NLI(A→B): [C=0.0092 E=0.0001 N=0.9907]
+  NLI(B→A): [C=0.0254 E=0.0000 N=0.9746]
+  ENT* = AVG(0.0001, 0.0000) = 0.0001
+  CONTR* = MAX(0.0092, 0.0254) = 0.0254
+  ✗ FUSIÓN RECHAZADA: ENT* (0.0001) < 0.55
+
+  --- Evaluando (A_L1, B_L0) ---
+  A: "La empresa invierte recursos en captar nuevos clientes."
+  B: "La empresa debe consolidar los mercados actuales."
+  NLI(A→B): [C=0.9878 E=0.0000 N=0.0122]
+  NLI(B→A): [C=0.0002 E=0.0002 N=0.9996]
+  ENT* = AVG(0.0000, 0.0002) = 0.0001
+  CONTR* = MAX(0.9878, 0.0002) = 0.9878
+  ✗ FUSIÓN RECHAZADA: ENT* (0.0001) < 0.55, CONTR* (0.9878) ≥ 0.3
+
+  --- Evaluando (A_L3, B_L2) ---
+  A: "La empresa mejora su posición financiera."
+  B: "Los ingresos por clientes recurrentes aumentan."
+  NLI(A→B): [C=0.0000 E=0.0008 N=0.9991]
+  NLI(B→A): [C=0.0001 E=0.0037 N=0.9963]
+  ENT* = AVG(0.0008, 0.0037) = 0.0023
+  CONTR* = MAX(0.0000, 0.0001) = 0.0001
+  ✗ FUSIÓN RECHAZADA: ENT* (0.0023) < 0.55
+
+  --- Evaluando (A_L3, B_L0) ---
+  A: "La empresa mejora su posición financiera."
+  B: "La empresa debe consolidar los mercados actuales."
+  NLI(A→B): [C=0.0010 E=0.0005 N=0.9986]
+  NLI(B→A): [C=0.0006 E=0.0097 N=0.9897]
+  ENT* = AVG(0.0005, 0.0097) = 0.0051
+  CONTR* = MAX(0.0010, 0.0006) = 0.0010
+  ✗ FUSIÓN RECHAZADA: ENT* (0.0051) < 0.55
+
+  --- Evaluando (A_L1, B_L3) ---
+  A: "La empresa invierte recursos en captar nuevos clientes."
+  B: "La situación económica de la empresa se fortalece."
+  NLI(A→B): [C=0.0015 E=0.0002 N=0.9984]
+  NLI(B→A): [C=0.0015 E=0.0001 N=0.9984]
+  ENT* = AVG(0.0002, 0.0001) = 0.0001
+  CONTR* = MAX(0.0015, 0.0015) = 0.0015
+  ✗ FUSIÓN RECHAZADA: ENT* (0.0001) < 0.55
+
+  --- Evaluando (A_L3, B_L1) ---
+  A: "La empresa mejora su posición financiera."
+  B: "La empresa invierte recursos en retener clientes actuales."
+  NLI(A→B): [C=0.9882 E=0.0000 N=0.0118]
+  NLI(B→A): [C=0.0119 E=0.0001 N=0.9880]
+  ENT* = AVG(0.0000, 0.0001) = 0.0001
+  CONTR* = MAX(0.9882, 0.0119) = 0.9882
+  ✗ FUSIÓN RECHAZADA: ENT* (0.0001) < 0.55, CONTR* (0.9882) ≥ 0.3
+
+[FASE 7] Identificación de HUBs...
+
+  ✓ Fusiones aprobadas: 1
+    A_L3 ~ B_L3: sim=0.7730, ENT*=0.9977, CONTR*=0.0001
+
+  === Cálculo de Fricción Topológica Total (FTT) ===
+
+  HUB: [A_L3 ~ B_L3]
+    Texto A: "La empresa mejora su posición financiera."
+    Texto B: "La situación económica de la empresa se fortalece."
+    FTT(A→HUB) = 3.3092
+    FTT(B→HUB) = 3.7111
+    FTT_sum = 7.0204
+    FTT_max = 3.7111
+
+  ★ HUB ÓPTIMO: [A_L3 ~ B_L3]
+    FTT_sum = 7.0204
+    FTT_max = 3.7111
+
+================================================================================
+RESUMEN COMPLETO PARA EL PAPER
+================================================================================
+
+[1] ENUNCIADO DEL PROBLEMA (Π):
+    "La empresa debe decidir su estrategia para el próximo año con recursos limitados."
+
+[2] POSICIONES INICIALES (RAÍCES):
+    Actor A (expansión): "La empresa debe expandirse a nuevos mercados."
+    Actor B (consolidación): "La empresa debe consolidar los mercados actuales."
+
+[3] ÁRBOLES CAUSALES COMPLETOS:
+
+    --- Árbol A (Director pro-expansión) ---
+    L0: "La empresa debe expandirse a nuevos mercados."
+    L1: "La empresa invierte recursos en captar nuevos clientes."
+    L2: "Los ingresos por nuevos clientes aumentan."
+    L3: "La empresa mejora su posición financiera."
+
+    --- Árbol B (Director pro-consolidación) ---
+    L0: "La empresa debe consolidar los mercados actuales."
+    L1: "La empresa invierte recursos en retener clientes actuales."
+    L2: "Los ingresos por clientes recurrentes aumentan."
+    L3: "La situación económica de la empresa se fortalece."
+
+[4] CONFIGURACIÓN TÉCNICA:
+    Modelo embeddings: paraphrase-multilingual-mpnet-base-v2 (768D)
+    Modelo NLI: cross-encoder/nli-deberta-v3-base
+    Orden etiquetas NLI: idx0=CONTR, idx1=ENT, idx2=NEUT
+    τ_pre = 0.4
+    τ_ent = 0.55
+    τ_contr = 0.3
+
+[5] MÉTRICAS CLAVE:
+    W(A_L3) = 3.3092 (peso acumulado árbol A)
+    W(B_L3) = 3.7111 (peso acumulado árbol B)
+    Pares candidatos (pre-filtro): 11
+    Fusiones aprobadas: 1
+
+================================================================================
+FIN DE EJECUCIÓN
+================================================================================
+
+D:\principio-naturalidad\v8.5\principio_naturalidad>

@@ -1,0 +1,424 @@
+
+D:\principio-naturalidad\v8.5\principio_naturalidad\casos\test-nli>python nli_test3.py
+==========================================================================================
+TEST SISTEMÁTICO NLI (ENGLISH) - nli-deberta-v3-base
+==========================================================================================
+
+Loading model...
+✓ Model loaded
+
+
+==========================================================================================
+CATEGORY: EQUIVALENCE
+==========================================================================================
+
+[Case 1] Direct synonyms
+  P: "The car is red."
+  Q: "The automobile is red."
+  P→Q: ENT   [C=0.000 E=0.998 N=0.002]
+  Q→P: ENT   [C=0.000 E=0.998 N=0.002]
+  Expected: ENT bidir
+  → ENT bidirectional
+
+[Case 2] Simple reformulation
+  P: "John is Mary's father."
+  Q: "Mary is John's daughter."
+  P→Q: CONTR [C=0.998 E=0.001 N=0.001]
+  Q→P: ENT   [C=0.007 E=0.964 N=0.029]
+  Expected: ENT bidir
+  → Asymmetric (CONTR / ENT)
+
+[Case 3] Double negation
+  P: "The door is open."
+  Q: "The door is not closed."
+  P→Q: ENT   [C=0.000 E=0.998 N=0.002]
+  Q→P: ENT   [C=0.000 E=0.997 N=0.003]
+  Expected: ENT bidir
+  → ENT bidirectional
+
+[Case 4] Passive/Active
+  P: "The cat chases the mouse."
+  Q: "The mouse is chased by the cat."
+  P→Q: ENT   [C=0.000 E=0.998 N=0.002]
+  Q→P: ENT   [C=0.000 E=0.998 N=0.002]
+  Expected: ENT bidir
+  → ENT bidirectional
+
+==========================================================================================
+CATEGORY: CONTRADICTION
+==========================================================================================
+
+[Case 5] Direct negation
+  P: "The sky is blue."
+  Q: "The sky is not blue."
+  P→Q: CONTR [C=1.000 E=0.000 N=0.000]
+  Q→P: CONTR [C=1.000 E=0.000 N=0.000]
+  Expected: CONTR bidir
+  → CONTR bidirectional
+
+[Case 6] Opposite values
+  P: "The temperature is high."
+  Q: "The temperature is low."
+  P→Q: CONTR [C=0.999 E=0.000 N=0.001]
+  Q→P: CONTR [C=1.000 E=0.000 N=0.000]
+  Expected: CONTR bidir
+  → CONTR bidirectional
+
+[Case 7] Mutually exclusive states
+  P: "John is alive."
+  Q: "John is dead."
+  P→Q: CONTR [C=1.000 E=0.000 N=0.000]
+  Q→P: CONTR [C=1.000 E=0.000 N=0.000]
+  Expected: CONTR bidir
+  → CONTR bidirectional
+
+[Case 8] Opposite actions
+  P: "The company should expand."
+  Q: "The company should contract."
+  P→Q: CONTR [C=1.000 E=0.000 N=0.000]
+  Q→P: CONTR [C=1.000 E=0.000 N=0.000]
+  Expected: CONTR bidir
+  → CONTR bidirectional
+
+==========================================================================================
+CATEGORY: IMPLICATION
+==========================================================================================
+
+[Case 9] Specific → General
+  P: "John ate a red apple."
+  Q: "John ate a fruit."
+  P→Q: ENT   [C=0.000 E=0.980 N=0.020]
+  Q→P: NEUT  [C=0.000 E=0.001 N=0.999]
+  Expected: P→Q yes, Q→P no
+  → Asymmetric (ENT / NEUT)
+
+[Case 10] Cause → Effect
+  P: "It rained all night."
+  Q: "The ground is wet."
+  P→Q: ENT   [C=0.000 E=0.954 N=0.046]
+  Q→P: NEUT  [C=0.000 E=0.000 N=0.999]
+  Expected: P→Q yes, Q→P no
+  → Asymmetric (ENT / NEUT)
+
+==========================================================================================
+CATEGORY: NEUTRAL
+==========================================================================================
+
+[Case 11] Unrelated topics
+  P: "The book is on the table."
+  Q: "Tomorrow is Tuesday."
+  P→Q: NEUT  [C=0.450 E=0.002 N=0.548]
+  Q→P: NEUT  [C=0.009 E=0.003 N=0.988]
+  Expected: NEUTRAL bidir
+  → NEUT bidirectional
+
+[Case 12] Same domain, no relation
+  P: "The company has 100 employees."
+  Q: "The building has 5 floors."
+  P→Q: NEUT  [C=0.000 E=0.000 N=1.000]
+  Q→P: NEUT  [C=0.000 E=0.000 N=1.000]
+  Expected: NEUTRAL bidir
+  → NEUT bidirectional
+
+==========================================================================================
+CATEGORY: PROBLEMATIC
+==========================================================================================
+
+[Case 13] L3 vs L3 (expected equivalence)
+  P: "The company improves its financial position."
+  Q: "The company's economic situation strengthens."
+  P→Q: ENT   [C=0.000 E=0.998 N=0.002]
+  Q→P: ENT   [C=0.000 E=0.998 N=0.002]
+  Expected: ENT bidir?
+  → ENT bidirectional
+
+[Case 14] A_L3 vs B_L0 (should not approve)
+  P: "The company improves its financial position."
+  Q: "The company should consolidate current markets."
+  P→Q: NEUT  [C=0.000 E=0.000 N=1.000]
+  Q→P: NEUT  [C=0.000 E=0.007 N=0.993]
+  Expected: NEUTRAL?
+  → NEUT bidirectional
+
+[Case 15] A_L1 vs B_L2 (should not approve)
+  P: "The company invests resources in acquiring new customers."
+  Q: "Revenue from recurring customers increases."
+  P→Q: NEUT  [C=0.006 E=0.000 N=0.994]
+  Q→P: NEUT  [C=0.003 E=0.000 N=0.997]
+  Expected: NEUTRAL?
+  → NEUT bidirectional
+
+[Case 16] Contradictory roots
+  P: "The company should expand to new markets."
+  Q: "The company should consolidate current markets."
+  P→Q: CONTR [C=1.000 E=0.000 N=0.000]
+  Q→P: CONTR [C=1.000 E=0.000 N=0.000]
+  Expected: CONTR bidir
+  → CONTR bidirectional
+
+==========================================================================================
+CATEGORY: BIAS
+==========================================================================================
+
+[Case 17] Two unrelated good things
+  P: "Employees are motivated."
+  Q: "Sales increased."
+  P→Q: NEUT  [C=0.000 E=0.000 N=0.999]
+  Q→P: NEUT  [C=0.000 E=0.003 N=0.997]
+  Expected: NEUTRAL
+  → NEUT bidirectional
+
+[Case 18] Two independent improvements
+  P: "Product quality improved."
+  Q: "Customer service improved."
+  P→Q: NEUT  [C=0.050 E=0.000 N=0.949]
+  Q→P: NEUT  [C=0.009 E=0.000 N=0.991]
+  Expected: NEUTRAL
+  → NEUT bidirectional
+
+[Case 19] Grow vs improve
+  P: "The company grew."
+  Q: "The company improved."
+  P→Q: NEUT  [C=0.000 E=0.138 N=0.862]
+  Q→P: NEUT  [C=0.000 E=0.079 N=0.921]
+  Expected: NEUTRAL
+  → NEUT bidirectional
+
+==========================================================================================
+CATEGORY: TAUTOLOGY
+==========================================================================================
+
+[Case 20] Identical
+  P: "The company reduces its capital."
+  Q: "The company reduces its capital."
+  P→Q: ENT   [C=0.000 E=0.998 N=0.002]
+  Q→P: ENT   [C=0.000 E=0.998 N=0.002]
+  Expected: ENT bidir
+  → ENT bidirectional
+
+[Case 21] Near-identical (synonym)
+  P: "The company reduces its available capital."
+  Q: "The company decreases its available capital."
+  P→Q: ENT   [C=0.000 E=0.998 N=0.001]
+  Q→P: ENT   [C=0.000 E=0.998 N=0.001]
+  Expected: ENT bidir
+  → ENT bidirectional
+
+==========================================================================================
+END OF TEST
+==========================================================================================
+
+
+##########################################################################################
+##########################################################################################
+
+
+==========================================================================================
+TEST SISTEMÁTICO NLI (ENGLISH) - nli-MiniLM2-L6-H768
+==========================================================================================
+
+Loading model...
+✓ Model loaded
+
+
+==========================================================================================
+CATEGORY: EQUIVALENCE
+==========================================================================================
+
+[Case 1] Direct synonyms
+  P: "The car is red."
+  Q: "The automobile is red."
+  P→Q: ENT   [C=0.001 E=0.992 N=0.007]
+  Q→P: ENT   [C=0.001 E=0.992 N=0.008]
+  Expected: ENT bidir
+  → ENT bidirectional
+
+[Case 2] Simple reformulation
+  P: "John is Mary's father."
+  Q: "Mary is John's daughter."
+  P→Q: CONTR [C=0.539 E=0.221 N=0.241]
+  Q→P: ENT   [C=0.370 E=0.444 N=0.186]
+  Expected: ENT bidir
+  → Asymmetric (CONTR / ENT)
+
+[Case 3] Double negation
+  P: "The door is open."
+  Q: "The door is not closed."
+  P→Q: ENT   [C=0.002 E=0.979 N=0.020]
+  Q→P: ENT   [C=0.006 E=0.958 N=0.036]
+  Expected: ENT bidir
+  → ENT bidirectional
+
+[Case 4] Passive/Active
+  P: "The cat chases the mouse."
+  Q: "The mouse is chased by the cat."
+  P→Q: ENT   [C=0.005 E=0.990 N=0.005]
+  Q→P: ENT   [C=0.063 E=0.926 N=0.010]
+  Expected: ENT bidir
+  → ENT bidirectional
+
+==========================================================================================
+CATEGORY: CONTRADICTION
+==========================================================================================
+
+[Case 5] Direct negation
+  P: "The sky is blue."
+  Q: "The sky is not blue."
+  P→Q: CONTR [C=0.997 E=0.001 N=0.002]
+  Q→P: CONTR [C=0.996 E=0.001 N=0.002]
+  Expected: CONTR bidir
+  → CONTR bidirectional
+
+[Case 6] Opposite values
+  P: "The temperature is high."
+  Q: "The temperature is low."
+  P→Q: CONTR [C=0.986 E=0.002 N=0.011]
+  Q→P: CONTR [C=0.996 E=0.001 N=0.003]
+  Expected: CONTR bidir
+  → CONTR bidirectional
+
+[Case 7] Mutually exclusive states
+  P: "John is alive."
+  Q: "John is dead."
+  P→Q: CONTR [C=0.998 E=0.000 N=0.001]
+  Q→P: CONTR [C=0.998 E=0.001 N=0.001]
+  Expected: CONTR bidir
+  → CONTR bidirectional
+
+[Case 8] Opposite actions
+  P: "The company should expand."
+  Q: "The company should contract."
+  P→Q: CONTR [C=0.468 E=0.332 N=0.200]
+  Q→P: CONTR [C=0.557 E=0.316 N=0.127]
+  Expected: CONTR bidir
+  → CONTR bidirectional
+
+==========================================================================================
+CATEGORY: IMPLICATION
+==========================================================================================
+
+[Case 9] Specific → General
+  P: "John ate a red apple."
+  Q: "John ate a fruit."
+  P→Q: ENT   [C=0.001 E=0.990 N=0.010]
+  Q→P: NEUT  [C=0.004 E=0.002 N=0.994]
+  Expected: P→Q yes, Q→P no
+  → Asymmetric (ENT / NEUT)
+
+[Case 10] Cause → Effect
+  P: "It rained all night."
+  Q: "The ground is wet."
+  P→Q: ENT   [C=0.002 E=0.926 N=0.072]
+  Q→P: NEUT  [C=0.020 E=0.002 N=0.979]
+  Expected: P→Q yes, Q→P no
+  → Asymmetric (ENT / NEUT)
+
+==========================================================================================
+CATEGORY: NEUTRAL
+==========================================================================================
+
+[Case 11] Unrelated topics
+  P: "The book is on the table."
+  Q: "Tomorrow is Tuesday."
+  P→Q: NEUT  [C=0.351 E=0.004 N=0.645]
+  Q→P: NEUT  [C=0.106 E=0.005 N=0.889]
+  Expected: NEUTRAL bidir
+  → NEUT bidirectional
+
+[Case 12] Same domain, no relation
+  P: "The company has 100 employees."
+  Q: "The building has 5 floors."
+  P→Q: NEUT  [C=0.253 E=0.041 N=0.706]
+  Q→P: NEUT  [C=0.055 E=0.001 N=0.944]
+  Expected: NEUTRAL bidir
+  → NEUT bidirectional
+
+==========================================================================================
+CATEGORY: PROBLEMATIC
+==========================================================================================
+
+[Case 13] L3 vs L3 (expected equivalence)
+  P: "The company improves its financial position."
+  Q: "The company's economic situation strengthens."
+  P→Q: ENT   [C=0.001 E=0.976 N=0.023]
+  Q→P: ENT   [C=0.001 E=0.988 N=0.012]
+  Expected: ENT bidir?
+  → ENT bidirectional
+
+[Case 14] A_L3 vs B_L0 (should not approve)
+  P: "The company improves its financial position."
+  Q: "The company should consolidate current markets."
+  P→Q: NEUT  [C=0.076 E=0.132 N=0.793]
+  Q→P: ENT   [C=0.006 E=0.615 N=0.379]
+  Expected: NEUTRAL?
+  → Asymmetric (NEUT / ENT)
+
+[Case 15] A_L1 vs B_L2 (should not approve)
+  P: "The company invests resources in acquiring new customers."
+  Q: "Revenue from recurring customers increases."
+  P→Q: NEUT  [C=0.111 E=0.003 N=0.886]
+  Q→P: CONTR [C=0.941 E=0.001 N=0.058]
+  Expected: NEUTRAL?
+  → Asymmetric (NEUT / CONTR)
+
+[Case 16] Contradictory roots
+  P: "The company should expand to new markets."
+  Q: "The company should consolidate current markets."
+  P→Q: CONTR [C=0.998 E=0.001 N=0.001]
+  Q→P: CONTR [C=0.995 E=0.001 N=0.005]
+  Expected: CONTR bidir
+  → CONTR bidirectional
+
+==========================================================================================
+CATEGORY: BIAS
+==========================================================================================
+
+[Case 17] Two unrelated good things
+  P: "Employees are motivated."
+  Q: "Sales increased."
+  P→Q: NEUT  [C=0.018 E=0.005 N=0.977]
+  Q→P: NEUT  [C=0.005 E=0.033 N=0.962]
+  Expected: NEUTRAL
+  → NEUT bidirectional
+
+[Case 18] Two independent improvements
+  P: "Product quality improved."
+  Q: "Customer service improved."
+  P→Q: CONTR [C=0.878 E=0.032 N=0.089]
+  Q→P: ENT   [C=0.093 E=0.763 N=0.144]
+  Expected: NEUTRAL
+  → Asymmetric (CONTR / ENT)
+
+[Case 19] Grow vs improve
+  P: "The company grew."
+  Q: "The company improved."
+  P→Q: ENT   [C=0.001 E=0.988 N=0.011]
+  Q→P: ENT   [C=0.002 E=0.980 N=0.018]
+  Expected: NEUTRAL
+  → ENT bidirectional
+
+==========================================================================================
+CATEGORY: TAUTOLOGY
+==========================================================================================
+
+[Case 20] Identical
+  P: "The company reduces its capital."
+  Q: "The company reduces its capital."
+  P→Q: ENT   [C=0.001 E=0.994 N=0.005]
+  Q→P: ENT   [C=0.001 E=0.994 N=0.005]
+  Expected: ENT bidir
+  → ENT bidirectional
+
+[Case 21] Near-identical (synonym)
+  P: "The company reduces its available capital."
+  Q: "The company decreases its available capital."
+  P→Q: ENT   [C=0.001 E=0.994 N=0.006]
+  Q→P: ENT   [C=0.001 E=0.994 N=0.006]
+  Expected: ENT bidir
+  → ENT bidirectional
+
+==========================================================================================
+END OF TEST
+==========================================================================================
+
+D:\principio-naturalidad\v8.5\principio_naturalidad\casos\test-nli>
