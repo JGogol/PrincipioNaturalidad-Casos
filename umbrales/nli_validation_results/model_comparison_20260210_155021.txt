@@ -1,0 +1,58 @@
+======================================================================
+COMPARACIÓN DE MODELOS
+======================================================================
+
+Casos evaluados: 53
+
+Con umbrales del paper (τ_ent=0.55, τ_contr=0.30):
+--------------------------------------------------
+
+Métrica                        DeBERTa       MiniLM   Diferencia
+-----------------------------------------------------------------
+Fusión Precision                1.0000       0.9412 +     0.0588
+Fusión Recall                   0.8235       0.9412     -0.1176
+Fusión F1                       0.9032       0.9412     -0.0380
+Contradicción Precision         0.5769       0.5357 +     0.0412
+Contradicción Recall            0.9375       0.9375      0.0000
+Contradicción F1                0.7143       0.6818 +     0.0325
+
+
+CASOS DONDE LOS MODELOS DIFIEREN:
+--------------------------------------------------
+
+  [CT012] contradiction/role_inversion
+    P: Egypt threatens to escalate armed conflict against Ethiopia.
+    Q: Ethiopia provokes military posturing from Egypt.
+    Ground Truth: CONTRADICTION
+    DeBERTa: REJECT (ENT=0.498, CONTR=0.000)
+    MiniLM:  FUSION (ENT=0.685, CONTR=0.020)
+
+  [NT006] neutral/misleading_similarity
+    P: The company improved its market position.
+    Q: The company moved to a new office building.
+    Ground Truth: NEUTRAL
+    DeBERTa: REJECT (ENT=0.000, CONTR=0.000)
+    MiniLM:  VETO (ENT=0.014, CONTR=0.629)
+
+  [NT009] neutral/paper_spurious
+    P: The company improves its financial position.
+    Q: The company must consolidate current markets.
+    Ground Truth: NEUTRAL
+    DeBERTa: REJECT (ENT=0.003, CONTR=0.002)
+    MiniLM:  VETO (ENT=0.107, CONTR=0.513)
+
+  [ED006] edge/trivial
+    P: Regional prosperity is desirable.
+    Q: Economic growth benefits the region.
+    Ground Truth: ENTAILMENT
+    DeBERTa: REJECT (ENT=0.033, CONTR=0.000)
+    MiniLM:  FUSION (ENT=0.809, CONTR=0.002)
+
+  [ED007] edge/trivial
+    P: Peace is better than war.
+    Q: Conflict should be avoided.
+    Ground Truth: ENTAILMENT
+    DeBERTa: REJECT (ENT=0.320, CONTR=0.000)
+    MiniLM:  FUSION (ENT=0.576, CONTR=0.011)
+
+  Total diferencias: 5/53

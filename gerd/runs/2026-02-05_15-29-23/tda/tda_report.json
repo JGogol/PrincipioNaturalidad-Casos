@@ -1,0 +1,190 @@
+{
+  "case": "gerd",
+  "method": "Vietoris-Rips Persistent Homology",
+  "metric": "Cosine distance in original 768d space (no PCA, no info loss)",
+  "actors": [
+    "Arab Republic of Egypt",
+    "Federal Democratic Republic of Ethiopia",
+    "Republic of Sudan"
+  ],
+  "n_actors": 3,
+  "n_pairs": 3,
+  "pairwise_comparison": {
+    "Arab Republic of Egypt vs Federal Democratic Republic of Ethiopia": {
+      "H0": {
+        "bottleneck": 0.06813693046569824,
+        "wasserstein": 13.914869129657745,
+        "Arab Republic of Egypt_features": 500,
+        "Federal Democratic Republic of Ethiopia_features": 500,
+        "Arab Republic of Egypt_max_lifetime": 0.36693334579467773,
+        "Federal Democratic Republic of Ethiopia_max_lifetime": 0.3096729516983032,
+        "Arab Republic of Egypt_mean_lifetime": 0.17962322958963428,
+        "Federal Democratic Republic of Ethiopia_mean_lifetime": 0.15173992771423891,
+        "mean_lifetime_diff": 0.027883301875395367,
+        "mean_lifetime_ratio": 1.183757184383968
+      },
+      "H1": {
+        "bottleneck": 0.04552626609802246,
+        "wasserstein": 8.470882252491991,
+        "Arab Republic of Egypt_features": 595,
+        "Federal Democratic Republic of Ethiopia_features": 566,
+        "Arab Republic of Egypt_max_lifetime": 0.12985098361968994,
+        "Federal Democratic Republic of Ethiopia_max_lifetime": 0.11404633522033691,
+        "Arab Republic of Egypt_mean_lifetime": 0.024452885860154608,
+        "Federal Democratic Republic of Ethiopia_mean_lifetime": 0.025900765990199977,
+        "mean_lifetime_diff": 0.001447880130045369,
+        "mean_lifetime_ratio": 1.0592110124884955
+      }
+    },
+    "Arab Republic of Egypt vs Republic of Sudan": {
+      "H0": {
+        "bottleneck": 0.02133476734161377,
+        "wasserstein": 1.0938681960105896,
+        "Arab Republic of Egypt_features": 500,
+        "Republic of Sudan_features": 500,
+        "Arab Republic of Egypt_max_lifetime": 0.36693334579467773,
+        "Republic of Sudan_max_lifetime": 0.3496265411376953,
+        "Arab Republic of Egypt_mean_lifetime": 0.17962322958963428,
+        "Republic of Sudan_mean_lifetime": 0.1806541136605945,
+        "mean_lifetime_diff": 0.0010308840709602196,
+        "mean_lifetime_ratio": 1.005739146731274
+      },
+      "H1": {
+        "bottleneck": 0.02860051393508911,
+        "wasserstein": 5.0904120237426635,
+        "Arab Republic of Egypt_features": 595,
+        "Republic of Sudan_features": 595,
+        "Arab Republic of Egypt_max_lifetime": 0.12985098361968994,
+        "Republic of Sudan_max_lifetime": 0.11928701400756836,
+        "Arab Republic of Egypt_mean_lifetime": 0.024452885860154608,
+        "Republic of Sudan_mean_lifetime": 0.029610083483848252,
+        "mean_lifetime_diff": 0.005157197623693644,
+        "mean_lifetime_ratio": 1.2109034350050754
+      }
+    },
+    "Federal Democratic Republic of Ethiopia vs Republic of Sudan": {
+      "H0": {
+        "bottleneck": 0.07120859622955322,
+        "wasserstein": 14.428514003753662,
+        "Federal Democratic Republic of Ethiopia_features": 500,
+        "Republic of Sudan_features": 500,
+        "Federal Democratic Republic of Ethiopia_max_lifetime": 0.3096729516983032,
+        "Republic of Sudan_max_lifetime": 0.3496265411376953,
+        "Federal Democratic Republic of Ethiopia_mean_lifetime": 0.15173992771423891,
+        "Republic of Sudan_mean_lifetime": 0.1806541136605945,
+        "mean_lifetime_diff": 0.028914185946355586,
+        "mean_lifetime_ratio": 1.1905509405593473
+      },
+      "H1": {
+        "bottleneck": 0.05530247092247009,
+        "wasserstein": 11.614530222156295,
+        "Federal Democratic Republic of Ethiopia_features": 566,
+        "Republic of Sudan_features": 595,
+        "Federal Democratic Republic of Ethiopia_max_lifetime": 0.11404633522033691,
+        "Republic of Sudan_max_lifetime": 0.11928701400756836,
+        "Federal Democratic Republic of Ethiopia_mean_lifetime": 0.025900765990199977,
+        "Republic of Sudan_mean_lifetime": 0.029610083483848252,
+        "mean_lifetime_diff": 0.003709317493648275,
+        "mean_lifetime_ratio": 1.143212656145064
+      }
+    }
+  },
+  "per_actor": {
+    "Arab Republic of Egypt": {
+      "H0": {
+        "total_features": 500,
+        "infinite_features": 1,
+        "finite_features": 499,
+        "max_lifetime": 0.36693334579467773,
+        "mean_lifetime": 0.17962322958963428,
+        "std_lifetime": 0.04736979261073761,
+        "top_5_lifetimes": [
+          0.36693334579467773,
+          0.3537486791610718,
+          0.34023618698120117,
+          0.33423495292663574,
+          0.3170456886291504
+        ]
+      },
+      "H1": {
+        "total_features": 595,
+        "infinite_features": 0,
+        "finite_features": 595,
+        "max_lifetime": 0.12985098361968994,
+        "mean_lifetime": 0.024452885860154608,
+        "std_lifetime": 0.021538514888183313,
+        "top_5_lifetimes": [
+          0.12985098361968994,
+          0.11637365818023682,
+          0.1115497350692749,
+          0.10147243738174438,
+          0.10103785991668701
+        ]
+      }
+    },
+    "Federal Democratic Republic of Ethiopia": {
+      "H0": {
+        "total_features": 500,
+        "infinite_features": 1,
+        "finite_features": 499,
+        "max_lifetime": 0.3096729516983032,
+        "mean_lifetime": 0.15173992771423891,
+        "std_lifetime": 0.03616905320562045,
+        "top_5_lifetimes": [
+          0.3096729516983032,
+          0.3073115348815918,
+          0.27209925651550293,
+          0.26921212673187256,
+          0.2650878429412842
+        ]
+      },
+      "H1": {
+        "total_features": 566,
+        "infinite_features": 0,
+        "finite_features": 566,
+        "max_lifetime": 0.11404633522033691,
+        "mean_lifetime": 0.025900765990199977,
+        "std_lifetime": 0.021229057790140435,
+        "top_5_lifetimes": [
+          0.11404633522033691,
+          0.109813392162323,
+          0.0986483097076416,
+          0.09863197803497314,
+          0.09758603572845459
+        ]
+      }
+    },
+    "Republic of Sudan": {
+      "H0": {
+        "total_features": 500,
+        "infinite_features": 1,
+        "finite_features": 499,
+        "max_lifetime": 0.3496265411376953,
+        "mean_lifetime": 0.1806541136605945,
+        "std_lifetime": 0.04887169679574356,
+        "top_5_lifetimes": [
+          0.3496265411376953,
+          0.3446662425994873,
+          0.3348207473754883,
+          0.33008044958114624,
+          0.32341885566711426
+        ]
+      },
+      "H1": {
+        "total_features": 595,
+        "infinite_features": 0,
+        "finite_features": 595,
+        "max_lifetime": 0.11928701400756836,
+        "mean_lifetime": 0.029610083483848252,
+        "std_lifetime": 0.025108801206630706,
+        "top_5_lifetimes": [
+          0.11928701400756836,
+          0.11820846796035767,
+          0.11498427391052246,
+          0.11060494184494019,
+          0.10952901840209961
+        ]
+      }
+    }
+  }
+}

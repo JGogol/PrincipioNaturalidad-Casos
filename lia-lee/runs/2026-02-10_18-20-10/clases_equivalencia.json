@@ -1,0 +1,593 @@
+{
+  "version": "7.5",
+  "total_classes": 36,
+  "statistics": {
+    "min_size": 2,
+    "max_size": 48,
+    "avg_size": 6.083333333333333,
+    "min_actors": 2,
+    "max_actors": 2,
+    "classes_with_all_actors": 0
+  },
+  "classes": {
+    "Merced Community Medical Center Clinical Team_2_23": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_3_42",
+        "Lee Family (Foua and Nao Kao Lee)_3_46",
+        "Lee Family (Foua and Nao Kao Lee)_4_136",
+        "Lee Family (Foua and Nao Kao Lee)_4_138",
+        "Lee Family (Foua and Nao Kao Lee)_4_140",
+        "Lee Family (Foua and Nao Kao Lee)_4_190",
+        "Lee Family (Foua and Nao Kao Lee)_4_97",
+        "Lee Family (Foua and Nao Kao Lee)_5_234",
+        "Lee Family (Foua and Nao Kao Lee)_5_276",
+        "Lee Family (Foua and Nao Kao Lee)_5_321",
+        "Lee Family (Foua and Nao Kao Lee)_5_360",
+        "Lee Family (Foua and Nao Kao Lee)_5_370",
+        "Lee Family (Foua and Nao Kao Lee)_5_376",
+        "Lee Family (Foua and Nao Kao Lee)_5_382",
+        "Lee Family (Foua and Nao Kao Lee)_5_391",
+        "Lee Family (Foua and Nao Kao Lee)_5_396",
+        "Lee Family (Foua and Nao Kao Lee)_5_456",
+        "Lee Family (Foua and Nao Kao Lee)_5_468",
+        "Lee Family (Foua and Nao Kao Lee)_5_504",
+        "Lee Family (Foua and Nao Kao Lee)_5_591",
+        "Lee Family (Foua and Nao Kao Lee)_5_626",
+        "Lee Family (Foua and Nao Kao Lee)_6_594",
+        "Lee Family (Foua and Nao Kao Lee)_6_624",
+        "Merced Community Medical Center Clinical Team_1_1",
+        "Merced Community Medical Center Clinical Team_2_23",
+        "Merced Community Medical Center Clinical Team_3_61",
+        "Merced Community Medical Center Clinical Team_3_68",
+        "Merced Community Medical Center Clinical Team_3_88",
+        "Merced Community Medical Center Clinical Team_3_97",
+        "Merced Community Medical Center Clinical Team_4_103",
+        "Merced Community Medical Center Clinical Team_4_113",
+        "Merced Community Medical Center Clinical Team_4_143",
+        "Merced Community Medical Center Clinical Team_4_151",
+        "Merced Community Medical Center Clinical Team_4_182",
+        "Merced Community Medical Center Clinical Team_4_187",
+        "Merced Community Medical Center Clinical Team_4_189",
+        "Merced Community Medical Center Clinical Team_4_199",
+        "Merced Community Medical Center Clinical Team_4_295",
+        "Merced Community Medical Center Clinical Team_5_209",
+        "Merced Community Medical Center Clinical Team_5_242",
+        "Merced Community Medical Center Clinical Team_5_270",
+        "Merced Community Medical Center Clinical Team_5_314",
+        "Merced Community Medical Center Clinical Team_5_317",
+        "Merced Community Medical Center Clinical Team_5_346",
+        "Merced Community Medical Center Clinical Team_5_431",
+        "Merced Community Medical Center Clinical Team_5_493",
+        "Merced Community Medical Center Clinical Team_5_569",
+        "Merced Community Medical Center Clinical Team_5_615"
+      ],
+      "size": 48,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_1_4": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_5_422",
+        "Lee Family (Foua and Nao Kao Lee)_5_437",
+        "Lee Family (Foua and Nao Kao Lee)_5_465",
+        "Merced Community Medical Center Clinical Team_1_4"
+      ],
+      "size": 4,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_1_5": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_5_274",
+        "Lee Family (Foua and Nao Kao Lee)_6_617",
+        "Merced Community Medical Center Clinical Team_1_5"
+      ],
+      "size": 3,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_2_9": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_3_27",
+        "Lee Family (Foua and Nao Kao Lee)_4_135",
+        "Lee Family (Foua and Nao Kao Lee)_4_137",
+        "Lee Family (Foua and Nao Kao Lee)_4_144",
+        "Lee Family (Foua and Nao Kao Lee)_4_80",
+        "Lee Family (Foua and Nao Kao Lee)_5_187",
+        "Lee Family (Foua and Nao Kao Lee)_5_204",
+        "Lee Family (Foua and Nao Kao Lee)_5_379",
+        "Lee Family (Foua and Nao Kao Lee)_5_399",
+        "Lee Family (Foua and Nao Kao Lee)_5_427",
+        "Lee Family (Foua and Nao Kao Lee)_5_447",
+        "Lee Family (Foua and Nao Kao Lee)_5_469",
+        "Lee Family (Foua and Nao Kao Lee)_6_574",
+        "Merced Community Medical Center Clinical Team_2_25",
+        "Merced Community Medical Center Clinical Team_2_7",
+        "Merced Community Medical Center Clinical Team_2_9",
+        "Merced Community Medical Center Clinical Team_3_32",
+        "Merced Community Medical Center Clinical Team_3_89",
+        "Merced Community Medical Center Clinical Team_4_104",
+        "Merced Community Medical Center Clinical Team_4_110",
+        "Merced Community Medical Center Clinical Team_4_246",
+        "Merced Community Medical Center Clinical Team_4_290",
+        "Merced Community Medical Center Clinical Team_4_293",
+        "Merced Community Medical Center Clinical Team_4_78",
+        "Merced Community Medical Center Clinical Team_5_207",
+        "Merced Community Medical Center Clinical Team_5_233",
+        "Merced Community Medical Center Clinical Team_5_303",
+        "Merced Community Medical Center Clinical Team_5_374",
+        "Merced Community Medical Center Clinical Team_5_398",
+        "Merced Community Medical Center Clinical Team_5_491",
+        "Merced Community Medical Center Clinical Team_5_510",
+        "Merced Community Medical Center Clinical Team_5_614",
+        "Merced Community Medical Center Clinical Team_6_555"
+      ],
+      "size": 33,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_3_29": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_3_29",
+        "Lee Family (Foua and Nao Kao Lee)_4_108",
+        "Lee Family (Foua and Nao Kao Lee)_4_139",
+        "Lee Family (Foua and Nao Kao Lee)_5_403",
+        "Lee Family (Foua and Nao Kao Lee)_6_562",
+        "Lee Family (Foua and Nao Kao Lee)_6_616",
+        "Merced Community Medical Center Clinical Team_2_8",
+        "Merced Community Medical Center Clinical Team_3_29",
+        "Merced Community Medical Center Clinical Team_4_153",
+        "Merced Community Medical Center Clinical Team_4_190",
+        "Merced Community Medical Center Clinical Team_5_380",
+        "Merced Community Medical Center Clinical Team_5_422",
+        "Merced Community Medical Center Clinical Team_5_477",
+        "Merced Community Medical Center Clinical Team_6_523"
+      ],
+      "size": 14,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_2_14": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_4_193",
+        "Lee Family (Foua and Nao Kao Lee)_5_430",
+        "Merced Community Medical Center Clinical Team_2_14",
+        "Merced Community Medical Center Clinical Team_3_37"
+      ],
+      "size": 4,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_3_27": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_5_374",
+        "Merced Community Medical Center Clinical Team_3_27"
+      ],
+      "size": 2,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_5_392": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_4_107",
+        "Lee Family (Foua and Nao Kao Lee)_5_184",
+        "Lee Family (Foua and Nao Kao Lee)_5_231",
+        "Lee Family (Foua and Nao Kao Lee)_5_393",
+        "Lee Family (Foua and Nao Kao Lee)_5_433",
+        "Merced Community Medical Center Clinical Team_3_31",
+        "Merced Community Medical Center Clinical Team_4_168",
+        "Merced Community Medical Center Clinical Team_4_244",
+        "Merced Community Medical Center Clinical Team_5_310",
+        "Merced Community Medical Center Clinical Team_5_318",
+        "Merced Community Medical Center Clinical Team_5_392",
+        "Merced Community Medical Center Clinical Team_5_459",
+        "Merced Community Medical Center Clinical Team_5_580"
+      ],
+      "size": 13,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_3_33": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_5_350",
+        "Merced Community Medical Center Clinical Team_3_33"
+      ],
+      "size": 2,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_3_58": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_2_16",
+        "Lee Family (Foua and Nao Kao Lee)_3_28",
+        "Lee Family (Foua and Nao Kao Lee)_4_124",
+        "Lee Family (Foua and Nao Kao Lee)_5_416",
+        "Lee Family (Foua and Nao Kao Lee)_5_579",
+        "Lee Family (Foua and Nao Kao Lee)_6_464",
+        "Merced Community Medical Center Clinical Team_3_42",
+        "Merced Community Medical Center Clinical Team_3_58",
+        "Merced Community Medical Center Clinical Team_3_76",
+        "Merced Community Medical Center Clinical Team_4_127",
+        "Merced Community Medical Center Clinical Team_4_149",
+        "Merced Community Medical Center Clinical Team_4_169",
+        "Merced Community Medical Center Clinical Team_4_289",
+        "Merced Community Medical Center Clinical Team_5_363",
+        "Merced Community Medical Center Clinical Team_5_486",
+        "Merced Community Medical Center Clinical Team_5_598",
+        "Merced Community Medical Center Clinical Team_6_561"
+      ],
+      "size": 17,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_3_51": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_3_50",
+        "Merced Community Medical Center Clinical Team_3_51",
+        "Merced Community Medical Center Clinical Team_4_121",
+        "Merced Community Medical Center Clinical Team_5_273"
+      ],
+      "size": 4,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_3_54": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_2_6",
+        "Lee Family (Foua and Nao Kao Lee)_6_577",
+        "Merced Community Medical Center Clinical Team_3_54",
+        "Merced Community Medical Center Clinical Team_5_325",
+        "Merced Community Medical Center Clinical Team_6_591"
+      ],
+      "size": 5,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_3_70": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_5_398",
+        "Merced Community Medical Center Clinical Team_3_70"
+      ],
+      "size": 2,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_4_79": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_4_159",
+        "Merced Community Medical Center Clinical Team_4_79",
+        "Merced Community Medical Center Clinical Team_5_258"
+      ],
+      "size": 3,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_5_285": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_5_455",
+        "Lee Family (Foua and Nao Kao Lee)_6_498",
+        "Merced Community Medical Center Clinical Team_4_91",
+        "Merced Community Medical Center Clinical Team_5_285",
+        "Merced Community Medical Center Clinical Team_5_400",
+        "Merced Community Medical Center Clinical Team_5_516"
+      ],
+      "size": 6,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_5_345": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_5_275",
+        "Lee Family (Foua and Nao Kao Lee)_5_301",
+        "Merced Community Medical Center Clinical Team_4_92",
+        "Merced Community Medical Center Clinical Team_5_345",
+        "Merced Community Medical Center Clinical Team_5_578",
+        "Merced Community Medical Center Clinical Team_5_597"
+      ],
+      "size": 6,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_3_96": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_5_472",
+        "Merced Community Medical Center Clinical Team_3_96",
+        "Merced Community Medical Center Clinical Team_5_348",
+        "Merced Community Medical Center Clinical Team_5_604"
+      ],
+      "size": 4,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_4_114": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_5_474",
+        "Merced Community Medical Center Clinical Team_4_114"
+      ],
+      "size": 2,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_4_196": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_3_45",
+        "Lee Family (Foua and Nao Kao Lee)_3_51",
+        "Lee Family (Foua and Nao Kao Lee)_4_177",
+        "Merced Community Medical Center Clinical Team_4_196"
+      ],
+      "size": 4,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_4_200": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_4_122",
+        "Merced Community Medical Center Clinical Team_4_200"
+      ],
+      "size": 2,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_4_201": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_4_183",
+        "Merced Community Medical Center Clinical Team_4_201"
+      ],
+      "size": 2,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_4_213": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_6_482",
+        "Merced Community Medical Center Clinical Team_4_213"
+      ],
+      "size": 2,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_5_239": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_5_203",
+        "Lee Family (Foua and Nao Kao Lee)_5_228",
+        "Lee Family (Foua and Nao Kao Lee)_5_368",
+        "Lee Family (Foua and Nao Kao Lee)_5_385",
+        "Lee Family (Foua and Nao Kao Lee)_6_568",
+        "Merced Community Medical Center Clinical Team_4_320",
+        "Merced Community Medical Center Clinical Team_5_239"
+      ],
+      "size": 7,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_4_261": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_5_388",
+        "Merced Community Medical Center Clinical Team_4_261"
+      ],
+      "size": 2,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_4_297": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_4_142",
+        "Merced Community Medical Center Clinical Team_4_297"
+      ],
+      "size": 2,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_5_309": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_4_194",
+        "Merced Community Medical Center Clinical Team_5_309"
+      ],
+      "size": 2,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_4_323": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_4_66",
+        "Lee Family (Foua and Nao Kao Lee)_5_220",
+        "Lee Family (Foua and Nao Kao Lee)_5_390",
+        "Merced Community Medical Center Clinical Team_4_321",
+        "Merced Community Medical Center Clinical Team_4_323"
+      ],
+      "size": 5,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_5_336": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_5_506",
+        "Merced Community Medical Center Clinical Team_5_336"
+      ],
+      "size": 2,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_5_350": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_5_273",
+        "Merced Community Medical Center Clinical Team_5_350",
+        "Merced Community Medical Center Clinical Team_5_418"
+      ],
+      "size": 3,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_5_378": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_6_512",
+        "Merced Community Medical Center Clinical Team_5_378"
+      ],
+      "size": 2,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_5_393": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_5_434",
+        "Merced Community Medical Center Clinical Team_5_393"
+      ],
+      "size": 2,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_5_435": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_6_499",
+        "Merced Community Medical Center Clinical Team_5_435"
+      ],
+      "size": 2,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_5_461": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_5_402",
+        "Merced Community Medical Center Clinical Team_5_461"
+      ],
+      "size": 2,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_6_543": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_5_371",
+        "Merced Community Medical Center Clinical Team_6_543"
+      ],
+      "size": 2,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_5_563": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_5_313",
+        "Merced Community Medical Center Clinical Team_5_563"
+      ],
+      "size": 2,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    },
+    "Merced Community Medical Center Clinical Team_5_576": {
+      "members": [
+        "Lee Family (Foua and Nao Kao Lee)_5_404",
+        "Merced Community Medical Center Clinical Team_5_576"
+      ],
+      "size": 2,
+      "actors": [
+        "Lee Family (Foua and Nao Kao Lee)",
+        "Merced Community Medical Center Clinical Team"
+      ],
+      "num_actors": 2
+    }
+  }
+}

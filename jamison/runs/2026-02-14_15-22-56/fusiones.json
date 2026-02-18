@@ -1,0 +1,45 @@
+{
+  "total": 4,
+  "fusiones": [
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_2_6",
+      "nodo_a_texto": "Kay Jamison [ManicState] will conceal medication changes from her treating psychiatrist",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_5_194",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] will defer medication decisions to her psychiatrist rather than trusting her own assessment",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.6215936243534088,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_5_173",
+      "nodo_a_texto": "Kay Jamison [ManicState] will resist psychiatric recommendations to increase medication dosage",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_5_234",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] rejects any psychiatric recommendations for dosage adjustments",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.7828852236270905,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_5_251",
+      "nodo_a_texto": "Kay Jamison [ManicState] will lose direct oversight of patient care details",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_596",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] loses autonomous control over her treatment decisions",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.6692923307418823,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_6_371",
+      "nodo_a_texto": "Kay Jamison [ManicState] will feel vindicated in her clinical judgment about her own treatment",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_370",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] will experience validation that her concerns are medically legitimate",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.6615322828292847,
+      "auto": true
+    }
+  ]
+}

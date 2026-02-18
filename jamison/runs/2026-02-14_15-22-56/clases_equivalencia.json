@@ -1,0 +1,62 @@
+{
+  "version": "7.5",
+  "total_classes": 4,
+  "statistics": {
+    "min_size": 2,
+    "max_size": 2,
+    "avg_size": 2.0,
+    "min_actors": 2,
+    "max_actors": 2,
+    "classes_with_all_actors": 0
+  },
+  "classes": {
+    "Kay Jamison [ManicState]_2_6": {
+      "members": [
+        "Kay Jamison [DepressiveState]_5_194",
+        "Kay Jamison [ManicState]_2_6"
+      ],
+      "size": 2,
+      "actors": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "num_actors": 2
+    },
+    "Kay Jamison [ManicState]_5_173": {
+      "members": [
+        "Kay Jamison [DepressiveState]_5_234",
+        "Kay Jamison [ManicState]_5_173"
+      ],
+      "size": 2,
+      "actors": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "num_actors": 2
+    },
+    "Kay Jamison [ManicState]_5_251": {
+      "members": [
+        "Kay Jamison [DepressiveState]_6_596",
+        "Kay Jamison [ManicState]_5_251"
+      ],
+      "size": 2,
+      "actors": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "num_actors": 2
+    },
+    "Kay Jamison [ManicState]_6_371": {
+      "members": [
+        "Kay Jamison [DepressiveState]_6_370",
+        "Kay Jamison [ManicState]_6_371"
+      ],
+      "size": 2,
+      "actors": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "num_actors": 2
+    }
+  }
+}

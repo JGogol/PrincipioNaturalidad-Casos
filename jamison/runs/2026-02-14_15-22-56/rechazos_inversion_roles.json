@@ -1,0 +1,27 @@
+{
+  "total": 2,
+  "items": [
+    {
+      "actor_a": "Kay Jamison [ManicState]",
+      "actor_b": "Kay Jamison [DepressiveState]",
+      "node_a_id": "Kay Jamison [ManicState]_6_463",
+      "node_b_id": "Kay Jamison [DepressiveState]_5_322",
+      "node_a_texto": "Kay Jamison [ManicState] will minimize the severity of previous manic episodes",
+      "node_b_texto": "Kay Jamison [DepressiveState] will experience reduced manic episode frequency",
+      "nli_score": 0.7274504601955414,
+      "rejection_reason": "En [4] uno minimiza subjetivamente vs experimenta reducción objetiva; en [5] perspectivas opuestas sobre supervisión psiquiátrica (liberación vs alivio por control)",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] ManicState oculta cambios vs DepressiveState defiere decisiones - Comportamientos diferentes pero complementarios sobre autonomía médica\n\n[1] ManicState resiste aumentos vs DepressiveState rechaza cualquier ajuste - Ambos rechazan recomendaciones psiquiátricas, misma perspectiva de resistencia\n\n[2] ManicState pierde supervisión de cuidados vs DepressiveState pierde control autónomo - Ambos sobre pérdida de control, misma perspectiva\n\n[3] ManicState se siente vindicado en juicio clínico vs DepressiveState experimenta validación de preocupaciones - Ambos sobre validación/vindicación, misma perspectiva\n\n[4] ManicState minimiza episodios previos vs DepressiveState experimenta reducción de frecuencia - ROLES INVERTIDOS: uno es percepción subjetiva (minimizar) vs resultado objetivo (reducción real)\n\n[5] ManicState se siente liberado de control vs DepressiveState siente alivio por mayor supervisión - ROLES INVERTIDOS: perspectivas opuestas sobre supervisión psiquiátrica (liberación vs alivio por más control)\n\nRECHAZAR: 4, 5 | RAZÓN: En [4] uno minimiza subjetivamente vs experimenta reducción objetiva; en [5] perspectivas opuestas sobre supervisión psiquiátrica (liberación vs alivio por control)"
+    },
+    {
+      "actor_a": "Kay Jamison [ManicState]",
+      "actor_b": "Kay Jamison [DepressiveState]",
+      "node_a_id": "Kay Jamison [ManicState]_6_484",
+      "node_b_id": "Kay Jamison [DepressiveState]_6_557",
+      "node_a_texto": "Kay Jamison [ManicState] will feel liberated from external psychiatric control",
+      "node_b_texto": "Kay Jamison [DepressiveState] experiences relief from increased psychiatric oversight",
+      "nli_score": 0.8929331600666046,
+      "rejection_reason": "En [4] uno minimiza subjetivamente vs experimenta reducción objetiva; en [5] perspectivas opuestas sobre supervisión psiquiátrica (liberación vs alivio por control)",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] ManicState oculta cambios vs DepressiveState defiere decisiones - Comportamientos diferentes pero complementarios sobre autonomía médica\n\n[1] ManicState resiste aumentos vs DepressiveState rechaza cualquier ajuste - Ambos rechazan recomendaciones psiquiátricas, misma perspectiva de resistencia\n\n[2] ManicState pierde supervisión de cuidados vs DepressiveState pierde control autónomo - Ambos sobre pérdida de control, misma perspectiva\n\n[3] ManicState se siente vindicado en juicio clínico vs DepressiveState experimenta validación de preocupaciones - Ambos sobre validación/vindicación, misma perspectiva\n\n[4] ManicState minimiza episodios previos vs DepressiveState experimenta reducción de frecuencia - ROLES INVERTIDOS: uno es percepción subjetiva (minimizar) vs resultado objetivo (reducción real)\n\n[5] ManicState se siente liberado de control vs DepressiveState siente alivio por mayor supervisión - ROLES INVERTIDOS: perspectivas opuestas sobre supervisión psiquiátrica (liberación vs alivio por más control)\n\nRECHAZAR: 4, 5 | RAZÓN: En [4] uno minimiza subjetivamente vs experimenta reducción objetiva; en [5] perspectivas opuestas sobre supervisión psiquiátrica (liberación vs alivio por control)"
+    }
+  ]
+}

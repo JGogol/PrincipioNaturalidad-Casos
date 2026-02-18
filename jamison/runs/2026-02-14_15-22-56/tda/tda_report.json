@@ -1,0 +1,97 @@
+{
+  "case": "Kay Redfield Jamison — Bipolar Disorder",
+  "method": "Vietoris-Rips Persistent Homology",
+  "metric": "Cosine distance in original 768d space (no PCA, no info loss)",
+  "actors": [
+    "Kay Jamison [DepressiveState]",
+    "Kay Jamison [ManicState]"
+  ],
+  "comparison": {
+    "H0": {
+      "bottleneck": 0.031244933605194092,
+      "wasserstein": 5.658024430274963,
+      "Kay Jamison [DepressiveState]_features": 500,
+      "Kay Jamison [ManicState]_features": 500,
+      "Kay Jamison [DepressiveState]_max_lifetime": 0.3108323812484741,
+      "Kay Jamison [ManicState]_max_lifetime": 0.3195458650588989,
+      "Kay Jamison [DepressiveState]_mean_lifetime": 0.16337780639499366,
+      "Kay Jamison [ManicState]_mean_lifetime": 0.1746106464303806
+    },
+    "H1": {
+      "bottleneck": 0.024602413177490234,
+      "wasserstein": 5.770139230171495,
+      "Kay Jamison [DepressiveState]_features": 584,
+      "Kay Jamison [ManicState]_features": 547,
+      "Kay Jamison [DepressiveState]_max_lifetime": 0.11767745018005371,
+      "Kay Jamison [ManicState]_max_lifetime": 0.11458694934844971,
+      "Kay Jamison [DepressiveState]_mean_lifetime": 0.019332413191664708,
+      "Kay Jamison [ManicState]_mean_lifetime": 0.0255522791166846
+    }
+  },
+  "per_actor": {
+    "Kay Jamison [DepressiveState]": {
+      "H0": {
+        "total_features": 500,
+        "infinite_features": 1,
+        "finite_features": 499,
+        "max_lifetime": 0.3108323812484741,
+        "mean_lifetime": 0.16337780639499366,
+        "std_lifetime": 0.0396735781532421,
+        "top_5_lifetimes": [
+          0.3108323812484741,
+          0.295818567276001,
+          0.2937333583831787,
+          0.28261351585388184,
+          0.2774929404258728
+        ]
+      },
+      "H1": {
+        "total_features": 584,
+        "infinite_features": 0,
+        "finite_features": 584,
+        "max_lifetime": 0.11767745018005371,
+        "mean_lifetime": 0.019332413191664708,
+        "std_lifetime": 0.018246502384388477,
+        "top_5_lifetimes": [
+          0.11767745018005371,
+          0.11386704444885254,
+          0.10793370008468628,
+          0.09814625978469849,
+          0.08662986755371094
+        ]
+      }
+    },
+    "Kay Jamison [ManicState]": {
+      "H0": {
+        "total_features": 500,
+        "infinite_features": 1,
+        "finite_features": 499,
+        "max_lifetime": 0.3195458650588989,
+        "mean_lifetime": 0.1746106464303806,
+        "std_lifetime": 0.04495462606002607,
+        "top_5_lifetimes": [
+          0.3195458650588989,
+          0.30407649278640747,
+          0.3039780855178833,
+          0.302077054977417,
+          0.30120933055877686
+        ]
+      },
+      "H1": {
+        "total_features": 547,
+        "infinite_features": 0,
+        "finite_features": 547,
+        "max_lifetime": 0.11458694934844971,
+        "mean_lifetime": 0.0255522791166846,
+        "std_lifetime": 0.02258235036711025,
+        "top_5_lifetimes": [
+          0.11458694934844971,
+          0.11454379558563232,
+          0.10572481155395508,
+          0.10201561450958252,
+          0.10131692886352539
+        ]
+      }
+    }
+  }
+}

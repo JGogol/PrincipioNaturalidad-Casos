@@ -1,0 +1,162 @@
+{
+  "test": "Permutation Test for Topological Significance",
+  "case": "Kay Redfield Jamison — Bipolar Disorder",
+  "actors": [
+    "Kay Jamison [DepressiveState]",
+    "Kay Jamison [ManicState]"
+  ],
+  "method": {
+    "description": "Labels shuffled N times between actors. TDA metrics recomputed for each shuffle. p-value = fraction of shuffles where random difference >= observed.",
+    "n_permutations": 500,
+    "max_points_per_actor": 300,
+    "metric_space": "Cosine distance in 768d (no dimensionality reduction)",
+    "homology_engine": "Ripser (Vietoris-Rips)"
+  },
+  "results": {
+    "H0_mean_lifetime_diff": {
+      "observed": 0.010407198232950554,
+      "null_mean": 0.004187876981636354,
+      "null_std": 0.0033059378075132487,
+      "null_median": 0.0033855665487589337,
+      "null_95th": 0.01032793554773296,
+      "null_99th": 0.013825105012061191,
+      "p_value": 0.05,
+      "significant_95": false,
+      "significant_99": false,
+      "effect_size_z": 1.8812577892965325
+    },
+    "H0_max_lifetime_diff": {
+      "observed": 0.005982697010040283,
+      "null_mean": 0.03407511520385742,
+      "null_std": 0.025268619724111728,
+      "null_median": 0.028044581413269043,
+      "null_95th": 0.08208851516246794,
+      "null_99th": 0.10938367187976836,
+      "p_value": 0.918,
+      "significant_95": false,
+      "significant_99": false,
+      "effect_size_z": -1.1117511957731072
+    },
+    "H0_feature_count_diff": {
+      "observed": 0.0,
+      "null_mean": 0.0,
+      "null_std": 0.0,
+      "null_median": 0.0,
+      "null_95th": 0.0,
+      "null_99th": 0.0,
+      "p_value": 1.0,
+      "significant_95": false,
+      "significant_99": false,
+      "effect_size_z": 0
+    },
+    "H0_std_lifetime_diff": {
+      "observed": 0.004220674284847646,
+      "null_mean": 0.0027020102281530597,
+      "null_std": 0.0020943163332822396,
+      "null_median": 0.0022775298179762322,
+      "null_95th": 0.0066048422594426545,
+      "null_99th": 0.009208337924708392,
+      "p_value": 0.214,
+      "significant_95": false,
+      "significant_99": false,
+      "effect_size_z": 0.7251359465427634
+    },
+    "H0_wasserstein": {
+      "observed": 3.2721232175827026,
+      "null_mean": 1.8625629943609239,
+      "null_std": 0.7771447725539287,
+      "null_median": 1.6934039890766144,
+      "null_95th": 3.3468128472566563,
+      "null_99th": 4.181613416075705,
+      "p_value": 0.056,
+      "significant_95": false,
+      "significant_99": false,
+      "effect_size_z": 1.8137678756939264
+    },
+    "H0_bottleneck": {
+      "observed": 0.03515064716339111,
+      "null_mean": 0.040807559609413145,
+      "null_std": 0.021657677506867933,
+      "null_median": 0.03435960412025452,
+      "null_95th": 0.08237022161483765,
+      "null_99th": 0.10938367187976836,
+      "p_value": 0.478,
+      "significant_95": false,
+      "significant_99": false,
+      "effect_size_z": -0.2611966331213562
+    },
+    "H1_mean_lifetime_diff": {
+      "observed": 0.006098421320050503,
+      "null_mean": 0.0014622265942760497,
+      "null_std": 0.0010838974011884632,
+      "null_median": 0.0011904369077892114,
+      "null_95th": 0.00344449931143253,
+      "null_99th": 0.004578741673639299,
+      "p_value": 0.0,
+      "significant_95": true,
+      "significant_99": true,
+      "effect_size_z": 4.277337246764311
+    },
+    "H1_max_lifetime_diff": {
+      "observed": 0.010322272777557373,
+      "null_mean": 0.017577192306518555,
+      "null_std": 0.012850824257513096,
+      "null_median": 0.014789283275604248,
+      "null_95th": 0.04064314961433409,
+      "null_99th": 0.05192037761211393,
+      "p_value": 0.654,
+      "significant_95": false,
+      "significant_99": false,
+      "effect_size_z": -0.5645489646097737
+    },
+    "H1_feature_count_diff": {
+      "observed": 29.0,
+      "null_mean": 19.65,
+      "null_std": 14.564185524772746,
+      "null_median": 17.0,
+      "null_95th": 47.09999999999991,
+      "null_99th": 59.0,
+      "p_value": 0.264,
+      "significant_95": false,
+      "significant_99": false,
+      "effect_size_z": 0.6419857797125867
+    },
+    "H1_std_lifetime_diff": {
+      "observed": 0.004644877881490109,
+      "null_mean": 0.0014682920014064292,
+      "null_std": 0.0011488343465968398,
+      "null_median": 0.0012356906232785115,
+      "null_95th": 0.0037774751721485578,
+      "null_99th": 0.004870276220255082,
+      "p_value": 0.012,
+      "significant_95": true,
+      "significant_99": false,
+      "effect_size_z": 2.765051279580552
+    },
+    "H1_wasserstein": {
+      "observed": 3.8802703312446685,
+      "null_mean": 2.1063080977900457,
+      "null_std": 0.28660991295029165,
+      "null_median": 2.0770333658768463,
+      "null_95th": 2.6332844439043512,
+      "null_99th": 2.9459346419402004,
+      "p_value": 0.0,
+      "significant_95": true,
+      "significant_99": true,
+      "effect_size_z": 6.189465727803668
+    },
+    "H1_bottleneck": {
+      "observed": 0.034236907958984375,
+      "null_mean": 0.02945682406425476,
+      "null_std": 0.006485434914954682,
+      "null_median": 0.02852809429168701,
+      "null_95th": 0.04091696441173552,
+      "null_99th": 0.0467330777645111,
+      "p_value": 0.222,
+      "significant_95": false,
+      "significant_99": false,
+      "effect_size_z": 0.7370490888293828
+    }
+  },
+  "conclusion": "3/6 métricas H₁ son significativas. Evidencia parcial de diferencia topológica real."
+}

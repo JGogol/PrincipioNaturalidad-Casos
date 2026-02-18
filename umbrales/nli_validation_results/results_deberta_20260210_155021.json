@@ -1,0 +1,1486 @@
+[
+  {
+    "id": "EQ001",
+    "category": "equivalence",
+    "subcategory": "synonyms",
+    "P": "The car is red.",
+    "Q": "The automobile is red.",
+    "ground_truth": "ENTAILMENT",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "easy",
+    "notes": "Sinónimo directo car/automobile",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 3.1602514354744926e-05,
+        "entailment": 0.9980605244636536,
+        "neutral": 0.0019078586483374238
+      },
+      "Q_to_P": {
+        "contradiction": 5.0659778935369104e-05,
+        "entailment": 0.9975222945213318,
+        "neutral": 0.0024270161520689726
+      },
+      "ENT_avg": 0.9977914094924927,
+      "CONTR_max": 5.0659778935369104e-05,
+      "ENT_min": 0.9975222945213318,
+      "CONTR_avg": 4.1131146645057015e-05
+    }
+  },
+  {
+    "id": "EQ002",
+    "category": "equivalence",
+    "subcategory": "synonyms",
+    "P": "The company must expand.",
+    "Q": "The firm must expand.",
+    "ground_truth": "ENTAILMENT",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "easy",
+    "notes": "Sinónimo company/firm",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 4.862434434471652e-05,
+        "entailment": 0.9978362917900085,
+        "neutral": 0.0021150417160242796
+      },
+      "Q_to_P": {
+        "contradiction": 6.514322012662888e-05,
+        "entailment": 0.9980996251106262,
+        "neutral": 0.001835231902077794
+      },
+      "ENT_avg": 0.9979679584503174,
+      "CONTR_max": 6.514322012662888e-05,
+      "ENT_min": 0.9978362917900085,
+      "CONTR_avg": 5.68837822356727e-05
+    }
+  },
+  {
+    "id": "EQ003",
+    "category": "equivalence",
+    "subcategory": "synonyms",
+    "P": "La empresa debe crecer.",
+    "Q": "La compañía debe crecer.",
+    "ground_truth": "ENTAILMENT",
+    "bidirectional": true,
+    "language": "es",
+    "difficulty": "easy",
+    "notes": "Sinónimo empresa/compañía (español)",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 7.363530312431976e-05,
+        "entailment": 0.998286783695221,
+        "neutral": 0.0016395228449255228
+      },
+      "Q_to_P": {
+        "contradiction": 9.730258898343891e-05,
+        "entailment": 0.9978291392326355,
+        "neutral": 0.002073508221656084
+      },
+      "ENT_avg": 0.9980579614639282,
+      "CONTR_max": 9.730258898343891e-05,
+      "ENT_min": 0.9978291392326355,
+      "CONTR_avg": 8.546894605387934e-05
+    }
+  },
+  {
+    "id": "EQ004",
+    "category": "equivalence",
+    "subcategory": "reformulation",
+    "P": "John is Mary's father.",
+    "Q": "Mary is John's daughter.",
+    "ground_truth": "ENTAILMENT",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "easy",
+    "notes": "Reformulación relación familiar",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.9981776475906372,
+        "entailment": 0.001136885373853147,
+        "neutral": 0.0006855439278297126
+      },
+      "Q_to_P": {
+        "contradiction": 0.006929129362106323,
+        "entailment": 0.9642367362976074,
+        "neutral": 0.028834117576479912
+      },
+      "ENT_avg": 0.4826868108357303,
+      "CONTR_max": 0.9981776475906372,
+      "ENT_min": 0.001136885373853147,
+      "CONTR_avg": 0.5025533884763718
+    }
+  },
+  {
+    "id": "EQ005",
+    "category": "equivalence",
+    "subcategory": "reformulation",
+    "P": "The door is open.",
+    "Q": "The door is not closed.",
+    "ground_truth": "ENTAILMENT",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "easy",
+    "notes": "Doble negación",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 3.9647446101298556e-05,
+        "entailment": 0.9977601766586304,
+        "neutral": 0.0022002479527145624
+      },
+      "Q_to_P": {
+        "contradiction": 9.83354402706027e-05,
+        "entailment": 0.9965907335281372,
+        "neutral": 0.003310947911813855
+      },
+      "ENT_avg": 0.9971754550933838,
+      "CONTR_max": 9.83354402706027e-05,
+      "ENT_min": 0.9965907335281372,
+      "CONTR_avg": 6.899144318595063e-05
+    }
+  },
+  {
+    "id": "EQ006",
+    "category": "equivalence",
+    "subcategory": "reformulation",
+    "P": "Egypt loses bargaining power.",
+    "Q": "Egypt's negotiating leverage decreases.",
+    "ground_truth": "ENTAILMENT",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "medium",
+    "notes": "Reformulación dominio GERD",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 4.3635107431327924e-05,
+        "entailment": 0.9980169534683228,
+        "neutral": 0.001939332694746554
+      },
+      "Q_to_P": {
+        "contradiction": 6.220771319931373e-05,
+        "entailment": 0.9983689188957214,
+        "neutral": 0.0015688544372096658
+      },
+      "ENT_avg": 0.9981929361820221,
+      "CONTR_max": 6.220771319931373e-05,
+      "ENT_min": 0.9980169534683228,
+      "CONTR_avg": 5.292141031532083e-05
+    }
+  },
+  {
+    "id": "EQ007",
+    "category": "equivalence",
+    "subcategory": "voice",
+    "P": "The cat chases the mouse.",
+    "Q": "The mouse is chased by the cat.",
+    "ground_truth": "ENTAILMENT",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "easy",
+    "notes": "Transformación activa/pasiva",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 4.640668339561671e-05,
+        "entailment": 0.9979472756385803,
+        "neutral": 0.00200638803653419
+      },
+      "Q_to_P": {
+        "contradiction": 5.849060835316777e-05,
+        "entailment": 0.9977049231529236,
+        "neutral": 0.0022366419434547424
+      },
+      "ENT_avg": 0.997826099395752,
+      "CONTR_max": 5.849060835316777e-05,
+      "ENT_min": 0.9977049231529236,
+      "CONTR_avg": 5.244864587439224e-05
+    }
+  },
+  {
+    "id": "EQ008",
+    "category": "equivalence",
+    "subcategory": "voice",
+    "P": "Ethiopia controls the dam.",
+    "Q": "The dam is controlled by Ethiopia.",
+    "ground_truth": "ENTAILMENT",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "easy",
+    "notes": "Activa/pasiva dominio GERD",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 5.7101678976323456e-05,
+        "entailment": 0.9981387853622437,
+        "neutral": 0.0018040634458884597
+      },
+      "Q_to_P": {
+        "contradiction": 5.7481727708363906e-05,
+        "entailment": 0.9980586171150208,
+        "neutral": 0.0018838502001017332
+      },
+      "ENT_avg": 0.9980987012386322,
+      "CONTR_max": 5.7481727708363906e-05,
+      "ENT_min": 0.9980586171150208,
+      "CONTR_avg": 5.729170334234368e-05
+    }
+  },
+  {
+    "id": "EQ009",
+    "category": "equivalence",
+    "subcategory": "domain_gerd",
+    "P": "The company improves its financial position.",
+    "Q": "The economic situation of the company strengthens.",
+    "ground_truth": "ENTAILMENT",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "medium",
+    "notes": "Caso empresarial del paper",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 3.955069769290276e-05,
+        "entailment": 0.9976983666419983,
+        "neutral": 0.002262054244056344
+      },
+      "Q_to_P": {
+        "contradiction": 3.044448749278672e-05,
+        "entailment": 0.9981069564819336,
+        "neutral": 0.0018625487573444843
+      },
+      "ENT_avg": 0.9979026615619659,
+      "CONTR_max": 3.955069769290276e-05,
+      "ENT_min": 0.9976983666419983,
+      "CONTR_avg": 3.499759259284474e-05
+    }
+  },
+  {
+    "id": "EQ010",
+    "category": "equivalence",
+    "subcategory": "domain_gerd",
+    "P": "Egypt loses Ethiopia's cooperation in future Nile negotiations.",
+    "Q": "Ethiopia reduces cooperation with Egypt in Nile talks.",
+    "ground_truth": "ENTAILMENT",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "medium",
+    "notes": "HUB #1 variante",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.00010820780153153464,
+        "entailment": 0.9966232776641846,
+        "neutral": 0.003268443513661623
+      },
+      "Q_to_P": {
+        "contradiction": 0.0006325013819150627,
+        "entailment": 0.5038570761680603,
+        "neutral": 0.49551039934158325
+      },
+      "ENT_avg": 0.7502401769161224,
+      "CONTR_max": 0.0006325013819150627,
+      "ENT_min": 0.5038570761680603,
+      "CONTR_avg": 0.00037035459172329865
+    }
+  },
+  {
+    "id": "EQ011",
+    "category": "equivalence",
+    "subcategory": "domain_gerd",
+    "P": "Sudan gains leverage in regional water negotiations.",
+    "Q": "Sudan strengthens its position in regional water talks.",
+    "ground_truth": "ENTAILMENT",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "medium",
+    "notes": "HUB #2 componente Sudan",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 4.3156986066605896e-05,
+        "entailment": 0.9971055388450623,
+        "neutral": 0.002851343946531415
+      },
+      "Q_to_P": {
+        "contradiction": 4.0419341530650854e-05,
+        "entailment": 0.9969483017921448,
+        "neutral": 0.003011263906955719
+      },
+      "ENT_avg": 0.9970269203186035,
+      "CONTR_max": 4.3156986066605896e-05,
+      "ENT_min": 0.9969483017921448,
+      "CONTR_avg": 4.1788163798628375e-05
+    }
+  },
+  {
+    "id": "EQ012",
+    "category": "equivalence",
+    "subcategory": "complex",
+    "P": "Failure to reach agreement will harm all parties.",
+    "Q": "All parties will suffer if no agreement is reached.",
+    "ground_truth": "ENTAILMENT",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "medium",
+    "notes": "Reformulación condicional",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 4.4511023588711396e-05,
+        "entailment": 0.9980048537254333,
+        "neutral": 0.0019506275421008468
+      },
+      "Q_to_P": {
+        "contradiction": 4.1536059143254533e-05,
+        "entailment": 0.9980893731117249,
+        "neutral": 0.0018690568394958973
+      },
+      "ENT_avg": 0.9980471134185791,
+      "CONTR_max": 4.4511023588711396e-05,
+      "ENT_min": 0.9980048537254333,
+      "CONTR_avg": 4.3023541365982965e-05
+    }
+  },
+  {
+    "id": "EQ013",
+    "category": "equivalence",
+    "subcategory": "complex",
+    "P": "Regional stability benefits all riparian states.",
+    "Q": "All countries along the river benefit from regional stability.",
+    "ground_truth": "ENTAILMENT",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "hard",
+    "notes": "Reformulación con explicación",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.00019590671581681818,
+        "entailment": 0.97845858335495,
+        "neutral": 0.02134552225470543
+      },
+      "Q_to_P": {
+        "contradiction": 6.11544237472117e-05,
+        "entailment": 0.9947050213813782,
+        "neutral": 0.005233746953308582
+      },
+      "ENT_avg": 0.9865818023681641,
+      "CONTR_max": 0.00019590671581681818,
+      "ENT_min": 0.97845858335495,
+      "CONTR_avg": 0.00012853056978201494
+    }
+  },
+  {
+    "id": "CT001",
+    "category": "contradiction",
+    "subcategory": "negation",
+    "P": "The sky is blue.",
+    "Q": "The sky is not blue.",
+    "ground_truth": "CONTRADICTION",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "easy",
+    "notes": "Negación directa",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.9996469020843506,
+        "entailment": 7.888942491263151e-05,
+        "neutral": 0.0002741495263762772
+      },
+      "Q_to_P": {
+        "contradiction": 0.9996708631515503,
+        "entailment": 0.00011489033931866288,
+        "neutral": 0.00021427322644740343
+      },
+      "ENT_avg": 9.68898821156472e-05,
+      "CONTR_max": 0.9996708631515503,
+      "ENT_min": 7.888942491263151e-05,
+      "CONTR_avg": 0.9996588826179504
+    }
+  },
+  {
+    "id": "CT002",
+    "category": "contradiction",
+    "subcategory": "negation",
+    "P": "Egypt accepts the proposal.",
+    "Q": "Egypt rejects the proposal.",
+    "ground_truth": "CONTRADICTION",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "easy",
+    "notes": "Aceptar/rechazar",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.9997742772102356,
+        "entailment": 7.214169454528019e-05,
+        "neutral": 0.00015359994722530246
+      },
+      "Q_to_P": {
+        "contradiction": 0.9999260902404785,
+        "entailment": 2.3365570086752996e-05,
+        "neutral": 5.052794949733652e-05
+      },
+      "ENT_avg": 4.775363231601659e-05,
+      "CONTR_max": 0.9999260902404785,
+      "ENT_min": 2.3365570086752996e-05,
+      "CONTR_avg": 0.9998501837253571
+    }
+  },
+  {
+    "id": "CT003",
+    "category": "contradiction",
+    "subcategory": "opposites",
+    "P": "The temperature is high.",
+    "Q": "The temperature is low.",
+    "ground_truth": "CONTRADICTION",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "easy",
+    "notes": "Alto/bajo",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.9991682767868042,
+        "entailment": 0.0003295675269328058,
+        "neutral": 0.0005021967808715999
+      },
+      "Q_to_P": {
+        "contradiction": 0.99972003698349,
+        "entailment": 0.00010326266783522442,
+        "neutral": 0.00017672183457762003
+      },
+      "ENT_avg": 0.0002164150973840151,
+      "CONTR_max": 0.99972003698349,
+      "ENT_min": 0.00010326266783522442,
+      "CONTR_avg": 0.9994441568851471
+    }
+  },
+  {
+    "id": "CT004",
+    "category": "contradiction",
+    "subcategory": "opposites",
+    "P": "The economy is growing.",
+    "Q": "The economy is shrinking.",
+    "ground_truth": "CONTRADICTION",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "easy",
+    "notes": "Crecer/decrecer",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.9996987581253052,
+        "entailment": 8.277042797999457e-05,
+        "neutral": 0.00021838757675141096
+      },
+      "Q_to_P": {
+        "contradiction": 0.9997953772544861,
+        "entailment": 7.540461956523359e-05,
+        "neutral": 0.00012920753215439618
+      },
+      "ENT_avg": 7.908752377261408e-05,
+      "CONTR_max": 0.9997953772544861,
+      "ENT_min": 7.540461956523359e-05,
+      "CONTR_avg": 0.9997470676898956
+    }
+  },
+  {
+    "id": "CT005",
+    "category": "contradiction",
+    "subcategory": "opposites",
+    "P": "Water flows are increasing.",
+    "Q": "Water flows are decreasing.",
+    "ground_truth": "CONTRADICTION",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "easy",
+    "notes": "Dominio GERD",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.9993957281112671,
+        "entailment": 0.00013947671686764807,
+        "neutral": 0.0004647882888093591
+      },
+      "Q_to_P": {
+        "contradiction": 0.9997641444206238,
+        "entailment": 8.299424371216446e-05,
+        "neutral": 0.0001529148139525205
+      },
+      "ENT_avg": 0.00011123548028990626,
+      "CONTR_max": 0.9997641444206238,
+      "ENT_min": 8.299424371216446e-05,
+      "CONTR_avg": 0.9995799362659454
+    }
+  },
+  {
+    "id": "CT006",
+    "category": "contradiction",
+    "subcategory": "exclusive_states",
+    "P": "John is alive.",
+    "Q": "John is dead.",
+    "ground_truth": "CONTRADICTION",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "easy",
+    "notes": "Vivo/muerto",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.9998605251312256,
+        "entailment": 5.3307936468627304e-05,
+        "neutral": 8.616754348622635e-05
+      },
+      "Q_to_P": {
+        "contradiction": 0.9998914003372192,
+        "entailment": 5.562930164160207e-05,
+        "neutral": 5.294816946843639e-05
+      },
+      "ENT_avg": 5.4468619055114686e-05,
+      "CONTR_max": 0.9998914003372192,
+      "ENT_min": 5.3307936468627304e-05,
+      "CONTR_avg": 0.9998759627342224
+    }
+  },
+  {
+    "id": "CT007",
+    "category": "contradiction",
+    "subcategory": "exclusive_states",
+    "P": "The treaty is binding.",
+    "Q": "The treaty is non-binding.",
+    "ground_truth": "CONTRADICTION",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "easy",
+    "notes": "Vinculante/no vinculante",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.999717652797699,
+        "entailment": 9.82020646915771e-05,
+        "neutral": 0.00018414855003356934
+      },
+      "Q_to_P": {
+        "contradiction": 0.999863862991333,
+        "entailment": 3.8424564991146326e-05,
+        "neutral": 9.776077058631927e-05
+      },
+      "ENT_avg": 6.831331484136172e-05,
+      "CONTR_max": 0.999863862991333,
+      "ENT_min": 3.8424564991146326e-05,
+      "CONTR_avg": 0.999790757894516
+    }
+  },
+  {
+    "id": "CT008",
+    "category": "contradiction",
+    "subcategory": "domain_business",
+    "P": "The company must expand to new markets.",
+    "Q": "The company must consolidate current markets.",
+    "ground_truth": "CONTRADICTION",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "medium",
+    "notes": "Premisas raíz caso empresarial",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.9999632835388184,
+        "entailment": 5.02134253110853e-06,
+        "neutral": 3.173828372382559e-05
+      },
+      "Q_to_P": {
+        "contradiction": 0.9999233484268188,
+        "entailment": 1.0276102329953574e-05,
+        "neutral": 6.638741615461186e-05
+      },
+      "ENT_avg": 7.648722430531052e-06,
+      "CONTR_max": 0.9999632835388184,
+      "ENT_min": 5.02134253110853e-06,
+      "CONTR_avg": 0.9999433159828186
+    }
+  },
+  {
+    "id": "CT009",
+    "category": "contradiction",
+    "subcategory": "domain_business",
+    "P": "The company invests in acquiring new clients.",
+    "Q": "The company invests in retaining current clients.",
+    "ground_truth": "CONTRADICTION",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "medium",
+    "notes": "Estrategias opuestas",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.9999449253082275,
+        "entailment": 8.544205229554791e-06,
+        "neutral": 4.653813084587455e-05
+      },
+      "Q_to_P": {
+        "contradiction": 0.999906063079834,
+        "entailment": 1.0754718459793366e-05,
+        "neutral": 8.314513979712501e-05
+      },
+      "ENT_avg": 9.649461844674079e-06,
+      "CONTR_max": 0.9999449253082275,
+      "ENT_min": 8.544205229554791e-06,
+      "CONTR_avg": 0.9999254941940308
+    }
+  },
+  {
+    "id": "CT010",
+    "category": "contradiction",
+    "subcategory": "domain_gerd",
+    "P": "Egypt has historical rights over the Nile.",
+    "Q": "Ethiopia has sovereign rights over its water resources.",
+    "ground_truth": "CONTRADICTION",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "hard",
+    "notes": "Premisas GERD (implícita)",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.9908623695373535,
+        "entailment": 0.0003428555210120976,
+        "neutral": 0.008794755674898624
+      },
+      "Q_to_P": {
+        "contradiction": 0.9720093607902527,
+        "entailment": 0.0005562190199270844,
+        "neutral": 0.027434468269348145
+      },
+      "ENT_avg": 0.000449537270469591,
+      "CONTR_max": 0.9908623695373535,
+      "ENT_min": 0.0003428555210120976,
+      "CONTR_avg": 0.9814358651638031
+    }
+  },
+  {
+    "id": "CT011",
+    "category": "contradiction",
+    "subcategory": "domain_gerd",
+    "P": "The dam should release minimum guaranteed flows.",
+    "Q": "The dam should operate with flexible guidelines only.",
+    "ground_truth": "CONTRADICTION",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "medium",
+    "notes": "Posturas operativas opuestas",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.9997019171714783,
+        "entailment": 4.223165160510689e-05,
+        "neutral": 0.00025587534764781594
+      },
+      "Q_to_P": {
+        "contradiction": 0.8114336729049683,
+        "entailment": 0.035870619118213654,
+        "neutral": 0.1526956856250763
+      },
+      "ENT_avg": 0.01795642538490938,
+      "CONTR_max": 0.9997019171714783,
+      "ENT_min": 4.223165160510689e-05,
+      "CONTR_avg": 0.9055677950382233
+    }
+  },
+  {
+    "id": "CT012",
+    "category": "contradiction",
+    "subcategory": "role_inversion",
+    "P": "Egypt threatens to escalate armed conflict against Ethiopia.",
+    "Q": "Ethiopia provokes military posturing from Egypt.",
+    "ground_truth": "CONTRADICTION",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "hard",
+    "notes": "Inversión de agencia - caso del paper",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 7.97097382019274e-05,
+        "entailment": 0.9947587847709656,
+        "neutral": 0.005161567125469446
+      },
+      "Q_to_P": {
+        "contradiction": 3.09454117086716e-05,
+        "entailment": 0.0011739933397620916,
+        "neutral": 0.9987950325012207
+      },
+      "ENT_avg": 0.49796638905536383,
+      "CONTR_max": 7.97097382019274e-05,
+      "ENT_min": 0.0011739933397620916,
+      "CONTR_avg": 5.53275749552995e-05
+    }
+  },
+  {
+    "id": "CT013",
+    "category": "contradiction",
+    "subcategory": "role_inversion",
+    "P": "Country A attacks Country B.",
+    "Q": "Country B attacks Country A.",
+    "ground_truth": "CONTRADICTION",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "medium",
+    "notes": "Inversión de roles simple",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.9997279047966003,
+        "entailment": 3.5092005418846384e-05,
+        "neutral": 0.0002370711590629071
+      },
+      "Q_to_P": {
+        "contradiction": 0.9998711347579956,
+        "entailment": 2.6216137484880164e-05,
+        "neutral": 0.00010258543625241145
+      },
+      "ENT_avg": 3.0654071451863274e-05,
+      "CONTR_max": 0.9998711347579956,
+      "ENT_min": 2.6216137484880164e-05,
+      "CONTR_avg": 0.999799519777298
+    }
+  },
+  {
+    "id": "CT014",
+    "category": "contradiction",
+    "subcategory": "subtle",
+    "P": "The agreement prioritizes Egyptian water security.",
+    "Q": "The agreement prioritizes Ethiopian development rights.",
+    "ground_truth": "CONTRADICTION",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "hard",
+    "notes": "Prioridades mutuamente excluyentes",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.9999127388000488,
+        "entailment": 7.263375209731748e-06,
+        "neutral": 7.996646309038624e-05
+      },
+      "Q_to_P": {
+        "contradiction": 0.999961256980896,
+        "entailment": 3.768260967262904e-06,
+        "neutral": 3.489939263090491e-05
+      },
+      "ENT_avg": 5.515818088497326e-06,
+      "CONTR_max": 0.999961256980896,
+      "ENT_min": 3.768260967262904e-06,
+      "CONTR_avg": 0.9999369978904724
+    }
+  },
+  {
+    "id": "NT001",
+    "category": "neutral",
+    "subcategory": "unrelated",
+    "P": "The book is on the table.",
+    "Q": "Tomorrow is Tuesday.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "easy",
+    "notes": "Completamente no relacionados",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.45024701952934265,
+        "entailment": 0.0015597421443089843,
+        "neutral": 0.5481932163238525
+      },
+      "Q_to_P": {
+        "contradiction": 0.008968534879386425,
+        "entailment": 0.0032103362027555704,
+        "neutral": 0.9878211617469788
+      },
+      "ENT_avg": 0.0023850391735322773,
+      "CONTR_max": 0.45024701952934265,
+      "ENT_min": 0.0015597421443089843,
+      "CONTR_avg": 0.22960777720436454
+    }
+  },
+  {
+    "id": "NT002",
+    "category": "neutral",
+    "subcategory": "unrelated",
+    "P": "The company has 100 employees.",
+    "Q": "The building has 5 floors.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "easy",
+    "notes": "Mismo dominio, sin relación lógica",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.00027085866895504296,
+        "entailment": 0.00010716463293647394,
+        "neutral": 0.9996219873428345
+      },
+      "Q_to_P": {
+        "contradiction": 0.0001111305900849402,
+        "entailment": 9.065786434803158e-05,
+        "neutral": 0.9997982382774353
+      },
+      "ENT_avg": 9.891124864225276e-05,
+      "CONTR_max": 0.00027085866895504296,
+      "ENT_min": 9.065786434803158e-05,
+      "CONTR_avg": 0.00019099462951999158
+    }
+  },
+  {
+    "id": "NT003",
+    "category": "neutral",
+    "subcategory": "same_topic",
+    "P": "Egypt is concerned about water security.",
+    "Q": "Ethiopia is building the GERD dam.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "medium",
+    "notes": "Mismo conflicto, hechos independientes",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.9999103546142578,
+        "entailment": 1.0403266969660763e-05,
+        "neutral": 7.927635306259617e-05
+      },
+      "Q_to_P": {
+        "contradiction": 0.9983344674110413,
+        "entailment": 0.00013238401152193546,
+        "neutral": 0.0015332067850977182
+      },
+      "ENT_avg": 7.139363924579811e-05,
+      "CONTR_max": 0.9999103546142578,
+      "ENT_min": 1.0403266969660763e-05,
+      "CONTR_avg": 0.9991224110126495
+    }
+  },
+  {
+    "id": "NT004",
+    "category": "neutral",
+    "subcategory": "same_topic",
+    "P": "The Nile River flows through multiple countries.",
+    "Q": "The GERD dam has a capacity of 74 billion cubic meters.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "medium",
+    "notes": "Hechos relacionados pero independientes",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.9984123706817627,
+        "entailment": 0.00020300937467254698,
+        "neutral": 0.0013845608336851
+      },
+      "Q_to_P": {
+        "contradiction": 0.9937652349472046,
+        "entailment": 0.0001504122483311221,
+        "neutral": 0.00608435133472085
+      },
+      "ENT_avg": 0.00017671081150183454,
+      "CONTR_max": 0.9984123706817627,
+      "ENT_min": 0.0001504122483311221,
+      "CONTR_avg": 0.9960888028144836
+    }
+  },
+  {
+    "id": "NT005",
+    "category": "neutral",
+    "subcategory": "same_topic",
+    "P": "Sudan operates the Roseires Dam.",
+    "Q": "Ethiopia exports electricity to neighboring countries.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "medium",
+    "notes": "Operaciones independientes",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.99366295337677,
+        "entailment": 0.0005491409101523459,
+        "neutral": 0.005787881091237068
+      },
+      "Q_to_P": {
+        "contradiction": 0.9994937181472778,
+        "entailment": 3.3232314308406785e-05,
+        "neutral": 0.0004730377404484898
+      },
+      "ENT_avg": 0.00029118661223037634,
+      "CONTR_max": 0.9994937181472778,
+      "ENT_min": 3.3232314308406785e-05,
+      "CONTR_avg": 0.9965783357620239
+    }
+  },
+  {
+    "id": "NT006",
+    "category": "neutral",
+    "subcategory": "misleading_similarity",
+    "P": "The company improved its market position.",
+    "Q": "The company moved to a new office building.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "medium",
+    "notes": "Alta similitud léxica, sin relación",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.00037235781201161444,
+        "entailment": 7.116376218618825e-05,
+        "neutral": 0.9995564818382263
+      },
+      "Q_to_P": {
+        "contradiction": 0.00010276206739945337,
+        "entailment": 0.00023984533618204296,
+        "neutral": 0.999657392501831
+      },
+      "ENT_avg": 0.0001555045491841156,
+      "CONTR_max": 0.00037235781201161444,
+      "ENT_min": 7.116376218618825e-05,
+      "CONTR_avg": 0.0002375599397055339
+    }
+  },
+  {
+    "id": "NT007",
+    "category": "neutral",
+    "subcategory": "misleading_similarity",
+    "P": "Egypt strengthens its legal position.",
+    "Q": "Egypt strengthens its military position.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "hard",
+    "notes": "Estructura similar, dominios diferentes",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.9928290247917175,
+        "entailment": 0.0003904470067936927,
+        "neutral": 0.006780524272471666
+      },
+      "Q_to_P": {
+        "contradiction": 0.9959314465522766,
+        "entailment": 0.0005493452772498131,
+        "neutral": 0.0035192768555134535
+      },
+      "ENT_avg": 0.0004698961420217529,
+      "CONTR_max": 0.9959314465522766,
+      "ENT_min": 0.0003904470067936927,
+      "CONTR_avg": 0.9943802356719971
+    }
+  },
+  {
+    "id": "NT008",
+    "category": "neutral",
+    "subcategory": "paper_spurious",
+    "P": "The company invests in acquiring new clients.",
+    "Q": "Revenue from recurring clients increases.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "medium",
+    "notes": "A_L1 vs B_L2 del caso empresarial",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.010543884709477425,
+        "entailment": 0.0003514697018545121,
+        "neutral": 0.9891046285629272
+      },
+      "Q_to_P": {
+        "contradiction": 0.9809734225273132,
+        "entailment": 9.700657756184228e-06,
+        "neutral": 0.019016901031136513
+      },
+      "ENT_avg": 0.00018058517980534816,
+      "CONTR_max": 0.9809734225273132,
+      "ENT_min": 9.700657756184228e-06,
+      "CONTR_avg": 0.49575865361839533
+    }
+  },
+  {
+    "id": "NT009",
+    "category": "neutral",
+    "subcategory": "paper_spurious",
+    "P": "The company improves its financial position.",
+    "Q": "The company must consolidate current markets.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "medium",
+    "notes": "A_L3 vs B_L0 del caso empresarial",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.0019023551139980555,
+        "entailment": 0.00010867958917515352,
+        "neutral": 0.9979889392852783
+      },
+      "Q_to_P": {
+        "contradiction": 9.806566231418401e-05,
+        "entailment": 0.005307495594024658,
+        "neutral": 0.994594395160675
+      },
+      "ENT_avg": 0.002708087591599906,
+      "CONTR_max": 0.0019023551139980555,
+      "ENT_min": 0.00010867958917515352,
+      "CONTR_avg": 0.0010002103881561197
+    }
+  },
+  {
+    "id": "NT010",
+    "category": "neutral",
+    "subcategory": "causal_independence",
+    "P": "It rained last night.",
+    "Q": "The ground is wet.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "hard",
+    "notes": "Correlación sin implicación estricta",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.0002097423857776448,
+        "entailment": 0.9423352479934692,
+        "neutral": 0.05745497718453407
+      },
+      "Q_to_P": {
+        "contradiction": 5.8345736761111766e-05,
+        "entailment": 0.0006211887812241912,
+        "neutral": 0.9993205070495605
+      },
+      "ENT_avg": 0.4714782183873467,
+      "CONTR_max": 0.0002097423857776448,
+      "ENT_min": 0.0006211887812241912,
+      "CONTR_avg": 0.0001340440612693783
+    }
+  },
+  {
+    "id": "NT011",
+    "category": "neutral",
+    "subcategory": "causal_independence",
+    "P": "The employees are motivated.",
+    "Q": "Sales increased.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "hard",
+    "notes": "Posible correlación, no implicación",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.0005860649398528039,
+        "entailment": 0.00023037931532599032,
+        "neutral": 0.9991835951805115
+      },
+      "Q_to_P": {
+        "contradiction": 6.929649680387229e-05,
+        "entailment": 0.0022855799179524183,
+        "neutral": 0.9976450800895691
+      },
+      "ENT_avg": 0.0012579796166392043,
+      "CONTR_max": 0.0005860649398528039,
+      "ENT_min": 0.00023037931532599032,
+      "CONTR_avg": 0.0003276807183283381
+    }
+  },
+  {
+    "id": "UD001",
+    "category": "unidirectional",
+    "subcategory": "specific_to_general",
+    "P": "John ate a red apple.",
+    "Q": "John ate a fruit.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": false,
+    "language": "en",
+    "difficulty": "easy",
+    "notes": "Específico implica general - NO fusiona (unidireccional)",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.000140134638058953,
+        "entailment": 0.9797746539115906,
+        "neutral": 0.020085185766220093
+      },
+      "Q_to_P": {
+        "contradiction": 7.419178291456774e-05,
+        "entailment": 0.0007297982228919864,
+        "neutral": 0.9991959929466248
+      },
+      "ENT_avg": 0.4902522260672413,
+      "CONTR_max": 0.000140134638058953,
+      "ENT_min": 0.0007297982228919864,
+      "CONTR_avg": 0.00010716321048676036
+    }
+  },
+  {
+    "id": "UD002",
+    "category": "unidirectional",
+    "subcategory": "specific_to_general",
+    "P": "Egypt demands legally binding minimum flows.",
+    "Q": "Egypt makes demands about water flows.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": false,
+    "language": "en",
+    "difficulty": "medium",
+    "notes": "Específico a general - GERD - NO fusiona",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.00027773648616857827,
+        "entailment": 0.0019064253428950906,
+        "neutral": 0.9978158473968506
+      },
+      "Q_to_P": {
+        "contradiction": 0.00013621193647850305,
+        "entailment": 0.00021743369870819151,
+        "neutral": 0.9996463060379028
+      },
+      "ENT_avg": 0.001061929520801641,
+      "CONTR_max": 0.00027773648616857827,
+      "ENT_min": 0.00021743369870819151,
+      "CONTR_avg": 0.00020697421132354066
+    }
+  },
+  {
+    "id": "UD003",
+    "category": "unidirectional",
+    "subcategory": "specific_to_general",
+    "P": "The GERD dam generates 6,000 MW of electricity.",
+    "Q": "The GERD dam generates electricity.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": false,
+    "language": "en",
+    "difficulty": "easy",
+    "notes": "Detalle implica general - NO fusiona",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.00010861038026632741,
+        "entailment": 0.9975302815437317,
+        "neutral": 0.0023612258955836296
+      },
+      "Q_to_P": {
+        "contradiction": 0.0011232681572437286,
+        "entailment": 5.510306073119864e-05,
+        "neutral": 0.9988215565681458
+      },
+      "ENT_avg": 0.49879269230223144,
+      "CONTR_max": 0.0011232681572437286,
+      "ENT_min": 5.510306073119864e-05,
+      "CONTR_avg": 0.000615939268755028
+    }
+  },
+  {
+    "id": "UD004",
+    "category": "unidirectional",
+    "subcategory": "weak_causal",
+    "P": "Ethiopia fills the dam rapidly.",
+    "Q": "Downstream water flows may decrease temporarily.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": false,
+    "language": "en",
+    "difficulty": "hard",
+    "notes": "Causal probable - NO fusiona",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.00020260203746147454,
+        "entailment": 0.0005812289891764522,
+        "neutral": 0.9992161989212036
+      },
+      "Q_to_P": {
+        "contradiction": 0.9985492825508118,
+        "entailment": 1.667196920607239e-05,
+        "neutral": 0.0014340714551508427
+      },
+      "ENT_avg": 0.0002989504791912623,
+      "CONTR_max": 0.9985492825508118,
+      "ENT_min": 1.667196920607239e-05,
+      "CONTR_avg": 0.4993759422941366
+    }
+  },
+  {
+    "id": "UD005",
+    "category": "unidirectional",
+    "subcategory": "hypernym",
+    "P": "Egypt is an African country.",
+    "Q": "Egypt is a country.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": false,
+    "language": "en",
+    "difficulty": "easy",
+    "notes": "Hiperónimo - NO fusiona",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 5.132823935127817e-05,
+        "entailment": 0.9978396892547607,
+        "neutral": 0.0021088707726448774
+      },
+      "Q_to_P": {
+        "contradiction": 4.362390245660208e-05,
+        "entailment": 0.00203592237085104,
+        "neutral": 0.9979204535484314
+      },
+      "ENT_avg": 0.4999378058128059,
+      "CONTR_max": 5.132823935127817e-05,
+      "ENT_min": 0.00203592237085104,
+      "CONTR_avg": 4.7476070903940126e-05
+    }
+  },
+  {
+    "id": "ED001",
+    "category": "edge",
+    "subcategory": "near_equivalent",
+    "P": "The situation may deteriorate.",
+    "Q": "The situation will deteriorate.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "hard",
+    "notes": "Modal vs definitivo - ¿equivalente?",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.012181094847619534,
+        "entailment": 0.001815214054659009,
+        "neutral": 0.9860036969184875
+      },
+      "Q_to_P": {
+        "contradiction": 0.001376707456074655,
+        "entailment": 0.819279134273529,
+        "neutral": 0.17934419214725494
+      },
+      "ENT_avg": 0.41054717416409403,
+      "CONTR_max": 0.012181094847619534,
+      "ENT_min": 0.001815214054659009,
+      "CONTR_avg": 0.006778901151847094
+    }
+  },
+  {
+    "id": "ED002",
+    "category": "edge",
+    "subcategory": "near_equivalent",
+    "P": "Egypt could lose bargaining power.",
+    "Q": "Egypt might lose bargaining power.",
+    "ground_truth": "ENTAILMENT",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "hard",
+    "notes": "Modales similares",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 8.06524622021243e-05,
+        "entailment": 0.9983271956443787,
+        "neutral": 0.0015921584563329816
+      },
+      "Q_to_P": {
+        "contradiction": 7.507550617447123e-05,
+        "entailment": 0.9984207153320312,
+        "neutral": 0.0015042104059830308
+      },
+      "ENT_avg": 0.998373955488205,
+      "CONTR_max": 8.06524622021243e-05,
+      "ENT_min": 0.9983271956443787,
+      "CONTR_avg": 7.786398418829776e-05
+    }
+  },
+  {
+    "id": "ED003",
+    "category": "edge",
+    "subcategory": "near_contradiction",
+    "P": "The agreement is mostly beneficial.",
+    "Q": "The agreement has significant drawbacks.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "hard",
+    "notes": "Tensión sin contradicción estricta",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.12871254980564117,
+        "entailment": 0.00041899862117134035,
+        "neutral": 0.870868444442749
+      },
+      "Q_to_P": {
+        "contradiction": 0.9959524869918823,
+        "entailment": 7.709846249781549e-05,
+        "neutral": 0.003970405552536249
+      },
+      "ENT_avg": 0.0002480485418345779,
+      "CONTR_max": 0.9959524869918823,
+      "ENT_min": 7.709846249781549e-05,
+      "CONTR_avg": 0.5623325183987617
+    }
+  },
+  {
+    "id": "ED004",
+    "category": "edge",
+    "subcategory": "near_contradiction",
+    "P": "Progress has been made in negotiations.",
+    "Q": "Negotiations have stalled.",
+    "ground_truth": "CONTRADICTION",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "hard",
+    "notes": "¿Contradicción o diferentes momentos?",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.9998910427093506,
+        "entailment": 2.7103686079499312e-05,
+        "neutral": 8.185705519281328e-05
+      },
+      "Q_to_P": {
+        "contradiction": 0.9998131394386292,
+        "entailment": 6.436387775465846e-05,
+        "neutral": 0.00012253213208168745
+      },
+      "ENT_avg": 4.5733781917078886e-05,
+      "CONTR_max": 0.9998910427093506,
+      "ENT_min": 2.7103686079499312e-05,
+      "CONTR_avg": 0.9998520910739899
+    }
+  },
+  {
+    "id": "ED005",
+    "category": "edge",
+    "subcategory": "scope_ambiguity",
+    "P": "All countries benefit from cooperation.",
+    "Q": "Some countries benefit more than others.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "hard",
+    "notes": "Compatibles pero diferentes alcances",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.0020519434474408627,
+        "entailment": 0.00035389038384892046,
+        "neutral": 0.9975941777229309
+      },
+      "Q_to_P": {
+        "contradiction": 0.9987772107124329,
+        "entailment": 2.07211596716661e-05,
+        "neutral": 0.0012020793510600924
+      },
+      "ENT_avg": 0.00018730577176029328,
+      "CONTR_max": 0.9987772107124329,
+      "ENT_min": 2.07211596716661e-05,
+      "CONTR_avg": 0.5004145770799369
+    }
+  },
+  {
+    "id": "ED006",
+    "category": "edge",
+    "subcategory": "trivial",
+    "P": "Regional prosperity is desirable.",
+    "Q": "Economic growth benefits the region.",
+    "ground_truth": "ENTAILMENT",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "hard",
+    "notes": "¿Trivialmente similar?",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 6.600714186788537e-06,
+        "entailment": 0.030951831489801407,
+        "neutral": 0.9690415263175964
+      },
+      "Q_to_P": {
+        "contradiction": 2.6710684323916212e-05,
+        "entailment": 0.03536621108651161,
+        "neutral": 0.9646070599555969
+      },
+      "ENT_avg": 0.03315902128815651,
+      "CONTR_max": 2.6710684323916212e-05,
+      "ENT_min": 0.030951831489801407,
+      "CONTR_avg": 1.6655699255352374e-05
+    }
+  },
+  {
+    "id": "ED007",
+    "category": "edge",
+    "subcategory": "trivial",
+    "P": "Peace is better than war.",
+    "Q": "Conflict should be avoided.",
+    "ground_truth": "ENTAILMENT",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "hard",
+    "notes": "Genérico - ¿fusión válida?",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 2.9630606150021777e-05,
+        "entailment": 0.3870611786842346,
+        "neutral": 0.6129092574119568
+      },
+      "Q_to_P": {
+        "contradiction": 1.465272725909017e-05,
+        "entailment": 0.2521490454673767,
+        "neutral": 0.7478362917900085
+      },
+      "ENT_avg": 0.31960511207580566,
+      "CONTR_max": 2.9630606150021777e-05,
+      "ENT_min": 0.2521490454673767,
+      "CONTR_avg": 2.2141666704555973e-05
+    }
+  },
+  {
+    "id": "ED008",
+    "category": "edge",
+    "subcategory": "partial_negation",
+    "P": "Egypt is not entirely satisfied with the proposal.",
+    "Q": "Egypt has reservations about the proposal.",
+    "ground_truth": "ENTAILMENT",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "hard",
+    "notes": "Negación parcial = reformulación",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 5.8703069953480735e-05,
+        "entailment": 0.9942455887794495,
+        "neutral": 0.005695712752640247
+      },
+      "Q_to_P": {
+        "contradiction": 4.462963988771662e-05,
+        "entailment": 0.9890581965446472,
+        "neutral": 0.010897167958319187
+      },
+      "ENT_avg": 0.9916518926620483,
+      "CONTR_max": 5.8703069953480735e-05,
+      "ENT_min": 0.9890581965446472,
+      "CONTR_avg": 5.166635492059868e-05
+    }
+  },
+  {
+    "id": "ED009",
+    "category": "edge",
+    "subcategory": "quantifiers",
+    "P": "Most experts agree on the risk.",
+    "Q": "Some experts disagree about the risk.",
+    "ground_truth": "NEUTRAL",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "hard",
+    "notes": "Cuantificadores compatibles",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.004680987447500229,
+        "entailment": 0.0018785593565553427,
+        "neutral": 0.9934404492378235
+      },
+      "Q_to_P": {
+        "contradiction": 0.9960430860519409,
+        "entailment": 2.692941234272439e-05,
+        "neutral": 0.00393003411591053
+      },
+      "ENT_avg": 0.0009527443844490335,
+      "CONTR_max": 0.9960430860519409,
+      "ENT_min": 2.692941234272439e-05,
+      "CONTR_avg": 0.5003620367497206
+    }
+  },
+  {
+    "id": "ED010",
+    "category": "edge",
+    "subcategory": "quantifiers",
+    "P": "All parties must compromise.",
+    "Q": "No party should have to compromise.",
+    "ground_truth": "CONTRADICTION",
+    "bidirectional": true,
+    "language": "en",
+    "difficulty": "medium",
+    "notes": "Cuantificadores opuestos",
+    "scores": {
+      "P_to_Q": {
+        "contradiction": 0.9999054670333862,
+        "entailment": 2.4509670765837654e-05,
+        "neutral": 6.994097930146381e-05
+      },
+      "Q_to_P": {
+        "contradiction": 0.9998282194137573,
+        "entailment": 4.783024996868335e-05,
+        "neutral": 0.00012401503045111895
+      },
+      "ENT_avg": 3.61699603672605e-05,
+      "CONTR_max": 0.9999054670333862,
+      "ENT_min": 2.4509670765837654e-05,
+      "CONTR_avg": 0.9998668432235718
+    }
+  }
+]
