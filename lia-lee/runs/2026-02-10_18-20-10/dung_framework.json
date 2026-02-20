@@ -1,0 +1,53 @@
+{
+  "stats": {
+    "pairs_total": 252004,
+    "pairs_skipped_embedding": 176859,
+    "pairs_evaluated": 75145,
+    "nli_calls": 75145,
+    "batches_processed": 588,
+    "fusions_approved": 222,
+    "fusions_rejected_contradiction": 3,
+    "contradictions_detected": 19657,
+    "nli_neutral": 53992,
+    "nli_low_entailment": 1271,
+    "fusions_rejected_role_inversion": 24,
+    "llm_verification_calls": 15
+  },
+  "dung_summary": {
+    "total_attacks": 19660,
+    "ratio_conflict": 0.2616,
+    "hub_nodes": 219,
+    "fusion_pairs": 198,
+    "internal_conflicts": 1520,
+    "grounded_extension": [
+      "Lee Family (Foua and Nao Kao Lee)_4_183",
+      "Lee Family (Foua and Nao Kao Lee)_5_626",
+      "Merced Community Medical Center Clinical Team_5_435",
+      "Lee Family (Foua and Nao Kao Lee)_5_504",
+      "Lee Family (Foua and Nao Kao Lee)_5_321",
+      "Merced Community Medical Center Clinical Team_5_310",
+      "Lee Family (Foua and Nao Kao Lee)_4_138",
+      "Lee Family (Foua and Nao Kao Lee)_5_391",
+      "Merced Community Medical Center Clinical Team_3_88",
+      "Lee Family (Foua and Nao Kao Lee)_4_136"
+    ],
+    "grounded_size": 10,
+    "defeated_nodes": [],
+    "isolated_nodes": [
+      "Lee Family (Foua and Nao Kao Lee)_4_183",
+      "Lee Family (Foua and Nao Kao Lee)_5_626",
+      "Merced Community Medical Center Clinical Team_5_435",
+      "Lee Family (Foua and Nao Kao Lee)_5_504",
+      "Lee Family (Foua and Nao Kao Lee)_5_321",
+      "Merced Community Medical Center Clinical Team_5_310",
+      "Lee Family (Foua and Nao Kao Lee)_4_138",
+      "Lee Family (Foua and Nao Kao Lee)_5_391",
+      "Merced Community Medical Center Clinical Team_3_88",
+      "Lee Family (Foua and Nao Kao Lee)_4_136"
+    ],
+    "conflict_components": 11,
+    "approx_preferred_size": 91,
+    "external_attackers": 697,
+    "external_without_response": 697
+  }
+}

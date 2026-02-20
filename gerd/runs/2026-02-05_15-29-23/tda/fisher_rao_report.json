@@ -1,0 +1,33 @@
+{
+  "caso": "gerd",
+  "run": "casos\\gerd\\runs\\2026-02-05_15-29-23",
+  "pares": {
+    "Arab Republic of Egypt vs Federal Democratic Republic of Ethiopia": {
+      "fisher_rao_mean": 5.209384690019603,
+      "fisher_rao_std": 0.7972683299335821,
+      "coseno_mean": 0.6592205231027944,
+      "ratio": 7.902339970712733,
+      "curvatura_a1": 7.974941351745893,
+      "curvatura_a2": 7.944375177143135,
+      "outliers_hub_zone": 53
+    },
+    "Arab Republic of Egypt vs Republic of Sudan": {
+      "fisher_rao_mean": 4.919839611292338,
+      "fisher_rao_std": 0.7147760180137325,
+      "coseno_mean": 0.652735022545849,
+      "ratio": 7.537269244953123,
+      "curvatura_a1": 7.585125096405828,
+      "curvatura_a2": 7.572102591594797,
+      "outliers_hub_zone": 21
+    },
+    "Federal Democratic Republic of Ethiopia vs Republic of Sudan": {
+      "fisher_rao_mean": 5.057570912989813,
+      "fisher_rao_std": 0.7392939308685007,
+      "coseno_mean": 0.6282552166494277,
+      "ratio": 8.050185303923971,
+      "curvatura_a1": 8.084742781604193,
+      "curvatura_a2": 8.107871658187316,
+      "outliers_hub_zone": 15
+    }
+  }
+}

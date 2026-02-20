@@ -1,0 +1,246 @@
+{
+  "caso": "lia-lee",
+  "version": "8.8",
+  "nli_stats": {
+    "pairs_total": 252004,
+    "pairs_evaluated": 75145,
+    "fusions_approved": 222,
+    "contradictions_detected": 19657,
+    "nli_neutral": 53992,
+    "nli_low_entailment": 1271
+  },
+  "metricas": {
+    "eq_space_nodes": 219,
+    "fusion_pairs": 198,
+    "contradictions_nli": 19657,
+    "role_inversion_pairs": 3,
+    "ratio_conflict_nli": 0.2616,
+    "ratio_conflict_total": 0.2616,
+    "internal_conflicts": 1519,
+    "grounded_size": 10,
+    "grounded_ratio": 0.0457,
+    "defeated_size": 0,
+    "indeterminate_size": 209,
+    "conflict_components": 11,
+    "component_sizes": [
+      209,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "isolated_nodes": 10,
+    "fusion_hub_ratio": 0.9041
+  },
+  "grounded_extension": [
+    {
+      "node_id": "Lee Family (Foua and Nao Kao Lee)_4_136",
+      "actor": "Lee Family (Foua and Nao Kao Lee)",
+      "texto": "Lee family experiences increased stress and anxiety during hospital interactions"
+    },
+    {
+      "node_id": "Lee Family (Foua and Nao Kao Lee)_4_138",
+      "actor": "Lee Family (Foua and Nao Kao Lee)",
+      "texto": "Lee family perceives hospital environment as increasingly hostile or judgmental"
+    },
+    {
+      "node_id": "Lee Family (Foua and Nao Kao Lee)_4_183",
+      "actor": "Lee Family (Foua and Nao Kao Lee)",
+      "texto": "Lee Family experiences increased disruption to daily routines and work schedules"
+    },
+    {
+      "node_id": "Lee Family (Foua and Nao Kao Lee)_5_321",
+      "actor": "Lee Family (Foua and Nao Kao Lee)",
+      "texto": "The Lee family's relationship with medical providers becomes strained"
+    },
+    {
+      "node_id": "Lee Family (Foua and Nao Kao Lee)_5_391",
+      "actor": "Lee Family (Foua and Nao Kao Lee)",
+      "texto": "Lee family's trust in medical staff continues to deteriorate"
+    },
+    {
+      "node_id": "Lee Family (Foua and Nao Kao Lee)_5_504",
+      "actor": "Lee Family (Foua and Nao Kao Lee)",
+      "texto": "Lee Family experiences increased frustration during medical encounters"
+    },
+    {
+      "node_id": "Lee Family (Foua and Nao Kao Lee)_5_626",
+      "actor": "Lee Family (Foua and Nao Kao Lee)",
+      "texto": "Lee family experiences increased stress from more medical procedures"
+    },
+    {
+      "node_id": "Merced Community Medical Center Clinical Team_3_88",
+      "actor": "Merced Community Medical Center Clinical Team",
+      "texto": "The Lee family becomes increasingly frustrated with the medical system's demands."
+    },
+    {
+      "node_id": "Merced Community Medical Center Clinical Team_5_310",
+      "actor": "Merced Community Medical Center Clinical Team",
+      "texto": "The medical team has grounds to escalate concerns to Child Protective Services."
+    },
+    {
+      "node_id": "Merced Community Medical Center Clinical Team_5_435",
+      "actor": "Merced Community Medical Center Clinical Team",
+      "texto": "Legal proceedings regarding child welfare and custody begin."
+    }
+  ],
+  "cruce_grounded_hubs": {
+    "resumen": {
+      "en_algun_hub": 10,
+      "fuera_de_hubs": 0
+    },
+    "detalle": [
+      {
+        "node_id": "Lee Family (Foua and Nao Kao Lee)_4_136",
+        "actor": "Lee Family (Foua and Nao Kao Lee)",
+        "en_hub": true,
+        "clase_id": "Merced Community Medical Center Clinical Team_2_23",
+        "hub_rank": 1,
+        "ftt_sum": 5.471372380852699,
+        "ftt_max": 4.007244780659676,
+        "es_optimo": false,
+        "situacion": "EN_HUB"
+      },
+      {
+        "node_id": "Lee Family (Foua and Nao Kao Lee)_4_138",
+        "actor": "Lee Family (Foua and Nao Kao Lee)",
+        "en_hub": true,
+        "clase_id": "Merced Community Medical Center Clinical Team_2_23",
+        "hub_rank": 1,
+        "ftt_sum": 5.471372380852699,
+        "ftt_max": 4.007244780659676,
+        "es_optimo": false,
+        "situacion": "EN_HUB"
+      },
+      {
+        "node_id": "Lee Family (Foua and Nao Kao Lee)_4_183",
+        "actor": "Lee Family (Foua and Nao Kao Lee)",
+        "en_hub": true,
+        "clase_id": "Merced Community Medical Center Clinical Team_4_201",
+        "hub_rank": 21,
+        "ftt_sum": 11.752660542726517,
+        "ftt_max": 6.3128830045461655,
+        "es_optimo": true,
+        "situacion": "EN_HUB"
+      },
+      {
+        "node_id": "Lee Family (Foua and Nao Kao Lee)_5_321",
+        "actor": "Lee Family (Foua and Nao Kao Lee)",
+        "en_hub": true,
+        "clase_id": "Merced Community Medical Center Clinical Team_2_23",
+        "hub_rank": 1,
+        "ftt_sum": 5.471372380852699,
+        "ftt_max": 4.007244780659676,
+        "es_optimo": false,
+        "situacion": "EN_HUB"
+      },
+      {
+        "node_id": "Lee Family (Foua and Nao Kao Lee)_5_391",
+        "actor": "Lee Family (Foua and Nao Kao Lee)",
+        "en_hub": true,
+        "clase_id": "Merced Community Medical Center Clinical Team_2_23",
+        "hub_rank": 1,
+        "ftt_sum": 5.471372380852699,
+        "ftt_max": 4.007244780659676,
+        "es_optimo": false,
+        "situacion": "EN_HUB"
+      },
+      {
+        "node_id": "Lee Family (Foua and Nao Kao Lee)_5_504",
+        "actor": "Lee Family (Foua and Nao Kao Lee)",
+        "en_hub": true,
+        "clase_id": "Merced Community Medical Center Clinical Team_2_23",
+        "hub_rank": 1,
+        "ftt_sum": 5.471372380852699,
+        "ftt_max": 4.007244780659676,
+        "es_optimo": false,
+        "situacion": "EN_HUB"
+      },
+      {
+        "node_id": "Lee Family (Foua and Nao Kao Lee)_5_626",
+        "actor": "Lee Family (Foua and Nao Kao Lee)",
+        "en_hub": true,
+        "clase_id": "Merced Community Medical Center Clinical Team_2_23",
+        "hub_rank": 1,
+        "ftt_sum": 5.471372380852699,
+        "ftt_max": 4.007244780659676,
+        "es_optimo": false,
+        "situacion": "EN_HUB"
+      },
+      {
+        "node_id": "Merced Community Medical Center Clinical Team_3_88",
+        "actor": "Merced Community Medical Center Clinical Team",
+        "en_hub": true,
+        "clase_id": "Merced Community Medical Center Clinical Team_2_23",
+        "hub_rank": 1,
+        "ftt_sum": 5.471372380852699,
+        "ftt_max": 4.007244780659676,
+        "es_optimo": false,
+        "situacion": "EN_HUB"
+      },
+      {
+        "node_id": "Merced Community Medical Center Clinical Team_5_310",
+        "actor": "Merced Community Medical Center Clinical Team",
+        "en_hub": true,
+        "clase_id": "Merced Community Medical Center Clinical Team_5_392",
+        "hub_rank": 7,
+        "ftt_sum": 8.195818170905113,
+        "ftt_max": 5.109954997897148,
+        "es_optimo": false,
+        "situacion": "EN_HUB"
+      },
+      {
+        "node_id": "Merced Community Medical Center Clinical Team_5_435",
+        "actor": "Merced Community Medical Center Clinical Team",
+        "en_hub": true,
+        "clase_id": "Merced Community Medical Center Clinical Team_5_435",
+        "hub_rank": 35,
+        "ftt_sum": 13.467005893588066,
+        "ftt_max": 7.383694127202034,
+        "es_optimo": true,
+        "situacion": "EN_HUB"
+      }
+    ]
+  },
+  "zona_ciega": {
+    "total_nodos_arbol": 1004,
+    "nodos_contradicted": 984,
+    "nodos_en_E_no_atacado": 0,
+    "nodos_zona_ciega": 20,
+    "ratio_zona_ciega": 0.0199,
+    "por_actor": {
+      "Lee Family (Foua and Nao Kao Lee)": {
+        "total": 502,
+        "contradicted": 484,
+        "en_E_no_atacado": 0,
+        "zona_ciega": 18
+      },
+      "Merced Community Medical Center Clinical Team": {
+        "total": 502,
+        "contradicted": 500,
+        "en_E_no_atacado": 0,
+        "zona_ciega": 2
+      }
+    }
+  },
+  "actores": {
+    "Merced Community Medical Center Clinical Team": {
+      "nodos_en_E": 120,
+      "conflictos_internos": 759,
+      "en_grounded": 3,
+      "en_defeated": 0
+    },
+    "Lee Family (Foua and Nao Kao Lee)": {
+      "nodos_en_E": 99,
+      "conflictos_internos": 759,
+      "en_grounded": 7,
+      "en_defeated": 0
+    }
+  }
+}

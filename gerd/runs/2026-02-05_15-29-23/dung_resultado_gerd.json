@@ -1,0 +1,152 @@
+{
+  "caso": "gerd",
+  "version": "8.8",
+  "nli_stats": {
+    "pairs_total": 755008,
+    "pairs_evaluated": 241470,
+    "fusions_approved": 142,
+    "contradictions_detected": 90765,
+    "nli_neutral": 149767,
+    "nli_low_entailment": 790
+  },
+  "metricas": {
+    "eq_space_nodes": 170,
+    "fusion_pairs": 135,
+    "contradictions_nli": 90765,
+    "role_inversion_pairs": 6,
+    "ratio_conflict_nli": 0.3759,
+    "ratio_conflict_total": 0.3759,
+    "internal_conflicts": 798,
+    "grounded_size": 4,
+    "grounded_ratio": 0.0235,
+    "defeated_size": 0,
+    "indeterminate_size": 166,
+    "conflict_components": 5,
+    "component_sizes": [
+      166,
+      1,
+      1,
+      1,
+      1
+    ],
+    "isolated_nodes": 4,
+    "fusion_hub_ratio": 0.7941
+  },
+  "grounded_extension": [
+    {
+      "node_id": "Arab Republic of Egypt_6_569",
+      "actor": "Arab Republic of Egypt",
+      "texto": "Egypt's negotiating leverage becomes diluted across multiple partners"
+    },
+    {
+      "node_id": "Republic of Sudan_5_385",
+      "actor": "Republic of Sudan",
+      "texto": "Sudan's government loses credibility with farming communities"
+    },
+    {
+      "node_id": "Republic of Sudan_5_427",
+      "actor": "Republic of Sudan",
+      "texto": "Sudan's rural economy faces severe disruption"
+    },
+    {
+      "node_id": "Republic of Sudan_5_634",
+      "actor": "Republic of Sudan",
+      "texto": "Sudan's government faces increased public dissatisfaction"
+    }
+  ],
+  "cruce_grounded_hubs": {
+    "resumen": {
+      "en_algun_hub": 0,
+      "fuera_de_hubs": 4
+    },
+    "detalle": [
+      {
+        "node_id": "Arab Republic of Egypt_6_569",
+        "actor": "Arab Republic of Egypt",
+        "en_hub": false,
+        "clase_id": null,
+        "hub_rank": null,
+        "ftt_sum": null,
+        "es_optimo": false,
+        "situacion": "FUERA_DE_HUBS"
+      },
+      {
+        "node_id": "Republic of Sudan_5_385",
+        "actor": "Republic of Sudan",
+        "en_hub": false,
+        "clase_id": null,
+        "hub_rank": null,
+        "ftt_sum": null,
+        "es_optimo": false,
+        "situacion": "FUERA_DE_HUBS"
+      },
+      {
+        "node_id": "Republic of Sudan_5_427",
+        "actor": "Republic of Sudan",
+        "en_hub": false,
+        "clase_id": null,
+        "hub_rank": null,
+        "ftt_sum": null,
+        "es_optimo": false,
+        "situacion": "FUERA_DE_HUBS"
+      },
+      {
+        "node_id": "Republic of Sudan_5_634",
+        "actor": "Republic of Sudan",
+        "en_hub": false,
+        "clase_id": null,
+        "hub_rank": null,
+        "ftt_sum": null,
+        "es_optimo": false,
+        "situacion": "FUERA_DE_HUBS"
+      }
+    ]
+  },
+  "zona_ciega": {
+    "total_nodos_arbol": 1505,
+    "nodos_contradicted": 1504,
+    "nodos_en_E_no_atacado": 1,
+    "nodos_zona_ciega": 0,
+    "ratio_zona_ciega": 0.0,
+    "por_actor": {
+      "Arab Republic of Egypt": {
+        "total": 502,
+        "contradicted": 502,
+        "en_E_no_atacado": 0,
+        "zona_ciega": 0
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "total": 502,
+        "contradicted": 502,
+        "en_E_no_atacado": 0,
+        "zona_ciega": 0
+      },
+      "Republic of Sudan": {
+        "total": 501,
+        "contradicted": 500,
+        "en_E_no_atacado": 1,
+        "zona_ciega": 0
+      }
+    }
+  },
+  "actores": {
+    "Arab Republic of Egypt": {
+      "nodos_en_E": 84,
+      "conflictos_internos": 346,
+      "en_grounded": 1,
+      "en_defeated": 0
+    },
+    "Republic of Sudan": {
+      "nodos_en_E": 75,
+      "conflictos_internos": 302,
+      "en_grounded": 3,
+      "en_defeated": 0
+    },
+    "Federal Democratic Republic of Ethiopia": {
+      "nodos_en_E": 11,
+      "conflictos_internos": 150,
+      "en_grounded": 0,
+      "en_defeated": 0
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "stats": {
+    "pairs_total": 755008,
+    "pairs_skipped_embedding": 513538,
+    "pairs_evaluated": 241470,
+    "nli_calls": 241470,
+    "batches_processed": 1887,
+    "fusions_approved": 142,
+    "fusions_rejected_contradiction": 6,
+    "contradictions_detected": 90765,
+    "nli_neutral": 149767,
+    "nli_low_entailment": 790,
+    "fusions_rejected_role_inversion": 7,
+    "llm_verification_calls": 10
+  },
+  "dung_summary": {
+    "total_attacks": 90771,
+    "ratio_conflict": 0.3759,
+    "hub_nodes": 170,
+    "fusion_pairs": 135,
+    "internal_conflicts": 800,
+    "grounded_extension": [
+      "Arab Republic of Egypt_6_569",
+      "Republic of Sudan_5_634",
+      "Republic of Sudan_5_427",
+      "Republic of Sudan_5_385"
+    ],
+    "grounded_size": 4,
+    "defeated_nodes": [],
+    "isolated_nodes": [
+      "Arab Republic of Egypt_6_569",
+      "Republic of Sudan_5_634",
+      "Republic of Sudan_5_427",
+      "Republic of Sudan_5_385"
+    ],
+    "conflict_components": 5,
+    "approx_preferred_size": 81,
+    "external_attackers": 1244,
+    "external_without_response": 1244
+  }
+}

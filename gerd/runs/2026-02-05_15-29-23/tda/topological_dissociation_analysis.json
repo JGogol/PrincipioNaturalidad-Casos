@@ -1,0 +1,18 @@
+{
+  "beta_0_con_bridges": 1,
+  "beta_0_sin_bridges": 1,
+  "delta_beta_0": 0,
+  "total_nodes": 86,
+  "total_edges": 660,
+  "mixed_nodes_count": 0,
+  "bridges_count": 0,
+  "bridges": [],
+  "components": [
+    {
+      "size": 86,
+      "manic_nodes": 0,
+      "depressive_nodes": 86,
+      "mixed_nodes": 0
+    }
+  ]
+}

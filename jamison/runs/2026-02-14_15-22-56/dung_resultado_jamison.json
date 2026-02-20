@@ -1,0 +1,94 @@
+{
+  "caso": "jamison",
+  "version": "8.8",
+  "nli_stats": {
+    "pairs_total": 251000,
+    "pairs_evaluated": 188408,
+    "fusions_approved": 6,
+    "contradictions_detected": 141328,
+    "nli_neutral": 47005,
+    "nli_low_entailment": 67
+  },
+  "metricas": {
+    "eq_space_nodes": 8,
+    "fusion_pairs": 4,
+    "contradictions_nli": 141328,
+    "role_inversion_pairs": 2,
+    "ratio_conflict_nli": 0.7501,
+    "ratio_conflict_total": 0.7501,
+    "internal_conflicts": 5,
+    "grounded_size": 1,
+    "grounded_ratio": 0.125,
+    "defeated_size": 0,
+    "indeterminate_size": 7,
+    "conflict_components": 3,
+    "component_sizes": [
+      4,
+      3,
+      1
+    ],
+    "isolated_nodes": 1,
+    "fusion_hub_ratio": 0.5
+  },
+  "grounded_extension": [
+    {
+      "node_id": "Kay Jamison [ManicState]_5_173",
+      "actor": "Kay Jamison [ManicState]",
+      "texto": "Kay Jamison [ManicState] will resist psychiatric recommendations to increase medication dosage"
+    }
+  ],
+  "cruce_grounded_hubs": {
+    "resumen": {
+      "en_algun_hub": 1,
+      "fuera_de_hubs": 0
+    },
+    "detalle": [
+      {
+        "node_id": "Kay Jamison [ManicState]_5_173",
+        "actor": "Kay Jamison [ManicState]",
+        "en_hub": true,
+        "clase_id": "Kay Jamison [ManicState]_5_173",
+        "hub_rank": 2,
+        "ftt_sum": 10.870943397283554,
+        "ftt_max": 5.76108056306839,
+        "es_optimo": true,
+        "situacion": "EN_HUB"
+      }
+    ]
+  },
+  "zona_ciega": {
+    "total_nodos_arbol": 1002,
+    "nodos_contradicted": 1002,
+    "nodos_en_E_no_atacado": 0,
+    "nodos_zona_ciega": 0,
+    "ratio_zona_ciega": 0.0,
+    "por_actor": {
+      "Kay Jamison [DepressiveState]": {
+        "total": 502,
+        "contradicted": 502,
+        "en_E_no_atacado": 0,
+        "zona_ciega": 0
+      },
+      "Kay Jamison [ManicState]": {
+        "total": 500,
+        "contradicted": 500,
+        "en_E_no_atacado": 0,
+        "zona_ciega": 0
+      }
+    }
+  },
+  "actores": {
+    "Kay Jamison [DepressiveState]": {
+      "nodos_en_E": 4,
+      "conflictos_internos": 2,
+      "en_grounded": 0,
+      "en_defeated": 0
+    },
+    "Kay Jamison [ManicState]": {
+      "nodos_en_E": 4,
+      "conflictos_internos": 2,
+      "en_grounded": 1,
+      "en_defeated": 0
+    }
+  }
+}

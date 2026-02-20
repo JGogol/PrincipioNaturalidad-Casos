@@ -1,0 +1,65 @@
+{
+  "beta_0_con_bridges": 2,
+  "beta_0_sin_bridges": 2,
+  "delta_beta_0": 0,
+  "total_nodes": 78,
+  "total_edges": 612,
+  "mixed_nodes_count": 12,
+  "bridges_count": 8,
+  "bridges": [
+    {
+      "node_id": "cube25_cluster0",
+      "manic_ratio": 0.5844155844155844,
+      "sample_text": "Kay Jamison [DepressiveState] will experience diminished intellectual acuity compared to pre-medication baseline"
+    },
+    {
+      "node_id": "cube36_cluster0",
+      "manic_ratio": 0.4392523364485981,
+      "sample_text": "Kay Jamison [DepressiveState] will reduce likelihood of completed suicide attempts"
+    },
+    {
+      "node_id": "cube46_cluster0",
+      "manic_ratio": 0.4051724137931034,
+      "sample_text": "Kay Jamison [DepressiveState] will maintain stable interpersonal relationships"
+    },
+    {
+      "node_id": "cube50_cluster0",
+      "manic_ratio": 0.5,
+      "sample_text": "Kay Jamison [DepressiveState] will suppress or avoid activities that increase energy"
+    },
+    {
+      "node_id": "cube51_cluster0",
+      "manic_ratio": 0.6176470588235294,
+      "sample_text": "Kay Jamison [DepressiveState] will suppress or avoid activities that increase energy"
+    },
+    {
+      "node_id": "cube59_cluster0",
+      "manic_ratio": 0.4117647058823529,
+      "sample_text": "Kay Jamison [DepressiveState] will monitor her sleep patterns for decreased need"
+    },
+    {
+      "node_id": "cube60_cluster0",
+      "manic_ratio": 0.3888888888888889,
+      "sample_text": "Kay Jamison [DepressiveState] will monitor her sleep patterns for decreased need"
+    },
+    {
+      "node_id": "cube62_cluster0",
+      "manic_ratio": 0.5,
+      "sample_text": "Kay Jamison [DepressiveState] obtains specific dosage or medication regimen modifications"
+    }
+  ],
+  "components": [
+    {
+      "size": 72,
+      "manic_nodes": 30,
+      "depressive_nodes": 34,
+      "mixed_nodes": 8
+    },
+    {
+      "size": 6,
+      "manic_nodes": 0,
+      "depressive_nodes": 2,
+      "mixed_nodes": 4
+    }
+  ]
+}
