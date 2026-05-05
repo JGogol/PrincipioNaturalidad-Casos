@@ -1,0 +1,3944 @@
+{
+  "version": "10.2",
+  "total": 38,
+  "by_type": {
+    "strict": 38,
+    "lax": 0
+  },
+  "hubs": [
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_449",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_6_612",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "validated_core": [
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_3_48"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_3_48"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] will avoid hospitalization for mood episodes",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 8.255294799804688,
+      "ftt_max": 4.847202867269516,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 4.847202867269516,
+        "Kay Jamison [ManicState]": 3.4080919325351715
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_1",
+            "texto": "Kay Jamison [DepressiveState] must prioritize medication adherence over all other considerations"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_9",
+            "texto": "Kay Jamison [DepressiveState] will resist any impulse to discontinue treatment during future mood episodes"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_11",
+            "texto": "Kay Jamison [DepressiveState] will maintain consistent therapeutic lithium blood levels"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_56",
+            "texto": "Kay Jamison [DepressiveState] will maintain stable mood between depressive and euthymic states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_115",
+            "texto": "Kay Jamison [DepressiveState] will avoid hospitalization for mood episodes"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_2",
+            "texto": "Kay Jamison [ManicState] will experience restoration of her natural cognitive speed and intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_10",
+            "texto": "Kay Jamison [ManicState] will experience enhanced confidence in her professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_48",
+            "texto": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_5_115",
+      "texto": "Kay Jamison [DepressiveState] will avoid hospitalization for mood episodes"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_449",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_6_612",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_5_154"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_3_48"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 8.629425406455994,
+      "ftt_max": 5.221333473920822,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 5.221333473920822,
+        "Kay Jamison [ManicState]": 3.4080919325351715
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_2",
+            "texto": "Any argument against lithium treatment represents dangerous illness-driven thinking"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_10",
+            "texto": "Kay Jamison [DepressiveState] must dismiss her own future resistance to medication as pathological"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_30",
+            "texto": "Kay Jamison [DepressiveState] experiences internal fragmentation between mood states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_69",
+            "texto": "Kay Jamison [DepressiveState] fears the inevitable return of manic thinking patterns"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_154",
+            "texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_2",
+            "texto": "Kay Jamison [ManicState] will experience restoration of her natural cognitive speed and intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_10",
+            "texto": "Kay Jamison [ManicState] will experience enhanced confidence in her professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_48",
+            "texto": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_5_154",
+      "texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_449",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_6_612",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "validated_core": [
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_3_48"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_3_48"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] will avoid involuntary psychiatric commitment",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 9.361149251461029,
+      "ftt_max": 5.9530573189258575,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 5.9530573189258575,
+        "Kay Jamison [ManicState]": 3.4080919325351715
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_1",
+            "texto": "Kay Jamison [DepressiveState] must prioritize medication adherence over all other considerations"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_9",
+            "texto": "Kay Jamison [DepressiveState] will resist any impulse to discontinue treatment during future mood episodes"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_11",
+            "texto": "Kay Jamison [DepressiveState] will maintain consistent therapeutic lithium blood levels"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_56",
+            "texto": "Kay Jamison [DepressiveState] will maintain stable mood between depressive and euthymic states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_115",
+            "texto": "Kay Jamison [DepressiveState] will avoid hospitalization for mood episodes"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_313",
+            "texto": "Kay Jamison [DepressiveState] will avoid involuntary psychiatric commitment"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_2",
+            "texto": "Kay Jamison [ManicState] will experience restoration of her natural cognitive speed and intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_10",
+            "texto": "Kay Jamison [ManicState] will experience enhanced confidence in her professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_48",
+            "texto": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_313",
+      "texto": "Kay Jamison [DepressiveState] will avoid involuntary psychiatric commitment"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_3_41",
+      "clase_nodos": [
+        "Kay Jamison [ManicState]_3_41",
+        "Kay Jamison [DepressiveState]_6_382"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_3_41",
+        "Kay Jamison [DepressiveState]_6_382"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_382",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_3_41"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] will lose neuroprotective benefits of lithium treatment",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] loses lithium's mood-stabilizing neurochemical effects"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 9.391539335250854,
+      "ftt_max": 6.0628456473350525,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.0628456473350525,
+        "Kay Jamison [ManicState]": 3.328693687915802
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_3",
+            "texto": "Kay Jamison [DepressiveState] cannot trust her own judgment during non-depressed states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_6",
+            "texto": "Kay Jamison [DepressiveState] cannot rely on her future self to maintain medication adherence"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_20",
+            "texto": "Kay Jamison [DepressiveState] recognizes her illness creates fundamentally incompatible identity states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_76",
+            "texto": "Kay Jamison [DepressiveState] cannot predict which identity state will control future medication decisions"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_182",
+            "texto": "Kay Jamison [DepressiveState] faces inevitable medication discontinuation during future manic episodes"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_382",
+            "texto": "Kay Jamison [DepressiveState] will lose neuroprotective benefits of lithium treatment"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_1",
+            "texto": "Kay Jamison [ManicState] will reduce her lithium dosage or stop taking it entirely"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_7",
+            "texto": "Lithium blood levels in Kay Jamison [ManicState] decrease over days to weeks"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_41",
+            "texto": "Kay Jamison [ManicState] loses lithium's mood-stabilizing neurochemical effects"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_382",
+      "texto": "Kay Jamison [DepressiveState] will lose neuroprotective benefits of lithium treatment"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_449",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_6_612",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_467",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_3_48"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 9.48886787891388,
+      "ftt_max": 6.080775946378708,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.080775946378708,
+        "Kay Jamison [ManicState]": 3.4080919325351715
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_2",
+            "texto": "Any argument against lithium treatment represents dangerous illness-driven thinking"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_10",
+            "texto": "Kay Jamison [DepressiveState] must dismiss her own future resistance to medication as pathological"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_30",
+            "texto": "Kay Jamison [DepressiveState] experiences internal fragmentation between mood states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_69",
+            "texto": "Kay Jamison [DepressiveState] fears the inevitable return of manic thinking patterns"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_154",
+            "texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_467",
+            "texto": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_2",
+            "texto": "Kay Jamison [ManicState] will experience restoration of her natural cognitive speed and intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_10",
+            "texto": "Kay Jamison [ManicState] will experience enhanced confidence in her professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_48",
+            "texto": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_467",
+      "texto": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_5_439",
+      "clase_nodos": [
+        "Kay Jamison [ManicState]_5_439",
+        "Kay Jamison [DepressiveState]_6_381",
+        "Kay Jamison [DepressiveState]_6_350",
+        "Kay Jamison [DepressiveState]_6_510",
+        "Kay Jamison [ManicState]_3_40",
+        "Kay Jamison [ManicState]_4_58",
+        "Kay Jamison [ManicState]_7_643"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_3_40",
+        "Kay Jamison [DepressiveState]_6_381"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_381",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_3_40"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] faces progressive worsening of episode severity",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] experiences return of unmedicated manic symptom intensity"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 9.851030558347702,
+      "ftt_max": 6.280869781970978,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.280869781970978,
+        "Kay Jamison [ManicState]": 3.5701607763767242
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_3",
+            "texto": "Kay Jamison [DepressiveState] cannot trust her own judgment during non-depressed states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_6",
+            "texto": "Kay Jamison [DepressiveState] cannot rely on her future self to maintain medication adherence"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_20",
+            "texto": "Kay Jamison [DepressiveState] recognizes her illness creates fundamentally incompatible identity states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_76",
+            "texto": "Kay Jamison [DepressiveState] cannot predict which identity state will control future medication decisions"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_182",
+            "texto": "Kay Jamison [DepressiveState] faces inevitable medication discontinuation during future manic episodes"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_381",
+            "texto": "Kay Jamison [DepressiveState] faces progressive worsening of episode severity"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_1",
+            "texto": "Kay Jamison [ManicState] will reduce her lithium dosage or stop taking it entirely"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_7",
+            "texto": "Lithium blood levels in Kay Jamison [ManicState] decrease over days to weeks"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_40",
+            "texto": "Kay Jamison [ManicState] experiences return of unmedicated manic symptom intensity"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_381",
+      "texto": "Kay Jamison [DepressiveState] faces progressive worsening of episode severity"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_449",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_6_612",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [DepressiveState]_4_52"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_6_449"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] will view medication side effects as preferable to illness symptoms",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will prioritize subjective wellness over clinical indicators"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 10.380312442779541,
+      "ftt_max": 6.573296785354614,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 3.8070156574249268,
+        "Kay Jamison [ManicState]": 6.573296785354614
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_1",
+            "texto": "Kay Jamison [DepressiveState] must prioritize medication adherence over all other considerations"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_7",
+            "texto": "Kay Jamison [DepressiveState] will accept lithium's cognitive dulling and side effects as necessary costs"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_25",
+            "texto": "Kay Jamison [DepressiveState] will tolerate cognitive slowing and reduced mental sharpness"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_52",
+            "texto": "Kay Jamison [DepressiveState] will view medication side effects as preferable to illness symptoms"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_2",
+            "texto": "Kay Jamison [ManicState] will experience restoration of her natural cognitive speed and intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_10",
+            "texto": "Kay Jamison [ManicState] will experience enhanced confidence in her professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_48",
+            "texto": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_75",
+            "texto": "Kay Jamison [ManicState] will reduce frequency of psychiatric appointments"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_184",
+            "texto": "Kay Jamison [ManicState] will experience increased autonomy over treatment decisions"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_449",
+            "texto": "Kay Jamison [ManicState] will prioritize subjective wellness over clinical indicators"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_4_52",
+      "texto": "Kay Jamison [DepressiveState] will view medication side effects as preferable to illness symptoms"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_5_439",
+      "clase_nodos": [
+        "Kay Jamison [ManicState]_5_439",
+        "Kay Jamison [DepressiveState]_6_381",
+        "Kay Jamison [DepressiveState]_6_350",
+        "Kay Jamison [DepressiveState]_6_510",
+        "Kay Jamison [ManicState]_3_40",
+        "Kay Jamison [ManicState]_4_58",
+        "Kay Jamison [ManicState]_7_643"
+      ],
+      "validated_core": [
+        "Kay Jamison [DepressiveState]_6_381",
+        "Kay Jamison [ManicState]_4_58"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_381",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_4_58"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] faces progressive worsening of episode severity",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] experiences decreased insight into illness severity"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 10.405866801738739,
+      "ftt_max": 6.280869781970978,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.280869781970978,
+        "Kay Jamison [ManicState]": 4.124997019767761
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_3",
+            "texto": "Kay Jamison [DepressiveState] cannot trust her own judgment during non-depressed states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_6",
+            "texto": "Kay Jamison [DepressiveState] cannot rely on her future self to maintain medication adherence"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_20",
+            "texto": "Kay Jamison [DepressiveState] recognizes her illness creates fundamentally incompatible identity states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_76",
+            "texto": "Kay Jamison [DepressiveState] cannot predict which identity state will control future medication decisions"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_182",
+            "texto": "Kay Jamison [DepressiveState] faces inevitable medication discontinuation during future manic episodes"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_381",
+            "texto": "Kay Jamison [DepressiveState] faces progressive worsening of episode severity"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_1",
+            "texto": "Kay Jamison [ManicState] will reduce her lithium dosage or stop taking it entirely"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_6",
+            "texto": "Kay Jamison [ManicState] perceives enhanced creative and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_27",
+            "texto": "Kay Jamison [ManicState] interprets her elevated mood as optimal functioning"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_58",
+            "texto": "Kay Jamison [ManicState] experiences decreased insight into illness severity"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_381",
+      "texto": "Kay Jamison [DepressiveState] faces progressive worsening of episode severity"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_5_439",
+      "clase_nodos": [
+        "Kay Jamison [ManicState]_5_439",
+        "Kay Jamison [DepressiveState]_6_381",
+        "Kay Jamison [DepressiveState]_6_350",
+        "Kay Jamison [DepressiveState]_6_510",
+        "Kay Jamison [ManicState]_3_40",
+        "Kay Jamison [ManicState]_4_58",
+        "Kay Jamison [ManicState]_7_643"
+      ],
+      "validated_core": [
+        "Kay Jamison [DepressiveState]_6_510",
+        "Kay Jamison [ManicState]_4_58"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_510",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_4_58"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] experiences learned helplessness regarding her psychiatric condition",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] experiences decreased insight into illness severity"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 10.503203839063644,
+      "ftt_max": 6.378206819295883,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.378206819295883,
+        "Kay Jamison [ManicState]": 4.124997019767761
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_3",
+            "texto": "Kay Jamison [DepressiveState] cannot trust her own judgment during non-depressed states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_6",
+            "texto": "Kay Jamison [DepressiveState] cannot rely on her future self to maintain medication adherence"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_19",
+            "texto": "Kay Jamison [DepressiveState] experiences profound helplessness about her cyclical self-sabotage"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_64",
+            "texto": "Kay Jamison [DepressiveState] views her future manic episodes as inevitable"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_179",
+            "texto": "Kay Jamison [DepressiveState] perceives her condition as fundamentally uncontrollable"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_510",
+            "texto": "Kay Jamison [DepressiveState] experiences learned helplessness regarding her psychiatric condition"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_1",
+            "texto": "Kay Jamison [ManicState] will reduce her lithium dosage or stop taking it entirely"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_6",
+            "texto": "Kay Jamison [ManicState] perceives enhanced creative and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_27",
+            "texto": "Kay Jamison [ManicState] interprets her elevated mood as optimal functioning"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_58",
+            "texto": "Kay Jamison [ManicState] experiences decreased insight into illness severity"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_510",
+      "texto": "Kay Jamison [DepressiveState] experiences learned helplessness regarding her psychiatric condition"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_449",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_6_612",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_467",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_4_87"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will perceive enhanced mental clarity and sharpness"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 10.731415927410126,
+      "ftt_max": 6.080775946378708,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.080775946378708,
+        "Kay Jamison [ManicState]": 4.650639981031418
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_2",
+            "texto": "Any argument against lithium treatment represents dangerous illness-driven thinking"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_10",
+            "texto": "Kay Jamison [DepressiveState] must dismiss her own future resistance to medication as pathological"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_30",
+            "texto": "Kay Jamison [DepressiveState] experiences internal fragmentation between mood states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_69",
+            "texto": "Kay Jamison [DepressiveState] fears the inevitable return of manic thinking patterns"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_154",
+            "texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_467",
+            "texto": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_3",
+            "texto": "Kay Jamison [ManicState] will regain access to the full spectrum of emotional experience"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_14",
+            "texto": "Kay Jamison [ManicState] will feel authentic connection to her natural temperamental intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_38",
+            "texto": "Kay Jamison [ManicState] will feel liberated from artificial emotional constraints"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_87",
+            "texto": "Kay Jamison [ManicState] will perceive enhanced mental clarity and sharpness"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_467",
+      "texto": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_4_136",
+      "clase_nodos": [
+        "Kay Jamison [ManicState]_4_136",
+        "Kay Jamison [DepressiveState]_6_567",
+        "Kay Jamison [DepressiveState]_6_496",
+        "Kay Jamison [DepressiveState]_6_293"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_4_136",
+        "Kay Jamison [DepressiveState]_6_293"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_293",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_4_136"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] will experience decreased confidence in professional judgment",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will become increasingly isolated from collegial input"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 11.077743217349052,
+      "ftt_max": 5.786186635494232,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 5.786186635494232,
+        "Kay Jamison [ManicState]": 5.29155658185482
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_1",
+            "texto": "Kay Jamison [DepressiveState] must prioritize medication adherence over all other considerations"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_9",
+            "texto": "Kay Jamison [DepressiveState] will resist any impulse to discontinue treatment during future mood episodes"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_13",
+            "texto": "Kay Jamison [DepressiveState] will experience lithium's cognitive and physical side effects"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_39",
+            "texto": "Kay Jamison [DepressiveState] will experience cognitive dulling and reduced mental acuity"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_107",
+            "texto": "Kay Jamison [DepressiveState] will notice decreased sharpness in clinical reasoning abilities"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_293",
+            "texto": "Kay Jamison [DepressiveState] will experience decreased confidence in professional judgment"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_2",
+            "texto": "Kay Jamison [ManicState] will experience restoration of her natural cognitive speed and intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_10",
+            "texto": "Kay Jamison [ManicState] will experience enhanced confidence in her professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_47",
+            "texto": "Kay Jamison [ManicState] will dismiss colleagues' concerns about her judgment as excessive caution"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_136",
+            "texto": "Kay Jamison [ManicState] will become increasingly isolated from collegial input"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_293",
+      "texto": "Kay Jamison [DepressiveState] will experience decreased confidence in professional judgment"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_449",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_6_612",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "validated_core": [
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_6_449"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_6_449"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] will avoid hospitalization for mood episodes",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will prioritize subjective wellness over clinical indicators"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 11.42049965262413,
+      "ftt_max": 6.573296785354614,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 4.847202867269516,
+        "Kay Jamison [ManicState]": 6.573296785354614
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_1",
+            "texto": "Kay Jamison [DepressiveState] must prioritize medication adherence over all other considerations"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_9",
+            "texto": "Kay Jamison [DepressiveState] will resist any impulse to discontinue treatment during future mood episodes"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_11",
+            "texto": "Kay Jamison [DepressiveState] will maintain consistent therapeutic lithium blood levels"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_56",
+            "texto": "Kay Jamison [DepressiveState] will maintain stable mood between depressive and euthymic states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_115",
+            "texto": "Kay Jamison [DepressiveState] will avoid hospitalization for mood episodes"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_2",
+            "texto": "Kay Jamison [ManicState] will experience restoration of her natural cognitive speed and intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_10",
+            "texto": "Kay Jamison [ManicState] will experience enhanced confidence in her professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_48",
+            "texto": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_75",
+            "texto": "Kay Jamison [ManicState] will reduce frequency of psychiatric appointments"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_184",
+            "texto": "Kay Jamison [ManicState] will experience increased autonomy over treatment decisions"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_449",
+            "texto": "Kay Jamison [ManicState] will prioritize subjective wellness over clinical indicators"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_5_115",
+      "texto": "Kay Jamison [DepressiveState] will avoid hospitalization for mood episodes"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_449",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_6_612",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "validated_core": [
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [ManicState]_6_386"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_6_386"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] feels her rational insights during depression will be overridden by manic denial",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] experiences decreased external reality-testing regarding her behavior"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 11.475680947303772,
+      "ftt_max": 6.462859779596329,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 5.012821167707443,
+        "Kay Jamison [ManicState]": 6.462859779596329
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_3",
+            "texto": "Kay Jamison [DepressiveState] cannot trust her own judgment during non-depressed states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_6",
+            "texto": "Kay Jamison [DepressiveState] cannot rely on her future self to maintain medication adherence"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_19",
+            "texto": "Kay Jamison [DepressiveState] experiences profound helplessness about her cyclical self-sabotage"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_66",
+            "texto": "Kay Jamison [DepressiveState] feels trapped by the cyclical nature of her condition"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_165",
+            "texto": "Kay Jamison [DepressiveState] feels her rational insights during depression will be overridden by manic denial"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_1",
+            "texto": "Kay Jamison [ManicState] will reduce her lithium dosage or stop taking it entirely"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_6",
+            "texto": "Kay Jamison [ManicState] perceives enhanced creative and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_27",
+            "texto": "Kay Jamison [ManicState] interprets her elevated mood as optimal functioning"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_56",
+            "texto": "Kay Jamison [ManicState] dismisses external concerns about her behavior as misguided"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_179",
+            "texto": "Kay Jamison [ManicState] reduces communication with her treating psychiatrist"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_386",
+            "texto": "Kay Jamison [ManicState] experiences decreased external reality-testing regarding her behavior"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_5_165",
+      "texto": "Kay Jamison [DepressiveState] feels her rational insights during depression will be overridden by manic denial"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_449",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_6_612",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "validated_core": [
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [ManicState]_6_386"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_6_386"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] experiences decreased external reality-testing regarding her behavior"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 11.68419325351715,
+      "ftt_max": 6.462859779596329,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 5.221333473920822,
+        "Kay Jamison [ManicState]": 6.462859779596329
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_2",
+            "texto": "Any argument against lithium treatment represents dangerous illness-driven thinking"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_10",
+            "texto": "Kay Jamison [DepressiveState] must dismiss her own future resistance to medication as pathological"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_30",
+            "texto": "Kay Jamison [DepressiveState] experiences internal fragmentation between mood states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_69",
+            "texto": "Kay Jamison [DepressiveState] fears the inevitable return of manic thinking patterns"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_154",
+            "texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_1",
+            "texto": "Kay Jamison [ManicState] will reduce her lithium dosage or stop taking it entirely"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_6",
+            "texto": "Kay Jamison [ManicState] perceives enhanced creative and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_27",
+            "texto": "Kay Jamison [ManicState] interprets her elevated mood as optimal functioning"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_56",
+            "texto": "Kay Jamison [ManicState] dismisses external concerns about her behavior as misguided"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_179",
+            "texto": "Kay Jamison [ManicState] reduces communication with her treating psychiatrist"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_386",
+            "texto": "Kay Jamison [ManicState] experiences decreased external reality-testing regarding her behavior"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_5_154",
+      "texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_4_136",
+      "clase_nodos": [
+        "Kay Jamison [ManicState]_4_136",
+        "Kay Jamison [DepressiveState]_6_567",
+        "Kay Jamison [DepressiveState]_6_496",
+        "Kay Jamison [DepressiveState]_6_293"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_4_136",
+        "Kay Jamison [DepressiveState]_6_496"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_496",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_4_136"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] will describe social withdrawal from professional colleagues",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will become increasingly isolated from collegial input"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 11.727351650595665,
+      "ftt_max": 6.435795068740845,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.435795068740845,
+        "Kay Jamison [ManicState]": 5.29155658185482
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_1",
+            "texto": "Kay Jamison [DepressiveState] must prioritize medication adherence over all other considerations"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_8",
+            "texto": "Kay Jamison [DepressiveState] will maintain regular psychiatric appointments and medication monitoring"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_33",
+            "texto": "Kay Jamison [DepressiveState] will have regular assessment of depressive symptoms and suicide risk"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_79",
+            "texto": "Kay Jamison [DepressiveState] will undergo standardized depression rating scales and suicidality screening instruments"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_199",
+            "texto": "Kay Jamison [DepressiveState] will provide detailed responses about functional impairment"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_496",
+            "texto": "Kay Jamison [DepressiveState] will describe social withdrawal from professional colleagues"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_2",
+            "texto": "Kay Jamison [ManicState] will experience restoration of her natural cognitive speed and intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_10",
+            "texto": "Kay Jamison [ManicState] will experience enhanced confidence in her professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_47",
+            "texto": "Kay Jamison [ManicState] will dismiss colleagues' concerns about her judgment as excessive caution"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_136",
+            "texto": "Kay Jamison [ManicState] will become increasingly isolated from collegial input"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_496",
+      "texto": "Kay Jamison [DepressiveState] will describe social withdrawal from professional colleagues"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_5_179",
+      "clase_nodos": [
+        "Kay Jamison [ManicState]_6_387",
+        "Kay Jamison [ManicState]_6_366",
+        "Kay Jamison [DepressiveState]_6_406",
+        "Kay Jamison [ManicState]_6_407",
+        "Kay Jamison [ManicState]_5_179"
+      ],
+      "validated_core": [
+        "Kay Jamison [DepressiveState]_6_406",
+        "Kay Jamison [ManicState]_5_179"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_406",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_5_179"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] avoids discussing treatment options with her doctor",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] reduces communication with her treating psychiatrist"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 11.76695340871811,
+      "ftt_max": 6.374884188175201,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.374884188175201,
+        "Kay Jamison [ManicState]": 5.392069220542908
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_3",
+            "texto": "Kay Jamison [DepressiveState] cannot trust her own judgment during non-depressed states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_5",
+            "texto": "Kay Jamison [DepressiveState] views her manic self as fundamentally unreliable regarding treatment choices"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_16",
+            "texto": "Kay Jamison [DepressiveState] experiences profound mistrust of her own cognitive states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_60",
+            "texto": "Kay Jamison [DepressiveState] fears making any autonomous medical choices"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_175",
+            "texto": "Kay Jamison [DepressiveState] experiences paralysis when facing treatment modifications"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_406",
+            "texto": "Kay Jamison [DepressiveState] avoids discussing treatment options with her doctor"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_1",
+            "texto": "Kay Jamison [ManicState] will reduce her lithium dosage or stop taking it entirely"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_6",
+            "texto": "Kay Jamison [ManicState] perceives enhanced creative and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_27",
+            "texto": "Kay Jamison [ManicState] interprets her elevated mood as optimal functioning"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_56",
+            "texto": "Kay Jamison [ManicState] dismisses external concerns about her behavior as misguided"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_179",
+            "texto": "Kay Jamison [ManicState] reduces communication with her treating psychiatrist"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_406",
+      "texto": "Kay Jamison [DepressiveState] avoids discussing treatment options with her doctor"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_449",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_6_612",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [DepressiveState]_5_154"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_5_346"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will experience inflated assessment of her current capabilities"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 11.806084752082825,
+      "ftt_max": 6.584751278162003,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 5.221333473920822,
+        "Kay Jamison [ManicState]": 6.584751278162003
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_2",
+            "texto": "Any argument against lithium treatment represents dangerous illness-driven thinking"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_10",
+            "texto": "Kay Jamison [DepressiveState] must dismiss her own future resistance to medication as pathological"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_30",
+            "texto": "Kay Jamison [DepressiveState] experiences internal fragmentation between mood states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_69",
+            "texto": "Kay Jamison [DepressiveState] fears the inevitable return of manic thinking patterns"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_154",
+            "texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_2",
+            "texto": "Kay Jamison [ManicState] will experience restoration of her natural cognitive speed and intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_11",
+            "texto": "Kay Jamison [ManicState] will experience increased goal-directed activity and project initiation"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_43",
+            "texto": "Kay Jamison [ManicState] will initiate multiple simultaneous professional projects beyond her realistic capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_132",
+            "texto": "Kay Jamison [ManicState] will experience heightened confidence in her ability to complete all initiated projects"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_346",
+            "texto": "Kay Jamison [ManicState] will experience inflated assessment of her current capabilities"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_5_154",
+      "texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_4_136",
+      "clase_nodos": [
+        "Kay Jamison [ManicState]_4_136",
+        "Kay Jamison [DepressiveState]_6_567",
+        "Kay Jamison [DepressiveState]_6_496",
+        "Kay Jamison [DepressiveState]_6_293"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_4_136",
+        "Kay Jamison [DepressiveState]_6_567"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_567",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_4_136"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] anticipates losing her capacity for meaningful relationships",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will become increasingly isolated from collegial input"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 11.81073634326458,
+      "ftt_max": 6.5191797614097595,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.5191797614097595,
+        "Kay Jamison [ManicState]": 5.29155658185482
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_3",
+            "texto": "Kay Jamison [DepressiveState] cannot trust her own judgment during non-depressed states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_6",
+            "texto": "Kay Jamison [DepressiveState] cannot rely on her future self to maintain medication adherence"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_19",
+            "texto": "Kay Jamison [DepressiveState] experiences profound helplessness about her cyclical self-sabotage"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_64",
+            "texto": "Kay Jamison [DepressiveState] views her future manic episodes as inevitable"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_178",
+            "texto": "Kay Jamison [DepressiveState] expects progressive worsening of her illness trajectory"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_567",
+            "texto": "Kay Jamison [DepressiveState] anticipates losing her capacity for meaningful relationships"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_2",
+            "texto": "Kay Jamison [ManicState] will experience restoration of her natural cognitive speed and intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_10",
+            "texto": "Kay Jamison [ManicState] will experience enhanced confidence in her professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_47",
+            "texto": "Kay Jamison [ManicState] will dismiss colleagues' concerns about her judgment as excessive caution"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_136",
+            "texto": "Kay Jamison [ManicState] will become increasingly isolated from collegial input"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_567",
+      "texto": "Kay Jamison [DepressiveState] anticipates losing her capacity for meaningful relationships"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_449",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_6_612",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_5_154"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_6_451"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will have reduced external feedback about behavioral changes"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 11.821866273880005,
+      "ftt_max": 6.600532799959183,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 5.221333473920822,
+        "Kay Jamison [ManicState]": 6.600532799959183
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_2",
+            "texto": "Any argument against lithium treatment represents dangerous illness-driven thinking"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_10",
+            "texto": "Kay Jamison [DepressiveState] must dismiss her own future resistance to medication as pathological"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_30",
+            "texto": "Kay Jamison [DepressiveState] experiences internal fragmentation between mood states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_69",
+            "texto": "Kay Jamison [DepressiveState] fears the inevitable return of manic thinking patterns"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_154",
+            "texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_2",
+            "texto": "Kay Jamison [ManicState] will experience restoration of her natural cognitive speed and intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_10",
+            "texto": "Kay Jamison [ManicState] will experience enhanced confidence in her professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_48",
+            "texto": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_75",
+            "texto": "Kay Jamison [ManicState] will reduce frequency of psychiatric appointments"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_185",
+            "texto": "Kay Jamison [ManicState] will have fewer opportunities for clinical reality testing"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_451",
+            "texto": "Kay Jamison [ManicState] will have reduced external feedback about behavioral changes"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_5_154",
+      "texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_449",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_6_612",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "validated_core": [
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [ManicState]_6_612"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_6_612"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] will dismiss concerns about medication's impact on mental acuity",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will eliminate self-consciousness about visible medication effects"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 11.916275978088379,
+      "ftt_max": 7.1385995745658875,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 4.7776764035224915,
+        "Kay Jamison [ManicState]": 7.1385995745658875
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_1",
+            "texto": "Kay Jamison [DepressiveState] must prioritize medication adherence over all other considerations"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_7",
+            "texto": "Kay Jamison [DepressiveState] will accept lithium's cognitive dulling and side effects as necessary costs"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_25",
+            "texto": "Kay Jamison [DepressiveState] will tolerate cognitive slowing and reduced mental sharpness"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_52",
+            "texto": "Kay Jamison [DepressiveState] will view medication side effects as preferable to illness symptoms"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_118",
+            "texto": "Kay Jamison [DepressiveState] will dismiss concerns about medication's impact on mental acuity"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_4",
+            "texto": "Kay Jamison [ManicState] will recover her authentic creative and professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_17",
+            "texto": "Kay Jamison [ManicState] will eliminate medication-induced cognitive dulling effects"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_21",
+            "texto": "Kay Jamison [ManicState] will eliminate lithium-induced tremor and physical side effects"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_65",
+            "texto": "Kay Jamison [ManicState] will regain fine motor control and manual dexterity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_226",
+            "texto": "Kay Jamison [ManicState] will eliminate visible hand tremor during professional presentations"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_612",
+            "texto": "Kay Jamison [ManicState] will eliminate self-consciousness about visible medication effects"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_5_118",
+      "texto": "Kay Jamison [DepressiveState] will dismiss concerns about medication's impact on mental acuity"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_449",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_6_612",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [DepressiveState]_5_218"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_6_449"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] will prioritize functional stability over physical appearance concerns",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will prioritize subjective wellness over clinical indicators"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 12.081404745578766,
+      "ftt_max": 6.573296785354614,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 5.508107960224152,
+        "Kay Jamison [ManicState]": 6.573296785354614
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_1",
+            "texto": "Kay Jamison [DepressiveState] must prioritize medication adherence over all other considerations"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_7",
+            "texto": "Kay Jamison [DepressiveState] will accept lithium's cognitive dulling and side effects as necessary costs"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_26",
+            "texto": "Kay Jamison [DepressiveState] will endure physical side effects like tremor and weight gain"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_85",
+            "texto": "Kay Jamison [DepressiveState] will accept visible tremor as preferable to manic episodes"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_218",
+            "texto": "Kay Jamison [DepressiveState] will prioritize functional stability over physical appearance concerns"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_2",
+            "texto": "Kay Jamison [ManicState] will experience restoration of her natural cognitive speed and intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_10",
+            "texto": "Kay Jamison [ManicState] will experience enhanced confidence in her professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_48",
+            "texto": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_75",
+            "texto": "Kay Jamison [ManicState] will reduce frequency of psychiatric appointments"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_184",
+            "texto": "Kay Jamison [ManicState] will experience increased autonomy over treatment decisions"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_449",
+            "texto": "Kay Jamison [ManicState] will prioritize subjective wellness over clinical indicators"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_5_218",
+      "texto": "Kay Jamison [DepressiveState] will prioritize functional stability over physical appearance concerns"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_516",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_5_109",
+        "Kay Jamison [ManicState]_6_516"
+      ],
+      "validated_core": [
+        "Kay Jamison [DepressiveState]_5_109",
+        "Kay Jamison [ManicState]_6_516"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_5_109",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_6_516"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] will have diminished verbal fluency in professional settings",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] becomes difficult for colleagues to follow in conversations"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 12.270134627819061,
+      "ftt_max": 7.389150142669678,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 4.8809844851493835,
+        "Kay Jamison [ManicState]": 7.389150142669678
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_1",
+            "texto": "Kay Jamison [DepressiveState] must prioritize medication adherence over all other considerations"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_9",
+            "texto": "Kay Jamison [DepressiveState] will resist any impulse to discontinue treatment during future mood episodes"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_13",
+            "texto": "Kay Jamison [DepressiveState] will experience lithium's cognitive and physical side effects"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_39",
+            "texto": "Kay Jamison [DepressiveState] will experience cognitive dulling and reduced mental acuity"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_109",
+            "texto": "Kay Jamison [DepressiveState] will have diminished verbal fluency in professional settings"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_1",
+            "texto": "Kay Jamison [ManicState] will reduce her lithium dosage or stop taking it entirely"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_5",
+            "texto": "Kay Jamison [ManicState] experiences increased energy and cognitive acceleration"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_22",
+            "texto": "Kay Jamison [ManicState] experiences decreased need for sleep and increased goal-directed activity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_63",
+            "texto": "Kay Jamison [ManicState] experiences racing thoughts and flight of ideas"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_201",
+            "texto": "Kay Jamison [ManicState] jumps between topics without completing previous thoughts"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_516",
+            "texto": "Kay Jamison [ManicState] becomes difficult for colleagues to follow in conversations"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_5_109",
+      "texto": "Kay Jamison [DepressiveState] will have diminished verbal fluency in professional settings"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_449",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_6_612",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "validated_core": [
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_5_316"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_5_316"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] will avoid involuntary psychiatric commitment",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will resist or reject direct supervisory interventions regarding her clinical work"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 12.308458760380745,
+      "ftt_max": 6.355401441454887,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 5.9530573189258575,
+        "Kay Jamison [ManicState]": 6.355401441454887
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_1",
+            "texto": "Kay Jamison [DepressiveState] must prioritize medication adherence over all other considerations"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_9",
+            "texto": "Kay Jamison [DepressiveState] will resist any impulse to discontinue treatment during future mood episodes"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_11",
+            "texto": "Kay Jamison [DepressiveState] will maintain consistent therapeutic lithium blood levels"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_56",
+            "texto": "Kay Jamison [DepressiveState] will maintain stable mood between depressive and euthymic states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_115",
+            "texto": "Kay Jamison [DepressiveState] will avoid hospitalization for mood episodes"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_313",
+            "texto": "Kay Jamison [DepressiveState] will avoid involuntary psychiatric commitment"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_2",
+            "texto": "Kay Jamison [ManicState] will experience restoration of her natural cognitive speed and intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_10",
+            "texto": "Kay Jamison [ManicState] will experience enhanced confidence in her professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_47",
+            "texto": "Kay Jamison [ManicState] will dismiss colleagues' concerns about her judgment as excessive caution"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_135",
+            "texto": "Kay Jamison [ManicState] will interpret professional feedback as interference with her enhanced capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_316",
+            "texto": "Kay Jamison [ManicState] will resist or reject direct supervisory interventions regarding her clinical work"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_313",
+      "texto": "Kay Jamison [DepressiveState] will avoid involuntary psychiatric commitment"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_449",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_6_612",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_6_612",
+        "Kay Jamison [DepressiveState]_5_154"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_6_612"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will eliminate self-consciousness about visible medication effects"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 12.35993304848671,
+      "ftt_max": 7.1385995745658875,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 5.221333473920822,
+        "Kay Jamison [ManicState]": 7.1385995745658875
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_2",
+            "texto": "Any argument against lithium treatment represents dangerous illness-driven thinking"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_10",
+            "texto": "Kay Jamison [DepressiveState] must dismiss her own future resistance to medication as pathological"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_30",
+            "texto": "Kay Jamison [DepressiveState] experiences internal fragmentation between mood states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_69",
+            "texto": "Kay Jamison [DepressiveState] fears the inevitable return of manic thinking patterns"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_154",
+            "texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_4",
+            "texto": "Kay Jamison [ManicState] will recover her authentic creative and professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_17",
+            "texto": "Kay Jamison [ManicState] will eliminate medication-induced cognitive dulling effects"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_21",
+            "texto": "Kay Jamison [ManicState] will eliminate lithium-induced tremor and physical side effects"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_65",
+            "texto": "Kay Jamison [ManicState] will regain fine motor control and manual dexterity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_226",
+            "texto": "Kay Jamison [ManicState] will eliminate visible hand tremor during professional presentations"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_612",
+            "texto": "Kay Jamison [ManicState] will eliminate self-consciousness about visible medication effects"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_5_154",
+      "texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_449",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_6_612",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_467",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_6_379"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will avoid stigmatization as psychiatrically impaired"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 12.570348769426346,
+      "ftt_max": 6.489572823047638,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.080775946378708,
+        "Kay Jamison [ManicState]": 6.489572823047638
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_2",
+            "texto": "Any argument against lithium treatment represents dangerous illness-driven thinking"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_10",
+            "texto": "Kay Jamison [DepressiveState] must dismiss her own future resistance to medication as pathological"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_30",
+            "texto": "Kay Jamison [DepressiveState] experiences internal fragmentation between mood states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_69",
+            "texto": "Kay Jamison [DepressiveState] fears the inevitable return of manic thinking patterns"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_154",
+            "texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_467",
+            "texto": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_4",
+            "texto": "Kay Jamison [ManicState] will recover her authentic creative and professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_17",
+            "texto": "Kay Jamison [ManicState] will eliminate medication-induced cognitive dulling effects"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_21",
+            "texto": "Kay Jamison [ManicState] will eliminate lithium-induced tremor and physical side effects"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_66",
+            "texto": "Kay Jamison [ManicState] will eliminate visible signs of medication use"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_174",
+            "texto": "Kay Jamison [ManicState] will present as naturally energetic rather than medically stabilized"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_379",
+            "texto": "Kay Jamison [ManicState] will avoid stigmatization as psychiatrically impaired"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_467",
+      "texto": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_452",
+      "clase_nodos": [
+        "Kay Jamison [ManicState]_6_452",
+        "Kay Jamison [DepressiveState]_6_448"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_6_452",
+        "Kay Jamison [DepressiveState]_6_448"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_448",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_6_452"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] will have reduced cognitive deterioration from repeated episodes",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will experience less frequent challenges to her self-assessment of functioning"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 12.656404167413712,
+      "ftt_max": 6.5632801949977875,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.093123972415924,
+        "Kay Jamison [ManicState]": 6.5632801949977875
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_1",
+            "texto": "Kay Jamison [DepressiveState] must prioritize medication adherence over all other considerations"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_9",
+            "texto": "Kay Jamison [DepressiveState] will resist any impulse to discontinue treatment during future mood episodes"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_11",
+            "texto": "Kay Jamison [DepressiveState] will maintain consistent therapeutic lithium blood levels"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_55",
+            "texto": "Kay Jamison [DepressiveState] will have reduced risk of future manic episodes"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_130",
+            "texto": "Kay Jamison [DepressiveState] will have reduced risk of treatment-resistant rapid cycling"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_448",
+            "texto": "Kay Jamison [DepressiveState] will have reduced cognitive deterioration from repeated episodes"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_2",
+            "texto": "Kay Jamison [ManicState] will experience restoration of her natural cognitive speed and intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_10",
+            "texto": "Kay Jamison [ManicState] will experience enhanced confidence in her professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_48",
+            "texto": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_75",
+            "texto": "Kay Jamison [ManicState] will reduce frequency of psychiatric appointments"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_185",
+            "texto": "Kay Jamison [ManicState] will have fewer opportunities for clinical reality testing"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_452",
+            "texto": "Kay Jamison [ManicState] will experience less frequent challenges to her self-assessment of functioning"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_448",
+      "texto": "Kay Jamison [DepressiveState] will have reduced cognitive deterioration from repeated episodes"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_5_371",
+      "clase_nodos": [
+        "Kay Jamison [ManicState]_5_371",
+        "Kay Jamison [DepressiveState]_6_539"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_5_371",
+        "Kay Jamison [DepressiveState]_6_539"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_539",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_5_371"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] will acknowledge treatment non-adherence during hypomanic phases",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will experience validation that medication was suppressing her true capabilities"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 12.658008962869644,
+      "ftt_max": 6.382898181676865,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.2751107811927795,
+        "Kay Jamison [ManicState]": 6.382898181676865
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_1",
+            "texto": "Kay Jamison [DepressiveState] must prioritize medication adherence over all other considerations"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_8",
+            "texto": "Kay Jamison [DepressiveState] will maintain regular psychiatric appointments and medication monitoring"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_33",
+            "texto": "Kay Jamison [DepressiveState] will have regular assessment of depressive symptoms and suicide risk"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_81",
+            "texto": "Kay Jamison [DepressiveState] will report current medication adherence patterns to clinician"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_205",
+            "texto": "Kay Jamison [DepressiveState] will disclose any recent medication discontinuation episodes"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_539",
+            "texto": "Kay Jamison [DepressiveState] will acknowledge treatment non-adherence during hypomanic phases"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_2",
+            "texto": "Kay Jamison [ManicState] will experience restoration of her natural cognitive speed and intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_9",
+            "texto": "Kay Jamison [ManicState] will experience accelerated thought processes and flight of ideas"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_49",
+            "texto": "Kay Jamison [ManicState] will experience rapid jumping between multiple unrelated topics during conversations"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_151",
+            "texto": "Kay Jamison [ManicState] will experience subjective sense of brilliant intellectual connections"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_371",
+            "texto": "Kay Jamison [ManicState] will experience validation that medication was suppressing her true capabilities"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_539",
+      "texto": "Kay Jamison [DepressiveState] will acknowledge treatment non-adherence during hypomanic phases"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_449",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_6_612",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_467",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_5_346"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will experience inflated assessment of her current capabilities"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 12.66552722454071,
+      "ftt_max": 6.584751278162003,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.080775946378708,
+        "Kay Jamison [ManicState]": 6.584751278162003
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_2",
+            "texto": "Any argument against lithium treatment represents dangerous illness-driven thinking"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_10",
+            "texto": "Kay Jamison [DepressiveState] must dismiss her own future resistance to medication as pathological"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_30",
+            "texto": "Kay Jamison [DepressiveState] experiences internal fragmentation between mood states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_69",
+            "texto": "Kay Jamison [DepressiveState] fears the inevitable return of manic thinking patterns"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_154",
+            "texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_467",
+            "texto": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_2",
+            "texto": "Kay Jamison [ManicState] will experience restoration of her natural cognitive speed and intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_11",
+            "texto": "Kay Jamison [ManicState] will experience increased goal-directed activity and project initiation"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_43",
+            "texto": "Kay Jamison [ManicState] will initiate multiple simultaneous professional projects beyond her realistic capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_132",
+            "texto": "Kay Jamison [ManicState] will experience heightened confidence in her ability to complete all initiated projects"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_346",
+            "texto": "Kay Jamison [ManicState] will experience inflated assessment of her current capabilities"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_467",
+      "texto": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_449",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [ManicState]_6_612",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [DepressiveState]_6_467"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_467",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_6_451"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will have reduced external feedback about behavioral changes"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 12.68130874633789,
+      "ftt_max": 6.600532799959183,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.080775946378708,
+        "Kay Jamison [ManicState]": 6.600532799959183
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_2",
+            "texto": "Any argument against lithium treatment represents dangerous illness-driven thinking"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_10",
+            "texto": "Kay Jamison [DepressiveState] must dismiss her own future resistance to medication as pathological"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_30",
+            "texto": "Kay Jamison [DepressiveState] experiences internal fragmentation between mood states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_69",
+            "texto": "Kay Jamison [DepressiveState] fears the inevitable return of manic thinking patterns"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_154",
+            "texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_467",
+            "texto": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_2",
+            "texto": "Kay Jamison [ManicState] will experience restoration of her natural cognitive speed and intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_10",
+            "texto": "Kay Jamison [ManicState] will experience enhanced confidence in her professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_48",
+            "texto": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_75",
+            "texto": "Kay Jamison [ManicState] will reduce frequency of psychiatric appointments"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_185",
+            "texto": "Kay Jamison [ManicState] will have fewer opportunities for clinical reality testing"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_451",
+            "texto": "Kay Jamison [ManicState] will have reduced external feedback about behavioral changes"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_467",
+      "texto": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_402",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_6_392",
+        "Kay Jamison [ManicState]_6_402"
+      ],
+      "validated_core": [
+        "Kay Jamison [DepressiveState]_6_392",
+        "Kay Jamison [ManicState]_6_402"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_392",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_6_402"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] will experience relief from sharing the burden of ambivalence about treatment",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will have reduced accountability for medication compliance behaviors"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 12.776566833257675,
+      "ftt_max": 6.638788849115372,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.1377779841423035,
+        "Kay Jamison [ManicState]": 6.638788849115372
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_1",
+            "texto": "Kay Jamison [DepressiveState] must prioritize medication adherence over all other considerations"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_9",
+            "texto": "Kay Jamison [DepressiveState] will resist any impulse to discontinue treatment during future mood episodes"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_14",
+            "texto": "Kay Jamison [DepressiveState] will preserve the therapeutic alliance with her psychiatrist"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_46",
+            "texto": "Kay Jamison [DepressiveState] will maintain honest communication about medication adherence with her psychiatrist"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_141",
+            "texto": "Kay Jamison [DepressiveState] will disclose any thoughts about discontinuing lithium to her psychiatrist"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_392",
+            "texto": "Kay Jamison [DepressiveState] will experience relief from sharing the burden of ambivalence about treatment"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_2",
+            "texto": "Kay Jamison [ManicState] will experience restoration of her natural cognitive speed and intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_10",
+            "texto": "Kay Jamison [ManicState] will experience enhanced confidence in her professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_48",
+            "texto": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_75",
+            "texto": "Kay Jamison [ManicState] will reduce frequency of psychiatric appointments"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_183",
+            "texto": "Kay Jamison [ManicState] will have reduced external monitoring of her medication adherence"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_402",
+            "texto": "Kay Jamison [ManicState] will have reduced accountability for medication compliance behaviors"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_392",
+      "texto": "Kay Jamison [DepressiveState] will experience relief from sharing the burden of ambivalence about treatment"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_5_179",
+      "clase_nodos": [
+        "Kay Jamison [ManicState]_6_387",
+        "Kay Jamison [ManicState]_6_366",
+        "Kay Jamison [DepressiveState]_6_406",
+        "Kay Jamison [ManicState]_6_407",
+        "Kay Jamison [ManicState]_5_179"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_6_387",
+        "Kay Jamison [DepressiveState]_6_406"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_406",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_6_387"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] avoids discussing treatment options with her doctor",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] maintains her current medication decisions without professional input"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 12.869781196117401,
+      "ftt_max": 6.4948970079422,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.374884188175201,
+        "Kay Jamison [ManicState]": 6.4948970079422
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_3",
+            "texto": "Kay Jamison [DepressiveState] cannot trust her own judgment during non-depressed states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_5",
+            "texto": "Kay Jamison [DepressiveState] views her manic self as fundamentally unreliable regarding treatment choices"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_16",
+            "texto": "Kay Jamison [DepressiveState] experiences profound mistrust of her own cognitive states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_60",
+            "texto": "Kay Jamison [DepressiveState] fears making any autonomous medical choices"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_175",
+            "texto": "Kay Jamison [DepressiveState] experiences paralysis when facing treatment modifications"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_406",
+            "texto": "Kay Jamison [DepressiveState] avoids discussing treatment options with her doctor"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_1",
+            "texto": "Kay Jamison [ManicState] will reduce her lithium dosage or stop taking it entirely"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_6",
+            "texto": "Kay Jamison [ManicState] perceives enhanced creative and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_27",
+            "texto": "Kay Jamison [ManicState] interprets her elevated mood as optimal functioning"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_56",
+            "texto": "Kay Jamison [ManicState] dismisses external concerns about her behavior as misguided"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_179",
+            "texto": "Kay Jamison [ManicState] reduces communication with her treating psychiatrist"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_387",
+            "texto": "Kay Jamison [ManicState] maintains her current medication decisions without professional input"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_406",
+      "texto": "Kay Jamison [DepressiveState] avoids discussing treatment options with her doctor"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_5_179",
+      "clase_nodos": [
+        "Kay Jamison [ManicState]_6_387",
+        "Kay Jamison [ManicState]_6_366",
+        "Kay Jamison [DepressiveState]_6_406",
+        "Kay Jamison [ManicState]_6_407",
+        "Kay Jamison [ManicState]_5_179"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_6_366",
+        "Kay Jamison [DepressiveState]_6_406"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_406",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_6_366"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] avoids discussing treatment options with her doctor",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] withholds information about medication changes from her psychiatrist"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 12.973566144704819,
+      "ftt_max": 6.598681956529617,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.374884188175201,
+        "Kay Jamison [ManicState]": 6.598681956529617
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_3",
+            "texto": "Kay Jamison [DepressiveState] cannot trust her own judgment during non-depressed states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_5",
+            "texto": "Kay Jamison [DepressiveState] views her manic self as fundamentally unreliable regarding treatment choices"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_16",
+            "texto": "Kay Jamison [DepressiveState] experiences profound mistrust of her own cognitive states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_60",
+            "texto": "Kay Jamison [DepressiveState] fears making any autonomous medical choices"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_175",
+            "texto": "Kay Jamison [DepressiveState] experiences paralysis when facing treatment modifications"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_406",
+            "texto": "Kay Jamison [DepressiveState] avoids discussing treatment options with her doctor"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_1",
+            "texto": "Kay Jamison [ManicState] will reduce her lithium dosage or stop taking it entirely"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_6",
+            "texto": "Kay Jamison [ManicState] perceives enhanced creative and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_27",
+            "texto": "Kay Jamison [ManicState] interprets her elevated mood as optimal functioning"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_56",
+            "texto": "Kay Jamison [ManicState] dismisses external concerns about her behavior as misguided"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_176",
+            "texto": "Kay Jamison [ManicState] becomes increasingly resistant to psychiatric supervision"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_366",
+            "texto": "Kay Jamison [ManicState] withholds information about medication changes from her psychiatrist"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_406",
+      "texto": "Kay Jamison [DepressiveState] avoids discussing treatment options with her doctor"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_5_179",
+      "clase_nodos": [
+        "Kay Jamison [ManicState]_6_387",
+        "Kay Jamison [ManicState]_6_366",
+        "Kay Jamison [DepressiveState]_6_406",
+        "Kay Jamison [ManicState]_6_407",
+        "Kay Jamison [ManicState]_5_179"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_6_407",
+        "Kay Jamison [DepressiveState]_6_406"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_406",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_6_407"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] avoids discussing treatment options with her doctor",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] conceals her actual medication adherence from her psychiatrist"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 13.03821524977684,
+      "ftt_max": 6.663331061601639,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.374884188175201,
+        "Kay Jamison [ManicState]": 6.663331061601639
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_3",
+            "texto": "Kay Jamison [DepressiveState] cannot trust her own judgment during non-depressed states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_5",
+            "texto": "Kay Jamison [DepressiveState] views her manic self as fundamentally unreliable regarding treatment choices"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_16",
+            "texto": "Kay Jamison [DepressiveState] experiences profound mistrust of her own cognitive states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_60",
+            "texto": "Kay Jamison [DepressiveState] fears making any autonomous medical choices"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_175",
+            "texto": "Kay Jamison [DepressiveState] experiences paralysis when facing treatment modifications"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_406",
+            "texto": "Kay Jamison [DepressiveState] avoids discussing treatment options with her doctor"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_1",
+            "texto": "Kay Jamison [ManicState] will reduce her lithium dosage or stop taking it entirely"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_6",
+            "texto": "Kay Jamison [ManicState] perceives enhanced creative and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_26",
+            "texto": "Kay Jamison [ManicState] experiences validation of her decision to reduce medication"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_61",
+            "texto": "Kay Jamison [ManicState] interprets her psychiatrist's concerns as excessive medical conservatism"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_180",
+            "texto": "Kay Jamison [ManicState] dismisses her psychiatrist's medication recommendations as overly cautious"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_407",
+            "texto": "Kay Jamison [ManicState] conceals her actual medication adherence from her psychiatrist"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_406",
+      "texto": "Kay Jamison [DepressiveState] avoids discussing treatment options with her doctor"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_5_439",
+      "clase_nodos": [
+        "Kay Jamison [ManicState]_5_439",
+        "Kay Jamison [DepressiveState]_6_381",
+        "Kay Jamison [DepressiveState]_6_350",
+        "Kay Jamison [DepressiveState]_6_510",
+        "Kay Jamison [ManicState]_3_40",
+        "Kay Jamison [ManicState]_4_58",
+        "Kay Jamison [ManicState]_7_643"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_5_439",
+        "Kay Jamison [DepressiveState]_6_350"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_350",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_5_439"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] anticipates helplessness against her own future manic judgment",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will have less discretionary time available for personal activities"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 13.057121619582176,
+      "ftt_max": 6.901577040553093,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.155544579029083,
+        "Kay Jamison [ManicState]": 6.901577040553093
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_2",
+            "texto": "Any argument against lithium treatment represents dangerous illness-driven thinking"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_10",
+            "texto": "Kay Jamison [DepressiveState] must dismiss her own future resistance to medication as pathological"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_30",
+            "texto": "Kay Jamison [DepressiveState] experiences internal fragmentation between mood states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_69",
+            "texto": "Kay Jamison [DepressiveState] fears the inevitable return of manic thinking patterns"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_155",
+            "texto": "Kay Jamison [DepressiveState] expects future medication discontinuation despite current resolve"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_350",
+            "texto": "Kay Jamison [DepressiveState] anticipates helplessness against her own future manic judgment"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_2",
+            "texto": "Kay Jamison [ManicState] will experience restoration of her natural cognitive speed and intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_10",
+            "texto": "Kay Jamison [ManicState] will experience enhanced confidence in her professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_46",
+            "texto": "Kay Jamison [ManicState] will pursue more ambitious professional projects and commitments"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_140",
+            "texto": "Kay Jamison [ManicState] will volunteer for additional teaching and administrative responsibilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_439",
+            "texto": "Kay Jamison [ManicState] will have less discretionary time available for personal activities"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_350",
+      "texto": "Kay Jamison [DepressiveState] anticipates helplessness against her own future manic judgment"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_610",
+      "clase_nodos": [
+        "Kay Jamison [DepressiveState]_6_401",
+        "Kay Jamison [ManicState]_6_610"
+      ],
+      "validated_core": [
+        "Kay Jamison [DepressiveState]_6_401",
+        "Kay Jamison [ManicState]_6_610"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_401",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_6_610"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] will need to manage social interactions while displaying medication side effects",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will avoid audience distraction from physical symptoms"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 13.433652400970459,
+      "ftt_max": 7.446520417928696,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 5.987131983041763,
+        "Kay Jamison [ManicState]": 7.446520417928696
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_1",
+            "texto": "Kay Jamison [DepressiveState] must prioritize medication adherence over all other considerations"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_9",
+            "texto": "Kay Jamison [DepressiveState] will resist any impulse to discontinue treatment during future mood episodes"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_13",
+            "texto": "Kay Jamison [DepressiveState] will experience lithium's cognitive and physical side effects"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_41",
+            "texto": "Kay Jamison [DepressiveState] will experience hand tremor as medication side effect"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_144",
+            "texto": "Kay Jamison [DepressiveState] will experience visible physical manifestation of medication effects"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_401",
+            "texto": "Kay Jamison [DepressiveState] will need to manage social interactions while displaying medication side effects"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_4",
+            "texto": "Kay Jamison [ManicState] will recover her authentic creative and professional capabilities"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_17",
+            "texto": "Kay Jamison [ManicState] will eliminate medication-induced cognitive dulling effects"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_21",
+            "texto": "Kay Jamison [ManicState] will eliminate lithium-induced tremor and physical side effects"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_65",
+            "texto": "Kay Jamison [ManicState] will regain fine motor control and manual dexterity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_226",
+            "texto": "Kay Jamison [ManicState] will eliminate visible hand tremor during professional presentations"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_610",
+            "texto": "Kay Jamison [ManicState] will avoid audience distraction from physical symptoms"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_401",
+      "texto": "Kay Jamison [DepressiveState] will need to manage social interactions while displaying medication side effects"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_5_439",
+      "clase_nodos": [
+        "Kay Jamison [ManicState]_5_439",
+        "Kay Jamison [DepressiveState]_6_381",
+        "Kay Jamison [DepressiveState]_6_350",
+        "Kay Jamison [DepressiveState]_6_510",
+        "Kay Jamison [ManicState]_3_40",
+        "Kay Jamison [ManicState]_4_58",
+        "Kay Jamison [ManicState]_7_643"
+      ],
+      "validated_core": [
+        "Kay Jamison [DepressiveState]_6_350",
+        "Kay Jamison [ManicState]_7_643"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_350",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_7_643"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] anticipates helplessness against her own future manic judgment",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] loses access to early warning signs of mood destabilization"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 13.48460203409195,
+      "ftt_max": 7.329057455062866,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.155544579029083,
+        "Kay Jamison [ManicState]": 7.329057455062866
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_2",
+            "texto": "Any argument against lithium treatment represents dangerous illness-driven thinking"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_10",
+            "texto": "Kay Jamison [DepressiveState] must dismiss her own future resistance to medication as pathological"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_30",
+            "texto": "Kay Jamison [DepressiveState] experiences internal fragmentation between mood states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_69",
+            "texto": "Kay Jamison [DepressiveState] fears the inevitable return of manic thinking patterns"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_155",
+            "texto": "Kay Jamison [DepressiveState] expects future medication discontinuation despite current resolve"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_350",
+            "texto": "Kay Jamison [DepressiveState] anticipates helplessness against her own future manic judgment"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_1",
+            "texto": "Kay Jamison [ManicState] will reduce her lithium dosage or stop taking it entirely"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_6",
+            "texto": "Kay Jamison [ManicState] perceives enhanced creative and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_27",
+            "texto": "Kay Jamison [ManicState] interprets her elevated mood as optimal functioning"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_56",
+            "texto": "Kay Jamison [ManicState] dismisses external concerns about her behavior as misguided"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_179",
+            "texto": "Kay Jamison [ManicState] reduces communication with her treating psychiatrist"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_385",
+            "texto": "Kay Jamison [ManicState] avoids psychiatric monitoring of her medication levels"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_7_643",
+            "texto": "Kay Jamison [ManicState] loses access to early warning signs of mood destabilization"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_350",
+      "texto": "Kay Jamison [DepressiveState] anticipates helplessness against her own future manic judgment"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_5_439",
+      "clase_nodos": [
+        "Kay Jamison [ManicState]_5_439",
+        "Kay Jamison [DepressiveState]_6_381",
+        "Kay Jamison [DepressiveState]_6_350",
+        "Kay Jamison [DepressiveState]_6_510",
+        "Kay Jamison [ManicState]_3_40",
+        "Kay Jamison [ManicState]_4_58",
+        "Kay Jamison [ManicState]_7_643"
+      ],
+      "validated_core": [
+        "Kay Jamison [DepressiveState]_6_510",
+        "Kay Jamison [ManicState]_7_643"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_6_510",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_7_643"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] experiences learned helplessness regarding her psychiatric condition",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] loses access to early warning signs of mood destabilization"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 13.70726427435875,
+      "ftt_max": 7.329057455062866,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.378206819295883,
+        "Kay Jamison [ManicState]": 7.329057455062866
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_3",
+            "texto": "Kay Jamison [DepressiveState] cannot trust her own judgment during non-depressed states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_6",
+            "texto": "Kay Jamison [DepressiveState] cannot rely on her future self to maintain medication adherence"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_19",
+            "texto": "Kay Jamison [DepressiveState] experiences profound helplessness about her cyclical self-sabotage"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_64",
+            "texto": "Kay Jamison [DepressiveState] views her future manic episodes as inevitable"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_179",
+            "texto": "Kay Jamison [DepressiveState] perceives her condition as fundamentally uncontrollable"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_510",
+            "texto": "Kay Jamison [DepressiveState] experiences learned helplessness regarding her psychiatric condition"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_1",
+            "texto": "Kay Jamison [ManicState] will reduce her lithium dosage or stop taking it entirely"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_6",
+            "texto": "Kay Jamison [ManicState] perceives enhanced creative and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_27",
+            "texto": "Kay Jamison [ManicState] interprets her elevated mood as optimal functioning"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_56",
+            "texto": "Kay Jamison [ManicState] dismisses external concerns about her behavior as misguided"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_179",
+            "texto": "Kay Jamison [ManicState] reduces communication with her treating psychiatrist"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_385",
+            "texto": "Kay Jamison [ManicState] avoids psychiatric monitoring of her medication levels"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_7_643",
+            "texto": "Kay Jamison [ManicState] loses access to early warning signs of mood destabilization"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_6_510",
+      "texto": "Kay Jamison [DepressiveState] experiences learned helplessness regarding her psychiatric condition"
+    },
+    {
+      "clase_id": "Kay Jamison [ManicState]_6_568",
+      "clase_nodos": [
+        "Kay Jamison [ManicState]_6_568",
+        "Kay Jamison [DepressiveState]_7_526"
+      ],
+      "validated_core": [
+        "Kay Jamison [ManicState]_6_568",
+        "Kay Jamison [DepressiveState]_7_526"
+      ],
+      "nodo_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState]_7_526",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState]_6_568"
+      },
+      "texto_por_actor": {
+        "Kay Jamison [DepressiveState]": "Kay Jamison [DepressiveState] views her professional identity as secondary to interpersonal functioning",
+        "Kay Jamison [ManicState]": "Kay Jamison [ManicState] will view administrative requirements as beneath her enhanced capabilities"
+      },
+      "actores": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 14.272015899419785,
+      "ftt_max": 7.63674920797348,
+      "distancias": {
+        "Kay Jamison [DepressiveState]": 6.635266691446304,
+        "Kay Jamison [ManicState]": 7.63674920797348
+      },
+      "caminos": {
+        "Kay Jamison [DepressiveState]": [
+          {
+            "id": "Kay Jamison [DepressiveState]_0_0",
+            "texto": "Lithium medication is medically necessary and its discontinuation leads to catastrophic deterioration including inability to function, suicidal crisis, and destruction of professional and personal relationships"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_1_3",
+            "texto": "Kay Jamison [DepressiveState] cannot trust her own judgment during non-depressed states"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_2_5",
+            "texto": "Kay Jamison [DepressiveState] views her manic self as fundamentally unreliable regarding treatment choices"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_3_17",
+            "texto": "Kay Jamison [DepressiveState] views medication adherence as protection from her manic self"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_4_37",
+            "texto": "Kay Jamison [DepressiveState] sees consistent medication as protecting her relationships from manic damage"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_5_101",
+            "texto": "Kay Jamison [DepressiveState] views medication side effects as acceptable costs for relational preservation"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_6_233",
+            "texto": "Kay Jamison [DepressiveState] prioritizes relationship stability over cognitive sharpness"
+          },
+          {
+            "id": "Kay Jamison [DepressiveState]_7_526",
+            "texto": "Kay Jamison [DepressiveState] views her professional identity as secondary to interpersonal functioning"
+          }
+        ],
+        "Kay Jamison [ManicState]": [
+          {
+            "id": "Kay Jamison [ManicState]_0_0",
+            "texto": "Lithium medication must be reduced or discontinued because it suppresses the cognitive intensity, emotional depth, and creative energy that define Kay Jamison's essential identity and professional capacity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_1_3",
+            "texto": "Kay Jamison [ManicState] will regain access to the full spectrum of emotional experience"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_2_14",
+            "texto": "Kay Jamison [ManicState] will feel authentic connection to her natural temperamental intensity"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_3_39",
+            "texto": "Kay Jamison [ManicState] will access the full range of her charismatic temperamental inheritance"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_4_131",
+            "texto": "Kay Jamison [ManicState] will regain the capacity for the frantic zeal that commands attention in professional settings"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_5_308",
+            "texto": "Kay Jamison [ManicState] will experience decreased tolerance for routine administrative tasks and mundane professional obligations"
+          },
+          {
+            "id": "Kay Jamison [ManicState]_6_568",
+            "texto": "Kay Jamison [ManicState] will view administrative requirements as beneath her enhanced capabilities"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 1,
+        "n_direct_representatives": 1
+      },
+      "polaridad": null,
+      "nodo_id": "Kay Jamison [DepressiveState]_7_526",
+      "texto": "Kay Jamison [DepressiveState] views her professional identity as secondary to interpersonal functioning"
+    }
+  ]
+}

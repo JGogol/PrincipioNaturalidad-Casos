@@ -1,0 +1,728 @@
+{
+  "version": "10.2",
+  "classes": {
+    "Arab Republic of Egypt_2_7": {
+      "members": [
+        "Arab Republic of Egypt_2_7",
+        "Arab Republic of Egypt_4_83",
+        "Arab Republic of Egypt_7_727",
+        "Federal Democratic Republic of Ethiopia_5_448",
+        "Federal Democratic Republic of Ethiopia_6_540"
+      ],
+      "size": 5,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Federal Democratic Republic of Ethiopia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Arab Republic of Egypt_2_7",
+        "Arab Republic of Egypt_4_83",
+        "Arab Republic of Egypt_7_727",
+        "Federal Democratic Republic of Ethiopia_5_448",
+        "Federal Democratic Republic of Ethiopia_6_540"
+      ],
+      "strict_cliques": [
+        [
+          "Arab Republic of Egypt_2_7",
+          "Federal Democratic Republic of Ethiopia_5_448"
+        ],
+        [
+          "Arab Republic of Egypt_2_7",
+          "Federal Democratic Republic of Ethiopia_6_540"
+        ],
+        [
+          "Arab Republic of Egypt_7_727",
+          "Federal Democratic Republic of Ethiopia_5_448"
+        ],
+        [
+          "Arab Republic of Egypt_4_83",
+          "Federal Democratic Republic of Ethiopia_5_448"
+        ]
+      ],
+      "validated_core_lax": [
+        "Arab Republic of Egypt_2_7",
+        "Arab Republic of Egypt_4_83",
+        "Arab Republic of Egypt_7_727",
+        "Federal Democratic Republic of Ethiopia_5_448",
+        "Federal Democratic Republic of Ethiopia_6_540"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.6667,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 6,
+        "n_direct_cross_pairs": 4,
+        "n_lax_core": 5,
+        "n_class": 5
+      }
+    },
+    "Arab Republic of Egypt_7_675": {
+      "members": [
+        "Arab Republic of Egypt_7_675",
+        "Federal Democratic Republic of Ethiopia_5_363"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Federal Democratic Republic of Ethiopia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Arab Republic of Egypt_7_675",
+        "Federal Democratic Republic of Ethiopia_5_363"
+      ],
+      "strict_cliques": [
+        [
+          "Arab Republic of Egypt_7_675",
+          "Federal Democratic Republic of Ethiopia_5_363"
+        ]
+      ],
+      "validated_core_lax": [
+        "Arab Republic of Egypt_7_675",
+        "Federal Democratic Republic of Ethiopia_5_363"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Arab Republic of Egypt_4_71": {
+      "members": [
+        "Arab Republic of Egypt_4_71",
+        "Republic of Sudan_5_346"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Arab Republic of Egypt_4_71",
+        "Republic of Sudan_5_346"
+      ],
+      "strict_cliques": [
+        [
+          "Arab Republic of Egypt_4_71",
+          "Republic of Sudan_5_346"
+        ]
+      ],
+      "validated_core_lax": [
+        "Arab Republic of Egypt_4_71",
+        "Republic of Sudan_5_346"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Arab Republic of Egypt_5_109": {
+      "members": [
+        "Arab Republic of Egypt_5_109",
+        "Republic of Sudan_4_77"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Arab Republic of Egypt_5_109",
+        "Republic of Sudan_4_77"
+      ],
+      "strict_cliques": [
+        [
+          "Arab Republic of Egypt_5_109",
+          "Republic of Sudan_4_77"
+        ]
+      ],
+      "validated_core_lax": [
+        "Arab Republic of Egypt_5_109",
+        "Republic of Sudan_4_77"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Arab Republic of Egypt_5_150": {
+      "members": [
+        "Arab Republic of Egypt_5_150",
+        "Republic of Sudan_6_512"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Arab Republic of Egypt_5_150",
+        "Republic of Sudan_6_512"
+      ],
+      "strict_cliques": [
+        [
+          "Arab Republic of Egypt_5_150",
+          "Republic of Sudan_6_512"
+        ]
+      ],
+      "validated_core_lax": [
+        "Arab Republic of Egypt_5_150",
+        "Republic of Sudan_6_512"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Arab Republic of Egypt_5_167": {
+      "members": [
+        "Arab Republic of Egypt_5_167",
+        "Arab Republic of Egypt_6_224",
+        "Republic of Sudan_4_118",
+        "Republic of Sudan_4_154",
+        "Republic of Sudan_5_208",
+        "Republic of Sudan_5_408",
+        "Republic of Sudan_6_498"
+      ],
+      "size": 7,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Arab Republic of Egypt_5_167",
+        "Arab Republic of Egypt_6_224",
+        "Republic of Sudan_4_118",
+        "Republic of Sudan_4_154",
+        "Republic of Sudan_5_208",
+        "Republic of Sudan_5_408",
+        "Republic of Sudan_6_498"
+      ],
+      "strict_cliques": [
+        [
+          "Arab Republic of Egypt_5_167",
+          "Republic of Sudan_6_498"
+        ],
+        [
+          "Arab Republic of Egypt_5_167",
+          "Republic of Sudan_4_118"
+        ],
+        [
+          "Arab Republic of Egypt_5_167",
+          "Republic of Sudan_4_154"
+        ],
+        [
+          "Arab Republic of Egypt_5_167",
+          "Republic of Sudan_5_208"
+        ],
+        [
+          "Arab Republic of Egypt_5_167",
+          "Republic of Sudan_5_408"
+        ],
+        [
+          "Arab Republic of Egypt_6_224",
+          "Republic of Sudan_4_118"
+        ]
+      ],
+      "validated_core_lax": [
+        "Arab Republic of Egypt_5_167",
+        "Arab Republic of Egypt_6_224",
+        "Republic of Sudan_4_118",
+        "Republic of Sudan_4_154",
+        "Republic of Sudan_5_208",
+        "Republic of Sudan_5_408",
+        "Republic of Sudan_6_498"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.6,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 10,
+        "n_direct_cross_pairs": 6,
+        "n_lax_core": 7,
+        "n_class": 7
+      }
+    },
+    "Arab Republic of Egypt_6_191": {
+      "members": [
+        "Arab Republic of Egypt_6_191",
+        "Arab Republic of Egypt_7_518",
+        "Republic of Sudan_5_220",
+        "Republic of Sudan_6_569"
+      ],
+      "size": 4,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Arab Republic of Egypt_6_191",
+        "Arab Republic of Egypt_7_518",
+        "Republic of Sudan_5_220",
+        "Republic of Sudan_6_569"
+      ],
+      "strict_cliques": [
+        [
+          "Arab Republic of Egypt_7_518",
+          "Republic of Sudan_6_569"
+        ],
+        [
+          "Arab Republic of Egypt_7_518",
+          "Republic of Sudan_5_220"
+        ],
+        [
+          "Arab Republic of Egypt_6_191",
+          "Republic of Sudan_5_220"
+        ]
+      ],
+      "validated_core_lax": [
+        "Arab Republic of Egypt_6_191",
+        "Arab Republic of Egypt_7_518",
+        "Republic of Sudan_5_220",
+        "Republic of Sudan_6_569"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.75,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 4,
+        "n_direct_cross_pairs": 3,
+        "n_lax_core": 4,
+        "n_class": 4
+      }
+    },
+    "Arab Republic of Egypt_6_197": {
+      "members": [
+        "Arab Republic of Egypt_6_197",
+        "Arab Republic of Egypt_7_415",
+        "Republic of Sudan_5_358"
+      ],
+      "size": 3,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Arab Republic of Egypt_6_197",
+        "Arab Republic of Egypt_7_415",
+        "Republic of Sudan_5_358"
+      ],
+      "strict_cliques": [
+        [
+          "Arab Republic of Egypt_6_197",
+          "Republic of Sudan_5_358"
+        ],
+        [
+          "Arab Republic of Egypt_7_415",
+          "Republic of Sudan_5_358"
+        ]
+      ],
+      "validated_core_lax": [
+        "Arab Republic of Egypt_6_197",
+        "Arab Republic of Egypt_7_415",
+        "Republic of Sudan_5_358"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 2,
+        "n_direct_cross_pairs": 2,
+        "n_lax_core": 3,
+        "n_class": 3
+      }
+    },
+    "Arab Republic of Egypt_6_214": {
+      "members": [
+        "Arab Republic of Egypt_6_214",
+        "Republic of Sudan_5_337"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Arab Republic of Egypt_6_214",
+        "Republic of Sudan_5_337"
+      ],
+      "strict_cliques": [
+        [
+          "Arab Republic of Egypt_6_214",
+          "Republic of Sudan_5_337"
+        ]
+      ],
+      "validated_core_lax": [
+        "Arab Republic of Egypt_6_214",
+        "Republic of Sudan_5_337"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Arab Republic of Egypt_6_359": {
+      "members": [
+        "Arab Republic of Egypt_6_359",
+        "Republic of Sudan_5_301"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Arab Republic of Egypt_6_359",
+        "Republic of Sudan_5_301"
+      ],
+      "strict_cliques": [
+        [
+          "Arab Republic of Egypt_6_359",
+          "Republic of Sudan_5_301"
+        ]
+      ],
+      "validated_core_lax": [
+        "Arab Republic of Egypt_6_359",
+        "Republic of Sudan_5_301"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Arab Republic of Egypt_7_388": {
+      "members": [
+        "Arab Republic of Egypt_7_388",
+        "Republic of Sudan_4_326"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Arab Republic of Egypt_7_388",
+        "Republic of Sudan_4_326"
+      ],
+      "strict_cliques": [
+        [
+          "Arab Republic of Egypt_7_388",
+          "Republic of Sudan_4_326"
+        ]
+      ],
+      "validated_core_lax": [
+        "Arab Republic of Egypt_7_388",
+        "Republic of Sudan_4_326"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Arab Republic of Egypt_7_446": {
+      "members": [
+        "Arab Republic of Egypt_7_446",
+        "Republic of Sudan_6_550"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Arab Republic of Egypt_7_446",
+        "Republic of Sudan_6_550"
+      ],
+      "strict_cliques": [
+        [
+          "Arab Republic of Egypt_7_446",
+          "Republic of Sudan_6_550"
+        ]
+      ],
+      "validated_core_lax": [
+        "Arab Republic of Egypt_7_446",
+        "Republic of Sudan_6_550"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Arab Republic of Egypt_7_454": {
+      "members": [
+        "Arab Republic of Egypt_7_454",
+        "Republic of Sudan_4_333"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Arab Republic of Egypt_7_454",
+        "Republic of Sudan_4_333"
+      ],
+      "strict_cliques": [
+        [
+          "Arab Republic of Egypt_7_454",
+          "Republic of Sudan_4_333"
+        ]
+      ],
+      "validated_core_lax": [
+        "Arab Republic of Egypt_7_454",
+        "Republic of Sudan_4_333"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Arab Republic of Egypt_7_609": {
+      "members": [
+        "Arab Republic of Egypt_7_609",
+        "Republic of Sudan_5_315"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Arab Republic of Egypt_7_609",
+        "Republic of Sudan_5_315"
+      ],
+      "strict_cliques": [
+        [
+          "Arab Republic of Egypt_7_609",
+          "Republic of Sudan_5_315"
+        ]
+      ],
+      "validated_core_lax": [
+        "Arab Republic of Egypt_7_609",
+        "Republic of Sudan_5_315"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Arab Republic of Egypt_7_673": {
+      "members": [
+        "Arab Republic of Egypt_7_673",
+        "Republic of Sudan_6_441"
+      ],
+      "size": 2,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Arab Republic of Egypt_7_673",
+        "Republic of Sudan_6_441"
+      ],
+      "strict_cliques": [
+        [
+          "Arab Republic of Egypt_7_673",
+          "Republic of Sudan_6_441"
+        ]
+      ],
+      "validated_core_lax": [
+        "Arab Republic of Egypt_7_673",
+        "Republic of Sudan_6_441"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Arab Republic of Egypt_7_702": {
+      "members": [
+        "Arab Republic of Egypt_7_702",
+        "Republic of Sudan_5_158",
+        "Republic of Sudan_5_169",
+        "Republic of Sudan_6_428",
+        "Republic of Sudan_6_506"
+      ],
+      "size": 5,
+      "actors": [
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Arab Republic of Egypt_7_702",
+        "Republic of Sudan_5_158",
+        "Republic of Sudan_5_169",
+        "Republic of Sudan_6_428",
+        "Republic of Sudan_6_506"
+      ],
+      "strict_cliques": [
+        [
+          "Arab Republic of Egypt_7_702",
+          "Republic of Sudan_6_506"
+        ],
+        [
+          "Arab Republic of Egypt_7_702",
+          "Republic of Sudan_6_428"
+        ],
+        [
+          "Arab Republic of Egypt_7_702",
+          "Republic of Sudan_5_169"
+        ],
+        [
+          "Arab Republic of Egypt_7_702",
+          "Republic of Sudan_5_158"
+        ]
+      ],
+      "validated_core_lax": [
+        "Arab Republic of Egypt_7_702",
+        "Republic of Sudan_5_158",
+        "Republic of Sudan_5_169",
+        "Republic of Sudan_6_428",
+        "Republic of Sudan_6_506"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 4,
+        "n_direct_cross_pairs": 4,
+        "n_lax_core": 5,
+        "n_class": 5
+      }
+    },
+    "Federal Democratic Republic of Ethiopia_5_263": {
+      "members": [
+        "Federal Democratic Republic of Ethiopia_5_263",
+        "Republic of Sudan_5_578"
+      ],
+      "size": 2,
+      "actors": [
+        "Federal Democratic Republic of Ethiopia",
+        "Republic of Sudan"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Federal Democratic Republic of Ethiopia_5_263",
+        "Republic of Sudan_5_578"
+      ],
+      "strict_cliques": [
+        [
+          "Federal Democratic Republic of Ethiopia_5_263",
+          "Republic of Sudan_5_578"
+        ]
+      ],
+      "validated_core_lax": [
+        "Federal Democratic Republic of Ethiopia_5_263",
+        "Republic of Sudan_5_578"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Federal Democratic Republic of Ethiopia_5_314": {
+      "members": [
+        "Federal Democratic Republic of Ethiopia_5_314",
+        "Republic of Sudan_5_287"
+      ],
+      "size": 2,
+      "actors": [
+        "Federal Democratic Republic of Ethiopia",
+        "Republic of Sudan"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Federal Democratic Republic of Ethiopia_5_314",
+        "Republic of Sudan_5_287"
+      ],
+      "strict_cliques": [
+        [
+          "Federal Democratic Republic of Ethiopia_5_314",
+          "Republic of Sudan_5_287"
+        ]
+      ],
+      "validated_core_lax": [
+        "Federal Democratic Republic of Ethiopia_5_314",
+        "Republic of Sudan_5_287"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    }
+  },
+  "statistics": {
+    "total_classes": 18,
+    "min_size": 2,
+    "max_size": 7,
+    "avg_size": 2.7778,
+    "min_actors": 2,
+    "max_actors": 2,
+    "classes_strict_nonempty": 18,
+    "classes_lax_nonempty": 18,
+    "ipvr_strict_avg": 0.9454,
+    "ipvr_lax_coverage_avg": 1.0
+  },
+  "timestamp": "2026-04-28T22:19:44.005043"
+}

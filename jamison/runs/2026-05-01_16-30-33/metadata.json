@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-05-01T16:30:33.126685",
+  "version": "7.5",
+  "caso": {
+    "nombre": "Intrapersonal Conflict in Bipolar I Disorder: Manic-Depressive Opposition Regarding Treatment Adherence and Self-Perception",
+    "actores": [
+      "Kay Jamison [ManicState]",
+      "Kay Jamison [DepressiveState]"
+    ],
+    "hash_descripcion": "04b2bb7c"
+  },
+  "config": {
+    "embeddings_model": "paraphrase-multilingual-mpnet-base-v2",
+    "claude_model": "claude-sonnet-4-20250514",
+    "nli_model": "cross-encoder/nli-deberta-v3-base",
+    "nli_threshold": 0.55,
+    "nli_criterion": "avg",
+    "normalize_actors": true,
+    "contradiction_threshold": 0.3,
+    "nli_batch_size": 128,
+    "embedding_prefilter_threshold": 0.35,
+    "nli_device": -1,
+    "max_depth": 10,
+    "max_nodes_per_tree": 500,
+    "redundancy_threshold": 0.9,
+    "umbral_admision": 0.15,
+    "human_validation_mode": false,
+    "strict_mode": true,
+    "verify_fusions_llm": true,
+    "verify_fusions_batch_size": 15,
+    "visualization": "normal",
+    "save_audit": true
+  },
+  "versiones": {
+    "anthropic": "0.96.0",
+    "sentence_transformers": "5.4.1",
+    "networkx": "3.6.1",
+    "numpy": "2.4.4"
+  },
+  "python_version": "3.14.4 (tags/v3.14.4:23116f9, Apr  7 2026, 14:10:54) [MSC v.1944 64 bit (AMD64)]"
+}

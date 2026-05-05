@@ -1,0 +1,250 @@
+{
+  "n_actors": 3,
+  "actors": [
+    "Arab Republic of Egypt",
+    "Federal Democratic Republic of Ethiopia",
+    "Republic of Sudan"
+  ],
+  "beta_0": 1,
+  "beta_0_sin_bridges": 1,
+  "delta_beta_0": 0,
+  "avg_node_purity": 0.7786,
+  "random_baseline": 0.3333,
+  "total_nodes": 82,
+  "total_edges": 652,
+  "mixed_nodes_count": 26,
+  "bridges_count": 22,
+  "bridges": [
+    {
+      "node_id": "cube10_cluster0",
+      "dominant_ratio": 0.68,
+      "counts": {
+        "Arab Republic of Egypt": 21,
+        "Federal Democratic Republic of Ethiopia": 51,
+        "Republic of Sudan": 3
+      },
+      "sample_text": "Mediators prioritize water-sharing formulas over electricity generation schedules"
+    },
+    {
+      "node_id": "cube16_cluster0",
+      "dominant_ratio": 0.6058823529411764,
+      "counts": {
+        "Arab Republic of Egypt": 61,
+        "Federal Democratic Republic of Ethiopia": 103,
+        "Republic of Sudan": 6
+      },
+      "sample_text": "Regional powers begin diplomatic interventions to prevent conflict"
+    },
+    {
+      "node_id": "cube17_cluster0",
+      "dominant_ratio": 0.5463917525773195,
+      "counts": {
+        "Arab Republic of Egypt": 81,
+        "Federal Democratic Republic of Ethiopia": 106,
+        "Republic of Sudan": 7
+      },
+      "sample_text": "Regional powers begin diplomatic interventions to prevent conflict"
+    },
+    {
+      "node_id": "cube18_cluster0",
+      "dominant_ratio": 0.49107142857142855,
+      "counts": {
+        "Arab Republic of Egypt": 52,
+        "Federal Democratic Republic of Ethiopia": 55,
+        "Republic of Sudan": 5
+      },
+      "sample_text": "International mediators face increased pressure to propose compromise frameworks"
+    },
+    {
+      "node_id": "cube23_cluster0",
+      "dominant_ratio": 0.6122448979591837,
+      "counts": {
+        "Arab Republic of Egypt": 8,
+        "Federal Democratic Republic of Ethiopia": 30,
+        "Republic of Sudan": 11
+      },
+      "sample_text": "Ethiopia perceives reduced Egyptian hostility toward ongoing dam operations"
+    },
+    {
+      "node_id": "cube25_cluster0",
+      "dominant_ratio": 0.48314606741573035,
+      "counts": {
+        "Arab Republic of Egypt": 43,
+        "Federal Democratic Republic of Ethiopia": 42,
+        "Republic of Sudan": 4
+      },
+      "sample_text": "Regional powers begin diplomatic interventions to prevent conflict"
+    },
+    {
+      "node_id": "cube26_cluster0",
+      "dominant_ratio": 0.6464646464646465,
+      "counts": {
+        "Arab Republic of Egypt": 64,
+        "Federal Democratic Republic of Ethiopia": 30,
+        "Republic of Sudan": 5
+      },
+      "sample_text": "Regional powers begin diplomatic interventions to prevent conflict"
+    },
+    {
+      "node_id": "cube28_cluster0",
+      "dominant_ratio": 0.5789473684210527,
+      "counts": {
+        "Arab Republic of Egypt": 6,
+        "Federal Democratic Republic of Ethiopia": 11,
+        "Republic of Sudan": 2
+      },
+      "sample_text": "Regional diplomatic pressure increases on Ethiopia through Arab channels"
+    },
+    {
+      "node_id": "cube29_cluster0",
+      "dominant_ratio": 0.6764705882352942,
+      "counts": {
+        "Arab Republic of Egypt": 19,
+        "Federal Democratic Republic of Ethiopia": 69,
+        "Republic of Sudan": 14
+      },
+      "sample_text": "Regional diplomatic pressure increases on Ethiopia through Arab channels"
+    },
+    {
+      "node_id": "cube30_cluster0",
+      "dominant_ratio": 0.6646341463414634,
+      "counts": {
+        "Arab Republic of Egypt": 27,
+        "Federal Democratic Republic of Ethiopia": 109,
+        "Republic of Sudan": 28
+      },
+      "sample_text": "Ethiopia rejects Egypt's binding agreement demands as colonial-era impositions"
+    },
+    {
+      "node_id": "cube31_cluster0",
+      "dominant_ratio": 0.6153846153846154,
+      "counts": {
+        "Arab Republic of Egypt": 18,
+        "Federal Democratic Republic of Ethiopia": 80,
+        "Republic of Sudan": 32
+      },
+      "sample_text": "Ethiopia rejects Egypt's binding agreement demands as colonial-era impositions"
+    },
+    {
+      "node_id": "cube32_cluster0",
+      "dominant_ratio": 0.49019607843137253,
+      "counts": {
+        "Arab Republic of Egypt": 8,
+        "Federal Democratic Republic of Ethiopia": 25,
+        "Republic of Sudan": 18
+      },
+      "sample_text": "Ethiopia rejects Egypt's binding agreement demands as colonial-era impositions"
+    },
+    {
+      "node_id": "cube37_cluster0",
+      "dominant_ratio": 0.5853658536585366,
+      "counts": {
+        "Arab Republic of Egypt": 24,
+        "Federal Democratic Republic of Ethiopia": 10,
+        "Republic of Sudan": 7
+      },
+      "sample_text": "Regional diplomatic pressure increases on Ethiopia through Arab channels"
+    },
+    {
+      "node_id": "cube38_cluster0",
+      "dominant_ratio": 0.5700934579439252,
+      "counts": {
+        "Arab Republic of Egypt": 61,
+        "Federal Democratic Republic of Ethiopia": 28,
+        "Republic of Sudan": 18
+      },
+      "sample_text": "Egypt frames the GERD dispute as Arab solidarity issue"
+    },
+    {
+      "node_id": "cube39_cluster0",
+      "dominant_ratio": 0.38181818181818183,
+      "counts": {
+        "Arab Republic of Egypt": 63,
+        "Federal Democratic Republic of Ethiopia": 48,
+        "Republic of Sudan": 54
+      },
+      "sample_text": "Ethiopia rejects Egypt's binding agreement demands as colonial-era impositions"
+    },
+    {
+      "node_id": "cube40_cluster0",
+      "dominant_ratio": 0.5639097744360902,
+      "counts": {
+        "Arab Republic of Egypt": 20,
+        "Federal Democratic Republic of Ethiopia": 38,
+        "Republic of Sudan": 75
+      },
+      "sample_text": "Ethiopia rejects Egypt's binding agreement demands as colonial-era impositions"
+    },
+    {
+      "node_id": "cube47_cluster0",
+      "dominant_ratio": 0.4810810810810811,
+      "counts": {
+        "Arab Republic of Egypt": 89,
+        "Federal Democratic Republic of Ethiopia": 28,
+        "Republic of Sudan": 68
+      },
+      "sample_text": "Egypt frames the GERD dispute as Arab solidarity issue"
+    },
+    {
+      "node_id": "cube55_cluster0",
+      "dominant_ratio": 0.5989847715736041,
+      "counts": {
+        "Arab Republic of Egypt": 118,
+        "Federal Democratic Republic of Ethiopia": 24,
+        "Republic of Sudan": 55
+      },
+      "sample_text": "Egypt mobilizes Arab League support against Ethiopian dam operations"
+    },
+    {
+      "node_id": "cube56_cluster0",
+      "dominant_ratio": 0.6858638743455497,
+      "counts": {
+        "Arab Republic of Egypt": 38,
+        "Federal Democratic Republic of Ethiopia": 22,
+        "Republic of Sudan": 131
+      },
+      "sample_text": "Egypt escalates dispute beyond African Union framework"
+    },
+    {
+      "node_id": "cube64_cluster0",
+      "dominant_ratio": 0.5120772946859904,
+      "counts": {
+        "Arab Republic of Egypt": 81,
+        "Federal Democratic Republic of Ethiopia": 20,
+        "Republic of Sudan": 106
+      },
+      "sample_text": "Egypt gains multilateral backing for its water security position"
+    },
+    {
+      "node_id": "cube72_cluster0",
+      "dominant_ratio": 0.5773809523809523,
+      "counts": {
+        "Arab Republic of Egypt": 97,
+        "Federal Democratic Republic of Ethiopia": 17,
+        "Republic of Sudan": 54
+      },
+      "sample_text": "Egypt gains multilateral backing for its water security position"
+    },
+    {
+      "node_id": "cube80_cluster0",
+      "dominant_ratio": 0.6176470588235294,
+      "counts": {
+        "Arab Republic of Egypt": 24,
+        "Federal Democratic Republic of Ethiopia": 15,
+        "Republic of Sudan": 63
+      },
+      "sample_text": "Egypt allocates budget resources for desalination and groundwater exploration projects"
+    }
+  ],
+  "components": [
+    {
+      "size": 82,
+      "type_counts": {
+        "Arab Republic of Egypt": 22,
+        "Republic of Sudan": 17,
+        "Federal Democratic Republic of Ethiopia": 17,
+        "Mixed": 26
+      }
+    }
+  ]
+}

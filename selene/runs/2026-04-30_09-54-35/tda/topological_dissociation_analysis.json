@@ -1,0 +1,146 @@
+{
+  "n_actors": 3,
+  "actors": [
+    "Commonwealth of Cerulea",
+    "Federation of Borealis",
+    "Republic of Aurelia"
+  ],
+  "beta_0": 2,
+  "beta_0_sin_bridges": 2,
+  "delta_beta_0": 0,
+  "avg_node_purity": 0.768,
+  "random_baseline": 0.3333,
+  "total_nodes": 82,
+  "total_edges": 640,
+  "mixed_nodes_count": 35,
+  "bridges_count": 11,
+  "bridges": [
+    {
+      "node_id": "cube41_cluster0",
+      "dominant_ratio": 0.4793388429752066,
+      "counts": {
+        "Commonwealth of Cerulea": 50,
+        "Federation of Borealis": 58,
+        "Republic of Aurelia": 13
+      },
+      "sample_text": "Other nations must accept overcapacity or face communication loss"
+    },
+    {
+      "node_id": "cube42_cluster0",
+      "dominant_ratio": 0.5514705882352942,
+      "counts": {
+        "Commonwealth of Cerulea": 75,
+        "Federation of Borealis": 41,
+        "Republic of Aurelia": 20
+      },
+      "sample_text": "Other nations must accept overcapacity or face communication loss"
+    },
+    {
+      "node_id": "cube43_cluster0",
+      "dominant_ratio": 0.4467005076142132,
+      "counts": {
+        "Commonwealth of Cerulea": 88,
+        "Federation of Borealis": 56,
+        "Republic of Aurelia": 53
+      },
+      "sample_text": "Resource allocation deadlock occurs between the three nations"
+    },
+    {
+      "node_id": "cube44_cluster0",
+      "dominant_ratio": 0.3783783783783784,
+      "counts": {
+        "Commonwealth of Cerulea": 59,
+        "Federation of Borealis": 56,
+        "Republic of Aurelia": 70
+      },
+      "sample_text": "Emergency response time increases due to required unanimous agreement"
+    },
+    {
+      "node_id": "cube45_cluster0",
+      "dominant_ratio": 0.45390070921985815,
+      "counts": {
+        "Commonwealth of Cerulea": 43,
+        "Federation of Borealis": 34,
+        "Republic of Aurelia": 64
+      },
+      "sample_text": "Critical system failures require delayed consensus approval"
+    },
+    {
+      "node_id": "cube51_cluster0",
+      "dominant_ratio": 0.47474747474747475,
+      "counts": {
+        "Commonwealth of Cerulea": 47,
+        "Federation of Borealis": 41,
+        "Republic of Aurelia": 11
+      },
+      "sample_text": "Other nations must accept overcapacity or face communication loss"
+    },
+    {
+      "node_id": "cube52_cluster0",
+      "dominant_ratio": 0.639344262295082,
+      "counts": {
+        "Commonwealth of Cerulea": 78,
+        "Federation of Borealis": 28,
+        "Republic of Aurelia": 16
+      },
+      "sample_text": "Other nations must accept overcapacity or face communication loss"
+    },
+    {
+      "node_id": "cube53_cluster0",
+      "dominant_ratio": 0.5892857142857143,
+      "counts": {
+        "Commonwealth of Cerulea": 99,
+        "Federation of Borealis": 40,
+        "Republic of Aurelia": 29
+      },
+      "sample_text": "Other nations cannot unilaterally reduce crew sizes"
+    },
+    {
+      "node_id": "cube54_cluster0",
+      "dominant_ratio": 0.43790849673202614,
+      "counts": {
+        "Commonwealth of Cerulea": 67,
+        "Federation of Borealis": 39,
+        "Republic of Aurelia": 47
+      },
+      "sample_text": "Negotiation timeline extends beyond immediate survival needs"
+    },
+    {
+      "node_id": "cube55_cluster0",
+      "dominant_ratio": 0.39316239316239315,
+      "counts": {
+        "Commonwealth of Cerulea": 46,
+        "Federation of Borealis": 29,
+        "Republic of Aurelia": 42
+      },
+      "sample_text": "Critical system failures require delayed consensus approval"
+    },
+    {
+      "node_id": "cube60_cluster0",
+      "dominant_ratio": 0.6153846153846154,
+      "counts": {
+        "Commonwealth of Cerulea": 3,
+        "Federation of Borealis": 8,
+        "Republic of Aurelia": 2
+      },
+      "sample_text": "Other nations must justify their power requirements against communication needs"
+    }
+  ],
+  "components": [
+    {
+      "size": 80,
+      "type_counts": {
+        "Commonwealth of Cerulea": 18,
+        "Republic of Aurelia": 12,
+        "Federation of Borealis": 17,
+        "Mixed": 33
+      }
+    },
+    {
+      "size": 2,
+      "type_counts": {
+        "Mixed": 2
+      }
+    }
+  ]
+}

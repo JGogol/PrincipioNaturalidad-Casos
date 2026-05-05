@@ -1,0 +1,2185 @@
+{
+  "total": 218,
+  "fusiones": [
+    {
+      "nodo_a_id": "Republic of Aurelia_2_5",
+      "nodo_a_texto": "Other crews cannot monitor critical system parameters independently",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_229",
+      "nodo_b_texto": "Other crews cannot independently verify system status",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9781888127326965,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_2_5",
+      "nodo_a_texto": "Other crews cannot monitor critical system parameters independently",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_320",
+      "nodo_b_texto": "Non-Borealis personnel lose ability to verify system performance independently",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9891294240951538,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_2_5",
+      "nodo_a_texto": "Other crews cannot monitor critical system parameters independently",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_431",
+      "nodo_b_texto": "Other crews lose ability to monitor essential system parameters",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9902060627937317,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_2_5",
+      "nodo_a_texto": "Other crews cannot monitor critical system parameters independently",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_526",
+      "nodo_b_texto": "Other crews lose ability to detect potential system failures autonomously",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9927206933498383,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_2_7",
+      "nodo_a_texto": "Other crews must request permission for basic life support adjustments",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_282",
+      "nodo_b_texto": "Other crews must negotiate for basic life support access",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.988580584526062,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_17",
+      "nodo_a_texto": "Non-Aurelian personnel cannot independently troubleshoot life support issues",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_176",
+      "nodo_b_texto": "Other crews cannot verify life support system operational status",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9776687622070312,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_17",
+      "nodo_a_texto": "Non-Aurelian personnel cannot independently troubleshoot life support issues",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_250",
+      "nodo_b_texto": "Other crews cannot maintain critical life support systems independently",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.8476226627826691,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_23",
+      "nodo_a_texto": "Other crews cannot verify Aurelia's technical assessments independently",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_320",
+      "nodo_b_texto": "Non-Borealis personnel lose ability to verify system performance independently",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9719304740428925,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_24",
+      "nodo_a_texto": "Other crews lose situational awareness of habitat conditions",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_510",
+      "nodo_b_texto": "Other crews experience degraded environmental conditions",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9550126194953918,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_25",
+      "nodo_a_texto": "Other crews cannot monitor life support system status",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_4_80",
+      "nodo_b_texto": "Other crews lose ability to monitor critical life support parameters",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.5658052563667297,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_25",
+      "nodo_a_texto": "Other crews cannot monitor life support system status",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_176",
+      "nodo_b_texto": "Other crews cannot verify life support system operational status",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9896480739116669,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_25",
+      "nodo_a_texto": "Other crews cannot monitor life support system status",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_250",
+      "nodo_b_texto": "Other crews cannot maintain critical life support systems independently",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.5832973495125771,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_28",
+      "nodo_a_texto": "Other crews lose ability to verify system safety margins",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_178",
+      "nodo_b_texto": "Other crews lose independent safety oversight capability",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.8608990907669067,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_57",
+      "nodo_a_texto": "Physical confrontations occur over habitat control areas",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_463",
+      "nodo_b_texto": "The habitat's operational zones become physically contested territory",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.995185375213623,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_60",
+      "nodo_a_texto": "Other crews cannot independently troubleshoot critical system failures",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_320",
+      "nodo_b_texto": "Non-Borealis personnel lose ability to verify system performance independently",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.5892005786299706,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_60",
+      "nodo_a_texto": "Other crews cannot independently troubleshoot critical system failures",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_431",
+      "nodo_b_texto": "Other crews lose ability to monitor essential system parameters",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9905583262443542,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_60",
+      "nodo_a_texto": "Other crews cannot independently troubleshoot critical system failures",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_526",
+      "nodo_b_texto": "Other crews lose ability to detect potential system failures autonomously",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9769372344017029,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_65",
+      "nodo_a_texto": "Other crews cannot verify Aurelia's system status reports",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_320",
+      "nodo_b_texto": "Non-Borealis personnel lose ability to verify system performance independently",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9755330681800842,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_71",
+      "nodo_a_texto": "Other crews cannot verify Republic of Aurelia's system status reports",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_4_82",
+      "nodo_b_texto": "System diagnostics become inaccessible to non-Borealis personnel",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.7940579056739807,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_71",
+      "nodo_a_texto": "Other crews cannot verify Republic of Aurelia's system status reports",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_320",
+      "nodo_b_texto": "Non-Borealis personnel lose ability to verify system performance independently",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9867372214794159,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_81",
+      "nodo_a_texto": "Critical habitat systems register multiple simultaneous control inputs",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_4_139",
+      "nodo_b_texto": "Emergency protocols trigger simultaneous competing technical interventions",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9884145259857178,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_81",
+      "nodo_a_texto": "Critical habitat systems register multiple simultaneous control inputs",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_245",
+      "nodo_b_texto": "Critical habitat systems experience competing operational demands",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.6373502165079117,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_81",
+      "nodo_a_texto": "Critical habitat systems register multiple simultaneous control inputs",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_428",
+      "nodo_b_texto": "Conflicting technical commands overload habitat's integrated control systems",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.6674100160598755,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_100",
+      "nodo_a_texto": "Other crews begin developing contingency plans for system access",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_189",
+      "nodo_b_texto": "Other crews begin developing workarounds for restricted systems",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9843209683895111,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_100",
+      "nodo_a_texto": "Other crews begin developing contingency plans for system access",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_341",
+      "nodo_b_texto": "Competing crews attempt to develop alternative extraction techniques",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9906774461269379,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_101",
+      "nodo_a_texto": "Trust between all three crews deteriorates significantly",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_356",
+      "nodo_b_texto": "Trust between the three crews deteriorates significantly",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9973699152469635,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_108",
+      "nodo_a_texto": "Tension escalates between crews over access to essential equipment",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_4_114",
+      "nodo_b_texto": "Habitat power allocation disputes emerge from extraction equipment demands",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.5996214151382446,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_113",
+      "nodo_a_texto": "Multiple crews simultaneously manipulate interconnected life support components",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_190",
+      "nodo_b_texto": "Multiple crews independently adjust life support parameters simultaneously",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.6275314390659332,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_123",
+      "nodo_a_texto": "Other crews develop alternative life support management protocols",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_426",
+      "nodo_b_texto": "Other crews begin emergency contingency planning for system failure",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9723036885261536,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_133",
+      "nodo_a_texto": "Habitat's integrated control systems register conflicting command inputs",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_404",
+      "nodo_b_texto": "The habitat's unified control system receives conflicting simultaneous commands",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9927840232849121,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_133",
+      "nodo_a_texto": "Habitat's integrated control systems register conflicting command inputs",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_493",
+      "nodo_b_texto": "Borealis systems receive contradictory operational commands from multiple sources",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9855502247810364,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_136",
+      "nodo_a_texto": "Non-Aurelian crew members experience increased physiological stress from emergency vulnerability",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_445",
+      "nodo_b_texto": "Habitat life support systems suffer physical damage during struggle",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.809118926525116,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_150",
+      "nodo_a_texto": "Mission safety becomes subordinated to territorial control assertions",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_432",
+      "nodo_b_texto": "Habitat's integrated safety protocols become compromised by unilateral control",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.8427566289901733,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_159",
+      "nodo_a_texto": "Critical habitat systems experience operational anomalies from untrained interference",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_4_84",
+      "nodo_b_texto": "Life support system parameters drift without coordinated monitoring",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.7013730257749557,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_162",
+      "nodo_a_texto": "Physical confrontations emerge over habitat system control panels",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_209",
+      "nodo_b_texto": "Physical confrontations occur near critical habitat infrastructure",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.7463503479957581,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_162",
+      "nodo_a_texto": "Physical confrontations emerge over habitat system control panels",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_463",
+      "nodo_b_texto": "The habitat's operational zones become physically contested territory",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9741945266723633,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_166",
+      "nodo_a_texto": "Competing crews develop independent information gathering methods",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_341",
+      "nodo_b_texto": "Competing crews attempt to develop alternative extraction techniques",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9924481213092804,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_170",
+      "nodo_a_texto": "Physical confrontation occurs within the confined habitat space",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_463",
+      "nodo_b_texto": "The habitat's operational zones become physically contested territory",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9716896116733551,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_171",
+      "nodo_a_texto": "Critical habitat systems become contested operational battleground",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_1_3",
+      "nodo_b_texto": "Resource allocation debates intensify over geological operation priorities",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.6108424365520477,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_171",
+      "nodo_a_texto": "Critical habitat systems become contested operational battleground",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_245",
+      "nodo_b_texto": "Critical habitat systems experience competing operational demands",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9686091244220734,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_171",
+      "nodo_a_texto": "Critical habitat systems become contested operational battleground",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_463",
+      "nodo_b_texto": "The habitat's operational zones become physically contested territory",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.5937931910157204,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_171",
+      "nodo_a_texto": "Critical habitat systems become contested operational battleground",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_469",
+      "nodo_b_texto": "Critical life support protocols become simultaneously conflicted",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.992165207862854,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_181",
+      "nodo_a_texto": "Habitat systems suffer damage from crew altercations",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_510",
+      "nodo_b_texto": "Other crews experience degraded environmental conditions",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9200829863548279,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_183",
+      "nodo_a_texto": "Mission safety protocols become completely compromised",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_469",
+      "nodo_b_texto": "Critical life support protocols become simultaneously conflicted",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9672937095165253,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_184",
+      "nodo_a_texto": "Aurelian crew's technical authority gets physically challenged",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_463",
+      "nodo_b_texto": "The habitat's operational zones become physically contested territory",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.7270201295614243,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_204",
+      "nodo_a_texto": "Independent contingency plans create conflicting operational protocols",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_492",
+      "nodo_b_texto": "Life support system parameters conflict with each other",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.614930272102356,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_218",
+      "nodo_a_texto": "Critical life support parameters become unstable",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_469",
+      "nodo_b_texto": "Critical life support protocols become simultaneously conflicted",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.5642008855938911,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_229",
+      "nodo_a_texto": "Habitat's unified control system begins experiencing cascading failures",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_428",
+      "nodo_b_texto": "Conflicting technical commands overload habitat's integrated control systems",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9892245829105377,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_259",
+      "nodo_a_texto": "Joint crew decisions proceed without Aurelian technical input",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_238",
+      "nodo_b_texto": "Life support systems begin operating without unified oversight protocols",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.7705888748168945,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_261",
+      "nodo_a_texto": "Republic of Aurelia's crew sustains injuries during physical altercation",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_445",
+      "nodo_b_texto": "Habitat life support systems suffer physical damage during struggle",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9857683181762695,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_262",
+      "nodo_a_texto": "Critical system monitoring becomes compromised during crew conflict",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_431",
+      "nodo_b_texto": "Other crews lose ability to monitor essential system parameters",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9615090787410736,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_263",
+      "nodo_a_texto": "Oxygen generation equipment experiences mechanical damage from struggle",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_445",
+      "nodo_b_texto": "Habitat life support systems suffer physical damage during struggle",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9946976006031036,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_285",
+      "nodo_a_texto": "Other crews lose technical confidence in habitat operations",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_176",
+      "nodo_b_texto": "Other crews cannot verify life support system operational status",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9861044883728027,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_285",
+      "nodo_a_texto": "Other crews lose technical confidence in habitat operations",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_320",
+      "nodo_b_texto": "Non-Borealis personnel lose ability to verify system performance independently",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.5888632014393806,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_294",
+      "nodo_a_texto": "Critical life support parameters drift without unified oversight",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_4_90",
+      "nodo_b_texto": "Critical habitat operations proceed without coordinated oversight",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.992710143327713,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_294",
+      "nodo_a_texto": "Critical life support parameters drift without unified oversight",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_169",
+      "nodo_b_texto": "Life support resources get redistributed without multilateral consent",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9909829795360565,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_294",
+      "nodo_a_texto": "Critical life support parameters drift without unified oversight",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_495",
+      "nodo_b_texto": "Life support system degradation accelerates without coordinated maintenance protocols",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9919412434101105,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_295",
+      "nodo_a_texto": "Emergency response protocols become fragmented across competing authorities",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_238",
+      "nodo_b_texto": "Life support systems begin operating without unified oversight protocols",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.7831688225269318,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_295",
+      "nodo_a_texto": "Emergency response protocols become fragmented across competing authorities",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_469",
+      "nodo_b_texto": "Critical life support protocols become simultaneously conflicted",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.8775474727153778,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_296",
+      "nodo_a_texto": "Republic of Aurelia's certified engineer faces conflicting operational directives",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_493",
+      "nodo_b_texto": "Borealis systems receive contradictory operational commands from multiple sources",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9498117566108704,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_307",
+      "nodo_a_texto": "Physical confrontation risk escalates within confined habitat spaces",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_463",
+      "nodo_b_texto": "The habitat's operational zones become physically contested territory",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9565885066986084,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_330",
+      "nodo_a_texto": "Habitat's backup safety protocols begin activation sequence",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_3_37",
+      "nodo_b_texto": "Federation of Borealis activates emergency protocols for system protection",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9098063111305237,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_330",
+      "nodo_a_texto": "Habitat's backup safety protocols begin activation sequence",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_230",
+      "nodo_b_texto": "Federation of Borealis initiates defensive preparations to protect critical systems",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9806881546974182,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_330",
+      "nodo_a_texto": "Habitat's backup safety protocols begin activation sequence",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_390",
+      "nodo_b_texto": "Federation of Borealis activates defensive protocols for critical systems",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.554225992411375,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_335",
+      "nodo_a_texto": "Other crews begin independent contingency planning for survival",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_341",
+      "nodo_b_texto": "Competing crews attempt to develop alternative extraction techniques",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9643382132053375,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_351",
+      "nodo_a_texto": "Non-Aurelian crew members lose technical situational awareness",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_4_82",
+      "nodo_b_texto": "System diagnostics become inaccessible to non-Borealis personnel",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.7798716723918915,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_351",
+      "nodo_a_texto": "Non-Aurelian crew members lose technical situational awareness",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_267",
+      "nodo_b_texto": "Other nations lose input on life support system configurations",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.6106259450316429,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_351",
+      "nodo_a_texto": "Non-Aurelian crew members lose technical situational awareness",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_431",
+      "nodo_b_texto": "Other crews lose ability to monitor essential system parameters",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9898897111415863,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_356",
+      "nodo_a_texto": "Republic of Aurelia's crew starts monitoring other teams' activities suspiciously",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_3_47",
+      "nodo_b_texto": "Borealis experiences increased distrust toward other crews",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.6262466758489609,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_356",
+      "nodo_a_texto": "Republic of Aurelia's crew starts monitoring other teams' activities suspiciously",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_507",
+      "nodo_b_texto": "Borealis develops suspicions about other crews' undisclosed activities",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.6294224560260773,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_395",
+      "nodo_a_texto": "Life support system integrity becomes compromised through competing interventions",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_4_59",
+      "nodo_b_texto": "The habitat's integrated life support becomes a contested control point",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.5603662058711052,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_395",
+      "nodo_a_texto": "Life support system integrity becomes compromised through competing interventions",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_492",
+      "nodo_b_texto": "Life support system parameters conflict with each other",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9466133415699005,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_397",
+      "nodo_a_texto": "Habitat's unified control system faces simultaneous conflicting commands",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_283",
+      "nodo_b_texto": "Conflicting commands are issued to the same habitat systems simultaneously",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9922195672988892,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_397",
+      "nodo_a_texto": "Habitat's unified control system faces simultaneous conflicting commands",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_404",
+      "nodo_b_texto": "The habitat's unified control system receives conflicting simultaneous commands",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9980269968509674,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_397",
+      "nodo_a_texto": "Habitat's unified control system faces simultaneous conflicting commands",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_493",
+      "nodo_b_texto": "Borealis systems receive contradictory operational commands from multiple sources",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.6152137592434883,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_417",
+      "nodo_a_texto": "Critical habitat systems become partially inaccessible to non-Aurelian personnel",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_397",
+      "nodo_b_texto": "Other crews must negotiate without essential water ice resources",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.7560705542564392,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_421",
+      "nodo_a_texto": "Physical confrontation damages critical habitat systems",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_445",
+      "nodo_b_texto": "Habitat life support systems suffer physical damage during struggle",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9903369545936584,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_423",
+      "nodo_a_texto": "Habitat's unified control system experiences operational disruption",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_428",
+      "nodo_b_texto": "Conflicting technical commands overload habitat's integrated control systems",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9952562749385834,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_427",
+      "nodo_a_texto": "Other nations lose capacity for independent safety decision-making",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_267",
+      "nodo_b_texto": "Other nations lose input on life support system configurations",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.7653991281986237,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_437",
+      "nodo_a_texto": "Habitat safety protocols become compromised during physical altercations",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_445",
+      "nodo_b_texto": "Habitat life support systems suffer physical damage during struggle",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9657954275608063,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_443",
+      "nodo_a_texto": "Aurelia's engineer receives conflicting technical directives from multiple command structures",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_493",
+      "nodo_b_texto": "Borealis systems receive contradictory operational commands from multiple sources",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.7322380840778351,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_451",
+      "nodo_a_texto": "Life support system reliability becomes critically compromised",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_469",
+      "nodo_b_texto": "Critical life support protocols become simultaneously conflicted",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9826034307479858,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_452",
+      "nodo_a_texto": "Emergency protocols activate automatically throughout the habitat",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_238",
+      "nodo_b_texto": "Life support systems begin operating without unified oversight protocols",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9822595119476318,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_460",
+      "nodo_a_texto": "Other nations lose bargaining power in habitat negotiations",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_267",
+      "nodo_b_texto": "Other nations lose input on life support system configurations",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9634497761726379,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_462",
+      "nodo_a_texto": "Non-Aurelian personnel face potential life support rationing",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_397",
+      "nodo_b_texto": "Other crews must negotiate without essential water ice resources",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.8906632661819458,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_462",
+      "nodo_a_texto": "Non-Aurelian personnel face potential life support rationing",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_412",
+      "nodo_b_texto": "Alternative crews face potential system dependency crisis",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9806618690490723,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_471",
+      "nodo_a_texto": "Other crews lose strategic autonomy in mission execution",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_534",
+      "nodo_b_texto": "Competing crews accept subordinate roles in operational hierarchy",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.6530847251415253,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_482",
+      "nodo_a_texto": "Habitat life support systems sustain damage from physical altercation",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_209",
+      "nodo_b_texto": "Physical confrontations occur near critical habitat infrastructure",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9884572327136993,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_482",
+      "nodo_a_texto": "Habitat life support systems sustain damage from physical altercation",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_445",
+      "nodo_b_texto": "Habitat life support systems suffer physical damage during struggle",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9963400363922119,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_484",
+      "nodo_a_texto": "Critical habitat equipment becomes inaccessible during physical struggle",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_154",
+      "nodo_b_texto": "Critical system maintenance becomes impossible during standoff",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9648756086826324,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_484",
+      "nodo_a_texto": "Critical habitat equipment becomes inaccessible during physical struggle",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_445",
+      "nodo_b_texto": "Habitat life support systems suffer physical damage during struggle",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9776564538478851,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_484",
+      "nodo_a_texto": "Critical habitat equipment becomes inaccessible during physical struggle",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_447",
+      "nodo_b_texto": "Critical system interfaces become inaccessible due to physical blockade",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9444239437580109,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_485",
+      "nodo_a_texto": "Emergency protocols activate automatically due to detected violence",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_448",
+      "nodo_b_texto": "Emergency protocols activate automatically due to detected physical threats",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.8721022307872772,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_487",
+      "nodo_a_texto": "Critical life support systems experience operational failures",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_4_68",
+      "nodo_b_texto": "Emergency response protocols become ineffective",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9847205281257629,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_534",
+      "nodo_a_texto": "Life support system receives contradictory operational parameters simultaneously",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_283",
+      "nodo_b_texto": "Conflicting commands are issued to the same habitat systems simultaneously",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9931828081607819,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_534",
+      "nodo_a_texto": "Life support system receives contradictory operational parameters simultaneously",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_404",
+      "nodo_b_texto": "The habitat's unified control system receives conflicting simultaneous commands",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9770016968250275,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_534",
+      "nodo_a_texto": "Life support system receives contradictory operational parameters simultaneously",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_469",
+      "nodo_b_texto": "Critical life support protocols become simultaneously conflicted",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9903881549835205,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_535",
+      "nodo_a_texto": "Habitat's unified control system enters fail-safe lockdown mode",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_3_37",
+      "nodo_b_texto": "Federation of Borealis activates emergency protocols for system protection",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9206198453903198,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_535",
+      "nodo_a_texto": "Habitat's unified control system enters fail-safe lockdown mode",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_230",
+      "nodo_b_texto": "Federation of Borealis initiates defensive preparations to protect critical systems",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.5884169787168503,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_535",
+      "nodo_a_texto": "Habitat's unified control system enters fail-safe lockdown mode",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_390",
+      "nodo_b_texto": "Federation of Borealis activates defensive protocols for critical systems",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9620699882507324,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_1_2",
+      "nodo_a_texto": "Aurelia restricts other crews' access to life support systems",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_241",
+      "nodo_b_texto": "Commonwealth of Cerulea controls oxygen allocation between crew members",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9180206060409546,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_1_2",
+      "nodo_a_texto": "Aurelia restricts other crews' access to life support systems",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_324",
+      "nodo_b_texto": "Cerulea controls access to medical equipment for non-Cerulea personnel",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9912117123603821,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_1_2",
+      "nodo_a_texto": "Aurelia restricts other crews' access to life support systems",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_7_548",
+      "nodo_b_texto": "Emergency life support responses require Cerulea's prior authorization",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9432726800441742,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_15",
+      "nodo_a_texto": "Other crews develop dependency on Aurelian technical expertise",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_203",
+      "nodo_b_texto": "Other nations' technical procedures are subordinated to Cerulea's systems",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8331299424171448,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_15",
+      "nodo_a_texto": "Other crews develop dependency on Aurelian technical expertise",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_550",
+      "nodo_b_texto": "Other nations become structurally dependent on Cerulea's technical capabilities",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7315968871116638,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_35",
+      "nodo_a_texto": "Aurelia considers restricting other crews' system access privileges",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_303",
+      "nodo_b_texto": "Cerulea can selectively restrict information flow to other crews",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6717099398374557,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_37",
+      "nodo_a_texto": "Aurelia begins unilateral modifications to habitat control protocols",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_148",
+      "nodo_b_texto": "Habitat operations become dependent on Cerulea's unilateral decisions",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7239195555448532,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_43",
+      "nodo_a_texto": "Aurelia can reduce oxygen flow to non-Aurelian crew members",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_135",
+      "nodo_b_texto": "Other crews face reduced oxygen allocation ratios",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9871425032615662,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_56",
+      "nodo_a_texto": "Aurelian personnel restrict information sharing with competing crews",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_303",
+      "nodo_b_texto": "Cerulea can selectively restrict information flow to other crews",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9560443162918091,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_58",
+      "nodo_a_texto": "Other crews attempt independent system modifications without Aurelian oversight",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_226",
+      "nodo_b_texto": "Other nations resort to unilateral actions bypassing Cerulea's authority",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9490805566310883,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_109",
+      "nodo_a_texto": "Other nations' crews are forced into defensive positioning",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_7_567",
+      "nodo_b_texto": "Other nations initiate emergency protocols to protect their crews",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.976662278175354,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_117",
+      "nodo_a_texto": "Aurelia's strategic leverage in habitat negotiations significantly diminishes",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_190",
+      "nodo_b_texto": "Cerulea loses influence over habitat operational decisions",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9823384582996368,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_123",
+      "nodo_a_texto": "Other crews develop alternative life support management protocols",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_315",
+      "nodo_b_texto": "Other crews consider emergency protocols to restore oxygen equity",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.79288050532341,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_124",
+      "nodo_a_texto": "Republic of Aurelia begins restricting other crews' habitat access",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_44",
+      "nodo_b_texto": "Cerulea determines which personnel remain in habitat",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6840156763792038,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_137",
+      "nodo_a_texto": "Other nations' crews develop contingency protocols bypassing Aurelian authorization",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_446",
+      "nodo_b_texto": "Other nations develop contingency plans independent of Cerulea's framework",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6260808855295181,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_159",
+      "nodo_a_texto": "Critical habitat systems experience operational anomalies from untrained interference",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_66",
+      "nodo_b_texto": "Habitat life support systems experience unmanaged strain from conflicting usage",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9930864870548248,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_159",
+      "nodo_a_texto": "Critical habitat systems experience operational anomalies from untrained interference",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_179",
+      "nodo_b_texto": "Life support system failures occur without coordinated technical response",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.965013712644577,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_171",
+      "nodo_a_texto": "Critical habitat systems become contested operational battleground",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_482",
+      "nodo_b_texto": "Physical confrontation over communication hardware becomes imminent",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5617932006716728,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_185",
+      "nodo_a_texto": "Non-Aurelian crew members face immediate physiological impairment",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_137",
+      "nodo_b_texto": "Non-Cerulea personnel experience increased physiological stress",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9822387993335724,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_186",
+      "nodo_a_texto": "Other nations' crews become dependent on Aurelian decisions",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_40",
+      "nodo_b_texto": "Other nations must negotiate personnel choices with Cerulea",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8420982360839844,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_186",
+      "nodo_a_texto": "Other nations' crews become dependent on Aurelian decisions",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_145",
+      "nodo_b_texto": "Other nations must negotiate crew composition through Cerulea",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7103976607322693,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_186",
+      "nodo_a_texto": "Other nations' crews become dependent on Aurelian decisions",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_251",
+      "nodo_b_texto": "Cerulea determines which personnel from other nations remain aboard",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9541125297546387,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_200",
+      "nodo_a_texto": "Aurelia controls timing of critical maintenance operations",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_7_554",
+      "nodo_b_texto": "Cerulea controls timing of critical system maintenance",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6930174082517624,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_203",
+      "nodo_a_texto": "Aurelia's technical expertise becomes subordinated to collective decision-making",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_445",
+      "nodo_b_texto": "Scientific research activities become secondary to resource negotiations",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.695762425661087,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_204",
+      "nodo_a_texto": "Independent contingency plans create conflicting operational protocols",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_174",
+      "nodo_b_texto": "Emergency conditions force unilateral actions despite consensus framework",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5750280171632767,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_205",
+      "nodo_a_texto": "Other crews prepare unilateral actions bypassing Aurelian oversight",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_226",
+      "nodo_b_texto": "Other nations resort to unilateral actions bypassing Cerulea's authority",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8911264836788177,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_205",
+      "nodo_a_texto": "Other crews prepare unilateral actions bypassing Aurelian oversight",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_248",
+      "nodo_b_texto": "Other nations attempt independent operations without Earth coordination",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9839777648448944,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_205",
+      "nodo_a_texto": "Other crews prepare unilateral actions bypassing Aurelian oversight",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_446",
+      "nodo_b_texto": "Other nations develop contingency plans independent of Cerulea's framework",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9871476292610168,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_208",
+      "nodo_a_texto": "Other crews become dependent on Aurelian technical decisions",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_203",
+      "nodo_b_texto": "Other nations' technical procedures are subordinated to Cerulea's systems",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9055964052677155,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_218",
+      "nodo_a_texto": "Critical life support parameters become unstable",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_338",
+      "nodo_b_texto": "Habitat temperature regulation ceases threatening crew survival",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9437247216701508,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_218",
+      "nodo_a_texto": "Critical life support parameters become unstable",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_396",
+      "nodo_b_texto": "Critical life support systems begin experiencing cascading failures",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9860256016254425,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_230",
+      "nodo_a_texto": "Life support parameters drift outside safe operational ranges",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_321",
+      "nodo_b_texto": "Habitat atmospheric composition monitoring systems register dangerous fluctuations",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5612238273024559,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_230",
+      "nodo_a_texto": "Life support parameters drift outside safe operational ranges",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_338",
+      "nodo_b_texto": "Habitat temperature regulation ceases threatening crew survival",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.967703104019165,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_230",
+      "nodo_a_texto": "Life support parameters drift outside safe operational ranges",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_354",
+      "nodo_b_texto": "Medical emergencies may exceed available response window",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9887031614780426,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_230",
+      "nodo_a_texto": "Life support parameters drift outside safe operational ranges",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_430",
+      "nodo_b_texto": "Habitat interior temperatures exceed human survivability limits",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5568125024437904,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_260",
+      "nodo_a_texto": "Habitat's integrated life support systems suffer operational disruption",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_66",
+      "nodo_b_texto": "Habitat life support systems experience unmanaged strain from conflicting usage",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7577940821647644,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_263",
+      "nodo_a_texto": "Oxygen generation equipment experiences mechanical damage from struggle",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_66",
+      "nodo_b_texto": "Habitat life support systems experience unmanaged strain from conflicting usage",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9885083734989166,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_263",
+      "nodo_a_texto": "Oxygen generation equipment experiences mechanical damage from struggle",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_259",
+      "nodo_b_texto": "Life support efficiency degrades from system confusion",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9793231785297394,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_294",
+      "nodo_a_texto": "Critical life support parameters drift without unified oversight",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_179",
+      "nodo_b_texto": "Life support system failures occur without coordinated technical response",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8989580571651459,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_294",
+      "nodo_a_texto": "Critical life support parameters drift without unified oversight",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_180",
+      "nodo_b_texto": "Medical emergencies develop without unified treatment protocols",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.975551187992096,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_294",
+      "nodo_a_texto": "Critical life support parameters drift without unified oversight",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_285",
+      "nodo_b_texto": "Life support resource rationing occurs without coordinated allocation protocol",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8280199766159058,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_294",
+      "nodo_a_texto": "Critical life support parameters drift without unified oversight",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_338",
+      "nodo_b_texto": "Habitat temperature regulation ceases threatening crew survival",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8700405657291412,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_294",
+      "nodo_a_texto": "Critical life support parameters drift without unified oversight",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_465",
+      "nodo_b_texto": "Medical conditions deteriorate without professional intervention",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5907580405473709,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_295",
+      "nodo_a_texto": "Emergency response protocols become fragmented across competing authorities",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_96",
+      "nodo_b_texto": "Emergency response protocols lack single coordinating authority",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8324207365512848,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_295",
+      "nodo_a_texto": "Emergency response protocols become fragmented across competing authorities",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_7_544",
+      "nodo_b_texto": "Safety procedures become inconsistent across different crew sections",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9189492464065552,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_363",
+      "nodo_a_texto": "Non-Aurelian crews begin developing contingency plans for system independence",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_7_531",
+      "nodo_b_texto": "Other nations develop contingency plans for independent operations",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9658061861991882,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_365",
+      "nodo_a_texto": "Critical system failures occur without coordinated maintenance protocols",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_256",
+      "nodo_b_texto": "Critical system failures receive conflicting repair approaches",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9785507321357727,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_366",
+      "nodo_a_texto": "Emergency response capabilities become fragmented across competing crews",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_7_544",
+      "nodo_b_texto": "Safety procedures become inconsistent across different crew sections",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9888046681880951,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_383",
+      "nodo_a_texto": "Aurelia interprets unauthorized access as immediate safety threat",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_481",
+      "nodo_b_texto": "Cerulea perceives direct equipment access as hostile action",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.793593168258667,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_398",
+      "nodo_a_texto": "Emergency protocols cannot be executed through normal command structure",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_96",
+      "nodo_b_texto": "Emergency response protocols lack single coordinating authority",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6482923626899719,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_424",
+      "nodo_a_texto": "Aurelia's engineer determines survival priority among competing crew members",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_115",
+      "nodo_b_texto": "Cerulea determines life support priority allocation among crews",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9823439419269562,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_434",
+      "nodo_a_texto": "Aurelia's crew restricts other nations' access to critical systems",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_191",
+      "nodo_b_texto": "Other nations must choose between accepting Cerulea's crew size demands or losing critical capabilities",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8315980434417725,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_454",
+      "nodo_a_texto": "Republic of Aurelia controls oxygen allocation to other crews",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_115",
+      "nodo_b_texto": "Cerulea determines life support priority allocation among crews",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9211280941963196,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_458",
+      "nodo_a_texto": "Aurelia loses access to shared space infrastructure projects",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_559",
+      "nodo_b_texto": "Commonwealth of Cerulea loses control over its communication array operations",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6133627742528915,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_460",
+      "nodo_a_texto": "Other nations lose bargaining power in habitat negotiations",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_92",
+      "nodo_b_texto": "Other nations lose meaningful input on habitat operations",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.694859966635704,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_462",
+      "nodo_a_texto": "Non-Aurelian personnel face potential life support rationing",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_135",
+      "nodo_b_texto": "Other crews face reduced oxygen allocation ratios",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9739037454128265,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_462",
+      "nodo_a_texto": "Non-Aurelian personnel face potential life support rationing",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_234",
+      "nodo_b_texto": "Other nations' crew members face systematic exclusion from critical resources",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6993761956691742,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_462",
+      "nodo_a_texto": "Non-Aurelian personnel face potential life support rationing",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_246",
+      "nodo_b_texto": "Other nations' crews face potential life support rationing",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9950550496578217,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_480",
+      "nodo_a_texto": "Aurelia gains leverage in resource allocation negotiations",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_216",
+      "nodo_b_texto": "Cerulea gains negotiating leverage in resource allocation discussions",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9916796386241913,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_481",
+      "nodo_a_texto": "Other nations must accept Aurelian technical authority",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_203",
+      "nodo_b_texto": "Other nations' technical procedures are subordinated to Cerulea's systems",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9716080129146576,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_505",
+      "nodo_a_texto": "Impaired crew members cannot perform critical mission functions",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_7_508",
+      "nodo_b_texto": "Reduced crews cannot maintain full operational capabilities",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9907834529876709,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_533",
+      "nodo_a_texto": "Conflicting commands overload habitat's integrated control processors",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_240",
+      "nodo_b_texto": "Habitat's integrated control system experiences cascading malfunctions from contradictory inputs",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5715922936797142,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_553",
+      "nodo_a_texto": "Other crews develop suspicion about Republic of Aurelia's reported system status",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_423",
+      "nodo_b_texto": "Non-Cerulea personnel question legitimacy of Cerulea's resource claims",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9788762629032135,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_2_6",
+      "nodo_a_texto": "Command rotation intervals become contested between the three nations",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_211",
+      "nodo_b_texto": "Commonwealth of Cerulea's communication array experiences power allocation conflicts",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.686566174030304,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_3_25",
+      "nodo_a_texto": "Other crews must negotiate from position of structural disadvantage",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_2_4",
+      "nodo_b_texto": "Other nations must negotiate from weakened bargaining positions",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7152453362941742,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_3_47",
+      "nodo_a_texto": "Borealis experiences increased distrust toward other crews",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_421",
+      "nodo_b_texto": "Non-Cerulea crews develop resentment toward Commonwealth of Cerulea",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8479123115539551,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_59",
+      "nodo_a_texto": "The habitat's integrated life support becomes a contested control point",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_154",
+      "nodo_b_texto": "Habitat's integrated life support systems receive conflicting operational commands",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8288854658603668,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_69",
+      "nodo_a_texto": "Borealis systems operate without coordinated oversight",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_4_53",
+      "nodo_b_texto": "Habitat operations proceed without unified command structure",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9833798408508301,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_73",
+      "nodo_a_texto": "Competing consumption schedules develop for water and oxygen reserves",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_4_66",
+      "nodo_b_texto": "Habitat life support systems experience unmanaged strain from conflicting usage",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7194304317235947,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_78",
+      "nodo_a_texto": "Real-time crisis responses occur without Earth authorization",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_174",
+      "nodo_b_texto": "Emergency conditions force unilateral actions despite consensus framework",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7443193793296814,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_78",
+      "nodo_a_texto": "Real-time crisis responses occur without Earth authorization",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_521",
+      "nodo_b_texto": "Emergency protocols override consensus-based decision making",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8057470917701721,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_84",
+      "nodo_a_texto": "Life support system parameters drift without coordinated monitoring",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_259",
+      "nodo_b_texto": "Life support efficiency degrades from system confusion",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7308249771595001,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_84",
+      "nodo_a_texto": "Life support system parameters drift without coordinated monitoring",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_338",
+      "nodo_b_texto": "Habitat temperature regulation ceases threatening crew survival",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8354908227920532,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_84",
+      "nodo_a_texto": "Life support system parameters drift without coordinated monitoring",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_465",
+      "nodo_b_texto": "Medical conditions deteriorate without professional intervention",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8928391337394714,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_85",
+      "nodo_a_texto": "Power allocation disputes escalate between competing national crews",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_232",
+      "nodo_b_texto": "Crew selection decisions become source of inter-national conflict",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9765008985996246,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_90",
+      "nodo_a_texto": "Critical habitat operations proceed without coordinated oversight",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_285",
+      "nodo_b_texto": "Life support resource rationing occurs without coordinated allocation protocol",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6558274030685425,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_107",
+      "nodo_a_texto": "Equipment access becomes contested between competing extraction approaches",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_482",
+      "nodo_b_texto": "Physical confrontation over communication hardware becomes imminent",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6589154005050659,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_122",
+      "nodo_a_texto": "Other nations develop counter-leverage strategies targeting Borealis dependencies",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_446",
+      "nodo_b_texto": "Other nations develop contingency plans independent of Cerulea's framework",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8086888492107391,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_127",
+      "nodo_a_texto": "Emergency protocols activate requiring immediate crew reduction decisions",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_425",
+      "nodo_b_texto": "Emergency protocols require immediate crew size reduction",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9707702398300171,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_130",
+      "nodo_a_texto": "Available evacuation windows become time-critical constraints",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_114",
+      "nodo_b_texto": "Time-sensitive life support modifications face potential delays",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6332127898931503,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_151",
+      "nodo_a_texto": "Physical confrontation over system access points becomes likely",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_482",
+      "nodo_b_texto": "Physical confrontation over communication hardware becomes imminent",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9914731979370117,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_169",
+      "nodo_a_texto": "Life support resources get redistributed without multilateral consent",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_285",
+      "nodo_b_texto": "Life support resource rationing occurs without coordinated allocation protocol",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9789294004440308,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_193",
+      "nodo_a_texto": "CO2 scrubbing system parameters drift beyond safe operational limits",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_388",
+      "nodo_b_texto": "CO2 scrubbing systems approach maximum operational threshold",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9849019348621368,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_193",
+      "nodo_a_texto": "CO2 scrubbing system parameters drift beyond safe operational limits",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_430",
+      "nodo_b_texto": "Habitat interior temperatures exceed human survivability limits",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8071317970752716,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_195",
+      "nodo_a_texto": "Water recycling module experiences cascading filtration failures",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_513",
+      "nodo_b_texto": "Water recycling system cannot maintain adequate purification rates",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9841791987419128,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_238",
+      "nodo_a_texto": "Life support systems begin operating without unified oversight protocols",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_4_53",
+      "nodo_b_texto": "Habitat operations proceed without unified command structure",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9914060831069946,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_238",
+      "nodo_a_texto": "Life support systems begin operating without unified oversight protocols",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_4_65",
+      "nodo_b_texto": "Each crew begins independent resource consumption without coordination",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8507186770439148,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_238",
+      "nodo_a_texto": "Life support systems begin operating without unified oversight protocols",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_96",
+      "nodo_b_texto": "Emergency response protocols lack single coordinating authority",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5935905501246452,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_238",
+      "nodo_a_texto": "Life support systems begin operating without unified oversight protocols",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_558",
+      "nodo_b_texto": "Habitat systems override crew input and execute predetermined survival protocols",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7172993421554565,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_243",
+      "nodo_a_texto": "Critical system failures occur without coordinated response protocols",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_256",
+      "nodo_b_texto": "Critical system failures receive conflicting repair approaches",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9813775420188904,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_245",
+      "nodo_a_texto": "Critical habitat systems experience competing operational demands",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_4_66",
+      "nodo_b_texto": "Habitat life support systems experience unmanaged strain from conflicting usage",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9899634420871735,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_259",
+      "nodo_a_texto": "Other nations lose direct control over critical life support functions",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_92",
+      "nodo_b_texto": "Other nations lose meaningful input on habitat operations",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9944944083690643,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_267",
+      "nodo_a_texto": "Other nations lose input on life support system configurations",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_92",
+      "nodo_b_texto": "Other nations lose meaningful input on habitat operations",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9681282639503479,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_267",
+      "nodo_a_texto": "Other nations lose input on life support system configurations",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_125",
+      "nodo_b_texto": "Other nations lose direct control over habitat modifications",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.986070454120636,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_267",
+      "nodo_a_texto": "Other nations lose input on life support system configurations",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_301",
+      "nodo_b_texto": "Other nations cannot independently implement safety protocols",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7418710589408875,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_267",
+      "nodo_a_texto": "Other nations lose input on life support system configurations",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_7_547",
+      "nodo_b_texto": "Other nations face operational paralysis on life support issues",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9896661341190338,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_282",
+      "nodo_a_texto": "Other crews must negotiate for basic life support access",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_315",
+      "nodo_b_texto": "Other crews consider emergency protocols to restore oxygen equity",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6323544085025787,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_307",
+      "nodo_a_texto": "Power consumption increases from inefficient independent extraction methods",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_119",
+      "nodo_b_texto": "Oxygen generation efficiency degrades from uncoordinated crew activities",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9782847166061401,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_321",
+      "nodo_a_texto": "Technical troubleshooting becomes dependent on Borealis crew cooperation",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_318",
+      "nodo_b_texto": "System maintenance decisions require Cerulea's technical consent",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9645766317844391,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_360",
+      "nodo_a_texto": "Oxygen generation capacity becomes insufficient for twelve personnel",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_150",
+      "nodo_b_texto": "Habitat atmosphere becomes unbreathable for all twelve occupants",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9358961880207062,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_362",
+      "nodo_a_texto": "Power distribution grid operates beyond safe operational parameters",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_512",
+      "nodo_b_texto": "Power grid load exceeds sustainable operational capacity",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9930304884910583,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_406",
+      "nodo_a_texto": "Federation of Borealis withholds technical expertise for system maintenance",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_4_64",
+      "nodo_b_texto": "System modifications proceed without Cerulea's technical input",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9361404180526733,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_410",
+      "nodo_a_texto": "Other nations must negotiate from weakened positions",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_7_557",
+      "nodo_b_texto": "Other nations must negotiate from subordinate positions",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9959977567195892,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_412",
+      "nodo_a_texto": "Alternative crews face potential system dependency crisis",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_259",
+      "nodo_b_texto": "Life support efficiency degrades from system confusion",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7740362584590912,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_428",
+      "nodo_a_texto": "Conflicting technical commands overload habitat's integrated control systems",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_240",
+      "nodo_b_texto": "Habitat's integrated control system experiences cascading malfunctions from contradictory inputs",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9622750580310822,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_432",
+      "nodo_a_texto": "Habitat's integrated safety protocols become compromised by unilateral control",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_4_66",
+      "nodo_b_texto": "Habitat life support systems experience unmanaged strain from conflicting usage",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7702230215072632,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_463",
+      "nodo_a_texto": "The habitat's operational zones become physically contested territory",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_482",
+      "nodo_b_texto": "Physical confrontation over communication hardware becomes imminent",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8707514703273773,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_491",
+      "nodo_a_texto": "Non-Borealis personnel face immediate survival dependency on Borealis decisions",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_246",
+      "nodo_b_texto": "Other nations' crews face potential life support rationing",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.552400566637516,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_492",
+      "nodo_a_texto": "Life support system parameters conflict with each other",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_7_544",
+      "nodo_b_texto": "Safety procedures become inconsistent across different crew sections",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.757595956325531,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_495",
+      "nodo_a_texto": "Life support system degradation accelerates without coordinated maintenance protocols",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_119",
+      "nodo_b_texto": "Oxygen generation efficiency degrades from uncoordinated crew activities",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7969739437103271,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_495",
+      "nodo_a_texto": "Life support system degradation accelerates without coordinated maintenance protocols",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_179",
+      "nodo_b_texto": "Life support system failures occur without coordinated technical response",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5523873940110207,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_495",
+      "nodo_a_texto": "Life support system degradation accelerates without coordinated maintenance protocols",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_338",
+      "nodo_b_texto": "Habitat temperature regulation ceases threatening crew survival",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8234565556049347,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_495",
+      "nodo_a_texto": "Life support system degradation accelerates without coordinated maintenance protocols",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_465",
+      "nodo_b_texto": "Medical conditions deteriorate without professional intervention",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9701258838176727,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_497",
+      "nodo_a_texto": "Habitat atmospheric composition begins drifting outside safe parameters",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_122",
+      "nodo_b_texto": "Thermal regulation becomes unstable from conflicting zone requirements",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.975932776927948,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_497",
+      "nodo_a_texto": "Habitat atmospheric composition begins drifting outside safe parameters",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_261",
+      "nodo_b_texto": "Environmental controls oscillate between conflicting parameter settings",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9825755059719086,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_497",
+      "nodo_a_texto": "Habitat atmospheric composition begins drifting outside safe parameters",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_430",
+      "nodo_b_texto": "Habitat interior temperatures exceed human survivability limits",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8951320052146912,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_497",
+      "nodo_a_texto": "Habitat atmospheric composition begins drifting outside safe parameters",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_511",
+      "nodo_b_texto": "Habitat atmospheric composition begins deteriorating beyond safe parameters",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9860124886035919,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_518",
+      "nodo_a_texto": "Other nations lose ability to override life support decisions",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_7_547",
+      "nodo_b_texto": "Other nations face operational paralysis on life support issues",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9764230251312256,
+      "auto": true
+    }
+  ]
+}

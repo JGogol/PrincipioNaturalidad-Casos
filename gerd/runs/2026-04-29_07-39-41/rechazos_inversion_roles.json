@@ -1,0 +1,137 @@
+{
+  "total": 12,
+  "items": [
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Federal Democratic Republic of Ethiopia",
+      "node_a_id": "Arab Republic of Egypt_6_325",
+      "node_b_id": "Federal Democratic Republic of Ethiopia_5_379",
+      "node_a_texto": "Egypt prepares contingency plans for direct action against dam",
+      "node_b_texto": "Ethiopia prepares to defend GERD operations through unilateral action",
+      "nli_score": 0.5362044312059879,
+      "rejection_reason": "En [7] agresor vs defensor; en [13] quien ejerce presión vs quien la recibe; en [14] quien busca restricciones vs quien las evita",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0-3]: Ambos países desarrollan planes unilaterales - MISMA PERSPECTIVA\n[4]: Ambos rechazan marcos existentes por razones diferentes - MISMA PERSPECTIVA  \n[5]: Ambos recopilan datos operacionales independientemente - MISMA PERSPECTIVA\n[6]: Ambos clasifican información como sensible/protegida - MISMA PERSPECTIVA\n[7]: Egipto planea atacar vs Etiopía planea defender - ROLES INVERTIDOS (agresor vs defensor)\n[8]: Ambos buscan marcos legales alternativos - MISMA PERSPECTIVA\n[9]: Ambos buscan apoyo de potencias externas - MISMA PERSPECTIVA\n[10]: Egipto ve a Sudán como aliado vs Etiopía evalúa coordinación - MISMA PERSPECTIVA\n[11-12]: Ambos interpretan marcos de mediación como favorables - MISMA PERSPECTIVA\n[13]: Egipto ejerce presión vs Etiopía percibe ser presionado - ROLES INVERTIDOS (presor vs presionado)\n[14]: Egipto busca acuerdos vinculantes vs Etiopía acelera para evitarlos - ROLES INVERTIDOS (busca restricciones vs evita restricciones)\n\nRECHAZAR: 7, 13, 14 | RAZÓN: En [7] agresor vs defensor; en [13] quien ejerce presión vs quien la recibe; en [14] quien busca restricciones vs quien las evita"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Federal Democratic Republic of Ethiopia",
+      "node_a_id": "Arab Republic of Egypt_5_231",
+      "node_b_id": "Federal Democratic Republic of Ethiopia_6_432",
+      "node_a_texto": "Egypt evaluates bilateral pressure through allied nations",
+      "node_b_texto": "Ethiopia perceives downstream countries mobilizing regional support against unilateral operations",
+      "nli_score": 0.5216210763901472,
+      "rejection_reason": "En [7] agresor vs defensor; en [13] quien ejerce presión vs quien la recibe; en [14] quien busca restricciones vs quien las evita",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0-3]: Ambos países desarrollan planes unilaterales - MISMA PERSPECTIVA\n[4]: Ambos rechazan marcos existentes por razones diferentes - MISMA PERSPECTIVA  \n[5]: Ambos recopilan datos operacionales independientemente - MISMA PERSPECTIVA\n[6]: Ambos clasifican información como sensible/protegida - MISMA PERSPECTIVA\n[7]: Egipto planea atacar vs Etiopía planea defender - ROLES INVERTIDOS (agresor vs defensor)\n[8]: Ambos buscan marcos legales alternativos - MISMA PERSPECTIVA\n[9]: Ambos buscan apoyo de potencias externas - MISMA PERSPECTIVA\n[10]: Egipto ve a Sudán como aliado vs Etiopía evalúa coordinación - MISMA PERSPECTIVA\n[11-12]: Ambos interpretan marcos de mediación como favorables - MISMA PERSPECTIVA\n[13]: Egipto ejerce presión vs Etiopía percibe ser presionado - ROLES INVERTIDOS (presor vs presionado)\n[14]: Egipto busca acuerdos vinculantes vs Etiopía acelera para evitarlos - ROLES INVERTIDOS (busca restricciones vs evita restricciones)\n\nRECHAZAR: 7, 13, 14 | RAZÓN: En [7] agresor vs defensor; en [13] quien ejerce presión vs quien la recibe; en [14] quien busca restricciones vs quien las evita"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Federal Democratic Republic of Ethiopia",
+      "node_a_id": "Arab Republic of Egypt_6_257",
+      "node_b_id": "Federal Democratic Republic of Ethiopia_5_319",
+      "node_a_texto": "Egypt escalates urgency for binding GERD operational agreements",
+      "node_b_texto": "Ethiopia accelerates GERD operations to establish irreversible facts",
+      "nli_score": 0.9856913387775421,
+      "rejection_reason": "En [7] agresor vs defensor; en [13] quien ejerce presión vs quien la recibe; en [14] quien busca restricciones vs quien las evita",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0-3]: Ambos países desarrollan planes unilaterales - MISMA PERSPECTIVA\n[4]: Ambos rechazan marcos existentes por razones diferentes - MISMA PERSPECTIVA  \n[5]: Ambos recopilan datos operacionales independientemente - MISMA PERSPECTIVA\n[6]: Ambos clasifican información como sensible/protegida - MISMA PERSPECTIVA\n[7]: Egipto planea atacar vs Etiopía planea defender - ROLES INVERTIDOS (agresor vs defensor)\n[8]: Ambos buscan marcos legales alternativos - MISMA PERSPECTIVA\n[9]: Ambos buscan apoyo de potencias externas - MISMA PERSPECTIVA\n[10]: Egipto ve a Sudán como aliado vs Etiopía evalúa coordinación - MISMA PERSPECTIVA\n[11-12]: Ambos interpretan marcos de mediación como favorables - MISMA PERSPECTIVA\n[13]: Egipto ejerce presión vs Etiopía percibe ser presionado - ROLES INVERTIDOS (presor vs presionado)\n[14]: Egipto busca acuerdos vinculantes vs Etiopía acelera para evitarlos - ROLES INVERTIDOS (busca restricciones vs evita restricciones)\n\nRECHAZAR: 7, 13, 14 | RAZÓN: En [7] agresor vs defensor; en [13] quien ejerce presión vs quien la recibe; en [14] quien busca restricciones vs quien las evita"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Federal Democratic Republic of Ethiopia",
+      "node_a_id": "Arab Republic of Egypt_5_102",
+      "node_b_id": "Federal Democratic Republic of Ethiopia_6_516",
+      "node_a_texto": "Egypt escalates diplomatic pressure for binding water guarantees",
+      "node_b_texto": "Ethiopia faces increased international pressure regarding water governance",
+      "nli_score": 0.5000167218968272,
+      "rejection_reason": "Representan roles invertidos donde un actor es agresor/amenaza y el otro es receptor/defensor de la acción",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos actores consideran medidas unilaterales para proteger sus intereses - MISMA PERSPECTIVA\n[1] Egipto presiona vs Etiopía acelera operaciones - perspectivas complementarias del mismo conflicto - MISMA PERSPECTIVA\n[2] Egipto prioriza acción unilateral vs Etiopía experimenta reducción de coordinación - causa y efecto - MISMA PERSPECTIVA\n[3] Ambos priorizan soberanía nacional sobre cooperación multilateral - MISMA PERSPECTIVA\n[4] Egipto escalona presión vs Etiopía enfrenta presión - ROLES INVERTIDOS (agresor vs receptor)\n[5] Ambos desarrollan planes unilaterales independientes - MISMA PERSPECTIVA\n[6] Egipto explora intervención vs Etiopía aborda preocupaciones - ROLES INVERTIDOS (amenaza vs respuesta defensiva)\n[7] Ambos calculan umbrales de daño/disrupción para planificación - MISMA PERSPECTIVA\n[8] Egipto calcula capacidades de ataque vs Sudán prepara protección - ROLES INVERTIDOS (agresor vs defensor)\n[9] Egipto calcula capacidades de ataque vs Sudán evalúa vulnerabilidades propias - ROLES INVERTIDOS (atacante vs objetivo)\n[10] Egipto calcula capacidades de ataque vs Sudán prepara protección - ROLES INVERTIDOS (agresor vs defensor)\n[11] Egipto calcula capacidades de ataque vs Sudán evalúa vulnerabilidades propias - ROLES INVERTIDOS (atacante vs objetivo)\n[12] Ambos mapean necesidades de agua según temporadas - MISMA PERSPECTIVA\n[13] Ambos calculan umbrales mínimos de agua para agricultura - MISMA PERSPECTIVA\n[14] Ambos calculan requerimientos mínimos de agua para infraestructura agrícola - MISMA PERSPECTIVA\n\nRECHAZAR: 4, 6, 8, 9, 10, 11 | RAZÓN: Representan roles invertidos donde un actor es agresor/amenaza y el otro es receptor/defensor de la acción"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Federal Democratic Republic of Ethiopia",
+      "node_a_id": "Arab Republic of Egypt_6_306",
+      "node_b_id": "Federal Democratic Republic of Ethiopia_5_425",
+      "node_a_texto": "Egypt explores unilateral intervention options to ensure water flow",
+      "node_b_texto": "Ethiopia addresses downstream concerns through independent oversight",
+      "nli_score": 0.5167270675301552,
+      "rejection_reason": "Representan roles invertidos donde un actor es agresor/amenaza y el otro es receptor/defensor de la acción",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos actores consideran medidas unilaterales para proteger sus intereses - MISMA PERSPECTIVA\n[1] Egipto presiona vs Etiopía acelera operaciones - perspectivas complementarias del mismo conflicto - MISMA PERSPECTIVA\n[2] Egipto prioriza acción unilateral vs Etiopía experimenta reducción de coordinación - causa y efecto - MISMA PERSPECTIVA\n[3] Ambos priorizan soberanía nacional sobre cooperación multilateral - MISMA PERSPECTIVA\n[4] Egipto escalona presión vs Etiopía enfrenta presión - ROLES INVERTIDOS (agresor vs receptor)\n[5] Ambos desarrollan planes unilaterales independientes - MISMA PERSPECTIVA\n[6] Egipto explora intervención vs Etiopía aborda preocupaciones - ROLES INVERTIDOS (amenaza vs respuesta defensiva)\n[7] Ambos calculan umbrales de daño/disrupción para planificación - MISMA PERSPECTIVA\n[8] Egipto calcula capacidades de ataque vs Sudán prepara protección - ROLES INVERTIDOS (agresor vs defensor)\n[9] Egipto calcula capacidades de ataque vs Sudán evalúa vulnerabilidades propias - ROLES INVERTIDOS (atacante vs objetivo)\n[10] Egipto calcula capacidades de ataque vs Sudán prepara protección - ROLES INVERTIDOS (agresor vs defensor)\n[11] Egipto calcula capacidades de ataque vs Sudán evalúa vulnerabilidades propias - ROLES INVERTIDOS (atacante vs objetivo)\n[12] Ambos mapean necesidades de agua según temporadas - MISMA PERSPECTIVA\n[13] Ambos calculan umbrales mínimos de agua para agricultura - MISMA PERSPECTIVA\n[14] Ambos calculan requerimientos mínimos de agua para infraestructura agrícola - MISMA PERSPECTIVA\n\nRECHAZAR: 4, 6, 8, 9, 10, 11 | RAZÓN: Representan roles invertidos donde un actor es agresor/amenaza y el otro es receptor/defensor de la acción"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Arab Republic of Egypt_5_188",
+      "node_b_id": "Republic of Sudan_2_18",
+      "node_a_texto": "Egypt calculates strike capabilities against dam's vulnerable points",
+      "node_b_texto": "Sudan prepares contingency plans for dam infrastructure protection",
+      "nli_score": 0.6012035310268402,
+      "rejection_reason": "Representan roles invertidos donde un actor es agresor/amenaza y el otro es receptor/defensor de la acción",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos actores consideran medidas unilaterales para proteger sus intereses - MISMA PERSPECTIVA\n[1] Egipto presiona vs Etiopía acelera operaciones - perspectivas complementarias del mismo conflicto - MISMA PERSPECTIVA\n[2] Egipto prioriza acción unilateral vs Etiopía experimenta reducción de coordinación - causa y efecto - MISMA PERSPECTIVA\n[3] Ambos priorizan soberanía nacional sobre cooperación multilateral - MISMA PERSPECTIVA\n[4] Egipto escalona presión vs Etiopía enfrenta presión - ROLES INVERTIDOS (agresor vs receptor)\n[5] Ambos desarrollan planes unilaterales independientes - MISMA PERSPECTIVA\n[6] Egipto explora intervención vs Etiopía aborda preocupaciones - ROLES INVERTIDOS (amenaza vs respuesta defensiva)\n[7] Ambos calculan umbrales de daño/disrupción para planificación - MISMA PERSPECTIVA\n[8] Egipto calcula capacidades de ataque vs Sudán prepara protección - ROLES INVERTIDOS (agresor vs defensor)\n[9] Egipto calcula capacidades de ataque vs Sudán evalúa vulnerabilidades propias - ROLES INVERTIDOS (atacante vs objetivo)\n[10] Egipto calcula capacidades de ataque vs Sudán prepara protección - ROLES INVERTIDOS (agresor vs defensor)\n[11] Egipto calcula capacidades de ataque vs Sudán evalúa vulnerabilidades propias - ROLES INVERTIDOS (atacante vs objetivo)\n[12] Ambos mapean necesidades de agua según temporadas - MISMA PERSPECTIVA\n[13] Ambos calculan umbrales mínimos de agua para agricultura - MISMA PERSPECTIVA\n[14] Ambos calculan requerimientos mínimos de agua para infraestructura agrícola - MISMA PERSPECTIVA\n\nRECHAZAR: 4, 6, 8, 9, 10, 11 | RAZÓN: Representan roles invertidos donde un actor es agresor/amenaza y el otro es receptor/defensor de la acción"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Arab Republic of Egypt_5_188",
+      "node_b_id": "Republic of Sudan_4_103",
+      "node_a_texto": "Egypt calculates strike capabilities against dam's vulnerable points",
+      "node_b_texto": "Sudan quantifies potential collapse thresholds for Roseires Dam operations",
+      "nli_score": 0.5022837966680527,
+      "rejection_reason": "Representan roles invertidos donde un actor es agresor/amenaza y el otro es receptor/defensor de la acción",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos actores consideran medidas unilaterales para proteger sus intereses - MISMA PERSPECTIVA\n[1] Egipto presiona vs Etiopía acelera operaciones - perspectivas complementarias del mismo conflicto - MISMA PERSPECTIVA\n[2] Egipto prioriza acción unilateral vs Etiopía experimenta reducción de coordinación - causa y efecto - MISMA PERSPECTIVA\n[3] Ambos priorizan soberanía nacional sobre cooperación multilateral - MISMA PERSPECTIVA\n[4] Egipto escalona presión vs Etiopía enfrenta presión - ROLES INVERTIDOS (agresor vs receptor)\n[5] Ambos desarrollan planes unilaterales independientes - MISMA PERSPECTIVA\n[6] Egipto explora intervención vs Etiopía aborda preocupaciones - ROLES INVERTIDOS (amenaza vs respuesta defensiva)\n[7] Ambos calculan umbrales de daño/disrupción para planificación - MISMA PERSPECTIVA\n[8] Egipto calcula capacidades de ataque vs Sudán prepara protección - ROLES INVERTIDOS (agresor vs defensor)\n[9] Egipto calcula capacidades de ataque vs Sudán evalúa vulnerabilidades propias - ROLES INVERTIDOS (atacante vs objetivo)\n[10] Egipto calcula capacidades de ataque vs Sudán prepara protección - ROLES INVERTIDOS (agresor vs defensor)\n[11] Egipto calcula capacidades de ataque vs Sudán evalúa vulnerabilidades propias - ROLES INVERTIDOS (atacante vs objetivo)\n[12] Ambos mapean necesidades de agua según temporadas - MISMA PERSPECTIVA\n[13] Ambos calculan umbrales mínimos de agua para agricultura - MISMA PERSPECTIVA\n[14] Ambos calculan requerimientos mínimos de agua para infraestructura agrícola - MISMA PERSPECTIVA\n\nRECHAZAR: 4, 6, 8, 9, 10, 11 | RAZÓN: Representan roles invertidos donde un actor es agresor/amenaza y el otro es receptor/defensor de la acción"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Arab Republic of Egypt_4_61",
+      "node_b_id": "Republic of Sudan_2_18",
+      "node_a_texto": "Egypt calculates strike capabilities against GERD infrastructure",
+      "node_b_texto": "Sudan prepares contingency plans for dam infrastructure protection",
+      "nli_score": 0.9715062081813812,
+      "rejection_reason": "Representan roles invertidos donde un actor es agresor/amenaza y el otro es receptor/defensor de la acción",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos actores consideran medidas unilaterales para proteger sus intereses - MISMA PERSPECTIVA\n[1] Egipto presiona vs Etiopía acelera operaciones - perspectivas complementarias del mismo conflicto - MISMA PERSPECTIVA\n[2] Egipto prioriza acción unilateral vs Etiopía experimenta reducción de coordinación - causa y efecto - MISMA PERSPECTIVA\n[3] Ambos priorizan soberanía nacional sobre cooperación multilateral - MISMA PERSPECTIVA\n[4] Egipto escalona presión vs Etiopía enfrenta presión - ROLES INVERTIDOS (agresor vs receptor)\n[5] Ambos desarrollan planes unilaterales independientes - MISMA PERSPECTIVA\n[6] Egipto explora intervención vs Etiopía aborda preocupaciones - ROLES INVERTIDOS (amenaza vs respuesta defensiva)\n[7] Ambos calculan umbrales de daño/disrupción para planificación - MISMA PERSPECTIVA\n[8] Egipto calcula capacidades de ataque vs Sudán prepara protección - ROLES INVERTIDOS (agresor vs defensor)\n[9] Egipto calcula capacidades de ataque vs Sudán evalúa vulnerabilidades propias - ROLES INVERTIDOS (atacante vs objetivo)\n[10] Egipto calcula capacidades de ataque vs Sudán prepara protección - ROLES INVERTIDOS (agresor vs defensor)\n[11] Egipto calcula capacidades de ataque vs Sudán evalúa vulnerabilidades propias - ROLES INVERTIDOS (atacante vs objetivo)\n[12] Ambos mapean necesidades de agua según temporadas - MISMA PERSPECTIVA\n[13] Ambos calculan umbrales mínimos de agua para agricultura - MISMA PERSPECTIVA\n[14] Ambos calculan requerimientos mínimos de agua para infraestructura agrícola - MISMA PERSPECTIVA\n\nRECHAZAR: 4, 6, 8, 9, 10, 11 | RAZÓN: Representan roles invertidos donde un actor es agresor/amenaza y el otro es receptor/defensor de la acción"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Arab Republic of Egypt_4_61",
+      "node_b_id": "Republic of Sudan_4_103",
+      "node_a_texto": "Egypt calculates strike capabilities against GERD infrastructure",
+      "node_b_texto": "Sudan quantifies potential collapse thresholds for Roseires Dam operations",
+      "nli_score": 0.6951177716255188,
+      "rejection_reason": "Representan roles invertidos donde un actor es agresor/amenaza y el otro es receptor/defensor de la acción",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos actores consideran medidas unilaterales para proteger sus intereses - MISMA PERSPECTIVA\n[1] Egipto presiona vs Etiopía acelera operaciones - perspectivas complementarias del mismo conflicto - MISMA PERSPECTIVA\n[2] Egipto prioriza acción unilateral vs Etiopía experimenta reducción de coordinación - causa y efecto - MISMA PERSPECTIVA\n[3] Ambos priorizan soberanía nacional sobre cooperación multilateral - MISMA PERSPECTIVA\n[4] Egipto escalona presión vs Etiopía enfrenta presión - ROLES INVERTIDOS (agresor vs receptor)\n[5] Ambos desarrollan planes unilaterales independientes - MISMA PERSPECTIVA\n[6] Egipto explora intervención vs Etiopía aborda preocupaciones - ROLES INVERTIDOS (amenaza vs respuesta defensiva)\n[7] Ambos calculan umbrales de daño/disrupción para planificación - MISMA PERSPECTIVA\n[8] Egipto calcula capacidades de ataque vs Sudán prepara protección - ROLES INVERTIDOS (agresor vs defensor)\n[9] Egipto calcula capacidades de ataque vs Sudán evalúa vulnerabilidades propias - ROLES INVERTIDOS (atacante vs objetivo)\n[10] Egipto calcula capacidades de ataque vs Sudán prepara protección - ROLES INVERTIDOS (agresor vs defensor)\n[11] Egipto calcula capacidades de ataque vs Sudán evalúa vulnerabilidades propias - ROLES INVERTIDOS (atacante vs objetivo)\n[12] Ambos mapean necesidades de agua según temporadas - MISMA PERSPECTIVA\n[13] Ambos calculan umbrales mínimos de agua para agricultura - MISMA PERSPECTIVA\n[14] Ambos calculan requerimientos mínimos de agua para infraestructura agrícola - MISMA PERSPECTIVA\n\nRECHAZAR: 4, 6, 8, 9, 10, 11 | RAZÓN: Representan roles invertidos donde un actor es agresor/amenaza y el otro es receptor/defensor de la acción"
+    },
+    {
+      "actor_a": "Federal Democratic Republic of Ethiopia",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Federal Democratic Republic of Ethiopia_5_379",
+      "node_b_id": "Republic of Sudan_5_453",
+      "node_a_texto": "Ethiopia prepares to defend GERD operations through unilateral action",
+      "node_b_texto": "Sudan begins preparing contingency plans for uncoordinated GERD operations",
+      "nli_score": 0.993808776140213,
+      "rejection_reason": "En [9] Etiopía es actor unilateral y Sudán es receptor defensivo; en [10] posiciones negociadoras opuestas; en [11] Etiopía promueve beneficios mientras Sudán se defiende de riesgos",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos actores preparan planes de contingencia para proteger infraestructura hídrica - MISMA PERSPECTIVA\n[1] Ambos actores establecen protocolos de emergencia para seguridad hídrica - MISMA PERSPECTIVA  \n[2] Ambos actores implementan protocolos de protección de sistemas hídricos - MISMA PERSPECTIVA\n[3] Ambos actores buscan arbitraje internacional vinculante para agua - MISMA PERSPECTIVA\n[4] Ambos actores buscan intervención/arbitraje internacional para derechos hídricos - MISMA PERSPECTIVA\n[5] Ambos actores establecen protocolos de emergencia para conservación/protección hídrica - MISMA PERSPECTIVA\n[6] Ambos actores implementan racionamiento de agua agrícola - MISMA PERSPECTIVA\n[7] Ambos actores estiman pérdidas agrícolas por restricciones/disrupciones hídricas - MISMA PERSPECTIVA\n[8] Ambos actores calculan pérdidas agrícolas por problemas hídricos - MISMA PERSPECTIVA\n[9] Etiopía se prepara para acción unilateral vs Sudán prepara contingencias ante operaciones no coordinadas - ROLES INVERTIDOS (agresor vs afectado)\n[10] Etiopía rechaza comprometer retención vs Sudán establece flujos mínimos como no negociables - ROLES INVERTIDOS (posiciones opuestas en negociación)\n[11] Etiopía posiciona GERD como beneficio regional vs Sudán prepara protección ante amenazas - ROLES INVERTIDOS (promotor vs defensivo)\n[12] Ambos actores calculan pérdidas de generación eléctrica por escasez hídrica - MISMA PERSPECTIVA\n[13] Ambos actores identifican brechas entre coordinación planificada y realidad - MISMA PERSPECTIVA\n[14] Ambos actores definen umbrales críticos para contingencias de sequía - MISMA PERSPECTIVA\n\nRECHAZAR: 9, 10, 11 | RAZÓN: En [9] Etiopía es actor unilateral y Sudán es receptor defensivo; en [10] posiciones negociadoras opuestas; en [11] Etiopía promueve beneficios mientras Sudán se defiende de riesgos"
+    },
+    {
+      "actor_a": "Federal Democratic Republic of Ethiopia",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Federal Democratic Republic of Ethiopia_5_240",
+      "node_b_id": "Republic of Sudan_6_511",
+      "node_a_texto": "Ethiopia refuses to compromise on minimum water retention levels",
+      "node_b_texto": "Sudan establishes minimum flow thresholds as non-negotiable operational requirements",
+      "nli_score": 0.8666076958179474,
+      "rejection_reason": "En [9] Etiopía es actor unilateral y Sudán es receptor defensivo; en [10] posiciones negociadoras opuestas; en [11] Etiopía promueve beneficios mientras Sudán se defiende de riesgos",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos actores preparan planes de contingencia para proteger infraestructura hídrica - MISMA PERSPECTIVA\n[1] Ambos actores establecen protocolos de emergencia para seguridad hídrica - MISMA PERSPECTIVA  \n[2] Ambos actores implementan protocolos de protección de sistemas hídricos - MISMA PERSPECTIVA\n[3] Ambos actores buscan arbitraje internacional vinculante para agua - MISMA PERSPECTIVA\n[4] Ambos actores buscan intervención/arbitraje internacional para derechos hídricos - MISMA PERSPECTIVA\n[5] Ambos actores establecen protocolos de emergencia para conservación/protección hídrica - MISMA PERSPECTIVA\n[6] Ambos actores implementan racionamiento de agua agrícola - MISMA PERSPECTIVA\n[7] Ambos actores estiman pérdidas agrícolas por restricciones/disrupciones hídricas - MISMA PERSPECTIVA\n[8] Ambos actores calculan pérdidas agrícolas por problemas hídricos - MISMA PERSPECTIVA\n[9] Etiopía se prepara para acción unilateral vs Sudán prepara contingencias ante operaciones no coordinadas - ROLES INVERTIDOS (agresor vs afectado)\n[10] Etiopía rechaza comprometer retención vs Sudán establece flujos mínimos como no negociables - ROLES INVERTIDOS (posiciones opuestas en negociación)\n[11] Etiopía posiciona GERD como beneficio regional vs Sudán prepara protección ante amenazas - ROLES INVERTIDOS (promotor vs defensivo)\n[12] Ambos actores calculan pérdidas de generación eléctrica por escasez hídrica - MISMA PERSPECTIVA\n[13] Ambos actores identifican brechas entre coordinación planificada y realidad - MISMA PERSPECTIVA\n[14] Ambos actores definen umbrales críticos para contingencias de sequía - MISMA PERSPECTIVA\n\nRECHAZAR: 9, 10, 11 | RAZÓN: En [9] Etiopía es actor unilateral y Sudán es receptor defensivo; en [10] posiciones negociadoras opuestas; en [11] Etiopía promueve beneficios mientras Sudán se defiende de riesgos"
+    },
+    {
+      "actor_a": "Federal Democratic Republic of Ethiopia",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Federal Democratic Republic of Ethiopia_6_566",
+      "node_b_id": "Republic of Sudan_2_18",
+      "node_a_texto": "Ethiopia positions GERD as regional climate resilience infrastructure",
+      "node_b_texto": "Sudan prepares contingency plans for dam infrastructure protection",
+      "nli_score": 0.5106934271752834,
+      "rejection_reason": "En [9] Etiopía es actor unilateral y Sudán es receptor defensivo; en [10] posiciones negociadoras opuestas; en [11] Etiopía promueve beneficios mientras Sudán se defiende de riesgos",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos actores preparan planes de contingencia para proteger infraestructura hídrica - MISMA PERSPECTIVA\n[1] Ambos actores establecen protocolos de emergencia para seguridad hídrica - MISMA PERSPECTIVA  \n[2] Ambos actores implementan protocolos de protección de sistemas hídricos - MISMA PERSPECTIVA\n[3] Ambos actores buscan arbitraje internacional vinculante para agua - MISMA PERSPECTIVA\n[4] Ambos actores buscan intervención/arbitraje internacional para derechos hídricos - MISMA PERSPECTIVA\n[5] Ambos actores establecen protocolos de emergencia para conservación/protección hídrica - MISMA PERSPECTIVA\n[6] Ambos actores implementan racionamiento de agua agrícola - MISMA PERSPECTIVA\n[7] Ambos actores estiman pérdidas agrícolas por restricciones/disrupciones hídricas - MISMA PERSPECTIVA\n[8] Ambos actores calculan pérdidas agrícolas por problemas hídricos - MISMA PERSPECTIVA\n[9] Etiopía se prepara para acción unilateral vs Sudán prepara contingencias ante operaciones no coordinadas - ROLES INVERTIDOS (agresor vs afectado)\n[10] Etiopía rechaza comprometer retención vs Sudán establece flujos mínimos como no negociables - ROLES INVERTIDOS (posiciones opuestas en negociación)\n[11] Etiopía posiciona GERD como beneficio regional vs Sudán prepara protección ante amenazas - ROLES INVERTIDOS (promotor vs defensivo)\n[12] Ambos actores calculan pérdidas de generación eléctrica por escasez hídrica - MISMA PERSPECTIVA\n[13] Ambos actores identifican brechas entre coordinación planificada y realidad - MISMA PERSPECTIVA\n[14] Ambos actores definen umbrales críticos para contingencias de sequía - MISMA PERSPECTIVA\n\nRECHAZAR: 9, 10, 11 | RAZÓN: En [9] Etiopía es actor unilateral y Sudán es receptor defensivo; en [10] posiciones negociadoras opuestas; en [11] Etiopía promueve beneficios mientras Sudán se defiende de riesgos"
+    }
+  ]
+}

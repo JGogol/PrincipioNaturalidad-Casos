@@ -1,0 +1,385 @@
+{
+  "total": 38,
+  "fusiones": [
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_3_40",
+      "nodo_a_texto": "Kay Jamison [ManicState] experiences return of unmedicated manic symptom intensity",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_381",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] faces progressive worsening of episode severity",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.9860582649707794,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_3_41",
+      "nodo_a_texto": "Kay Jamison [ManicState] loses lithium's mood-stabilizing neurochemical effects",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_382",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] will lose neuroprotective benefits of lithium treatment",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.9922007620334625,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_3_48",
+      "nodo_a_texto": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_5_115",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] will avoid hospitalization for mood episodes",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.9429078996181488,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_3_48",
+      "nodo_a_texto": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_5_154",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.954241156578064,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_3_48",
+      "nodo_a_texto": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_313",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] will avoid involuntary psychiatric commitment",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.5713963657617569,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_3_48",
+      "nodo_a_texto": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_467",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.8944990336894989,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_4_58",
+      "nodo_a_texto": "Kay Jamison [ManicState] experiences decreased insight into illness severity",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_381",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] faces progressive worsening of episode severity",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.9659083783626556,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_4_58",
+      "nodo_a_texto": "Kay Jamison [ManicState] experiences decreased insight into illness severity",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_510",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] experiences learned helplessness regarding her psychiatric condition",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.9713402986526489,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_4_87",
+      "nodo_a_texto": "Kay Jamison [ManicState] will perceive enhanced mental clarity and sharpness",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_467",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.6672371625900269,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_4_136",
+      "nodo_a_texto": "Kay Jamison [ManicState] will become increasingly isolated from collegial input",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_293",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] will experience decreased confidence in professional judgment",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.8091707229614258,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_4_136",
+      "nodo_a_texto": "Kay Jamison [ManicState] will become increasingly isolated from collegial input",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_496",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] will describe social withdrawal from professional colleagues",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.9636377692222595,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_4_136",
+      "nodo_a_texto": "Kay Jamison [ManicState] will become increasingly isolated from collegial input",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_567",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] anticipates losing her capacity for meaningful relationships",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.9687707424163818,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_5_179",
+      "nodo_a_texto": "Kay Jamison [ManicState] reduces communication with her treating psychiatrist",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_406",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] avoids discussing treatment options with her doctor",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.9864548444747925,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_5_316",
+      "nodo_a_texto": "Kay Jamison [ManicState] will resist or reject direct supervisory interventions regarding her clinical work",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_313",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] will avoid involuntary psychiatric commitment",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.9281207919120789,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_5_346",
+      "nodo_a_texto": "Kay Jamison [ManicState] will experience inflated assessment of her current capabilities",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_5_154",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.9034402072429657,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_5_346",
+      "nodo_a_texto": "Kay Jamison [ManicState] will experience inflated assessment of her current capabilities",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_467",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.6420356333255768,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_6_366",
+      "nodo_a_texto": "Kay Jamison [ManicState] withholds information about medication changes from her psychiatrist",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_406",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] avoids discussing treatment options with her doctor",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.8168608248233795,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_5_371",
+      "nodo_a_texto": "Kay Jamison [ManicState] will experience validation that medication was suppressing her true capabilities",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_539",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] will acknowledge treatment non-adherence during hypomanic phases",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.8921548128128052,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_6_379",
+      "nodo_a_texto": "Kay Jamison [ManicState] will avoid stigmatization as psychiatrically impaired",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_467",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.595751166343689,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_6_386",
+      "nodo_a_texto": "Kay Jamison [ManicState] experiences decreased external reality-testing regarding her behavior",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_5_154",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.5636121556162834,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_6_386",
+      "nodo_a_texto": "Kay Jamison [ManicState] experiences decreased external reality-testing regarding her behavior",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_5_165",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] feels her rational insights during depression will be overridden by manic denial",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.6211556494235992,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_6_387",
+      "nodo_a_texto": "Kay Jamison [ManicState] maintains her current medication decisions without professional input",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_406",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] avoids discussing treatment options with her doctor",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.9856595396995544,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_6_402",
+      "nodo_a_texto": "Kay Jamison [ManicState] will have reduced accountability for medication compliance behaviors",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_392",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] will experience relief from sharing the burden of ambivalence about treatment",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.8557385802268982,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_6_407",
+      "nodo_a_texto": "Kay Jamison [ManicState] conceals her actual medication adherence from her psychiatrist",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_406",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] avoids discussing treatment options with her doctor",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.9785862863063812,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_5_439",
+      "nodo_a_texto": "Kay Jamison [ManicState] will have less discretionary time available for personal activities",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_350",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] anticipates helplessness against her own future manic judgment",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.5828867182135582,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_6_449",
+      "nodo_a_texto": "Kay Jamison [ManicState] will prioritize subjective wellness over clinical indicators",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_4_52",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] will view medication side effects as preferable to illness symptoms",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.634084552526474,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_6_449",
+      "nodo_a_texto": "Kay Jamison [ManicState] will prioritize subjective wellness over clinical indicators",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_5_115",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] will avoid hospitalization for mood episodes",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.7568258941173553,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_6_449",
+      "nodo_a_texto": "Kay Jamison [ManicState] will prioritize subjective wellness over clinical indicators",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_5_218",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] will prioritize functional stability over physical appearance concerns",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.866296112537384,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_6_451",
+      "nodo_a_texto": "Kay Jamison [ManicState] will have reduced external feedback about behavioral changes",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_5_154",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.8950809836387634,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_6_451",
+      "nodo_a_texto": "Kay Jamison [ManicState] will have reduced external feedback about behavioral changes",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_467",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.7435558438301086,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_6_452",
+      "nodo_a_texto": "Kay Jamison [ManicState] will experience less frequent challenges to her self-assessment of functioning",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_448",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] will have reduced cognitive deterioration from repeated episodes",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.9446341395378113,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_6_516",
+      "nodo_a_texto": "Kay Jamison [ManicState] becomes difficult for colleagues to follow in conversations",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_5_109",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] will have diminished verbal fluency in professional settings",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.9518695175647736,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_6_568",
+      "nodo_a_texto": "Kay Jamison [ManicState] will view administrative requirements as beneath her enhanced capabilities",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_7_526",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] views her professional identity as secondary to interpersonal functioning",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.6705373674631119,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_6_610",
+      "nodo_a_texto": "Kay Jamison [ManicState] will avoid audience distraction from physical symptoms",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_401",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] will need to manage social interactions while displaying medication side effects",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.9869986772537231,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_6_612",
+      "nodo_a_texto": "Kay Jamison [ManicState] will eliminate self-consciousness about visible medication effects",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_5_118",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] will dismiss concerns about medication's impact on mental acuity",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.9648772478103638,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_6_612",
+      "nodo_a_texto": "Kay Jamison [ManicState] will eliminate self-consciousness about visible medication effects",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_5_154",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.8280975520610809,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_7_643",
+      "nodo_a_texto": "Kay Jamison [ManicState] loses access to early warning signs of mood destabilization",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_350",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] anticipates helplessness against her own future manic judgment",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.8362269401550293,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Kay Jamison [ManicState]_7_643",
+      "nodo_a_texto": "Kay Jamison [ManicState] loses access to early warning signs of mood destabilization",
+      "nodo_a_actor": "Kay Jamison [ManicState]",
+      "nodo_b_id": "Kay Jamison [DepressiveState]_6_510",
+      "nodo_b_texto": "Kay Jamison [DepressiveState] experiences learned helplessness regarding her psychiatric condition",
+      "nodo_b_actor": "Kay Jamison [DepressiveState]",
+      "similitud": 0.976415365934372,
+      "auto": true
+    }
+  ]
+}

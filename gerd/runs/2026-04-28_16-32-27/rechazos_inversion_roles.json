@@ -1,0 +1,93 @@
+{
+  "total": 8,
+  "items": [
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Federal Democratic Republic of Ethiopia",
+      "node_a_id": "Arab Republic of Egypt_5_136",
+      "node_b_id": "Federal Democratic Republic of Ethiopia_5_319",
+      "node_a_texto": "Egypt intensifies pressure for binding GERD operational agreements",
+      "node_b_texto": "Ethiopia accelerates GERD operations to establish irreversible facts",
+      "nli_score": 0.5790287628769875,
+      "rejection_reason": "En [3,4] Egipto presiona por control mientras Etiopía evita restricciones; en [7] Egipto planifica ataque mientras Sudán planifica defensa",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0-2, 6]: Ambos actores consideran medidas unilaterales para proteger sus respectivos intereses nacionales - MISMA PERSPECTIVA\n\n[3-4]: Egipto presiona por acuerdos mientras Etiopía acelera operaciones para crear hechos consumados - ROLES INVERTIDOS (uno busca control, otro evita restricciones)\n\n[5]: Egipto prioriza acción unilateral vs Etiopía defiende soberanía nacional - perspectivas complementarias sobre autonomía nacional - MISMA PERSPECTIVA\n\n[7]: Egipto calcula capacidades de ataque vs Sudán prepara protección de infraestructura - ROLES INVERTIDOS (agresor potencial vs defensor)\n\n[8-14]: Todos los pares muestran ambos países preparándose para escasez de agua con medidas similares (fuentes alternativas, planes de emergencia, protocolos) - MISMA PERSPECTIVA\n\nRECHAZAR: 3, 4, 7 | RAZÓN: En [3,4] Egipto presiona por control mientras Etiopía evita restricciones; en [7] Egipto planifica ataque mientras Sudán planifica defensa"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Federal Democratic Republic of Ethiopia",
+      "node_a_id": "Arab Republic of Egypt_6_257",
+      "node_b_id": "Federal Democratic Republic of Ethiopia_5_319",
+      "node_a_texto": "Egypt escalates urgency for binding GERD operational agreements",
+      "node_b_texto": "Ethiopia accelerates GERD operations to establish irreversible facts",
+      "nli_score": 0.9856913387775421,
+      "rejection_reason": "En [3,4] Egipto presiona por control mientras Etiopía evita restricciones; en [7] Egipto planifica ataque mientras Sudán planifica defensa",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0-2, 6]: Ambos actores consideran medidas unilaterales para proteger sus respectivos intereses nacionales - MISMA PERSPECTIVA\n\n[3-4]: Egipto presiona por acuerdos mientras Etiopía acelera operaciones para crear hechos consumados - ROLES INVERTIDOS (uno busca control, otro evita restricciones)\n\n[5]: Egipto prioriza acción unilateral vs Etiopía defiende soberanía nacional - perspectivas complementarias sobre autonomía nacional - MISMA PERSPECTIVA\n\n[7]: Egipto calcula capacidades de ataque vs Sudán prepara protección de infraestructura - ROLES INVERTIDOS (agresor potencial vs defensor)\n\n[8-14]: Todos los pares muestran ambos países preparándose para escasez de agua con medidas similares (fuentes alternativas, planes de emergencia, protocolos) - MISMA PERSPECTIVA\n\nRECHAZAR: 3, 4, 7 | RAZÓN: En [3,4] Egipto presiona por control mientras Etiopía evita restricciones; en [7] Egipto planifica ataque mientras Sudán planifica defensa"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Arab Republic of Egypt_4_61",
+      "node_b_id": "Republic of Sudan_2_18",
+      "node_a_texto": "Egypt calculates strike capabilities against GERD infrastructure",
+      "node_b_texto": "Sudan prepares contingency plans for dam infrastructure protection",
+      "nli_score": 0.9715062081813812,
+      "rejection_reason": "En [3,4] Egipto presiona por control mientras Etiopía evita restricciones; en [7] Egipto planifica ataque mientras Sudán planifica defensa",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0-2, 6]: Ambos actores consideran medidas unilaterales para proteger sus respectivos intereses nacionales - MISMA PERSPECTIVA\n\n[3-4]: Egipto presiona por acuerdos mientras Etiopía acelera operaciones para crear hechos consumados - ROLES INVERTIDOS (uno busca control, otro evita restricciones)\n\n[5]: Egipto prioriza acción unilateral vs Etiopía defiende soberanía nacional - perspectivas complementarias sobre autonomía nacional - MISMA PERSPECTIVA\n\n[7]: Egipto calcula capacidades de ataque vs Sudán prepara protección de infraestructura - ROLES INVERTIDOS (agresor potencial vs defensor)\n\n[8-14]: Todos los pares muestran ambos países preparándose para escasez de agua con medidas similares (fuentes alternativas, planes de emergencia, protocolos) - MISMA PERSPECTIVA\n\nRECHAZAR: 3, 4, 7 | RAZÓN: En [3,4] Egipto presiona por control mientras Etiopía evita restricciones; en [7] Egipto planifica ataque mientras Sudán planifica defensa"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Arab Republic of Egypt_5_188",
+      "node_b_id": "Republic of Sudan_2_18",
+      "node_a_texto": "Egypt calculates strike capabilities against dam's vulnerable points",
+      "node_b_texto": "Sudan prepares contingency plans for dam infrastructure protection",
+      "nli_score": 0.6012035310268402,
+      "rejection_reason": "En [1] Egipto planea ataques mientras Sudán planea defensa; en [11] y [12] Egipto adopta postura ofensiva mientras Sudán adopta postura defensiva",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos países preparan planes de contingencia para problemas de suministro de agua - MISMA PERSPECTIVA\n[1] Egipto planea ataques vs Sudán planea protección - ROLES INVERTIDOS (agresor vs defensor)\n[2] Ambos implementan racionamiento agrícola - MISMA PERSPECTIVA\n[3] Ambos buscan arbitraje internacional - MISMA PERSPECTIVA\n[4] Ambos establecen protocolos de emergencia para infraestructura crítica - MISMA PERSPECTIVA\n[5] Ambos establecen protocolos de agua de emergencia para infraestructura crítica - MISMA PERSPECTIVA\n[6] Ambos calculan períodos críticos de escasez de agua - MISMA PERSPECTIVA\n[7] Ambos experimentan/estiman pérdidas agrícolas por restricciones de agua - MISMA PERSPECTIVA\n[8] Ambos buscan arbitraje internacional vinculante - MISMA PERSPECTIVA\n[9] Ambos calculan reducciones en rendimiento de cultivos - MISMA PERSPECTIVA\n[10] Ambos buscan garantías de flujo mínimo de Etiopía - MISMA PERSPECTIVA\n[11] Egipto calcula daños colaterales aceptables vs Sudán calcula disrupciones sostenibles - ROLES INVERTIDOS (planificación ofensiva vs defensiva)\n[12] Egipto aumenta vigilancia vs Sudán prioriza protección - ROLES INVERTIDOS (monitoreo ofensivo vs protección defensiva)\n[13] Ambos identifican/crean racionamiento para zonas agrícolas - MISMA PERSPECTIVA\n[14] Ambos identifican zonas agrícolas vulnerables - MISMA PERSPECTIVA\n\nRECHAZAR: 1, 11, 12 | RAZÓN: En [1] Egipto planea ataques mientras Sudán planea defensa; en [11] y [12] Egipto adopta postura ofensiva mientras Sudán adopta postura defensiva"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Arab Republic of Egypt_6_502",
+      "node_b_id": "Republic of Sudan_3_50",
+      "node_a_texto": "Egypt calculates acceptable collateral damage thresholds for water security",
+      "node_b_texto": "Sudan calculates maximum sustainable water flow disruptions for emergency planning",
+      "nli_score": 0.884531706571579,
+      "rejection_reason": "En [1] Egipto planea ataques mientras Sudán planea defensa; en [11] y [12] Egipto adopta postura ofensiva mientras Sudán adopta postura defensiva",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos países preparan planes de contingencia para problemas de suministro de agua - MISMA PERSPECTIVA\n[1] Egipto planea ataques vs Sudán planea protección - ROLES INVERTIDOS (agresor vs defensor)\n[2] Ambos implementan racionamiento agrícola - MISMA PERSPECTIVA\n[3] Ambos buscan arbitraje internacional - MISMA PERSPECTIVA\n[4] Ambos establecen protocolos de emergencia para infraestructura crítica - MISMA PERSPECTIVA\n[5] Ambos establecen protocolos de agua de emergencia para infraestructura crítica - MISMA PERSPECTIVA\n[6] Ambos calculan períodos críticos de escasez de agua - MISMA PERSPECTIVA\n[7] Ambos experimentan/estiman pérdidas agrícolas por restricciones de agua - MISMA PERSPECTIVA\n[8] Ambos buscan arbitraje internacional vinculante - MISMA PERSPECTIVA\n[9] Ambos calculan reducciones en rendimiento de cultivos - MISMA PERSPECTIVA\n[10] Ambos buscan garantías de flujo mínimo de Etiopía - MISMA PERSPECTIVA\n[11] Egipto calcula daños colaterales aceptables vs Sudán calcula disrupciones sostenibles - ROLES INVERTIDOS (planificación ofensiva vs defensiva)\n[12] Egipto aumenta vigilancia vs Sudán prioriza protección - ROLES INVERTIDOS (monitoreo ofensivo vs protección defensiva)\n[13] Ambos identifican/crean racionamiento para zonas agrícolas - MISMA PERSPECTIVA\n[14] Ambos identifican zonas agrícolas vulnerables - MISMA PERSPECTIVA\n\nRECHAZAR: 1, 11, 12 | RAZÓN: En [1] Egipto planea ataques mientras Sudán planea defensa; en [11] y [12] Egipto adopta postura ofensiva mientras Sudán adopta postura defensiva"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Arab Republic of Egypt_7_513",
+      "node_b_id": "Republic of Sudan_6_583",
+      "node_a_texto": "Egypt increases surveillance of Nile water flow monitoring systems",
+      "node_b_texto": "Sudan prioritizes protection of Blue Nile water intake infrastructure",
+      "nli_score": 0.9719368517398834,
+      "rejection_reason": "En [1] Egipto planea ataques mientras Sudán planea defensa; en [11] y [12] Egipto adopta postura ofensiva mientras Sudán adopta postura defensiva",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos países preparan planes de contingencia para problemas de suministro de agua - MISMA PERSPECTIVA\n[1] Egipto planea ataques vs Sudán planea protección - ROLES INVERTIDOS (agresor vs defensor)\n[2] Ambos implementan racionamiento agrícola - MISMA PERSPECTIVA\n[3] Ambos buscan arbitraje internacional - MISMA PERSPECTIVA\n[4] Ambos establecen protocolos de emergencia para infraestructura crítica - MISMA PERSPECTIVA\n[5] Ambos establecen protocolos de agua de emergencia para infraestructura crítica - MISMA PERSPECTIVA\n[6] Ambos calculan períodos críticos de escasez de agua - MISMA PERSPECTIVA\n[7] Ambos experimentan/estiman pérdidas agrícolas por restricciones de agua - MISMA PERSPECTIVA\n[8] Ambos buscan arbitraje internacional vinculante - MISMA PERSPECTIVA\n[9] Ambos calculan reducciones en rendimiento de cultivos - MISMA PERSPECTIVA\n[10] Ambos buscan garantías de flujo mínimo de Etiopía - MISMA PERSPECTIVA\n[11] Egipto calcula daños colaterales aceptables vs Sudán calcula disrupciones sostenibles - ROLES INVERTIDOS (planificación ofensiva vs defensiva)\n[12] Egipto aumenta vigilancia vs Sudán prioriza protección - ROLES INVERTIDOS (monitoreo ofensivo vs protección defensiva)\n[13] Ambos identifican/crean racionamiento para zonas agrícolas - MISMA PERSPECTIVA\n[14] Ambos identifican zonas agrícolas vulnerables - MISMA PERSPECTIVA\n\nRECHAZAR: 1, 11, 12 | RAZÓN: En [1] Egipto planea ataques mientras Sudán planea defensa; en [11] y [12] Egipto adopta postura ofensiva mientras Sudán adopta postura defensiva"
+    },
+    {
+      "actor_a": "Federal Democratic Republic of Ethiopia",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Federal Democratic Republic of Ethiopia_5_240",
+      "node_b_id": "Republic of Sudan_6_511",
+      "node_a_texto": "Ethiopia refuses to compromise on minimum water retention levels",
+      "node_b_texto": "Sudan establishes minimum flow thresholds as non-negotiable operational requirements",
+      "nli_score": 0.8666076958179474,
+      "rejection_reason": "En [6] Etiopía retiene agua mientras Sudán demanda flujos; en [9] Etiopía toma acción unilateral mientras Sudán responde defensivamente",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos actores calculan impactos en seguridad alimentaria por restricciones agrícolas - MISMA PERSPECTIVA\n[1] Ambos actores establecen protocolos de emergencia para protección de agua/irrigación - MISMA PERSPECTIVA  \n[2] Ambos actores calculan agua mínima necesaria para supervivencia agrícola - MISMA PERSPECTIVA\n[3] Ambos actores determinan umbrales mínimos de agua para agricultura - MISMA PERSPECTIVA\n[4] Ambos actores calculan necesidades de agua para operaciones agrícolas de emergencia - MISMA PERSPECTIVA\n[5] Ambos actores cuantifican flujos mínimos para prevenir colapso de sistemas agrícolas/irrigación - MISMA PERSPECTIVA\n[6] Etiopía se niega a comprometer retención vs Sudán establece flujos mínimos como no-negociables - ROLES INVERTIDOS (uno retiene agua, otro demanda flujos)\n[7] Ambos actores proponen sistemas conjuntos de alerta temprana para inundaciones - MISMA PERSPECTIVA\n[8] Ambos actores definen umbrales/niveles críticos para planificación de sequías - MISMA PERSPECTIVA\n[9] Etiopía se prepara para acción unilateral vs Sudán prepara contingencias para operaciones no coordinadas - ROLES INVERTIDOS (uno toma acción unilateral, otro se prepara defensivamente)\n\nRECHAZAR: 6, 9 | RAZÓN: En [6] Etiopía retiene agua mientras Sudán demanda flujos; en [9] Etiopía toma acción unilateral mientras Sudán responde defensivamente"
+    },
+    {
+      "actor_a": "Federal Democratic Republic of Ethiopia",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Federal Democratic Republic of Ethiopia_5_379",
+      "node_b_id": "Republic of Sudan_5_453",
+      "node_a_texto": "Ethiopia prepares to defend GERD operations through unilateral action",
+      "node_b_texto": "Sudan begins preparing contingency plans for uncoordinated GERD operations",
+      "nli_score": 0.993808776140213,
+      "rejection_reason": "En [6] Etiopía retiene agua mientras Sudán demanda flujos; en [9] Etiopía toma acción unilateral mientras Sudán responde defensivamente",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos actores calculan impactos en seguridad alimentaria por restricciones agrícolas - MISMA PERSPECTIVA\n[1] Ambos actores establecen protocolos de emergencia para protección de agua/irrigación - MISMA PERSPECTIVA  \n[2] Ambos actores calculan agua mínima necesaria para supervivencia agrícola - MISMA PERSPECTIVA\n[3] Ambos actores determinan umbrales mínimos de agua para agricultura - MISMA PERSPECTIVA\n[4] Ambos actores calculan necesidades de agua para operaciones agrícolas de emergencia - MISMA PERSPECTIVA\n[5] Ambos actores cuantifican flujos mínimos para prevenir colapso de sistemas agrícolas/irrigación - MISMA PERSPECTIVA\n[6] Etiopía se niega a comprometer retención vs Sudán establece flujos mínimos como no-negociables - ROLES INVERTIDOS (uno retiene agua, otro demanda flujos)\n[7] Ambos actores proponen sistemas conjuntos de alerta temprana para inundaciones - MISMA PERSPECTIVA\n[8] Ambos actores definen umbrales/niveles críticos para planificación de sequías - MISMA PERSPECTIVA\n[9] Etiopía se prepara para acción unilateral vs Sudán prepara contingencias para operaciones no coordinadas - ROLES INVERTIDOS (uno toma acción unilateral, otro se prepara defensivamente)\n\nRECHAZAR: 6, 9 | RAZÓN: En [6] Etiopía retiene agua mientras Sudán demanda flujos; en [9] Etiopía toma acción unilateral mientras Sudán responde defensivamente"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "case": "grafo.graphml",
+  "method": "Vietoris-Rips Persistent Homology",
+  "metric": "Cosine distance in original 768d space (no PCA, no info loss)",
+  "actors": [
+    "Lee Family (Foua and Nao Kao Lee)",
+    "Merced Community Medical Center Clinical Team"
+  ],
+  "n_actors": 2,
+  "n_pairs": 1,
+  "pairwise_comparison": {
+    "Lee Family (Foua and Nao Kao Lee) vs Merced Community Medical Center Clinical Team": {
+      "H0": {
+        "bottleneck": 0.04524064064025879,
+        "wasserstein": 5.858026742935181,
+        "Lee Family (Foua and Nao Kao Lee)_features": 500,
+        "Merced Community Medical Center Clinical Team_features": 500,
+        "Lee Family (Foua and Nao Kao Lee)_max_lifetime": 0.4647977352142334,
+        "Merced Community Medical Center Clinical Team_max_lifetime": 0.4920201301574707,
+        "Lee Family (Foua and Nao Kao Lee)_mean_lifetime": 0.18985890685198065,
+        "Merced Community Medical Center Clinical Team_mean_lifetime": 0.20159843940295294,
+        "mean_lifetime_diff": 0.011739532550972293,
+        "mean_lifetime_ratio": 1.0618329302829326
+      },
+      "H1": {
+        "bottleneck": 0.06366008520126343,
+        "wasserstein": 5.512100231652445,
+        "Lee Family (Foua and Nao Kao Lee)_features": 473,
+        "Merced Community Medical Center Clinical Team_features": 499,
+        "Lee Family (Foua and Nao Kao Lee)_max_lifetime": 0.1291317343711853,
+        "Merced Community Medical Center Clinical Team_max_lifetime": 0.18142461776733398,
+        "Lee Family (Foua and Nao Kao Lee)_mean_lifetime": 0.03013826664104018,
+        "Merced Community Medical Center Clinical Team_mean_lifetime": 0.03061365663169142,
+        "mean_lifetime_diff": 0.00047538999065124127,
+        "mean_lifetime_ratio": 1.0157736341082035
+      }
+    }
+  },
+  "per_actor": {
+    "Lee Family (Foua and Nao Kao Lee)": {
+      "H0": {
+        "total_features": 500,
+        "infinite_features": 1,
+        "finite_features": 499,
+        "max_lifetime": 0.4647977352142334,
+        "mean_lifetime": 0.18985890685198065,
+        "std_lifetime": 0.05925641544728095,
+        "top_5_lifetimes": [
+          0.4647977352142334,
+          0.4187193512916565,
+          0.41106951236724854,
+          0.3977257013320923,
+          0.38622719049453735
+        ]
+      },
+      "H1": {
+        "total_features": 473,
+        "infinite_features": 0,
+        "finite_features": 473,
+        "max_lifetime": 0.1291317343711853,
+        "mean_lifetime": 0.03013826664104018,
+        "std_lifetime": 0.025243893223524893,
+        "top_5_lifetimes": [
+          0.1291317343711853,
+          0.12732017040252686,
+          0.12731200456619263,
+          0.11786872148513794,
+          0.10832053422927856
+        ]
+      }
+    },
+    "Merced Community Medical Center Clinical Team": {
+      "H0": {
+        "total_features": 500,
+        "infinite_features": 1,
+        "finite_features": 499,
+        "max_lifetime": 0.4920201301574707,
+        "mean_lifetime": 0.20159843940295294,
+        "std_lifetime": 0.06149666515013864,
+        "top_5_lifetimes": [
+          0.4920201301574707,
+          0.4639599919319153,
+          0.4416598677635193,
+          0.40175992250442505,
+          0.3874483108520508
+        ]
+      },
+      "H1": {
+        "total_features": 499,
+        "infinite_features": 0,
+        "finite_features": 499,
+        "max_lifetime": 0.18142461776733398,
+        "mean_lifetime": 0.03061365663169142,
+        "std_lifetime": 0.028167954789489653,
+        "top_5_lifetimes": [
+          0.18142461776733398,
+          0.15581893920898438,
+          0.14272725582122803,
+          0.13816320896148682,
+          0.12700313329696655
+        ]
+      }
+    }
+  }
+}

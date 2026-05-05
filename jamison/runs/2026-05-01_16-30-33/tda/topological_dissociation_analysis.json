@@ -1,0 +1,88 @@
+{
+  "n_actors": 2,
+  "actors": [
+    "Kay Jamison [DepressiveState]",
+    "Kay Jamison [ManicState]"
+  ],
+  "beta_0": 2,
+  "beta_0_sin_bridges": 2,
+  "delta_beta_0": 0,
+  "avg_node_purity": 0.921,
+  "random_baseline": 0.5,
+  "total_nodes": 73,
+  "total_edges": 541,
+  "mixed_nodes_count": 6,
+  "bridges_count": 6,
+  "bridges": [
+    {
+      "node_id": "cube5_cluster0",
+      "dominant_ratio": 0.6444444444444445,
+      "counts": {
+        "Kay Jamison [DepressiveState]": 29,
+        "Kay Jamison [ManicState]": 16
+      },
+      "sample_text": "Kay Jamison [DepressiveState] will accept reduced academic productivity as acceptable"
+    },
+    {
+      "node_id": "cube14_cluster0",
+      "dominant_ratio": 0.5655737704918032,
+      "counts": {
+        "Kay Jamison [DepressiveState]": 69,
+        "Kay Jamison [ManicState]": 53
+      },
+      "sample_text": "Kay Jamison [DepressiveState] will tolerate cognitive slowing and reduced mental sharpness"
+    },
+    {
+      "node_id": "cube23_cluster0",
+      "dominant_ratio": 0.6578947368421053,
+      "counts": {
+        "Kay Jamison [DepressiveState]": 100,
+        "Kay Jamison [ManicState]": 52
+      },
+      "sample_text": "Kay Jamison [DepressiveState] will prioritize professional survival over academic excellence"
+    },
+    {
+      "node_id": "cube33_cluster0",
+      "dominant_ratio": 0.5185185185185185,
+      "counts": {
+        "Kay Jamison [DepressiveState]": 70,
+        "Kay Jamison [ManicState]": 65
+      },
+      "sample_text": "Kay Jamison [DepressiveState] must prioritize medication adherence over all other considerations"
+    },
+    {
+      "node_id": "cube43_cluster0",
+      "dominant_ratio": 0.52,
+      "counts": {
+        "Kay Jamison [DepressiveState]": 36,
+        "Kay Jamison [ManicState]": 39
+      },
+      "sample_text": "Kay Jamison [DepressiveState] must prioritize medication adherence over all other considerations"
+    },
+    {
+      "node_id": "cube53_cluster0",
+      "dominant_ratio": 0.6923076923076923,
+      "counts": {
+        "Kay Jamison [DepressiveState]": 4,
+        "Kay Jamison [ManicState]": 9
+      },
+      "sample_text": "Kay Jamison [DepressiveState] will admit to any dose modifications made independently"
+    }
+  ],
+  "components": [
+    {
+      "size": 65,
+      "type_counts": {
+        "Kay Jamison [DepressiveState]": 24,
+        "Mixed": 6,
+        "Kay Jamison [ManicState]": 35
+      }
+    },
+    {
+      "size": 8,
+      "type_counts": {
+        "Kay Jamison [DepressiveState]": 8
+      }
+    }
+  ]
+}

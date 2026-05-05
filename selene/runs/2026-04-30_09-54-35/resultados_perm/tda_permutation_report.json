@@ -1,0 +1,456 @@
+{
+  "test": "Permutation Test for Topological Significance",
+  "method": {
+    "n_permutations": 500,
+    "max_points_per_actor": 300,
+    "metric_space": "Cosine distance in 768d"
+  },
+  "actors": [
+    "Commonwealth of Cerulea",
+    "Federation of Borealis",
+    "Republic of Aurelia"
+  ],
+  "n_actors": 3,
+  "n_pairs": 3,
+  "pairs": {
+    "Commonwealth of Cerulea vs Federation of Borealis": {
+      "metrics": {
+        "H0_mean_lifetime_diff": {
+          "observed": 0.0006824410878695231,
+          "null_mean": 0.00614473731860668,
+          "null_std": 0.004806725247816653,
+          "null_95th": 0.015978353976406,
+          "null_99th": 0.019991223277854304,
+          "p_value": 0.938,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -1.1363861983204224
+        },
+        "H0_max_lifetime_diff": {
+          "observed": 0.04049420356750488,
+          "null_mean": 0.05303721785545349,
+          "null_std": 0.038488655719036355,
+          "null_95th": 0.12531409561634058,
+          "null_99th": 0.14045546650886534,
+          "p_value": 0.562,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.3258886041516092
+        },
+        "H0_feature_count_diff": {
+          "observed": 0.0,
+          "null_mean": 0.0,
+          "null_std": 0.0,
+          "null_95th": 0.0,
+          "null_99th": 0.0,
+          "p_value": 1.0,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0
+        },
+        "H0_std_lifetime_diff": {
+          "observed": 0.001439935086333194,
+          "null_mean": 0.003905726934589602,
+          "null_std": 0.002937241166385159,
+          "null_95th": 0.00934656330391689,
+          "null_99th": 0.011956232134587338,
+          "p_value": 0.768,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.8394924722136589
+        },
+        "H0_wasserstein": {
+          "observed": 2.360004961490631,
+          "null_mean": 2.8050807591507807,
+          "null_std": 1.1327991870280891,
+          "null_95th": 5.202882796525955,
+          "null_99th": 6.279507443308828,
+          "p_value": 0.572,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.39289911465050636
+        },
+        "H0_bottleneck": {
+          "observed": 0.04049420356750488,
+          "null_mean": 0.06133076429367065,
+          "null_std": 0.03127266153993289,
+          "null_95th": 0.12531409561634058,
+          "null_99th": 0.14045546650886534,
+          "p_value": 0.656,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.6662867725396194
+        },
+        "H1_mean_lifetime_diff": {
+          "observed": 0.0033418934369554426,
+          "null_mean": 0.0019438389892298727,
+          "null_std": 0.001523907234335302,
+          "null_95th": 0.004677353498927936,
+          "null_99th": 0.007016403534059378,
+          "p_value": 0.162,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.9174144043849056
+        },
+        "H1_max_lifetime_diff": {
+          "observed": 0.020280063152313232,
+          "null_mean": 0.03037618672847748,
+          "null_std": 0.02455723130944758,
+          "null_95th": 0.08097132444381712,
+          "null_99th": 0.09781595110893247,
+          "p_value": 0.578,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.4111262971359519
+        },
+        "H1_feature_count_diff": {
+          "observed": 40.0,
+          "null_mean": 19.08,
+          "null_std": 14.497227321112131,
+          "null_95th": 46.049999999999955,
+          "null_99th": 59.049999999999955,
+          "p_value": 0.096,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 1.443034556651703
+        },
+        "H1_std_lifetime_diff": {
+          "observed": 0.0015199409212204376,
+          "null_mean": 0.001986575017045202,
+          "null_std": 0.001493567853495736,
+          "null_95th": 0.0049898487512139225,
+          "null_99th": 0.00627888073497964,
+          "p_value": 0.56,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.3124291238142242
+        },
+        "H1_wasserstein": {
+          "observed": 3.456881586392158,
+          "null_mean": 3.4231101403905884,
+          "null_std": 0.43012001523708515,
+          "null_95th": 4.264558074312067,
+          "null_99th": 4.688051496441533,
+          "p_value": 0.41,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.07851633219847864
+        },
+        "H1_bottleneck": {
+          "observed": 0.028870463371276855,
+          "null_mean": 0.042320568859577176,
+          "null_std": 0.010741057788731785,
+          "null_95th": 0.062260901927948,
+          "null_99th": 0.07292583942413329,
+          "p_value": 0.936,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -1.2522142374478742
+        }
+      },
+      "h1_significant": 0,
+      "h1_total": 6,
+      "conclusion": "No significativo"
+    },
+    "Commonwealth of Cerulea vs Republic of Aurelia": {
+      "metrics": {
+        "H0_mean_lifetime_diff": {
+          "observed": 0.01877594153617937,
+          "null_mean": 0.006364259796397742,
+          "null_std": 0.004693898124205021,
+          "null_95th": 0.01595701888253454,
+          "null_99th": 0.019195163435361845,
+          "p_value": 0.014,
+          "significant_95": true,
+          "significant_99": false,
+          "effect_size_z": 2.6442162593555913
+        },
+        "H0_max_lifetime_diff": {
+          "observed": 0.03241962194442749,
+          "null_mean": 0.038632513642311093,
+          "null_std": 0.031495854116626545,
+          "null_95th": 0.10098396241664886,
+          "null_99th": 0.1185563313961029,
+          "p_value": 0.474,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.19726061960021082
+        },
+        "H0_feature_count_diff": {
+          "observed": 0.0,
+          "null_mean": 0.0,
+          "null_std": 0.0,
+          "null_95th": 0.0,
+          "null_99th": 0.0,
+          "p_value": 1.0,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0
+        },
+        "H0_std_lifetime_diff": {
+          "observed": 0.014071069345501827,
+          "null_mean": 0.003923700793741632,
+          "null_std": 0.003052139267108782,
+          "null_95th": 0.009929170755013213,
+          "null_99th": 0.012769067223422179,
+          "p_value": 0.004,
+          "significant_95": true,
+          "significant_99": true,
+          "effect_size_z": 3.3246741592406277
+        },
+        "H0_wasserstein": {
+          "observed": 5.5976317249368055,
+          "null_mean": 2.83194175622951,
+          "null_std": 1.0617949399566076,
+          "null_95th": 5.040729540103162,
+          "null_99th": 5.813955040660994,
+          "p_value": 0.018,
+          "significant_95": true,
+          "significant_99": false,
+          "effect_size_z": 2.6047307861726305
+        },
+        "H0_bottleneck": {
+          "observed": 0.07129043340682983,
+          "null_mean": 0.05463736927509308,
+          "null_std": 0.021799721831551648,
+          "null_95th": 0.10098396241664886,
+          "null_99th": 0.1185563313961029,
+          "p_value": 0.186,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.763911771921515
+        },
+        "H1_mean_lifetime_diff": {
+          "observed": 0.0029313427199735287,
+          "null_mean": 0.001959418617668959,
+          "null_std": 0.0014999557011816816,
+          "null_95th": 0.004655010423864108,
+          "null_99th": 0.006347015511833757,
+          "p_value": 0.234,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.6479685376967315
+        },
+        "H1_max_lifetime_diff": {
+          "observed": 0.006122708320617676,
+          "null_mean": 0.027353695034980773,
+          "null_std": 0.018898206691404858,
+          "null_95th": 0.06225665211677548,
+          "null_99th": 0.07682284235954284,
+          "p_value": 0.854,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -1.1234392268563353
+        },
+        "H1_feature_count_diff": {
+          "observed": 30.0,
+          "null_mean": 17.944,
+          "null_std": 13.934735878372434,
+          "null_95th": 46.0,
+          "null_99th": 58.0,
+          "p_value": 0.202,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.8651760682964686
+        },
+        "H1_std_lifetime_diff": {
+          "observed": 0.0010650012370012063,
+          "null_mean": 0.00195323693786891,
+          "null_std": 0.0015401668988034647,
+          "null_95th": 0.004811098933835198,
+          "null_99th": 0.006586170709498865,
+          "p_value": 0.652,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.57671392727487
+        },
+        "H1_wasserstein": {
+          "observed": 4.291796415189734,
+          "null_mean": 3.1873941387612414,
+          "null_std": 0.3330670655960218,
+          "null_95th": 3.7526231646984436,
+          "null_99th": 4.145324439966676,
+          "p_value": 0.006,
+          "significant_95": true,
+          "significant_99": true,
+          "effect_size_z": 3.3158555453454106
+        },
+        "H1_bottleneck": {
+          "observed": 0.044529736042022705,
+          "null_mean": 0.04019457882642746,
+          "null_std": 0.007479016499001703,
+          "null_95th": 0.054386404156684866,
+          "null_99th": 0.06013736009597778,
+          "p_value": 0.25,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.5796426864647107
+        }
+      },
+      "h1_significant": 1,
+      "h1_total": 6,
+      "conclusion": "Parcial (1/6)"
+    },
+    "Federation of Borealis vs Republic of Aurelia": {
+      "metrics": {
+        "H0_mean_lifetime_diff": {
+          "observed": 0.015284080569162029,
+          "null_mean": 0.006133532240239274,
+          "null_std": 0.004613600302840182,
+          "null_95th": 0.014628582863903361,
+          "null_99th": 0.020972519287696244,
+          "p_value": 0.046,
+          "significant_95": true,
+          "significant_99": false,
+          "effect_size_z": 1.9833855835516527
+        },
+        "H0_max_lifetime_diff": {
+          "observed": 0.10978585481643677,
+          "null_mean": 0.03458522117137909,
+          "null_std": 0.02496822762833217,
+          "null_95th": 0.08374474942684171,
+          "null_99th": 0.106272884607315,
+          "p_value": 0.01,
+          "significant_95": true,
+          "significant_99": false,
+          "effect_size_z": 3.0118530944393243
+        },
+        "H0_feature_count_diff": {
+          "observed": 0.0,
+          "null_mean": 0.0,
+          "null_std": 0.0,
+          "null_95th": 0.0,
+          "null_99th": 0.0,
+          "p_value": 1.0,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0
+        },
+        "H0_std_lifetime_diff": {
+          "observed": 0.0022742307921150284,
+          "null_mean": 0.003937978524996947,
+          "null_std": 0.00281499797741296,
+          "null_95th": 0.00921589382470362,
+          "null_99th": 0.01164040151922021,
+          "p_value": 0.666,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.5910298146682635
+        },
+        "H0_wasserstein": {
+          "observed": 5.221646070480347,
+          "null_mean": 2.788756729900685,
+          "null_std": 1.0192790843935693,
+          "null_95th": 4.688471398984155,
+          "null_99th": 6.201980216391078,
+          "p_value": 0.026,
+          "significant_95": true,
+          "significant_99": false,
+          "effect_size_z": 2.386872621866007
+        },
+        "H0_bottleneck": {
+          "observed": 0.10978585481643677,
+          "null_mean": 0.048447071731090544,
+          "null_std": 0.017802376413830704,
+          "null_95th": 0.08487660884857177,
+          "null_99th": 0.106272884607315,
+          "p_value": 0.01,
+          "significant_95": true,
+          "significant_99": false,
+          "effect_size_z": 3.445539048241447
+        },
+        "H1_mean_lifetime_diff": {
+          "observed": 0.0015724041844898812,
+          "null_mean": 0.0018942810845983366,
+          "null_std": 0.0013242086763651383,
+          "null_95th": 0.004406505329380602,
+          "null_99th": 0.0055474373884262995,
+          "p_value": 0.536,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.2430711305955081
+        },
+        "H1_max_lifetime_diff": {
+          "observed": 0.014069139957427979,
+          "null_mean": 0.022643895149230958,
+          "null_std": 0.017169661350084266,
+          "null_95th": 0.056064110994338924,
+          "null_99th": 0.07269649446010588,
+          "p_value": 0.628,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.4994131810154133
+        },
+        "H1_feature_count_diff": {
+          "observed": 54.0,
+          "null_mean": 19.222,
+          "null_std": 14.904251608182143,
+          "null_95th": 48.0,
+          "null_99th": 62.0,
+          "p_value": 0.026,
+          "significant_95": true,
+          "significant_99": false,
+          "effect_size_z": 2.3334281327421738
+        },
+        "H1_std_lifetime_diff": {
+          "observed": 0.0010423294299473432,
+          "null_mean": 0.0019352037753098013,
+          "null_std": 0.0014174183630818998,
+          "null_95th": 0.004674062951421471,
+          "null_99th": 0.0060148203801428735,
+          "p_value": 0.684,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.6299299971118457
+        },
+        "H1_wasserstein": {
+          "observed": 4.4787032526076995,
+          "null_mean": 3.29497288754422,
+          "null_std": 0.42753951449237554,
+          "null_95th": 4.079301742034396,
+          "null_99th": 4.650764870709283,
+          "p_value": 0.02,
+          "significant_95": true,
+          "significant_99": false,
+          "effect_size_z": 2.768704002643923
+        },
+        "H1_bottleneck": {
+          "observed": 0.05070757865905762,
+          "null_mean": 0.039188450634479524,
+          "null_std": 0.008743835648189214,
+          "null_95th": 0.05613385140895843,
+          "null_99th": 0.06768272817134857,
+          "p_value": 0.09,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 1.3173998789608565
+        }
+      },
+      "h1_significant": 2,
+      "h1_total": 6,
+      "conclusion": "Parcial (2/6)"
+    }
+  },
+  "summary": {
+    "divergence_ranking": [
+      {
+        "pair": "Federation of Borealis vs Republic of Aurelia",
+        "wasserstein_observed": 4.4787032526076995,
+        "wasserstein_p": 0.02,
+        "wasserstein_z": 2.768704002643923
+      },
+      {
+        "pair": "Commonwealth of Cerulea vs Republic of Aurelia",
+        "wasserstein_observed": 4.291796415189734,
+        "wasserstein_p": 0.006,
+        "wasserstein_z": 3.3158555453454106
+      },
+      {
+        "pair": "Commonwealth of Cerulea vs Federation of Borealis",
+        "wasserstein_observed": 3.456881586392158,
+        "wasserstein_p": 0.41,
+        "wasserstein_z": 0.07851633219847864
+      }
+    ]
+  }
+}

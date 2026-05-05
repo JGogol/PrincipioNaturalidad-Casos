@@ -1,0 +1,190 @@
+{
+  "case": "grafo.graphml",
+  "method": "Vietoris-Rips Persistent Homology",
+  "metric": "Cosine distance in original 768d space (no PCA, no info loss)",
+  "actors": [
+    "Commonwealth of Cerulea",
+    "Federation of Borealis",
+    "Republic of Aurelia"
+  ],
+  "n_actors": 3,
+  "n_pairs": 3,
+  "pairwise_comparison": {
+    "Commonwealth of Cerulea vs Federation of Borealis": {
+      "H0": {
+        "bottleneck": 0.031876564025878906,
+        "wasserstein": 4.52151894569397,
+        "Commonwealth of Cerulea_features": 500,
+        "Federation of Borealis_features": 500,
+        "Commonwealth of Cerulea_max_lifetime": 0.4840136766433716,
+        "Federation of Borealis_max_lifetime": 0.4659736752510071,
+        "Commonwealth of Cerulea_mean_lifetime": 0.23589354705714988,
+        "Federation of Borealis_mean_lifetime": 0.24341951020972763,
+        "mean_lifetime_diff": 0.007525963152577753,
+        "mean_lifetime_ratio": 1.0319040653992728
+      },
+      "H1": {
+        "bottleneck": 0.03154253959655762,
+        "wasserstein": 4.1648012751624215,
+        "Commonwealth of Cerulea_features": 581,
+        "Federation of Borealis_features": 628,
+        "Commonwealth of Cerulea_max_lifetime": 0.17554020881652832,
+        "Federation of Borealis_max_lifetime": 0.14887702465057373,
+        "Commonwealth of Cerulea_mean_lifetime": 0.035433827599642,
+        "Federation of Borealis_mean_lifetime": 0.033476986987575605,
+        "mean_lifetime_diff": 0.001956840612066392,
+        "mean_lifetime_ratio": 1.0584533074255649
+      }
+    },
+    "Commonwealth of Cerulea vs Republic of Aurelia": {
+      "H0": {
+        "bottleneck": 0.037932515144348145,
+        "wasserstein": 5.817411482334137,
+        "Commonwealth of Cerulea_features": 500,
+        "Republic of Aurelia_features": 500,
+        "Commonwealth of Cerulea_max_lifetime": 0.4840136766433716,
+        "Republic of Aurelia_max_lifetime": 0.5219461917877197,
+        "Commonwealth of Cerulea_mean_lifetime": 0.23589354705714988,
+        "Republic of Aurelia_mean_lifetime": 0.22476393784693105,
+        "mean_lifetime_diff": 0.011129609210218827,
+        "mean_lifetime_ratio": 1.0495168812080446
+      },
+      "H1": {
+        "bottleneck": 0.03540003299713135,
+        "wasserstein": 7.9248954782388,
+        "Commonwealth of Cerulea_features": 581,
+        "Republic of Aurelia_features": 549,
+        "Commonwealth of Cerulea_max_lifetime": 0.17554020881652832,
+        "Republic of Aurelia_max_lifetime": 0.13614481687545776,
+        "Commonwealth of Cerulea_mean_lifetime": 0.035433827599642,
+        "Republic of Aurelia_mean_lifetime": 0.03172846200904777,
+        "mean_lifetime_diff": 0.0037053655905942284,
+        "mean_lifetime_ratio": 1.1167836496309715
+      }
+    },
+    "Federation of Borealis vs Republic of Aurelia": {
+      "H0": {
+        "bottleneck": 0.055972516536712646,
+        "wasserstein": 9.560969054698944,
+        "Federation of Borealis_features": 500,
+        "Republic of Aurelia_features": 500,
+        "Federation of Borealis_max_lifetime": 0.4659736752510071,
+        "Republic of Aurelia_max_lifetime": 0.5219461917877197,
+        "Federation of Borealis_mean_lifetime": 0.24341951020972763,
+        "Republic of Aurelia_mean_lifetime": 0.22476393784693105,
+        "mean_lifetime_diff": 0.01865557236279658,
+        "mean_lifetime_ratio": 1.083000736423747
+      },
+      "H1": {
+        "bottleneck": 0.03862500190734863,
+        "wasserstein": 7.191893738972877,
+        "Federation of Borealis_features": 628,
+        "Republic of Aurelia_features": 549,
+        "Federation of Borealis_max_lifetime": 0.14887702465057373,
+        "Republic of Aurelia_max_lifetime": 0.13614481687545776,
+        "Federation of Borealis_mean_lifetime": 0.033476986987575605,
+        "Republic of Aurelia_mean_lifetime": 0.03172846200904777,
+        "mean_lifetime_diff": 0.0017485249785278364,
+        "mean_lifetime_ratio": 1.0551090367389766
+      }
+    }
+  },
+  "per_actor": {
+    "Commonwealth of Cerulea": {
+      "H0": {
+        "total_features": 500,
+        "infinite_features": 1,
+        "finite_features": 499,
+        "max_lifetime": 0.4840136766433716,
+        "mean_lifetime": 0.23589354705714988,
+        "std_lifetime": 0.07841303649675305,
+        "top_5_lifetimes": [
+          0.4840136766433716,
+          0.47311079502105713,
+          0.47081393003463745,
+          0.46636950969696045,
+          0.45045483112335205
+        ]
+      },
+      "H1": {
+        "total_features": 581,
+        "infinite_features": 0,
+        "finite_features": 581,
+        "max_lifetime": 0.17554020881652832,
+        "mean_lifetime": 0.035433827599642,
+        "std_lifetime": 0.03114715571087968,
+        "top_5_lifetimes": [
+          0.17554020881652832,
+          0.16851282119750977,
+          0.15379959344863892,
+          0.15301334857940674,
+          0.14970898628234863
+        ]
+      }
+    },
+    "Federation of Borealis": {
+      "H0": {
+        "total_features": 500,
+        "infinite_features": 1,
+        "finite_features": 499,
+        "max_lifetime": 0.4659736752510071,
+        "mean_lifetime": 0.24341951020972763,
+        "std_lifetime": 0.078968466738605,
+        "top_5_lifetimes": [
+          0.4659736752510071,
+          0.4649469256401062,
+          0.4632570147514343,
+          0.4478604197502136,
+          0.4389547109603882
+        ]
+      },
+      "H1": {
+        "total_features": 628,
+        "infinite_features": 0,
+        "finite_features": 628,
+        "max_lifetime": 0.14887702465057373,
+        "mean_lifetime": 0.033476986987575605,
+        "std_lifetime": 0.029386475602853963,
+        "top_5_lifetimes": [
+          0.14887702465057373,
+          0.13899469375610352,
+          0.13278210163116455,
+          0.12958085536956787,
+          0.12745696306228638
+        ]
+      }
+    },
+    "Republic of Aurelia": {
+      "H0": {
+        "total_features": 500,
+        "infinite_features": 1,
+        "finite_features": 499,
+        "max_lifetime": 0.5219461917877197,
+        "mean_lifetime": 0.22476393784693105,
+        "std_lifetime": 0.07313667857244958,
+        "top_5_lifetimes": [
+          0.5219461917877197,
+          0.4800375699996948,
+          0.46922892332077026,
+          0.45315927267074585,
+          0.45178085565567017
+        ]
+      },
+      "H1": {
+        "total_features": 549,
+        "infinite_features": 0,
+        "finite_features": 549,
+        "max_lifetime": 0.13614481687545776,
+        "mean_lifetime": 0.03172846200904777,
+        "std_lifetime": 0.027290552255114366,
+        "top_5_lifetimes": [
+          0.13614481687545776,
+          0.13192957639694214,
+          0.13010716438293457,
+          0.12479591369628906,
+          0.12429851293563843
+        ]
+      }
+    }
+  }
+}

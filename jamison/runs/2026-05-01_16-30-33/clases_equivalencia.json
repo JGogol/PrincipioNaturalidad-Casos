@@ -1,0 +1,575 @@
+{
+  "version": "10.2",
+  "classes": {
+    "Kay Jamison [ManicState]_5_439": {
+      "members": [
+        "Kay Jamison [DepressiveState]_6_350",
+        "Kay Jamison [DepressiveState]_6_381",
+        "Kay Jamison [DepressiveState]_6_510",
+        "Kay Jamison [ManicState]_3_40",
+        "Kay Jamison [ManicState]_4_58",
+        "Kay Jamison [ManicState]_5_439",
+        "Kay Jamison [ManicState]_7_643"
+      ],
+      "size": 7,
+      "actors": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Kay Jamison [DepressiveState]_6_350",
+        "Kay Jamison [DepressiveState]_6_381",
+        "Kay Jamison [DepressiveState]_6_510",
+        "Kay Jamison [ManicState]_3_40",
+        "Kay Jamison [ManicState]_4_58",
+        "Kay Jamison [ManicState]_5_439",
+        "Kay Jamison [ManicState]_7_643"
+      ],
+      "strict_cliques": [
+        [
+          "Kay Jamison [DepressiveState]_6_381",
+          "Kay Jamison [ManicState]_3_40"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_6_381",
+          "Kay Jamison [ManicState]_4_58"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_6_350",
+          "Kay Jamison [ManicState]_5_439"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_6_350",
+          "Kay Jamison [ManicState]_7_643"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_6_510",
+          "Kay Jamison [ManicState]_4_58"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_6_510",
+          "Kay Jamison [ManicState]_7_643"
+        ]
+      ],
+      "validated_core_lax": [
+        "Kay Jamison [DepressiveState]_6_350",
+        "Kay Jamison [DepressiveState]_6_381",
+        "Kay Jamison [DepressiveState]_6_510",
+        "Kay Jamison [ManicState]_3_40",
+        "Kay Jamison [ManicState]_4_58",
+        "Kay Jamison [ManicState]_5_439",
+        "Kay Jamison [ManicState]_7_643"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.5,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 12,
+        "n_direct_cross_pairs": 6,
+        "n_lax_core": 7,
+        "n_class": 7
+      }
+    },
+    "Kay Jamison [ManicState]_3_41": {
+      "members": [
+        "Kay Jamison [DepressiveState]_6_382",
+        "Kay Jamison [ManicState]_3_41"
+      ],
+      "size": 2,
+      "actors": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Kay Jamison [DepressiveState]_6_382",
+        "Kay Jamison [ManicState]_3_41"
+      ],
+      "strict_cliques": [
+        [
+          "Kay Jamison [DepressiveState]_6_382",
+          "Kay Jamison [ManicState]_3_41"
+        ]
+      ],
+      "validated_core_lax": [
+        "Kay Jamison [DepressiveState]_6_382",
+        "Kay Jamison [ManicState]_3_41"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Kay Jamison [ManicState]_6_449": {
+      "members": [
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [DepressiveState]_6_467",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [ManicState]_6_612"
+      ],
+      "size": 17,
+      "actors": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [DepressiveState]_6_467",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [ManicState]_6_612"
+      ],
+      "strict_cliques": [
+        [
+          "Kay Jamison [DepressiveState]_6_313",
+          "Kay Jamison [ManicState]_5_316"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_6_313",
+          "Kay Jamison [ManicState]_3_48"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_5_118",
+          "Kay Jamison [ManicState]_6_612"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_5_115",
+          "Kay Jamison [ManicState]_6_449"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_5_115",
+          "Kay Jamison [ManicState]_3_48"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_5_218",
+          "Kay Jamison [ManicState]_6_449"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_5_154",
+          "Kay Jamison [ManicState]_6_612"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_5_154",
+          "Kay Jamison [ManicState]_6_386"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_5_154",
+          "Kay Jamison [ManicState]_6_451"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_5_154",
+          "Kay Jamison [ManicState]_5_346"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_5_154",
+          "Kay Jamison [ManicState]_3_48"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_4_52",
+          "Kay Jamison [ManicState]_6_449"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_5_165",
+          "Kay Jamison [ManicState]_6_386"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_6_467",
+          "Kay Jamison [ManicState]_6_451"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_6_467",
+          "Kay Jamison [ManicState]_5_346"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_6_467",
+          "Kay Jamison [ManicState]_4_87"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_6_467",
+          "Kay Jamison [ManicState]_3_48"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_6_467",
+          "Kay Jamison [ManicState]_6_379"
+        ]
+      ],
+      "validated_core_lax": [
+        "Kay Jamison [DepressiveState]_4_52",
+        "Kay Jamison [DepressiveState]_5_115",
+        "Kay Jamison [DepressiveState]_5_118",
+        "Kay Jamison [DepressiveState]_5_154",
+        "Kay Jamison [DepressiveState]_5_165",
+        "Kay Jamison [DepressiveState]_5_218",
+        "Kay Jamison [DepressiveState]_6_313",
+        "Kay Jamison [DepressiveState]_6_467",
+        "Kay Jamison [ManicState]_3_48",
+        "Kay Jamison [ManicState]_4_87",
+        "Kay Jamison [ManicState]_5_316",
+        "Kay Jamison [ManicState]_5_346",
+        "Kay Jamison [ManicState]_6_379",
+        "Kay Jamison [ManicState]_6_386",
+        "Kay Jamison [ManicState]_6_449",
+        "Kay Jamison [ManicState]_6_451",
+        "Kay Jamison [ManicState]_6_612"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.25,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 72,
+        "n_direct_cross_pairs": 18,
+        "n_lax_core": 17,
+        "n_class": 17
+      }
+    },
+    "Kay Jamison [ManicState]_4_136": {
+      "members": [
+        "Kay Jamison [DepressiveState]_6_293",
+        "Kay Jamison [DepressiveState]_6_496",
+        "Kay Jamison [DepressiveState]_6_567",
+        "Kay Jamison [ManicState]_4_136"
+      ],
+      "size": 4,
+      "actors": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Kay Jamison [DepressiveState]_6_293",
+        "Kay Jamison [DepressiveState]_6_496",
+        "Kay Jamison [DepressiveState]_6_567",
+        "Kay Jamison [ManicState]_4_136"
+      ],
+      "strict_cliques": [
+        [
+          "Kay Jamison [DepressiveState]_6_567",
+          "Kay Jamison [ManicState]_4_136"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_6_496",
+          "Kay Jamison [ManicState]_4_136"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_6_293",
+          "Kay Jamison [ManicState]_4_136"
+        ]
+      ],
+      "validated_core_lax": [
+        "Kay Jamison [DepressiveState]_6_293",
+        "Kay Jamison [DepressiveState]_6_496",
+        "Kay Jamison [DepressiveState]_6_567",
+        "Kay Jamison [ManicState]_4_136"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 3,
+        "n_direct_cross_pairs": 3,
+        "n_lax_core": 4,
+        "n_class": 4
+      }
+    },
+    "Kay Jamison [ManicState]_5_179": {
+      "members": [
+        "Kay Jamison [DepressiveState]_6_406",
+        "Kay Jamison [ManicState]_5_179",
+        "Kay Jamison [ManicState]_6_366",
+        "Kay Jamison [ManicState]_6_387",
+        "Kay Jamison [ManicState]_6_407"
+      ],
+      "size": 5,
+      "actors": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Kay Jamison [DepressiveState]_6_406",
+        "Kay Jamison [ManicState]_5_179",
+        "Kay Jamison [ManicState]_6_366",
+        "Kay Jamison [ManicState]_6_387",
+        "Kay Jamison [ManicState]_6_407"
+      ],
+      "strict_cliques": [
+        [
+          "Kay Jamison [DepressiveState]_6_406",
+          "Kay Jamison [ManicState]_6_387"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_6_406",
+          "Kay Jamison [ManicState]_6_366"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_6_406",
+          "Kay Jamison [ManicState]_6_407"
+        ],
+        [
+          "Kay Jamison [DepressiveState]_6_406",
+          "Kay Jamison [ManicState]_5_179"
+        ]
+      ],
+      "validated_core_lax": [
+        "Kay Jamison [DepressiveState]_6_406",
+        "Kay Jamison [ManicState]_5_179",
+        "Kay Jamison [ManicState]_6_366",
+        "Kay Jamison [ManicState]_6_387",
+        "Kay Jamison [ManicState]_6_407"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 4,
+        "n_direct_cross_pairs": 4,
+        "n_lax_core": 5,
+        "n_class": 5
+      }
+    },
+    "Kay Jamison [ManicState]_5_371": {
+      "members": [
+        "Kay Jamison [DepressiveState]_6_539",
+        "Kay Jamison [ManicState]_5_371"
+      ],
+      "size": 2,
+      "actors": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Kay Jamison [DepressiveState]_6_539",
+        "Kay Jamison [ManicState]_5_371"
+      ],
+      "strict_cliques": [
+        [
+          "Kay Jamison [DepressiveState]_6_539",
+          "Kay Jamison [ManicState]_5_371"
+        ]
+      ],
+      "validated_core_lax": [
+        "Kay Jamison [DepressiveState]_6_539",
+        "Kay Jamison [ManicState]_5_371"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Kay Jamison [ManicState]_6_402": {
+      "members": [
+        "Kay Jamison [DepressiveState]_6_392",
+        "Kay Jamison [ManicState]_6_402"
+      ],
+      "size": 2,
+      "actors": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Kay Jamison [DepressiveState]_6_392",
+        "Kay Jamison [ManicState]_6_402"
+      ],
+      "strict_cliques": [
+        [
+          "Kay Jamison [DepressiveState]_6_392",
+          "Kay Jamison [ManicState]_6_402"
+        ]
+      ],
+      "validated_core_lax": [
+        "Kay Jamison [DepressiveState]_6_392",
+        "Kay Jamison [ManicState]_6_402"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Kay Jamison [ManicState]_6_452": {
+      "members": [
+        "Kay Jamison [DepressiveState]_6_448",
+        "Kay Jamison [ManicState]_6_452"
+      ],
+      "size": 2,
+      "actors": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Kay Jamison [DepressiveState]_6_448",
+        "Kay Jamison [ManicState]_6_452"
+      ],
+      "strict_cliques": [
+        [
+          "Kay Jamison [DepressiveState]_6_448",
+          "Kay Jamison [ManicState]_6_452"
+        ]
+      ],
+      "validated_core_lax": [
+        "Kay Jamison [DepressiveState]_6_448",
+        "Kay Jamison [ManicState]_6_452"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Kay Jamison [ManicState]_6_516": {
+      "members": [
+        "Kay Jamison [DepressiveState]_5_109",
+        "Kay Jamison [ManicState]_6_516"
+      ],
+      "size": 2,
+      "actors": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Kay Jamison [DepressiveState]_5_109",
+        "Kay Jamison [ManicState]_6_516"
+      ],
+      "strict_cliques": [
+        [
+          "Kay Jamison [DepressiveState]_5_109",
+          "Kay Jamison [ManicState]_6_516"
+        ]
+      ],
+      "validated_core_lax": [
+        "Kay Jamison [DepressiveState]_5_109",
+        "Kay Jamison [ManicState]_6_516"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Kay Jamison [ManicState]_6_568": {
+      "members": [
+        "Kay Jamison [DepressiveState]_7_526",
+        "Kay Jamison [ManicState]_6_568"
+      ],
+      "size": 2,
+      "actors": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Kay Jamison [DepressiveState]_7_526",
+        "Kay Jamison [ManicState]_6_568"
+      ],
+      "strict_cliques": [
+        [
+          "Kay Jamison [DepressiveState]_7_526",
+          "Kay Jamison [ManicState]_6_568"
+        ]
+      ],
+      "validated_core_lax": [
+        "Kay Jamison [DepressiveState]_7_526",
+        "Kay Jamison [ManicState]_6_568"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Kay Jamison [ManicState]_6_610": {
+      "members": [
+        "Kay Jamison [DepressiveState]_6_401",
+        "Kay Jamison [ManicState]_6_610"
+      ],
+      "size": 2,
+      "actors": [
+        "Kay Jamison [DepressiveState]",
+        "Kay Jamison [ManicState]"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Kay Jamison [DepressiveState]_6_401",
+        "Kay Jamison [ManicState]_6_610"
+      ],
+      "strict_cliques": [
+        [
+          "Kay Jamison [DepressiveState]_6_401",
+          "Kay Jamison [ManicState]_6_610"
+        ]
+      ],
+      "validated_core_lax": [
+        "Kay Jamison [DepressiveState]_6_401",
+        "Kay Jamison [ManicState]_6_610"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    }
+  },
+  "statistics": {
+    "total_classes": 11,
+    "min_size": 2,
+    "max_size": 17,
+    "avg_size": 4.2727,
+    "min_actors": 2,
+    "max_actors": 2,
+    "classes_strict_nonempty": 11,
+    "classes_lax_nonempty": 11,
+    "ipvr_strict_avg": 0.8864,
+    "ipvr_lax_coverage_avg": 1.0
+  },
+  "timestamp": "2026-05-02T00:52:42.320656"
+}

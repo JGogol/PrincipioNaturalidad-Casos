@@ -1,0 +1,406 @@
+{
+  "version": "10.2",
+  "total": 3,
+  "by_type": {
+    "strict": 3,
+    "lax": 0
+  },
+  "hubs": [
+    {
+      "clase_id": "Arab Republic of Egypt_7_594",
+      "clase_nodos": [
+        "Federal Democratic Republic of Ethiopia_5_300",
+        "Republic of Sudan_5_601",
+        "Arab Republic of Egypt_5_233",
+        "Federal Democratic Republic of Ethiopia_5_293",
+        "Federal Democratic Republic of Ethiopia_6_498",
+        "Arab Republic of Egypt_6_477",
+        "Federal Democratic Republic of Ethiopia_5_536",
+        "Federal Democratic Republic of Ethiopia_3_43",
+        "Arab Republic of Egypt_5_143",
+        "Arab Republic of Egypt_6_489",
+        "Republic of Sudan_5_202",
+        "Arab Republic of Egypt_6_450",
+        "Republic of Sudan_6_566",
+        "Republic of Sudan_5_429",
+        "Federal Democratic Republic of Ethiopia_6_499",
+        "Arab Republic of Egypt_7_551",
+        "Federal Democratic Republic of Ethiopia_4_126",
+        "Federal Democratic Republic of Ethiopia_5_191",
+        "Federal Democratic Republic of Ethiopia_5_189",
+        "Arab Republic of Egypt_6_160",
+        "Federal Democratic Republic of Ethiopia_5_349",
+        "Arab Republic of Egypt_5_151",
+        "Arab Republic of Egypt_3_23",
+        "Republic of Sudan_5_258",
+        "Federal Democratic Republic of Ethiopia_5_263",
+        "Federal Democratic Republic of Ethiopia_6_519",
+        "Arab Republic of Egypt_7_594",
+        "Republic of Sudan_5_406",
+        "Republic of Sudan_3_47",
+        "Arab Republic of Egypt_6_425"
+      ],
+      "validated_core": [
+        "Federal Democratic Republic of Ethiopia_5_536",
+        "Republic of Sudan_3_47",
+        "Arab Republic of Egypt_6_489"
+      ],
+      "nodo_por_actor": {
+        "Arab Republic of Egypt": "Arab Republic of Egypt_6_489",
+        "Federal Democratic Republic of Ethiopia": "Federal Democratic Republic of Ethiopia_5_536",
+        "Republic of Sudan": "Republic of Sudan_3_47"
+      },
+      "texto_por_actor": {
+        "Arab Republic of Egypt": "Water flow patterns to Egypt become less predictable",
+        "Federal Democratic Republic of Ethiopia": "Downstream water flow becomes more variable and unpredictable",
+        "Republic of Sudan": "Sudan faces increased uncertainty about downstream water flows"
+      },
+      "actores": [
+        "Federal Democratic Republic of Ethiopia",
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 17.61089490354061,
+      "ftt_max": 8.011971563100815,
+      "distancias": {
+        "Arab Republic of Egypt": 8.011971563100815,
+        "Federal Democratic Republic of Ethiopia": 5.777651280164719,
+        "Republic of Sudan": 3.821272060275078
+      },
+      "caminos": {
+        "Arab Republic of Egypt": [
+          {
+            "id": "Arab Republic of Egypt_0_0",
+            "texto": "Egypt demands a legally binding agreement (not voluntary guidelines) that obliges Ethiopia to release guaranteed minimum flows during drought years to prevent irreversible damage. Invokes the international principle of 'no significant harm' and its historical rights based on the 1929 and 1959 treaties. Declares that all options remain open to protect its vital resource."
+          },
+          {
+            "id": "Arab Republic of Egypt_1_5",
+            "texto": "International mediators face increased pressure to propose compromise frameworks"
+          },
+          {
+            "id": "Arab Republic of Egypt_2_6",
+            "texto": "Mediators prioritize water-sharing formulas over electricity generation schedules"
+          },
+          {
+            "id": "Arab Republic of Egypt_3_18",
+            "texto": "Arab Republic of Egypt gains negotiating advantage through aligned mediator priorities"
+          },
+          {
+            "id": "Arab Republic of Egypt_4_54",
+            "texto": "Ethiopia perceives increased international pressure against its development priorities"
+          },
+          {
+            "id": "Arab Republic of Egypt_5_170",
+            "texto": "Ethiopia accelerates unilateral dam operations to establish facts"
+          },
+          {
+            "id": "Arab Republic of Egypt_6_489",
+            "texto": "Water flow patterns to Egypt become less predictable"
+          }
+        ],
+        "Federal Democratic Republic of Ethiopia": [
+          {
+            "id": "Federal Democratic Republic of Ethiopia_0_0",
+            "texto": "Ethiopia invokes the principle of 'Equitable and Reasonable Utilization' recognized in customary international law, rejecting the 1929 and 1959 treaties as valid legal basis. Proposes flexible and revisable operational guidelines that do not restrict its future development rights, arguing that a rigid treaty would perpetuate historical inequities. Maintains that flow regulation will benefit the region by stabilizing discharge and reducing floods."
+          },
+          {
+            "id": "Federal Democratic Republic of Ethiopia_1_5",
+            "texto": "Ethiopia retains unilateral control over GERD operations"
+          },
+          {
+            "id": "Federal Democratic Republic of Ethiopia_2_20",
+            "texto": "Ethiopia can respond to domestic energy demands without external approval"
+          },
+          {
+            "id": "Federal Democratic Republic of Ethiopia_3_54",
+            "texto": "Ethiopia can adjust GERD water releases based on electricity demand"
+          },
+          {
+            "id": "Federal Democratic Republic of Ethiopia_4_171",
+            "texto": "Ethiopia can reduce water releases during low electricity demand periods"
+          },
+          {
+            "id": "Federal Democratic Republic of Ethiopia_5_536",
+            "texto": "Downstream water flow becomes more variable and unpredictable"
+          }
+        ],
+        "Republic of Sudan": [
+          {
+            "id": "Republic of Sudan_0_0",
+            "texto": "Sudan conditions its acceptance on the implementation of a robust real-time technical data exchange mechanism (daily/hourly). While acknowledging that the GERD can control seasonal floods affecting Khartoum and reduce sedimentation at Roseires, it considers unacceptable the operational risk of a 74 billion cubic meter dam upstream without binding coordination, fearing the collapse of its own irrigation and electricity generation systems."
+          },
+          {
+            "id": "Republic of Sudan_1_1",
+            "texto": "Sudan demands legally binding coordination protocols before dam operations"
+          },
+          {
+            "id": "Republic of Sudan_2_5",
+            "texto": "Sudan refuses to participate in current GERD operational discussions"
+          },
+          {
+            "id": "Republic of Sudan_3_47",
+            "texto": "Sudan faces increased uncertainty about downstream water flows"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 3,
+        "n_direct_representatives": 3
+      },
+      "polaridad": null,
+      "nodo_id": "Arab Republic of Egypt_6_489",
+      "texto": "Water flow patterns to Egypt become less predictable"
+    },
+    {
+      "clase_id": "Arab Republic of Egypt_6_339",
+      "clase_nodos": [
+        "Republic of Sudan_5_233",
+        "Federal Democratic Republic of Ethiopia_4_418",
+        "Arab Republic of Egypt_6_339",
+        "Republic of Sudan_5_404"
+      ],
+      "validated_core": [
+        "Republic of Sudan_5_233",
+        "Federal Democratic Republic of Ethiopia_4_418",
+        "Arab Republic of Egypt_6_339"
+      ],
+      "nodo_por_actor": {
+        "Arab Republic of Egypt": "Arab Republic of Egypt_6_339",
+        "Federal Democratic Republic of Ethiopia": "Federal Democratic Republic of Ethiopia_4_418",
+        "Republic of Sudan": "Republic of Sudan_5_233"
+      },
+      "texto_por_actor": {
+        "Arab Republic of Egypt": "Egypt seeks alternative downstream allies beyond Sudan",
+        "Federal Democratic Republic of Ethiopia": "Ethiopia solicits support from non-riparian international partners",
+        "Republic of Sudan": "Sudan shifts diplomatic focus toward non-Nile regional partnerships"
+      },
+      "actores": [
+        "Federal Democratic Republic of Ethiopia",
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 20.355128824710846,
+      "ftt_max": 7.894745752215385,
+      "distancias": {
+        "Arab Republic of Egypt": 7.894745752215385,
+        "Federal Democratic Republic of Ethiopia": 5.726175993680954,
+        "Republic of Sudan": 6.7342070788145065
+      },
+      "caminos": {
+        "Arab Republic of Egypt": [
+          {
+            "id": "Arab Republic of Egypt_0_0",
+            "texto": "Egypt demands a legally binding agreement (not voluntary guidelines) that obliges Ethiopia to release guaranteed minimum flows during drought years to prevent irreversible damage. Invokes the international principle of 'no significant harm' and its historical rights based on the 1929 and 1959 treaties. Declares that all options remain open to protect its vital resource."
+          },
+          {
+            "id": "Arab Republic of Egypt_1_5",
+            "texto": "International mediators face increased pressure to propose compromise frameworks"
+          },
+          {
+            "id": "Arab Republic of Egypt_2_8",
+            "texto": "Proposed frameworks emphasize downstream protection mechanisms"
+          },
+          {
+            "id": "Arab Republic of Egypt_3_16",
+            "texto": "Sudan demands inclusion of its specific operational requirements"
+          },
+          {
+            "id": "Arab Republic of Egypt_4_40",
+            "texto": "Egypt views Sudan's demands as potentially diluting downstream protection priorities"
+          },
+          {
+            "id": "Arab Republic of Egypt_5_117",
+            "texto": "Egypt questions Sudan's commitment to downstream solidarity against upstream control"
+          },
+          {
+            "id": "Arab Republic of Egypt_6_339",
+            "texto": "Egypt seeks alternative downstream allies beyond Sudan"
+          }
+        ],
+        "Federal Democratic Republic of Ethiopia": [
+          {
+            "id": "Federal Democratic Republic of Ethiopia_0_0",
+            "texto": "Ethiopia invokes the principle of 'Equitable and Reasonable Utilization' recognized in customary international law, rejecting the 1929 and 1959 treaties as valid legal basis. Proposes flexible and revisable operational guidelines that do not restrict its future development rights, arguing that a rigid treaty would perpetuate historical inequities. Maintains that flow regulation will benefit the region by stabilizing discharge and reducing floods."
+          },
+          {
+            "id": "Federal Democratic Republic of Ethiopia_1_1",
+            "texto": "Egypt rejects Ethiopia's legal framework as illegitimate"
+          },
+          {
+            "id": "Federal Democratic Republic of Ethiopia_2_22",
+            "texto": "Ethiopia views negotiations as fundamentally deadlocked on legal principles"
+          },
+          {
+            "id": "Federal Democratic Republic of Ethiopia_3_115",
+            "texto": "Ethiopia seeks alternative diplomatic frameworks outside trilateral negotiations"
+          },
+          {
+            "id": "Federal Democratic Republic of Ethiopia_4_418",
+            "texto": "Ethiopia solicits support from non-riparian international partners"
+          }
+        ],
+        "Republic of Sudan": [
+          {
+            "id": "Republic of Sudan_0_0",
+            "texto": "Sudan conditions its acceptance on the implementation of a robust real-time technical data exchange mechanism (daily/hourly). While acknowledging that the GERD can control seasonal floods affecting Khartoum and reduce sedimentation at Roseires, it considers unacceptable the operational risk of a 74 billion cubic meter dam upstream without binding coordination, fearing the collapse of its own irrigation and electricity generation systems."
+          },
+          {
+            "id": "Republic of Sudan_1_4",
+            "texto": "Sudan views GERD as existential infrastructure threat"
+          },
+          {
+            "id": "Republic of Sudan_2_10",
+            "texto": "Sudan seeks alternative water security partnerships"
+          },
+          {
+            "id": "Republic of Sudan_3_20",
+            "texto": "Sudan explores Red Sea desalination project partnerships"
+          },
+          {
+            "id": "Republic of Sudan_4_85",
+            "texto": "Sudan reduces dependence on Nile water allocation negotiations"
+          },
+          {
+            "id": "Republic of Sudan_5_233",
+            "texto": "Sudan shifts diplomatic focus toward non-Nile regional partnerships"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 3,
+        "n_direct_representatives": 3
+      },
+      "polaridad": null,
+      "nodo_id": "Arab Republic of Egypt_6_339",
+      "texto": "Egypt seeks alternative downstream allies beyond Sudan"
+    },
+    {
+      "clase_id": "Arab Republic of Egypt_6_580",
+      "clase_nodos": [
+        "Arab Republic of Egypt_6_580",
+        "Federal Democratic Republic of Ethiopia_4_416",
+        "Republic of Sudan_5_319"
+      ],
+      "validated_core": [
+        "Arab Republic of Egypt_6_580",
+        "Federal Democratic Republic of Ethiopia_4_416",
+        "Republic of Sudan_5_319"
+      ],
+      "nodo_por_actor": {
+        "Arab Republic of Egypt": "Arab Republic of Egypt_6_580",
+        "Federal Democratic Republic of Ethiopia": "Federal Democratic Republic of Ethiopia_4_416",
+        "Republic of Sudan": "Republic of Sudan_5_319"
+      },
+      "texto_por_actor": {
+        "Arab Republic of Egypt": "Egypt appeals to African Union for mediation mechanisms",
+        "Federal Democratic Republic of Ethiopia": "Ethiopia engages African Union mediation mechanisms",
+        "Republic of Sudan": "Sudan requests African Union mediation intervention"
+      },
+      "actores": [
+        "Federal Democratic Republic of Ethiopia",
+        "Arab Republic of Egypt",
+        "Republic of Sudan"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 21.392906852066517,
+      "ftt_max": 8.64461013674736,
+      "distancias": {
+        "Arab Republic of Egypt": 8.64461013674736,
+        "Federal Democratic Republic of Ethiopia": 5.700338751077652,
+        "Republic of Sudan": 7.047957964241505
+      },
+      "caminos": {
+        "Arab Republic of Egypt": [
+          {
+            "id": "Arab Republic of Egypt_0_0",
+            "texto": "Egypt demands a legally binding agreement (not voluntary guidelines) that obliges Ethiopia to release guaranteed minimum flows during drought years to prevent irreversible damage. Invokes the international principle of 'no significant harm' and its historical rights based on the 1929 and 1959 treaties. Declares that all options remain open to protect its vital resource."
+          },
+          {
+            "id": "Arab Republic of Egypt_1_1",
+            "texto": "Ethiopia rejects Egypt's binding agreement demands as colonial-era impositions"
+          },
+          {
+            "id": "Arab Republic of Egypt_2_12",
+            "texto": "Egypt considers Ethiopia's position as threatening national survival"
+          },
+          {
+            "id": "Arab Republic of Egypt_3_28",
+            "texto": "Egypt frames the dispute as existential threat requiring emergency response"
+          },
+          {
+            "id": "Arab Republic of Egypt_4_87",
+            "texto": "Egypt activates national water crisis management protocols"
+          },
+          {
+            "id": "Arab Republic of Egypt_5_214",
+            "texto": "Egypt mobilizes diplomatic resources to internationalize the water crisis"
+          },
+          {
+            "id": "Arab Republic of Egypt_6_580",
+            "texto": "Egypt appeals to African Union for mediation mechanisms"
+          }
+        ],
+        "Federal Democratic Republic of Ethiopia": [
+          {
+            "id": "Federal Democratic Republic of Ethiopia_0_0",
+            "texto": "Ethiopia invokes the principle of 'Equitable and Reasonable Utilization' recognized in customary international law, rejecting the 1929 and 1959 treaties as valid legal basis. Proposes flexible and revisable operational guidelines that do not restrict its future development rights, arguing that a rigid treaty would perpetuate historical inequities. Maintains that flow regulation will benefit the region by stabilizing discharge and reducing floods."
+          },
+          {
+            "id": "Federal Democratic Republic of Ethiopia_1_1",
+            "texto": "Egypt rejects Ethiopia's legal framework as illegitimate"
+          },
+          {
+            "id": "Federal Democratic Republic of Ethiopia_2_22",
+            "texto": "Ethiopia views negotiations as fundamentally deadlocked on legal principles"
+          },
+          {
+            "id": "Federal Democratic Republic of Ethiopia_3_115",
+            "texto": "Ethiopia seeks alternative diplomatic frameworks outside trilateral negotiations"
+          },
+          {
+            "id": "Federal Democratic Republic of Ethiopia_4_416",
+            "texto": "Ethiopia engages African Union mediation mechanisms"
+          }
+        ],
+        "Republic of Sudan": [
+          {
+            "id": "Republic of Sudan_0_0",
+            "texto": "Sudan conditions its acceptance on the implementation of a robust real-time technical data exchange mechanism (daily/hourly). While acknowledging that the GERD can control seasonal floods affecting Khartoum and reduce sedimentation at Roseires, it considers unacceptable the operational risk of a 74 billion cubic meter dam upstream without binding coordination, fearing the collapse of its own irrigation and electricity generation systems."
+          },
+          {
+            "id": "Republic of Sudan_1_4",
+            "texto": "Sudan views GERD as existential infrastructure threat"
+          },
+          {
+            "id": "Republic of Sudan_2_10",
+            "texto": "Sudan seeks alternative water security partnerships"
+          },
+          {
+            "id": "Republic of Sudan_3_22",
+            "texto": "Sudan seeks World Bank emergency water security funding"
+          },
+          {
+            "id": "Republic of Sudan_4_86",
+            "texto": "Sudan signals distrust in trilateral negotiation framework"
+          },
+          {
+            "id": "Republic of Sudan_5_319",
+            "texto": "Sudan requests African Union mediation intervention"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 3,
+        "n_direct_representatives": 3
+      },
+      "polaridad": null,
+      "nodo_id": "Arab Republic of Egypt_6_580",
+      "texto": "Egypt appeals to African Union for mediation mechanisms"
+    }
+  ]
+}

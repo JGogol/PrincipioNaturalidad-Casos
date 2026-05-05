@@ -1,0 +1,206 @@
+{
+  "n_actors": 2,
+  "actors": [
+    "Lee Family (Foua and Nao Kao Lee)",
+    "Merced Community Medical Center Clinical Team"
+  ],
+  "beta_0": 2,
+  "beta_0_sin_bridges": 3,
+  "delta_beta_0": 1,
+  "avg_node_purity": 0.775,
+  "random_baseline": 0.5,
+  "total_nodes": 85,
+  "total_edges": 614,
+  "mixed_nodes_count": 29,
+  "bridges_count": 19,
+  "bridges": [
+    {
+      "node_id": "cube6_cluster0",
+      "dominant_ratio": 0.5185185185185185,
+      "counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 52,
+        "Merced Community Medical Center Clinical Team": 56
+      },
+      "sample_text": "Medical team schedules urgent consultation to reassess medication regimen"
+    },
+    {
+      "node_id": "cube7_cluster0",
+      "dominant_ratio": 0.6111111111111112,
+      "counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 33,
+        "Merced Community Medical Center Clinical Team": 21
+      },
+      "sample_text": "Medical team schedules urgent consultation to reassess medication regimen"
+    },
+    {
+      "node_id": "cube9_cluster0",
+      "dominant_ratio": 0.5409836065573771,
+      "counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 28,
+        "Merced Community Medical Center Clinical Team": 33
+      },
+      "sample_text": "Hospital administration reviews case for potential child welfare concerns"
+    },
+    {
+      "node_id": "cube10_cluster0",
+      "dominant_ratio": 0.6153846153846154,
+      "counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 35,
+        "Merced Community Medical Center Clinical Team": 56
+      },
+      "sample_text": "Hospital administration reviews case for potential child welfare concerns"
+    },
+    {
+      "node_id": "cube15_cluster0",
+      "dominant_ratio": 0.5648854961832062,
+      "counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 57,
+        "Merced Community Medical Center Clinical Team": 74
+      },
+      "sample_text": "Medical team schedules urgent consultation to reassess medication regimen"
+    },
+    {
+      "node_id": "cube16_cluster0",
+      "dominant_ratio": 0.5833333333333334,
+      "counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 35,
+        "Merced Community Medical Center Clinical Team": 25
+      },
+      "sample_text": "Medical team schedules urgent consultation to reassess medication regimen"
+    },
+    {
+      "node_id": "cube18_cluster0",
+      "dominant_ratio": 0.6046511627906976,
+      "counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 26,
+        "Merced Community Medical Center Clinical Team": 17
+      },
+      "sample_text": "Hospital administration reviews case for potential child welfare concerns"
+    },
+    {
+      "node_id": "cube19_cluster0",
+      "dominant_ratio": 0.5128205128205128,
+      "counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 40,
+        "Merced Community Medical Center Clinical Team": 38
+      },
+      "sample_text": "Hospital administration reviews case for potential child welfare concerns"
+    },
+    {
+      "node_id": "cube20_cluster0",
+      "dominant_ratio": 0.6447368421052632,
+      "counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 27,
+        "Merced Community Medical Center Clinical Team": 49
+      },
+      "sample_text": "Medical staff interpret non-compliance as parental neglect or defiance"
+    },
+    {
+      "node_id": "cube21_cluster0",
+      "dominant_ratio": 0.6753246753246753,
+      "counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 25,
+        "Merced Community Medical Center Clinical Team": 52
+      },
+      "sample_text": "Medical staff interpret non-compliance as parental neglect or defiance"
+    },
+    {
+      "node_id": "cube23_cluster0",
+      "dominant_ratio": 0.6333333333333333,
+      "counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 44,
+        "Merced Community Medical Center Clinical Team": 76
+      },
+      "sample_text": "Medical staff interpret documentation as evidence of treatment non-compliance"
+    },
+    {
+      "node_id": "cube24_cluster0",
+      "dominant_ratio": 0.5555555555555556,
+      "counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 55,
+        "Merced Community Medical Center Clinical Team": 44
+      },
+      "sample_text": "Medical staff detect worsening medication non-compliance through clinical monitoring"
+    },
+    {
+      "node_id": "cube28_cluster0",
+      "dominant_ratio": 0.5116279069767442,
+      "counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 21,
+        "Merced Community Medical Center Clinical Team": 22
+      },
+      "sample_text": "Medical staff document parental behavior as potentially endangering child welfare"
+    },
+    {
+      "node_id": "cube29_cluster0",
+      "dominant_ratio": 0.6551724137931034,
+      "counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 30,
+        "Merced Community Medical Center Clinical Team": 57
+      },
+      "sample_text": "Medical staff interpret non-compliance as parental neglect or defiance"
+    },
+    {
+      "node_id": "cube32_cluster0",
+      "dominant_ratio": 0.6914893617021277,
+      "counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 29,
+        "Merced Community Medical Center Clinical Team": 65
+      },
+      "sample_text": "Medical staff interpret documentation as evidence of treatment non-compliance"
+    },
+    {
+      "node_id": "cube33_cluster0",
+      "dominant_ratio": 0.5375,
+      "counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 43,
+        "Merced Community Medical Center Clinical Team": 37
+      },
+      "sample_text": "Lia's anticonvulsant blood levels become subtherapeutic"
+    },
+    {
+      "node_id": "cube39_cluster0",
+      "dominant_ratio": 0.6865671641791045,
+      "counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 21,
+        "Merced Community Medical Center Clinical Team": 46
+      },
+      "sample_text": "Medical staff interpret non-compliance as parental neglect or defiance"
+    },
+    {
+      "node_id": "cube49_cluster0",
+      "dominant_ratio": 0.5822784810126582,
+      "counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 46,
+        "Merced Community Medical Center Clinical Team": 33
+      },
+      "sample_text": "The Lee family reduces medication compliance further to avoid soul suppression"
+    },
+    {
+      "node_id": "cube59_cluster0",
+      "dominant_ratio": 0.6363636363636364,
+      "counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 8,
+        "Merced Community Medical Center Clinical Team": 14
+      },
+      "sample_text": "The Lee family provides less complete information during medical consultations"
+    }
+  ],
+  "components": [
+    {
+      "size": 76,
+      "type_counts": {
+        "Lee Family (Foua and Nao Kao Lee)": 27,
+        "Mixed": 24,
+        "Merced Community Medical Center Clinical Team": 25
+      }
+    },
+    {
+      "size": 9,
+      "type_counts": {
+        "Mixed": 5,
+        "Merced Community Medical Center Clinical Team": 4
+      }
+    }
+  ]
+}

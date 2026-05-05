@@ -1,0 +1,165 @@
+{
+  "test": "Permutation Test for Topological Significance",
+  "method": {
+    "n_permutations": 500,
+    "max_points_per_actor": 300,
+    "metric_space": "Cosine distance in 768d"
+  },
+  "actors": [
+    "Kay Jamison [DepressiveState]",
+    "Kay Jamison [ManicState]"
+  ],
+  "n_actors": 2,
+  "n_pairs": 1,
+  "pairs": {
+    "Kay Jamison [DepressiveState] vs Kay Jamison [ManicState]": {
+      "metrics": {
+        "H0_mean_lifetime_diff": {
+          "observed": 0.014290773350259522,
+          "null_mean": 0.0043895769896714594,
+          "null_std": 0.0035092407657956264,
+          "null_95th": 0.011516922792064704,
+          "null_99th": 0.014193718794197537,
+          "p_value": 0.01,
+          "significant_95": true,
+          "significant_99": false,
+          "effect_size_z": 2.821463963685385
+        },
+        "H0_max_lifetime_diff": {
+          "observed": 0.017619609832763672,
+          "null_mean": 0.027411277532577515,
+          "null_std": 0.022669454388324354,
+          "null_95th": 0.07017762064933777,
+          "null_99th": 0.09059574306011196,
+          "p_value": 0.57,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.4319322173389815
+        },
+        "H0_feature_count_diff": {
+          "observed": 0.0,
+          "null_mean": 0.0,
+          "null_std": 0.0,
+          "null_95th": 0.0,
+          "null_99th": 0.0,
+          "p_value": 1.0,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0
+        },
+        "H0_std_lifetime_diff": {
+          "observed": 0.010658750875154784,
+          "null_mean": 0.002846373122019693,
+          "null_std": 0.002099210457432495,
+          "null_95th": 0.006925731937635278,
+          "null_99th": 0.008599911854449185,
+          "p_value": 0.002,
+          "significant_95": true,
+          "significant_99": true,
+          "effect_size_z": 3.7215790944040283
+        },
+        "H0_wasserstein": {
+          "observed": 4.3239582777023315,
+          "null_mean": 1.9470059427022934,
+          "null_std": 0.8183869136271217,
+          "null_95th": 3.5541293442249273,
+          "null_99th": 4.433138052821157,
+          "p_value": 0.016,
+          "significant_95": true,
+          "significant_99": false,
+          "effect_size_z": 2.9044359036305893
+        },
+        "H0_bottleneck": {
+          "observed": 0.05058419704437256,
+          "null_mean": 0.037785795450210574,
+          "null_std": 0.01645708943560966,
+          "null_95th": 0.07061099410057063,
+          "null_99th": 0.09059574306011196,
+          "p_value": 0.186,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.7776831768604812
+        },
+        "H1_mean_lifetime_diff": {
+          "observed": 0.0020456985581736933,
+          "null_mean": 0.0014676085224638272,
+          "null_std": 0.0011482996768797972,
+          "null_95th": 0.0037210255765402983,
+          "null_99th": 0.005024626084779936,
+          "p_value": 0.246,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.5034313318633634
+        },
+        "H1_max_lifetime_diff": {
+          "observed": 0.04373443126678467,
+          "null_mean": 0.019098653197288512,
+          "null_std": 0.013895882541180314,
+          "null_95th": 0.04356108009815214,
+          "null_99th": 0.060971697568893424,
+          "p_value": 0.05,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 1.7728832980912341
+        },
+        "H1_feature_count_diff": {
+          "observed": 14.0,
+          "null_mean": 16.838,
+          "null_std": 12.175867771949564,
+          "null_95th": 39.0,
+          "null_99th": 52.039999999999964,
+          "p_value": 0.542,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.23308400297661813
+        },
+        "H1_std_lifetime_diff": {
+          "observed": 0.0033855192976153976,
+          "null_mean": 0.001465715339766234,
+          "null_std": 0.0011710343749740896,
+          "null_95th": 0.0037770852057976726,
+          "null_99th": 0.004773991006591469,
+          "p_value": 0.078,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 1.6394087132511728
+        },
+        "H1_wasserstein": {
+          "observed": 2.5625341012842617,
+          "null_mean": 2.0965032375285437,
+          "null_std": 0.281525815241174,
+          "null_95th": 2.6758655268588223,
+          "null_99th": 3.043385328892182,
+          "p_value": 0.066,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 1.6553752392351109
+        },
+        "H1_bottleneck": {
+          "observed": 0.03607970476150513,
+          "null_mean": 0.03342654889822006,
+          "null_std": 0.0073017263675190505,
+          "null_95th": 0.046452224254608154,
+          "null_99th": 0.05437916576862335,
+          "p_value": 0.316,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.363360078116231
+        }
+      },
+      "h1_significant": 0,
+      "h1_total": 6,
+      "conclusion": "No significativo"
+    }
+  },
+  "summary": {
+    "divergence_ranking": [
+      {
+        "pair": "Kay Jamison [DepressiveState] vs Kay Jamison [ManicState]",
+        "wasserstein_observed": 2.5625341012842617,
+        "wasserstein_p": 0.066,
+        "wasserstein_z": 1.6553752392351109
+      }
+    ]
+  }
+}

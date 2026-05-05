@@ -1,0 +1,2115 @@
+{
+  "total": 211,
+  "fusiones": [
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_2_6",
+      "nodo_a_texto": "The medical team becomes more rigid in protocol adherence",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_307",
+      "nodo_b_texto": "Medical appointments become more procedural and less collaborative",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.8580000102519989,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_2_7",
+      "nodo_a_texto": "The medical team increases documentation of family non-compliance",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_356",
+      "nodo_b_texto": "Hospital documentation increases regarding the family's non-compliance patterns",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9733869135379791,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_2_7",
+      "nodo_a_texto": "The medical team increases documentation of family non-compliance",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_373",
+      "nodo_b_texto": "Medical staff begin documenting family non-compliance more formally",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.963005781173706,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_2_7",
+      "nodo_a_texto": "The medical team increases documentation of family non-compliance",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_400",
+      "nodo_b_texto": "Medical records create paper trail of family non-compliance patterns",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9800810217857361,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_23",
+      "nodo_a_texto": "The medical team increases documentation of compliance failures",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_145",
+      "nodo_b_texto": "Medical staff begin documenting non-compliance more formally in records",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9404832124710083,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_30",
+      "nodo_a_texto": "The medical team starts recording detailed observations of family interactions during medical visits",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_391",
+      "nodo_b_texto": "Medical staff document more detailed observations of family interactions",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9905282258987427,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_30",
+      "nodo_a_texto": "The medical team starts recording detailed observations of family interactions during medical visits",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_421",
+      "nodo_b_texto": "Hospital creates more detailed records of family interactions",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.8482654392719269,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_30",
+      "nodo_a_texto": "The medical team starts recording detailed observations of family interactions during medical visits",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_460",
+      "nodo_b_texto": "Medical staff begin detailed documentation of all family interactions",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9878073036670685,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_30",
+      "nodo_a_texto": "The medical team starts recording detailed observations of family interactions during medical visits",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_470",
+      "nodo_b_texto": "Medical staff document family behaviors more extensively in patient records",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9924846589565277,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_35",
+      "nodo_a_texto": "The medical team creates more detailed written records of family compliance patterns",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_489",
+      "nodo_b_texto": "Hospital staff begin documenting parental compliance issues more systematically",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9902334809303284,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_41",
+      "nodo_a_texto": "The medical team increases documentation of family interactions and statements",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_391",
+      "nodo_b_texto": "Medical staff document more detailed observations of family interactions",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9764655232429504,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_44",
+      "nodo_a_texto": "The medical team schedules more frequent clinic appointments for blood draws",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_117",
+      "nodo_b_texto": "Medical staff request more frequent clinic visits and blood draws",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9978084862232208,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_45",
+      "nodo_a_texto": "The medical team increases documentation of therapeutic drug monitoring results",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "nodo_b_texto": "Medical staff increase monitoring of medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9860489070415497,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_45",
+      "nodo_a_texto": "The medical team increases documentation of therapeutic drug monitoring results",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_178",
+      "nodo_b_texto": "Medical staff schedules more frequent monitoring of drug levels",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.913630336523056,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_45",
+      "nodo_a_texto": "The medical team increases documentation of therapeutic drug monitoring results",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_450",
+      "nodo_b_texto": "Medical staff have more opportunities to observe medication compliance patterns",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.5649159923195839,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_45",
+      "nodo_a_texto": "The medical team increases documentation of therapeutic drug monitoring results",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_528",
+      "nodo_b_texto": "Medical team implements enhanced monitoring protocols for medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.8202591240406036,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_52",
+      "nodo_a_texto": "The medical team reduces time available for direct patient care interactions",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_307",
+      "nodo_b_texto": "Medical appointments become more procedural and less collaborative",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.6298870593309402,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_57",
+      "nodo_a_texto": "The medical team develops increased frustration with the case management process",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_534",
+      "nodo_b_texto": "Healthcare providers express frustration during clinical encounters",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9348333775997162,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_61",
+      "nodo_a_texto": "The medical team experiences increased communication barriers with the Lee family",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_100",
+      "nodo_b_texto": "The Lee family's communication with medical staff becomes more inconsistent",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9961788356304169,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_61",
+      "nodo_a_texto": "The medical team experiences increased communication barriers with the Lee family",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_338",
+      "nodo_b_texto": "Lee Family becomes more guarded and defensive in hospital interactions",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.5669241547584534,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_61",
+      "nodo_a_texto": "The medical team experiences increased communication barriers with the Lee family",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_351",
+      "nodo_b_texto": "Lee family reduces communication with medical staff during appointments",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9461453855037689,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_61",
+      "nodo_a_texto": "The medical team experiences increased communication barriers with the Lee family",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_377",
+      "nodo_b_texto": "Lee family becomes more guarded in communications with medical staff",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9954531490802765,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_61",
+      "nodo_a_texto": "The medical team experiences increased communication barriers with the Lee family",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_395",
+      "nodo_b_texto": "Communication barriers between medical staff and the Lee family intensify",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9975220263004303,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_3_64",
+      "nodo_a_texto": "The medical team spends less time in family education sessions",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_351",
+      "nodo_b_texto": "Lee family reduces communication with medical staff during appointments",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.7801390588283539,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_78",
+      "nodo_a_texto": "The medical team has less data for medication dosage adjustments",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_625",
+      "nodo_b_texto": "Medical team adjusts medication dosages based on incomplete clinical data",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.976997584104538,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_90",
+      "nodo_a_texto": "The family develops greater mistrust of medical team intentions",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_377",
+      "nodo_b_texto": "Lee family becomes more guarded in communications with medical staff",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9638259708881378,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_92",
+      "nodo_a_texto": "The medical team perceives the family as increasingly non-cooperative",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_100",
+      "nodo_b_texto": "The Lee family's communication with medical staff becomes more inconsistent",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.8064331412315369,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_92",
+      "nodo_a_texto": "The medical team perceives the family as increasingly non-cooperative",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_146",
+      "nodo_b_texto": "Hospital staff express increasing skepticism about family cooperation",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9970901906490326,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_95",
+      "nodo_a_texto": "The medical team creates evidence base for medical neglect allegations",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_170",
+      "nodo_b_texto": "Medical staff initiate formal documentation of suspected medical neglect",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9923688769340515,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_95",
+      "nodo_a_texto": "The medical team creates evidence base for medical neglect allegations",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_347",
+      "nodo_b_texto": "Medical staff document parental behavior as potentially endangering child welfare",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.913808286190033,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_95",
+      "nodo_a_texto": "The medical team creates evidence base for medical neglect allegations",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_381",
+      "nodo_b_texto": "Medical staff interpret documentation as evidence of treatment non-compliance",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.98739954829216,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_95",
+      "nodo_a_texto": "The medical team creates evidence base for medical neglect allegations",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_530",
+      "nodo_b_texto": "Healthcare providers document medication non-adherence in medical records",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9785107672214508,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_99",
+      "nodo_a_texto": "The medical team identifies specific patterns in non-adherence timing",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_2_6",
+      "nodo_b_texto": "Medical staff observe irregular medication compliance patterns",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.5835322439670563,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_99",
+      "nodo_a_texto": "The medical team identifies specific patterns in non-adherence timing",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_214",
+      "nodo_b_texto": "Medical staff document specific instances of missed doses",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9350363612174988,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_102",
+      "nodo_a_texto": "The medical team involves hospital social workers in family supervision",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_49",
+      "nodo_b_texto": "Hospital social services begin evaluating family cooperation with medical recommendations",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9722104668617249,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_102",
+      "nodo_a_texto": "The medical team involves hospital social workers in family supervision",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_172",
+      "nodo_b_texto": "Medical staff consult social services regarding child welfare concerns",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9185385406017303,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_104",
+      "nodo_a_texto": "The medical team escalates documentation to Child Protective Services",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_134",
+      "nodo_b_texto": "Hospital staff begin discussing potential child protective services referral",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.6500765532255173,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_104",
+      "nodo_a_texto": "The medical team escalates documentation to Child Protective Services",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_344",
+      "nodo_b_texto": "Medical staff initiate formal child protective services referral procedures",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9921980798244476,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_104",
+      "nodo_a_texto": "The medical team escalates documentation to Child Protective Services",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_517",
+      "nodo_b_texto": "Medical records establish basis for potential child protective services referral",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9926999509334564,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_104",
+      "nodo_a_texto": "The medical team escalates documentation to Child Protective Services",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_554",
+      "nodo_b_texto": "Medical staff initiate child protective services consultation procedures",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.985372006893158,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_105",
+      "nodo_a_texto": "The medical team recommends increased supervision of medication administration",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "nodo_b_texto": "Medical staff increase monitoring of medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.993373841047287,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_105",
+      "nodo_a_texto": "The medical team recommends increased supervision of medication administration",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_137",
+      "nodo_b_texto": "Medical staff escalate intervention protocols to ensure medication compliance",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.988911360502243,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_105",
+      "nodo_a_texto": "The medical team recommends increased supervision of medication administration",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_389",
+      "nodo_b_texto": "Physicians consider escalating intervention strategies to ensure medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9948054254055023,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_105",
+      "nodo_a_texto": "The medical team recommends increased supervision of medication administration",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_528",
+      "nodo_b_texto": "Medical team implements enhanced monitoring protocols for medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9902363121509552,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_106",
+      "nodo_a_texto": "The medical team considers these indicators as evidence of medical neglect",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_207",
+      "nodo_b_texto": "Medical staff interpret absences as treatment non-compliance",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9845302999019623,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_106",
+      "nodo_a_texto": "The medical team considers these indicators as evidence of medical neglect",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_381",
+      "nodo_b_texto": "Medical staff interpret documentation as evidence of treatment non-compliance",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9963915348052979,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_106",
+      "nodo_a_texto": "The medical team considers these indicators as evidence of medical neglect",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_384",
+      "nodo_b_texto": "Medical staff interpret the documented treatment failure as medication non-compliance",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9931820631027222,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_108",
+      "nodo_a_texto": "The medical team establishes clearer grounds for court-ordered treatment compliance",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_222",
+      "nodo_b_texto": "Medical staff use more explicit warnings about legal consequences",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.984239786863327,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_110",
+      "nodo_a_texto": "The medical team creates a detailed paper trail of family non-compliance patterns",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_350",
+      "nodo_b_texto": "Hospital documentation of family 'non-compliance' becomes more formal and detailed",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.8752714097499847,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_113",
+      "nodo_a_texto": "The medical team relies increasingly on formal institutional protocols rather than individualized approaches",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_74",
+      "nodo_b_texto": "Medical staff consider more directive intervention approaches",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.6308317184448242,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_113",
+      "nodo_a_texto": "The medical team relies increasingly on formal institutional protocols rather than individualized approaches",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_147",
+      "nodo_b_texto": "Medical team starts discussing more directive intervention approaches",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.6268997490406036,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_113",
+      "nodo_a_texto": "The medical team relies increasingly on formal institutional protocols rather than individualized approaches",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_307",
+      "nodo_b_texto": "Medical appointments become more procedural and less collaborative",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9905722439289093,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_121",
+      "nodo_a_texto": "The medical team emphasizes documentation of protocol adherence more strictly",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "nodo_b_texto": "Medical staff increase monitoring of medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9853248596191406,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_122",
+      "nodo_a_texto": "The medical team documents specific instances of non-adherence to medication protocols",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_214",
+      "nodo_b_texto": "Medical staff document specific instances of missed doses",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9924653768539429,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_122",
+      "nodo_a_texto": "The medical team documents specific instances of non-adherence to medication protocols",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_530",
+      "nodo_b_texto": "Healthcare providers document medication non-adherence in medical records",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9739736616611481,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_133",
+      "nodo_a_texto": "The medical team creates standardized criteria for triggering Child Protective Services referrals",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_517",
+      "nodo_b_texto": "Medical records establish basis for potential child protective services referral",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9779423177242279,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_135",
+      "nodo_a_texto": "The medical team shifts communication style toward more clinical and less collaborative language",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_297",
+      "nodo_b_texto": "Healthcare providers adopt more directive communication approach",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9940186142921448,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_135",
+      "nodo_a_texto": "The medical team shifts communication style toward more clinical and less collaborative language",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_307",
+      "nodo_b_texto": "Medical appointments become more procedural and less collaborative",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.81268510222435,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_139",
+      "nodo_a_texto": "The medical team reduces willingness to accommodate family preferences",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_405",
+      "nodo_b_texto": "Future medical encounters carry presumption of family non-cooperation",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.8111143708229065,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_148",
+      "nodo_a_texto": "The medical team experiences decreased job satisfaction with this case",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_534",
+      "nodo_b_texto": "Healthcare providers express frustration during clinical encounters",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9825758337974548,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_150",
+      "nodo_a_texto": "The medical team establishes more detailed evidence of medication non-adherence patterns",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_214",
+      "nodo_b_texto": "Medical staff document specific instances of missed doses",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9734174311161041,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_152",
+      "nodo_a_texto": "The medical team develops less familiarity with Lia's specific seizure patterns",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_209",
+      "nodo_b_texto": "Medical team lacks current information about Lia's seizure patterns",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9176100492477417,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_153",
+      "nodo_a_texto": "The medical team has fewer opportunities to build rapport with the Lee family",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_100",
+      "nodo_b_texto": "The Lee family's communication with medical staff becomes more inconsistent",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.8551912903785706,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_153",
+      "nodo_a_texto": "The medical team has fewer opportunities to build rapport with the Lee family",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_351",
+      "nodo_b_texto": "Lee family reduces communication with medical staff during appointments",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9729052186012268,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_153",
+      "nodo_a_texto": "The medical team has fewer opportunities to build rapport with the Lee family",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_395",
+      "nodo_b_texto": "Communication barriers between medical staff and the Lee family intensify",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.987893670797348,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_158",
+      "nodo_a_texto": "The Lee family receives inadequate information about medication administration protocols",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_306",
+      "nodo_b_texto": "The Lee family receives less detailed medical explanations",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.5962759256362915,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_161",
+      "nodo_a_texto": "The medical team loses direct monitoring of Lia's seizure patterns",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_209",
+      "nodo_b_texto": "Medical team lacks current information about Lia's seizure patterns",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9214442372322083,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_164",
+      "nodo_a_texto": "The medical team has reduced ability to detect medication side effects",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_432",
+      "nodo_b_texto": "Medical staff cannot accurately assess medication compliance patterns",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.6119263619184494,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_173",
+      "nodo_a_texto": "The medical team establishes pattern of parental medical neglect",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_400",
+      "nodo_b_texto": "Medical records create paper trail of family non-compliance patterns",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.8087863624095917,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_178",
+      "nodo_a_texto": "The medical team creates additional scheduling burden on the Lee family",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_411",
+      "nodo_b_texto": "Lee family experiences increased burden of medical appointments and procedures",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9802554249763489,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_178",
+      "nodo_a_texto": "The medical team creates additional scheduling burden on the Lee family",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_500",
+      "nodo_b_texto": "Lee Family experiences mounting stress from competing medical and cultural obligations",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.8052077293395996,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_178",
+      "nodo_a_texto": "The medical team creates additional scheduling burden on the Lee family",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_524",
+      "nodo_b_texto": "Lee family experiences increased stress from more medical procedures",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9779151678085327,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_180",
+      "nodo_a_texto": "The medical team increases frequency of direct clinical contact with Lia",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_56",
+      "nodo_b_texto": "Medical staff schedules more frequent monitoring of Lia's condition",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9898350238800049,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_180",
+      "nodo_a_texto": "The medical team increases frequency of direct clinical contact with Lia",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_149",
+      "nodo_b_texto": "Medical team schedules more frequent clinic appointments for Lia",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9940337538719177,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_188",
+      "nodo_a_texto": "The medical team has fewer opportunities to assess family understanding",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_351",
+      "nodo_b_texto": "Lee family reduces communication with medical staff during appointments",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.5841718763113022,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_188",
+      "nodo_a_texto": "The medical team has fewer opportunities to assess family understanding",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_559",
+      "nodo_b_texto": "Medical decisions are made with minimal family input",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.7761059105396271,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_189",
+      "nodo_a_texto": "Communication gaps between medical team and family increase",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_186",
+      "nodo_b_texto": "Medical staff reduce collaborative discussion with Lee family",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.7259724736213684,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_191",
+      "nodo_a_texto": "The medical team makes more assumptions about the family's understanding",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_375",
+      "nodo_b_texto": "Staff start questioning whether family understands medical instructions",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9854831099510193,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_193",
+      "nodo_a_texto": "The medical team spends less time explaining treatment rationales",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_571",
+      "nodo_b_texto": "Medical staff reduce time spent explaining treatment rationales",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9981279373168945,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_4_195",
+      "nodo_a_texto": "The medical team receives less accurate information about family concerns",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_559",
+      "nodo_b_texto": "Medical decisions are made with minimal family input",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.927766352891922,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_201",
+      "nodo_a_texto": "The medical team receives institutional backing for Child Protective Services involvement",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_245",
+      "nodo_b_texto": "Hospital administration reviews the case for potential child protective services referral",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9757303297519684,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_201",
+      "nodo_a_texto": "The medical team receives institutional backing for Child Protective Services involvement",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_250",
+      "nodo_b_texto": "Hospital social services receives directive to investigate family circumstances",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.7431115061044693,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_201",
+      "nodo_a_texto": "The medical team receives institutional backing for Child Protective Services involvement",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_382",
+      "nodo_b_texto": "Hospital administration reviews case for potential child welfare concerns",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9663867950439453,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_204",
+      "nodo_a_texto": "The medical team receives authorization for more aggressive compliance monitoring measures",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_389",
+      "nodo_b_texto": "Physicians consider escalating intervention strategies to ensure medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9901546537876129,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_204",
+      "nodo_a_texto": "The medical team receives authorization for more aggressive compliance monitoring measures",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_528",
+      "nodo_b_texto": "Medical team implements enhanced monitoring protocols for medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.8641593754291534,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_204",
+      "nodo_a_texto": "The medical team receives authorization for more aggressive compliance monitoring measures",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_595",
+      "nodo_b_texto": "Hospital personnel escalate intervention protocols for treatment non-adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.982543021440506,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_218",
+      "nodo_a_texto": "The medical team documents non-compliance patterns in the patient's medical record",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_27",
+      "nodo_b_texto": "Medical staff document non-compliance in patient records",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9896308779716492,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_218",
+      "nodo_a_texto": "The medical team documents non-compliance patterns in the patient's medical record",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_170",
+      "nodo_b_texto": "Medical staff initiate formal documentation of suspected medical neglect",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9863909184932709,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_219",
+      "nodo_a_texto": "The medical team initiates mandatory reporting protocols to Child Protective Services",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_344",
+      "nodo_b_texto": "Medical staff initiate formal child protective services referral procedures",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.8759247064590454,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_220",
+      "nodo_a_texto": "The medical team schedules increased monitoring appointments to assess compliance",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "nodo_b_texto": "Medical staff increase monitoring of medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.828317403793335,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_220",
+      "nodo_a_texto": "The medical team schedules increased monitoring appointments to assess compliance",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_528",
+      "nodo_b_texto": "Medical team implements enhanced monitoring protocols for medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9842589497566223,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_220",
+      "nodo_a_texto": "The medical team schedules increased monitoring appointments to assess compliance",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_616",
+      "nodo_b_texto": "Medical staff increase appointment frequency to monitor compliance",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9906936883926392,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_226",
+      "nodo_a_texto": "The medical team establishes grounds for potential custody modification",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_344",
+      "nodo_b_texto": "Medical staff initiate formal child protective services referral procedures",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.5869136601686478,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_226",
+      "nodo_a_texto": "The medical team establishes grounds for potential custody modification",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_517",
+      "nodo_b_texto": "Medical records establish basis for potential child protective services referral",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9844019114971161,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_235",
+      "nodo_a_texto": "The medical team documents compliance concerns with greater frequency",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "nodo_b_texto": "Medical staff increase monitoring of medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9589732885360718,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_235",
+      "nodo_a_texto": "The medical team documents compliance concerns with greater frequency",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_616",
+      "nodo_b_texto": "Medical staff increase appointment frequency to monitor compliance",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9762609601020813,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_236",
+      "nodo_a_texto": "The medical team interprets cultural healing practices as interference with medical care",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_423",
+      "nodo_b_texto": "Medical staff document traditional healing practices as potential interference",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.995892733335495,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_249",
+      "nodo_a_texto": "The medical team observes decreased medication compliance rates",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_207",
+      "nodo_b_texto": "Medical staff interpret absences as treatment non-compliance",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.899176687002182,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_249",
+      "nodo_a_texto": "The medical team observes decreased medication compliance rates",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_530",
+      "nodo_b_texto": "Healthcare providers document medication non-adherence in medical records",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9805804789066315,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_249",
+      "nodo_a_texto": "The medical team observes decreased medication compliance rates",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_593",
+      "nodo_b_texto": "Medical staff detect worsening medication non-compliance through clinical monitoring",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9926670491695404,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_251",
+      "nodo_a_texto": "The medical team allocates more staff time to compliance monitoring activities",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "nodo_b_texto": "Medical staff increase monitoring of medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9771996438503265,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_254",
+      "nodo_a_texto": "The medical team proposes more frequent clinic visits for compliance monitoring",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_616",
+      "nodo_b_texto": "Medical staff increase appointment frequency to monitor compliance",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9866923689842224,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_255",
+      "nodo_a_texto": "The medical team considers inpatient admission for medication stabilization",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_108",
+      "nodo_b_texto": "Medical staff consider inpatient hospitalization to ensure medication compliance",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9965327084064484,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_255",
+      "nodo_a_texto": "The medical team considers inpatient admission for medication stabilization",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_409",
+      "nodo_b_texto": "Medical staff consider hospitalization to ensure controlled medication delivery",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9929032623767853,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_255",
+      "nodo_a_texto": "The medical team considers inpatient admission for medication stabilization",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_428",
+      "nodo_b_texto": "Medical staff considers extended hospitalization for medication compliance",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9931822717189789,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_257",
+      "nodo_a_texto": "The family withdraws further from medical team communication",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_338",
+      "nodo_b_texto": "Lee Family becomes more guarded and defensive in hospital interactions",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9875159561634064,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_257",
+      "nodo_a_texto": "The family withdraws further from medical team communication",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_351",
+      "nodo_b_texto": "Lee family reduces communication with medical staff during appointments",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.8677371442317963,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_257",
+      "nodo_a_texto": "The family withdraws further from medical team communication",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_377",
+      "nodo_b_texto": "Lee family becomes more guarded in communications with medical staff",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.994270384311676,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_258",
+      "nodo_a_texto": "The family increases reliance on traditional healing practices",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_20",
+      "nodo_b_texto": "Family resources are allocated primarily toward traditional healing expenses",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.8288627564907074,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_270",
+      "nodo_a_texto": "The medical team creates a formal record of medication non-compliance patterns",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_214",
+      "nodo_b_texto": "Medical staff document specific instances of missed doses",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.99128657579422,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_270",
+      "nodo_a_texto": "The medical team creates a formal record of medication non-compliance patterns",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_530",
+      "nodo_b_texto": "Healthcare providers document medication non-adherence in medical records",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9872372150421143,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_271",
+      "nodo_a_texto": "The medical team establishes documented evidence for potential child endangerment proceedings",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_170",
+      "nodo_b_texto": "Medical staff initiate formal documentation of suspected medical neglect",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.610268771648407,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_271",
+      "nodo_a_texto": "The medical team establishes documented evidence for potential child endangerment proceedings",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_517",
+      "nodo_b_texto": "Medical records establish basis for potential child protective services referral",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9960246980190277,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_272",
+      "nodo_a_texto": "The medical team generates clinical documentation supporting CPS case recommendations",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_517",
+      "nodo_b_texto": "Medical records establish basis for potential child protective services referral",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9877331852912903,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_273",
+      "nodo_a_texto": "The medical team creates a more defensible record for potential malpractice litigation",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_401",
+      "nodo_b_texto": "Documentation establishes legal protection for hospital against malpractice claims",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9857557415962219,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_280",
+      "nodo_a_texto": "The medical team shifts focus from therapeutic relationship to compliance monitoring",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "nodo_b_texto": "Medical staff increase monitoring of medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.6944099217653275,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_282",
+      "nodo_a_texto": "The medical team transforms clinical encounters into surveillance activities",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_490",
+      "nodo_b_texto": "Medical team shifts focus from therapeutic alliance to protective intervention",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9546562731266022,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_285",
+      "nodo_a_texto": "The medical team applies more generalized anticonvulsant dosing protocols",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_354",
+      "nodo_b_texto": "Specialists recommend more aggressive medication protocols for seizure control",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.5929328724741936,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_292",
+      "nodo_a_texto": "The medical team positions staff to observe family medication techniques",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_496",
+      "nodo_b_texto": "Medical staff reviews family education and adherence counseling protocols",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.8888696432113647,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_294",
+      "nodo_a_texto": "The medical team interprets cultural practices as medical non-compliance",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_423",
+      "nodo_b_texto": "Medical staff document traditional healing practices as potential interference",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9718941152095795,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_295",
+      "nodo_a_texto": "The medical team escalates enforcement of standard treatment protocols",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "nodo_b_texto": "Medical staff increase monitoring of medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9935874044895172,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_295",
+      "nodo_a_texto": "The medical team escalates enforcement of standard treatment protocols",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_137",
+      "nodo_b_texto": "Medical staff escalate intervention protocols to ensure medication compliance",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9891397953033447,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_295",
+      "nodo_a_texto": "The medical team escalates enforcement of standard treatment protocols",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_336",
+      "nodo_b_texto": "Hospital administration implements standardized protocols for medication compliance monitoring",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.7833844125270844,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_295",
+      "nodo_a_texto": "The medical team escalates enforcement of standard treatment protocols",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_389",
+      "nodo_b_texto": "Physicians consider escalating intervention strategies to ensure medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9909928143024445,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_295",
+      "nodo_a_texto": "The medical team escalates enforcement of standard treatment protocols",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_440",
+      "nodo_b_texto": "Medical team begins discussing mandatory compliance interventions",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9102277457714081,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_295",
+      "nodo_a_texto": "The medical team escalates enforcement of standard treatment protocols",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_528",
+      "nodo_b_texto": "Medical team implements enhanced monitoring protocols for medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.990403413772583,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_295",
+      "nodo_a_texto": "The medical team escalates enforcement of standard treatment protocols",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_595",
+      "nodo_b_texto": "Hospital personnel escalate intervention protocols for treatment non-adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9738236367702484,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_298",
+      "nodo_a_texto": "The medical team cannot verify medication effectiveness accurately",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_432",
+      "nodo_b_texto": "Medical staff cannot accurately assess medication compliance patterns",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9882442355155945,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_304",
+      "nodo_a_texto": "The medical team escalates supervision protocols to prevent further medication non-adherence",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "nodo_b_texto": "Medical staff increase monitoring of medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9930853247642517,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_304",
+      "nodo_a_texto": "The medical team escalates supervision protocols to prevent further medication non-adherence",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_137",
+      "nodo_b_texto": "Medical staff escalate intervention protocols to ensure medication compliance",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9920345544815063,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_304",
+      "nodo_a_texto": "The medical team escalates supervision protocols to prevent further medication non-adherence",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_178",
+      "nodo_b_texto": "Medical staff schedules more frequent monitoring of drug levels",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.5590293705463409,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_304",
+      "nodo_a_texto": "The medical team escalates supervision protocols to prevent further medication non-adherence",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_389",
+      "nodo_b_texto": "Physicians consider escalating intervention strategies to ensure medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9946853518486023,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_304",
+      "nodo_a_texto": "The medical team escalates supervision protocols to prevent further medication non-adherence",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_528",
+      "nodo_b_texto": "Medical team implements enhanced monitoring protocols for medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9834765493869781,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_304",
+      "nodo_a_texto": "The medical team escalates supervision protocols to prevent further medication non-adherence",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_595",
+      "nodo_b_texto": "Hospital personnel escalate intervention protocols for treatment non-adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9920928180217743,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_308",
+      "nodo_a_texto": "The medical team attributes treatment failures to family resistance",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_28",
+      "nodo_b_texto": "Medical staff consider the family non-cooperative with treatment plan",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9936733841896057,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_308",
+      "nodo_a_texto": "The medical team attributes treatment failures to family resistance",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_135",
+      "nodo_b_texto": "Medical staff interpret non-compliance as parental neglect or defiance",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9867647290229797,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_313",
+      "nodo_a_texto": "The medical team creates more detailed records of family non-compliance incidents",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_350",
+      "nodo_b_texto": "Hospital documentation of family 'non-compliance' becomes more formal and detailed",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9880504608154297,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_313",
+      "nodo_a_texto": "The medical team creates more detailed records of family non-compliance incidents",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_356",
+      "nodo_b_texto": "Hospital documentation increases regarding the family's non-compliance patterns",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.8411508798599243,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_313",
+      "nodo_a_texto": "The medical team creates more detailed records of family non-compliance incidents",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_373",
+      "nodo_b_texto": "Medical staff begin documenting family non-compliance more formally",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9909652769565582,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_313",
+      "nodo_a_texto": "The medical team creates more detailed records of family non-compliance incidents",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_489",
+      "nodo_b_texto": "Hospital staff begin documenting parental compliance issues more systematically",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9823011755943298,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_319",
+      "nodo_a_texto": "The medical team builds a case record that demonstrates parental unfitness",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_347",
+      "nodo_b_texto": "Medical staff document parental behavior as potentially endangering child welfare",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9872288107872009,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_321",
+      "nodo_a_texto": "The medical team documents non-cooperation more extensively in medical records",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_145",
+      "nodo_b_texto": "Medical staff begin documenting non-compliance more formally in records",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.998111754655838,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_322",
+      "nodo_a_texto": "The medical team considers escalating to child protective services",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_134",
+      "nodo_b_texto": "Hospital staff begin discussing potential child protective services referral",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9970037937164307,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_322",
+      "nodo_a_texto": "The medical team considers escalating to child protective services",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_245",
+      "nodo_b_texto": "Hospital administration reviews the case for potential child protective services referral",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9648586213588715,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_322",
+      "nodo_a_texto": "The medical team considers escalating to child protective services",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_554",
+      "nodo_b_texto": "Medical staff initiate child protective services consultation procedures",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9729979932308197,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_323",
+      "nodo_a_texto": "The medical team adopts more directive communication approaches with family",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_81",
+      "nodo_b_texto": "Medical staff implement more directive communication approaches with the family",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9984747171401978,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_330",
+      "nodo_a_texto": "The medical team creates formal documentation protocols for family interactions",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_391",
+      "nodo_b_texto": "Medical staff document more detailed observations of family interactions",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9358403980731964,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_330",
+      "nodo_a_texto": "The medical team creates formal documentation protocols for family interactions",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_460",
+      "nodo_b_texto": "Medical staff begin detailed documentation of all family interactions",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.6296793818473816,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_334",
+      "nodo_a_texto": "The medical team increases emphasis on strict dosing instructions",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "nodo_b_texto": "Medical staff increase monitoring of medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9418943822383881,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_335",
+      "nodo_a_texto": "The medical team documents family resistance in medical records",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_185",
+      "nodo_b_texto": "Medical staff document family non-compliance in medical records",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9969866871833801,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_335",
+      "nodo_a_texto": "The medical team documents family resistance in medical records",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_219",
+      "nodo_b_texto": "Medical team documents parental non-compliance in official records",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.984052300453186,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_346",
+      "nodo_a_texto": "The medical team shifts focus from collaborative care to defensive medicine practices",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_490",
+      "nodo_b_texto": "Medical team shifts focus from therapeutic alliance to protective intervention",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9967560470104218,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_352",
+      "nodo_a_texto": "The medical team loses access to informal family health information",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_186",
+      "nodo_b_texto": "Medical staff reduce collaborative discussion with Lee family",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.556723240762949,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_352",
+      "nodo_a_texto": "The medical team loses access to informal family health information",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_559",
+      "nodo_b_texto": "Medical decisions are made with minimal family input",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9534677565097809,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_354",
+      "nodo_a_texto": "The medical team standardizes communication scripts for family encounters",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_81",
+      "nodo_b_texto": "Medical staff implement more directive communication approaches with the family",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9919820427894592,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_355",
+      "nodo_a_texto": "The medical team escalates case management to administrative oversight",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_73",
+      "nodo_b_texto": "Medical staff escalate concerns to hospital administration",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9854945242404938,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_359",
+      "nodo_a_texto": "The medical team implements more defensive documentation practices regarding treatment decisions",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_423",
+      "nodo_b_texto": "Medical staff document traditional healing practices as potential interference",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.6770533919334412,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_372",
+      "nodo_a_texto": "The medical team cannot adjust medications based on real-time seizure activity",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_626",
+      "nodo_b_texto": "Physicians make treatment decisions without observing recent seizure frequency",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9767778515815735,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_372",
+      "nodo_a_texto": "The medical team cannot adjust medications based on real-time seizure activity",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_627",
+      "nodo_b_texto": "Medical team cannot correlate medication changes with seizure outcomes",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.984557181596756,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_373",
+      "nodo_a_texto": "The medical team loses ability to correlate medication timing with seizure occurrence",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_626",
+      "nodo_b_texto": "Physicians make treatment decisions without observing recent seizure frequency",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.7688138484954834,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_373",
+      "nodo_a_texto": "The medical team loses ability to correlate medication timing with seizure occurrence",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_627",
+      "nodo_b_texto": "Medical team cannot correlate medication changes with seizure outcomes",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9924024343490601,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_385",
+      "nodo_a_texto": "The medical team increases documentation of standard protocol adherence",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "nodo_b_texto": "Medical staff increase monitoring of medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.7899183332920074,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_385",
+      "nodo_a_texto": "The medical team increases documentation of standard protocol adherence",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_528",
+      "nodo_b_texto": "Medical team implements enhanced monitoring protocols for medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.6817659288644791,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_391",
+      "nodo_a_texto": "The medical team increases frequency of follow-up appointments for documentation purposes",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_616",
+      "nodo_b_texto": "Medical staff increase appointment frequency to monitor compliance",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9340778887271881,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_410",
+      "nodo_a_texto": "The medical team shifts communication patterns toward legally defensible language",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_297",
+      "nodo_b_texto": "Healthcare providers adopt more directive communication approach",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9672796726226807,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_414",
+      "nodo_a_texto": "The medical team cannot identify emerging status epilepticus risk",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_2_13",
+      "nodo_b_texto": "Medical staff cannot predict when dangerous seizures will occur",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9899986684322357,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_426",
+      "nodo_a_texto": "The medical team identifies specific cultural interventions as treatment obstacles",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_423",
+      "nodo_b_texto": "Medical staff document traditional healing practices as potential interference",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9947458803653717,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_427",
+      "nodo_a_texto": "The medical team develops systematic evidence of parental non-compliance patterns",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_350",
+      "nodo_b_texto": "Hospital documentation of family 'non-compliance' becomes more formal and detailed",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.7324303686618805,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_427",
+      "nodo_a_texto": "The medical team develops systematic evidence of parental non-compliance patterns",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_373",
+      "nodo_b_texto": "Medical staff begin documenting family non-compliance more formally",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.8633427619934082,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_427",
+      "nodo_a_texto": "The medical team develops systematic evidence of parental non-compliance patterns",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_400",
+      "nodo_b_texto": "Medical records create paper trail of family non-compliance patterns",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9843716025352478,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_427",
+      "nodo_a_texto": "The medical team develops systematic evidence of parental non-compliance patterns",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_489",
+      "nodo_b_texto": "Hospital staff begin documenting parental compliance issues more systematically",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9961100518703461,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_438",
+      "nodo_a_texto": "The medical team cannot independently verify medication administration reports",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_432",
+      "nodo_b_texto": "Medical staff cannot accurately assess medication compliance patterns",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.984048068523407,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_443",
+      "nodo_a_texto": "The medical team reduces flexibility in treatment protocols to follow standard guidelines",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "nodo_b_texto": "Medical staff increase monitoring of medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.6204785406589508,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_443",
+      "nodo_a_texto": "The medical team reduces flexibility in treatment protocols to follow standard guidelines",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_74",
+      "nodo_b_texto": "Medical staff consider more directive intervention approaches",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.8137513101100922,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_443",
+      "nodo_a_texto": "The medical team reduces flexibility in treatment protocols to follow standard guidelines",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_137",
+      "nodo_b_texto": "Medical staff escalate intervention protocols to ensure medication compliance",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9585819244384766,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_443",
+      "nodo_a_texto": "The medical team reduces flexibility in treatment protocols to follow standard guidelines",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_336",
+      "nodo_b_texto": "Hospital administration implements standardized protocols for medication compliance monitoring",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9251685440540314,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_443",
+      "nodo_a_texto": "The medical team reduces flexibility in treatment protocols to follow standard guidelines",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_440",
+      "nodo_b_texto": "Medical team begins discussing mandatory compliance interventions",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9589940011501312,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_444",
+      "nodo_a_texto": "The medical team increases frequency of patient compliance monitoring and assessment",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_616",
+      "nodo_b_texto": "Medical staff increase appointment frequency to monitor compliance",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.7028186768293381,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_448",
+      "nodo_a_texto": "The medical team adopts more aggressive enforcement of treatment compliance protocols",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "nodo_b_texto": "Medical staff increase monitoring of medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9852457642555237,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_448",
+      "nodo_a_texto": "The medical team adopts more aggressive enforcement of treatment compliance protocols",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_137",
+      "nodo_b_texto": "Medical staff escalate intervention protocols to ensure medication compliance",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9964360296726227,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_448",
+      "nodo_a_texto": "The medical team adopts more aggressive enforcement of treatment compliance protocols",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_389",
+      "nodo_b_texto": "Physicians consider escalating intervention strategies to ensure medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9935053884983063,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_448",
+      "nodo_a_texto": "The medical team adopts more aggressive enforcement of treatment compliance protocols",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_528",
+      "nodo_b_texto": "Medical team implements enhanced monitoring protocols for medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9318367838859558,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_448",
+      "nodo_a_texto": "The medical team adopts more aggressive enforcement of treatment compliance protocols",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_595",
+      "nodo_b_texto": "Hospital personnel escalate intervention protocols for treatment non-adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9473825991153717,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_454",
+      "nodo_a_texto": "The medical team frames interactions as information delivery rather than discussion",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_297",
+      "nodo_b_texto": "Healthcare providers adopt more directive communication approach",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.987806648015976,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_464",
+      "nodo_a_texto": "The medical team provides less detailed explanations of treatment rationale",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_571",
+      "nodo_b_texto": "Medical staff reduce time spent explaining treatment rationales",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9916255176067352,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_470",
+      "nodo_a_texto": "The medical team attributes non-compliance to parental negligence or defiance",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_135",
+      "nodo_b_texto": "Medical staff interpret non-compliance as parental neglect or defiance",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9979522526264191,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_474",
+      "nodo_a_texto": "The medical team establishes clearer evidence trail for potential medical neglect proceedings",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_170",
+      "nodo_b_texto": "Medical staff initiate formal documentation of suspected medical neglect",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.992915153503418,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_476",
+      "nodo_a_texto": "The medical team cannot verify family understanding of medication instructions",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_375",
+      "nodo_b_texto": "Staff start questioning whether family understands medical instructions",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.7957459688186646,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_6_479",
+      "nodo_a_texto": "The medical team initiates formal Child Protective Services referral documentation",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_344",
+      "nodo_b_texto": "Medical staff initiate formal child protective services referral procedures",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9978801608085632,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_6_482",
+      "nodo_a_texto": "The medical team schedules case conference with Child Protective Services investigators",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_134",
+      "nodo_b_texto": "Hospital staff begin discussing potential child protective services referral",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.6255272775888443,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_494",
+      "nodo_a_texto": "The medical team documents clinical justifications more extensively",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_121",
+      "nodo_b_texto": "Staff document concerns more extensively in medical records",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.8168629109859467,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_496",
+      "nodo_a_texto": "The medical team observes Lia's clinical status more closely",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_56",
+      "nodo_b_texto": "Medical staff schedules more frequent monitoring of Lia's condition",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9887535572052002,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_497",
+      "nodo_a_texto": "The medical team documents medication effects more frequently",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "nodo_b_texto": "Medical staff increase monitoring of medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9856553971767426,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_497",
+      "nodo_a_texto": "The medical team documents medication effects more frequently",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_178",
+      "nodo_b_texto": "Medical staff schedules more frequent monitoring of drug levels",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9963805377483368,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_497",
+      "nodo_a_texto": "The medical team documents medication effects more frequently",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_450",
+      "nodo_b_texto": "Medical staff have more opportunities to observe medication compliance patterns",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9797039031982422,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_502",
+      "nodo_a_texto": "The Lee family faces increased transportation and childcare challenges",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_448",
+      "nodo_b_texto": "Lee family faces increased transportation and childcare burdens",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9980157613754272,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_504",
+      "nodo_a_texto": "The Lee family experiences greater disruption to traditional healing schedules",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_312",
+      "nodo_b_texto": "The Lee family spends more time away from medical appointments",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.7037709206342697,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_504",
+      "nodo_a_texto": "The Lee family experiences greater disruption to traditional healing schedules",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_500",
+      "nodo_b_texto": "Lee Family experiences mounting stress from competing medical and cultural obligations",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9919137954711914,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_504",
+      "nodo_a_texto": "The Lee family experiences greater disruption to traditional healing schedules",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_501",
+      "nodo_b_texto": "Lee Family has less time available for traditional healing ceremonies",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9839602112770081,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_6_526",
+      "nodo_a_texto": "The medical team increases surveillance of medication administration patterns",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "nodo_b_texto": "Medical staff increase monitoring of medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9972371459007263,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_6_526",
+      "nodo_a_texto": "The medical team increases surveillance of medication administration patterns",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_4_178",
+      "nodo_b_texto": "Medical staff schedules more frequent monitoring of drug levels",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9945377707481384,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_6_526",
+      "nodo_a_texto": "The medical team increases surveillance of medication administration patterns",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_450",
+      "nodo_b_texto": "Medical staff have more opportunities to observe medication compliance patterns",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9959852397441864,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_6_526",
+      "nodo_a_texto": "The medical team increases surveillance of medication administration patterns",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_528",
+      "nodo_b_texto": "Medical team implements enhanced monitoring protocols for medication adherence",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.997200608253479,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_530",
+      "nodo_a_texto": "The Lee family develops deeper mistrust of medical intentions",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_308",
+      "nodo_b_texto": "The Lee family feels increasingly judged by healthcare providers",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.5766152665019035,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_530",
+      "nodo_a_texto": "The Lee family develops deeper mistrust of medical intentions",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_357",
+      "nodo_b_texto": "Lee Family becomes more defensive about their caregiving decisions",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9303286969661713,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_530",
+      "nodo_a_texto": "The Lee family develops deeper mistrust of medical intentions",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_610",
+      "nodo_b_texto": "The Lee family reduces trust in medical staff recommendations",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9737823307514191,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_532",
+      "nodo_a_texto": "The Lee family receives less information about medication side effects",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_363",
+      "nodo_b_texto": "Lee Family reduces disclosure of traditional healing activities to medical staff",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.67252017557621,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_5_532",
+      "nodo_a_texto": "The Lee family receives less information about medication side effects",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_365",
+      "nodo_b_texto": "Lee Family becomes less forthcoming about medication administration patterns",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9838578104972839,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_6_546",
+      "nodo_a_texto": "The medical team specifies required supervision levels for family contact",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_246",
+      "nodo_b_texto": "Hospital administration implements enhanced monitoring protocols for the family",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9586135447025299,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_6_547",
+      "nodo_a_texto": "The medical team documents medical necessity for continued state intervention",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_5_409",
+      "nodo_b_texto": "Medical staff consider hospitalization to ensure controlled medication delivery",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.6748256236314774,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Merced Community Medical Center Clinical Team_6_568",
+      "nodo_a_texto": "The medical team selects treatment protocols based on generalized seizure categories rather than individualized assessment",
+      "nodo_a_actor": "Merced Community Medical Center Clinical Team",
+      "nodo_b_id": "Lee Family (Foua and Nao Kao Lee)_6_626",
+      "nodo_b_texto": "Physicians make treatment decisions without observing recent seizure frequency",
+      "nodo_b_actor": "Lee Family (Foua and Nao Kao Lee)",
+      "similitud": 0.9548717141151428,
+      "auto": true
+    }
+  ]
+}

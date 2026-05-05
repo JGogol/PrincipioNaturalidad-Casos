@@ -1,0 +1,1886 @@
+{
+  "version": "10.2",
+  "classes": {
+    "Republic of Aurelia_3_25": {
+      "members": [
+        "Commonwealth of Cerulea_5_125",
+        "Commonwealth of Cerulea_5_92",
+        "Commonwealth of Cerulea_6_301",
+        "Commonwealth of Cerulea_7_547",
+        "Federation of Borealis_4_80",
+        "Federation of Borealis_4_82",
+        "Federation of Borealis_5_176",
+        "Federation of Borealis_5_259",
+        "Federation of Borealis_5_267",
+        "Federation of Borealis_5_320",
+        "Federation of Borealis_5_431",
+        "Federation of Borealis_6_229",
+        "Federation of Borealis_6_250",
+        "Federation of Borealis_6_518",
+        "Federation of Borealis_6_526",
+        "Republic of Aurelia_2_5",
+        "Republic of Aurelia_3_17",
+        "Republic of Aurelia_3_23",
+        "Republic of Aurelia_3_25",
+        "Republic of Aurelia_4_60",
+        "Republic of Aurelia_4_65",
+        "Republic of Aurelia_4_71",
+        "Republic of Aurelia_5_262",
+        "Republic of Aurelia_5_285",
+        "Republic of Aurelia_5_427",
+        "Republic of Aurelia_5_460",
+        "Republic of Aurelia_6_351"
+      ],
+      "size": 27,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Federation of Borealis",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 3,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_5_92",
+        "Federation of Borealis_5_267",
+        "Republic of Aurelia_5_460"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_5_92",
+          "Federation of Borealis_5_267",
+          "Republic of Aurelia_5_460"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_5_92",
+        "Federation of Borealis_5_267",
+        "Republic of Aurelia_5_460"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.1384,
+        "ipvr_lax_coverage": 0.1111,
+        "n_cross_pairs": 224,
+        "n_direct_cross_pairs": 31,
+        "n_lax_core": 3,
+        "n_class": 27
+      }
+    },
+    "Republic of Aurelia_2_7": {
+      "members": [
+        "Commonwealth of Cerulea_6_315",
+        "Federation of Borealis_5_282",
+        "Federation of Borealis_5_426",
+        "Republic of Aurelia_2_7",
+        "Republic of Aurelia_4_123"
+      ],
+      "size": 5,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Federation of Borealis",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 3,
+      "validated_core_strict": [],
+      "strict_cliques": [],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_6_315",
+        "Federation of Borealis_5_282",
+        "Republic of Aurelia_4_123"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.5,
+        "ipvr_lax_coverage": 0.6,
+        "n_cross_pairs": 8,
+        "n_direct_cross_pairs": 4,
+        "n_lax_core": 3,
+        "n_class": 5
+      }
+    },
+    "Republic of Aurelia_3_24": {
+      "members": [
+        "Federation of Borealis_6_510",
+        "Republic of Aurelia_3_24",
+        "Republic of Aurelia_4_181"
+      ],
+      "size": 3,
+      "actors": [
+        "Federation of Borealis",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Federation of Borealis_6_510",
+        "Republic of Aurelia_3_24",
+        "Republic of Aurelia_4_181"
+      ],
+      "strict_cliques": [
+        [
+          "Federation of Borealis_6_510",
+          "Republic of Aurelia_3_24"
+        ],
+        [
+          "Federation of Borealis_6_510",
+          "Republic of Aurelia_4_181"
+        ]
+      ],
+      "validated_core_lax": [
+        "Federation of Borealis_6_510",
+        "Republic of Aurelia_3_24",
+        "Republic of Aurelia_4_181"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 2,
+        "n_direct_cross_pairs": 2,
+        "n_lax_core": 3,
+        "n_class": 3
+      }
+    },
+    "Republic of Aurelia_3_28": {
+      "members": [
+        "Federation of Borealis_5_178",
+        "Republic of Aurelia_3_28"
+      ],
+      "size": 2,
+      "actors": [
+        "Federation of Borealis",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Federation of Borealis_5_178",
+        "Republic of Aurelia_3_28"
+      ],
+      "strict_cliques": [
+        [
+          "Federation of Borealis_5_178",
+          "Republic of Aurelia_3_28"
+        ]
+      ],
+      "validated_core_lax": [
+        "Federation of Borealis_5_178",
+        "Republic of Aurelia_3_28"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_4_171": {
+      "members": [
+        "Commonwealth of Cerulea_4_53",
+        "Commonwealth of Cerulea_4_65",
+        "Commonwealth of Cerulea_4_66",
+        "Commonwealth of Cerulea_5_119",
+        "Commonwealth of Cerulea_5_122",
+        "Commonwealth of Cerulea_5_135",
+        "Commonwealth of Cerulea_5_154",
+        "Commonwealth of Cerulea_5_174",
+        "Commonwealth of Cerulea_5_179",
+        "Commonwealth of Cerulea_5_180",
+        "Commonwealth of Cerulea_5_96",
+        "Commonwealth of Cerulea_6_234",
+        "Commonwealth of Cerulea_6_240",
+        "Commonwealth of Cerulea_6_246",
+        "Commonwealth of Cerulea_6_259",
+        "Commonwealth of Cerulea_6_261",
+        "Commonwealth of Cerulea_6_285",
+        "Commonwealth of Cerulea_6_321",
+        "Commonwealth of Cerulea_6_338",
+        "Commonwealth of Cerulea_6_354",
+        "Commonwealth of Cerulea_6_388",
+        "Commonwealth of Cerulea_6_396",
+        "Commonwealth of Cerulea_6_430",
+        "Commonwealth of Cerulea_6_465",
+        "Commonwealth of Cerulea_6_482",
+        "Commonwealth of Cerulea_6_511",
+        "Commonwealth of Cerulea_6_521",
+        "Commonwealth of Cerulea_6_558",
+        "Commonwealth of Cerulea_7_544",
+        "Federation of Borealis_1_3",
+        "Federation of Borealis_4_107",
+        "Federation of Borealis_4_139",
+        "Federation of Borealis_4_59",
+        "Federation of Borealis_4_69",
+        "Federation of Borealis_4_73",
+        "Federation of Borealis_4_78",
+        "Federation of Borealis_4_84",
+        "Federation of Borealis_4_90",
+        "Federation of Borealis_5_151",
+        "Federation of Borealis_5_154",
+        "Federation of Borealis_5_169",
+        "Federation of Borealis_5_193",
+        "Federation of Borealis_5_209",
+        "Federation of Borealis_5_238",
+        "Federation of Borealis_5_245",
+        "Federation of Borealis_5_283",
+        "Federation of Borealis_5_307",
+        "Federation of Borealis_5_397",
+        "Federation of Borealis_5_412",
+        "Federation of Borealis_5_428",
+        "Federation of Borealis_5_432",
+        "Federation of Borealis_5_445",
+        "Federation of Borealis_5_447",
+        "Federation of Borealis_5_469",
+        "Federation of Borealis_6_404",
+        "Federation of Borealis_6_463",
+        "Federation of Borealis_6_491",
+        "Federation of Borealis_6_492",
+        "Federation of Borealis_6_493",
+        "Federation of Borealis_6_495",
+        "Federation of Borealis_6_497",
+        "Republic of Aurelia_3_43",
+        "Republic of Aurelia_3_57",
+        "Republic of Aurelia_4_133",
+        "Republic of Aurelia_4_150",
+        "Republic of Aurelia_4_159",
+        "Republic of Aurelia_4_162",
+        "Republic of Aurelia_4_170",
+        "Republic of Aurelia_4_171",
+        "Republic of Aurelia_4_183",
+        "Republic of Aurelia_4_184",
+        "Republic of Aurelia_4_81",
+        "Republic of Aurelia_5_136",
+        "Republic of Aurelia_5_204",
+        "Republic of Aurelia_5_229",
+        "Republic of Aurelia_5_230",
+        "Republic of Aurelia_5_259",
+        "Republic of Aurelia_5_260",
+        "Republic of Aurelia_5_261",
+        "Republic of Aurelia_5_263",
+        "Republic of Aurelia_5_307",
+        "Republic of Aurelia_5_395",
+        "Republic of Aurelia_5_397",
+        "Republic of Aurelia_5_398",
+        "Republic of Aurelia_5_417",
+        "Republic of Aurelia_5_421",
+        "Republic of Aurelia_5_423",
+        "Republic of Aurelia_5_437",
+        "Republic of Aurelia_5_451",
+        "Republic of Aurelia_5_452",
+        "Republic of Aurelia_5_462",
+        "Republic of Aurelia_5_482",
+        "Republic of Aurelia_5_484",
+        "Republic of Aurelia_6_218",
+        "Republic of Aurelia_6_294",
+        "Republic of Aurelia_6_295",
+        "Republic of Aurelia_6_296",
+        "Republic of Aurelia_6_366",
+        "Republic of Aurelia_6_443",
+        "Republic of Aurelia_6_533",
+        "Republic of Aurelia_6_534"
+      ],
+      "size": 101,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Federation of Borealis",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 3,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_5_179",
+        "Commonwealth of Cerulea_5_96",
+        "Commonwealth of Cerulea_6_285",
+        "Commonwealth of Cerulea_6_338",
+        "Commonwealth of Cerulea_6_465",
+        "Commonwealth of Cerulea_6_482",
+        "Federation of Borealis_4_90",
+        "Federation of Borealis_5_169",
+        "Federation of Borealis_5_238",
+        "Federation of Borealis_6_463",
+        "Federation of Borealis_6_495",
+        "Republic of Aurelia_4_171",
+        "Republic of Aurelia_6_294",
+        "Republic of Aurelia_6_295"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_6_285",
+          "Federation of Borealis_4_90",
+          "Republic of Aurelia_6_294"
+        ],
+        [
+          "Commonwealth of Cerulea_6_285",
+          "Federation of Borealis_5_169",
+          "Republic of Aurelia_6_294"
+        ],
+        [
+          "Commonwealth of Cerulea_6_482",
+          "Federation of Borealis_6_463",
+          "Republic of Aurelia_4_171"
+        ],
+        [
+          "Commonwealth of Cerulea_5_96",
+          "Federation of Borealis_5_238",
+          "Republic of Aurelia_6_295"
+        ],
+        [
+          "Commonwealth of Cerulea_6_465",
+          "Federation of Borealis_6_495",
+          "Republic of Aurelia_6_294"
+        ],
+        [
+          "Commonwealth of Cerulea_5_179",
+          "Federation of Borealis_6_495",
+          "Republic of Aurelia_6_294"
+        ],
+        [
+          "Commonwealth of Cerulea_6_338",
+          "Federation of Borealis_6_495",
+          "Republic of Aurelia_6_294"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_4_66",
+        "Commonwealth of Cerulea_5_174",
+        "Commonwealth of Cerulea_5_179",
+        "Commonwealth of Cerulea_5_96",
+        "Commonwealth of Cerulea_6_240",
+        "Commonwealth of Cerulea_6_246",
+        "Commonwealth of Cerulea_6_259",
+        "Commonwealth of Cerulea_6_285",
+        "Commonwealth of Cerulea_6_338",
+        "Commonwealth of Cerulea_6_430",
+        "Commonwealth of Cerulea_6_465",
+        "Commonwealth of Cerulea_6_482",
+        "Commonwealth of Cerulea_7_544",
+        "Federation of Borealis_4_59",
+        "Federation of Borealis_4_84",
+        "Federation of Borealis_4_90",
+        "Federation of Borealis_5_169",
+        "Federation of Borealis_5_238",
+        "Federation of Borealis_5_245",
+        "Federation of Borealis_5_412",
+        "Federation of Borealis_5_428",
+        "Federation of Borealis_5_432",
+        "Federation of Borealis_6_463",
+        "Federation of Borealis_6_492",
+        "Federation of Borealis_6_495",
+        "Republic of Aurelia_4_159",
+        "Republic of Aurelia_4_171",
+        "Republic of Aurelia_5_204",
+        "Republic of Aurelia_5_263",
+        "Republic of Aurelia_5_462",
+        "Republic of Aurelia_6_218",
+        "Republic of Aurelia_6_294",
+        "Republic of Aurelia_6_295"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.0338,
+        "ipvr_lax_coverage": 0.3267,
+        "n_cross_pairs": 3368,
+        "n_direct_cross_pairs": 114,
+        "n_lax_core": 33,
+        "n_class": 101
+      }
+    },
+    "Republic of Aurelia_4_100": {
+      "members": [
+        "Federation of Borealis_5_189",
+        "Federation of Borealis_5_341",
+        "Republic of Aurelia_4_100",
+        "Republic of Aurelia_4_166",
+        "Republic of Aurelia_5_335"
+      ],
+      "size": 5,
+      "actors": [
+        "Federation of Borealis",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Federation of Borealis_5_189",
+        "Federation of Borealis_5_341",
+        "Republic of Aurelia_4_100",
+        "Republic of Aurelia_4_166",
+        "Republic of Aurelia_5_335"
+      ],
+      "strict_cliques": [
+        [
+          "Federation of Borealis_5_341",
+          "Republic of Aurelia_4_166"
+        ],
+        [
+          "Federation of Borealis_5_341",
+          "Republic of Aurelia_5_335"
+        ],
+        [
+          "Federation of Borealis_5_341",
+          "Republic of Aurelia_4_100"
+        ],
+        [
+          "Federation of Borealis_5_189",
+          "Republic of Aurelia_4_100"
+        ]
+      ],
+      "validated_core_lax": [
+        "Federation of Borealis_5_189",
+        "Federation of Borealis_5_341",
+        "Republic of Aurelia_4_100",
+        "Republic of Aurelia_4_166",
+        "Republic of Aurelia_5_335"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.6667,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 6,
+        "n_direct_cross_pairs": 4,
+        "n_lax_core": 5,
+        "n_class": 5
+      }
+    },
+    "Republic of Aurelia_4_101": {
+      "members": [
+        "Federation of Borealis_5_356",
+        "Republic of Aurelia_4_101"
+      ],
+      "size": 2,
+      "actors": [
+        "Federation of Borealis",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Federation of Borealis_5_356",
+        "Republic of Aurelia_4_101"
+      ],
+      "strict_cliques": [
+        [
+          "Federation of Borealis_5_356",
+          "Republic of Aurelia_4_101"
+        ]
+      ],
+      "validated_core_lax": [
+        "Federation of Borealis_5_356",
+        "Republic of Aurelia_4_101"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_4_108": {
+      "members": [
+        "Federation of Borealis_4_114",
+        "Republic of Aurelia_4_108"
+      ],
+      "size": 2,
+      "actors": [
+        "Federation of Borealis",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Federation of Borealis_4_114",
+        "Republic of Aurelia_4_108"
+      ],
+      "strict_cliques": [
+        [
+          "Federation of Borealis_4_114",
+          "Republic of Aurelia_4_108"
+        ]
+      ],
+      "validated_core_lax": [
+        "Federation of Borealis_4_114",
+        "Republic of Aurelia_4_108"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_5_113": {
+      "members": [
+        "Federation of Borealis_5_190",
+        "Republic of Aurelia_5_113"
+      ],
+      "size": 2,
+      "actors": [
+        "Federation of Borealis",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Federation of Borealis_5_190",
+        "Republic of Aurelia_5_113"
+      ],
+      "strict_cliques": [
+        [
+          "Federation of Borealis_5_190",
+          "Republic of Aurelia_5_113"
+        ]
+      ],
+      "validated_core_lax": [
+        "Federation of Borealis_5_190",
+        "Republic of Aurelia_5_113"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_6_330": {
+      "members": [
+        "Federation of Borealis_3_37",
+        "Federation of Borealis_5_230",
+        "Federation of Borealis_5_390",
+        "Republic of Aurelia_6_330",
+        "Republic of Aurelia_6_535"
+      ],
+      "size": 5,
+      "actors": [
+        "Federation of Borealis",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Federation of Borealis_3_37",
+        "Federation of Borealis_5_230",
+        "Federation of Borealis_5_390",
+        "Republic of Aurelia_6_330",
+        "Republic of Aurelia_6_535"
+      ],
+      "strict_cliques": [
+        [
+          "Federation of Borealis_3_37",
+          "Republic of Aurelia_6_330"
+        ],
+        [
+          "Federation of Borealis_3_37",
+          "Republic of Aurelia_6_535"
+        ],
+        [
+          "Federation of Borealis_5_230",
+          "Republic of Aurelia_6_330"
+        ],
+        [
+          "Federation of Borealis_5_230",
+          "Republic of Aurelia_6_535"
+        ],
+        [
+          "Federation of Borealis_5_390",
+          "Republic of Aurelia_6_330"
+        ],
+        [
+          "Federation of Borealis_5_390",
+          "Republic of Aurelia_6_535"
+        ]
+      ],
+      "validated_core_lax": [
+        "Federation of Borealis_3_37",
+        "Federation of Borealis_5_230",
+        "Federation of Borealis_5_390",
+        "Republic of Aurelia_6_330",
+        "Republic of Aurelia_6_535"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 6,
+        "n_direct_cross_pairs": 6,
+        "n_lax_core": 5,
+        "n_class": 5
+      }
+    },
+    "Republic of Aurelia_5_356": {
+      "members": [
+        "Commonwealth of Cerulea_6_421",
+        "Federation of Borealis_3_47",
+        "Federation of Borealis_5_507",
+        "Republic of Aurelia_5_356"
+      ],
+      "size": 4,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Federation of Borealis",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 3,
+      "validated_core_strict": [],
+      "strict_cliques": [],
+      "validated_core_lax": [
+        "Federation of Borealis_3_47"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.6,
+        "ipvr_lax_coverage": 0.25,
+        "n_cross_pairs": 5,
+        "n_direct_cross_pairs": 3,
+        "n_lax_core": 1,
+        "n_class": 4
+      }
+    },
+    "Republic of Aurelia_6_471": {
+      "members": [
+        "Federation of Borealis_5_534",
+        "Republic of Aurelia_6_471"
+      ],
+      "size": 2,
+      "actors": [
+        "Federation of Borealis",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Federation of Borealis_5_534",
+        "Republic of Aurelia_6_471"
+      ],
+      "strict_cliques": [
+        [
+          "Federation of Borealis_5_534",
+          "Republic of Aurelia_6_471"
+        ]
+      ],
+      "validated_core_lax": [
+        "Federation of Borealis_5_534",
+        "Republic of Aurelia_6_471"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_5_485": {
+      "members": [
+        "Federation of Borealis_5_448",
+        "Republic of Aurelia_5_485"
+      ],
+      "size": 2,
+      "actors": [
+        "Federation of Borealis",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Federation of Borealis_5_448",
+        "Republic of Aurelia_5_485"
+      ],
+      "strict_cliques": [
+        [
+          "Federation of Borealis_5_448",
+          "Republic of Aurelia_5_485"
+        ]
+      ],
+      "validated_core_lax": [
+        "Federation of Borealis_5_448",
+        "Republic of Aurelia_5_485"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_5_487": {
+      "members": [
+        "Federation of Borealis_4_68",
+        "Republic of Aurelia_5_487"
+      ],
+      "size": 2,
+      "actors": [
+        "Federation of Borealis",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Federation of Borealis_4_68",
+        "Republic of Aurelia_5_487"
+      ],
+      "strict_cliques": [
+        [
+          "Federation of Borealis_4_68",
+          "Republic of Aurelia_5_487"
+        ]
+      ],
+      "validated_core_lax": [
+        "Federation of Borealis_4_68",
+        "Republic of Aurelia_5_487"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_1_2": {
+      "members": [
+        "Commonwealth of Cerulea_6_241",
+        "Commonwealth of Cerulea_6_324",
+        "Commonwealth of Cerulea_7_548",
+        "Republic of Aurelia_1_2"
+      ],
+      "size": 4,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_6_241",
+        "Commonwealth of Cerulea_6_324",
+        "Commonwealth of Cerulea_7_548",
+        "Republic of Aurelia_1_2"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_7_548",
+          "Republic of Aurelia_1_2"
+        ],
+        [
+          "Commonwealth of Cerulea_6_324",
+          "Republic of Aurelia_1_2"
+        ],
+        [
+          "Commonwealth of Cerulea_6_241",
+          "Republic of Aurelia_1_2"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_6_241",
+        "Commonwealth of Cerulea_6_324",
+        "Commonwealth of Cerulea_7_548",
+        "Republic of Aurelia_1_2"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 3,
+        "n_direct_cross_pairs": 3,
+        "n_lax_core": 4,
+        "n_class": 4
+      }
+    },
+    "Republic of Aurelia_3_15": {
+      "members": [
+        "Commonwealth of Cerulea_6_203",
+        "Commonwealth of Cerulea_6_550",
+        "Republic of Aurelia_3_15",
+        "Republic of Aurelia_5_208",
+        "Republic of Aurelia_6_481"
+      ],
+      "size": 5,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_6_203",
+        "Commonwealth of Cerulea_6_550",
+        "Republic of Aurelia_3_15",
+        "Republic of Aurelia_5_208",
+        "Republic of Aurelia_6_481"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_6_203",
+          "Republic of Aurelia_6_481"
+        ],
+        [
+          "Commonwealth of Cerulea_6_203",
+          "Republic of Aurelia_5_208"
+        ],
+        [
+          "Commonwealth of Cerulea_6_203",
+          "Republic of Aurelia_3_15"
+        ],
+        [
+          "Commonwealth of Cerulea_6_550",
+          "Republic of Aurelia_3_15"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_6_203",
+        "Commonwealth of Cerulea_6_550",
+        "Republic of Aurelia_3_15",
+        "Republic of Aurelia_5_208",
+        "Republic of Aurelia_6_481"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.6667,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 6,
+        "n_direct_cross_pairs": 4,
+        "n_lax_core": 5,
+        "n_class": 5
+      }
+    },
+    "Republic of Aurelia_3_35": {
+      "members": [
+        "Commonwealth of Cerulea_6_303",
+        "Republic of Aurelia_3_35",
+        "Republic of Aurelia_3_56"
+      ],
+      "size": 3,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_6_303",
+        "Republic of Aurelia_3_35",
+        "Republic of Aurelia_3_56"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_6_303",
+          "Republic of Aurelia_3_35"
+        ],
+        [
+          "Commonwealth of Cerulea_6_303",
+          "Republic of Aurelia_3_56"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_6_303",
+        "Republic of Aurelia_3_35",
+        "Republic of Aurelia_3_56"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 2,
+        "n_direct_cross_pairs": 2,
+        "n_lax_core": 3,
+        "n_class": 3
+      }
+    },
+    "Republic of Aurelia_3_37": {
+      "members": [
+        "Commonwealth of Cerulea_5_148",
+        "Republic of Aurelia_3_37"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_5_148",
+        "Republic of Aurelia_3_37"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_5_148",
+          "Republic of Aurelia_3_37"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_5_148",
+        "Republic of Aurelia_3_37"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_3_58": {
+      "members": [
+        "Commonwealth of Cerulea_6_226",
+        "Commonwealth of Cerulea_6_248",
+        "Commonwealth of Cerulea_6_446",
+        "Federation of Borealis_4_122",
+        "Republic of Aurelia_3_58",
+        "Republic of Aurelia_5_137",
+        "Republic of Aurelia_5_205"
+      ],
+      "size": 7,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Federation of Borealis",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 3,
+      "validated_core_strict": [],
+      "strict_cliques": [],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_6_446"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.4,
+        "ipvr_lax_coverage": 0.1429,
+        "n_cross_pairs": 15,
+        "n_direct_cross_pairs": 6,
+        "n_lax_core": 1,
+        "n_class": 7
+      }
+    },
+    "Republic of Aurelia_4_109": {
+      "members": [
+        "Commonwealth of Cerulea_7_567",
+        "Republic of Aurelia_4_109"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_7_567",
+        "Republic of Aurelia_4_109"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_7_567",
+          "Republic of Aurelia_4_109"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_7_567",
+        "Republic of Aurelia_4_109"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_4_117": {
+      "members": [
+        "Commonwealth of Cerulea_5_190",
+        "Republic of Aurelia_4_117"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_5_190",
+        "Republic of Aurelia_4_117"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_5_190",
+          "Republic of Aurelia_4_117"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_5_190",
+        "Republic of Aurelia_4_117"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_4_124": {
+      "members": [
+        "Commonwealth of Cerulea_4_44",
+        "Republic of Aurelia_4_124"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_4_44",
+        "Republic of Aurelia_4_124"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_4_44",
+          "Republic of Aurelia_4_124"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_4_44",
+        "Republic of Aurelia_4_124"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_4_185": {
+      "members": [
+        "Commonwealth of Cerulea_5_137",
+        "Republic of Aurelia_4_185"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_5_137",
+        "Republic of Aurelia_4_185"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_5_137",
+          "Republic of Aurelia_4_185"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_5_137",
+        "Republic of Aurelia_4_185"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_4_186": {
+      "members": [
+        "Commonwealth of Cerulea_4_40",
+        "Commonwealth of Cerulea_5_145",
+        "Commonwealth of Cerulea_6_251",
+        "Republic of Aurelia_4_186"
+      ],
+      "size": 4,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_4_40",
+        "Commonwealth of Cerulea_5_145",
+        "Commonwealth of Cerulea_6_251",
+        "Republic of Aurelia_4_186"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_5_145",
+          "Republic of Aurelia_4_186"
+        ],
+        [
+          "Commonwealth of Cerulea_6_251",
+          "Republic of Aurelia_4_186"
+        ],
+        [
+          "Commonwealth of Cerulea_4_40",
+          "Republic of Aurelia_4_186"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_4_40",
+        "Commonwealth of Cerulea_5_145",
+        "Commonwealth of Cerulea_6_251",
+        "Republic of Aurelia_4_186"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 3,
+        "n_direct_cross_pairs": 3,
+        "n_lax_core": 4,
+        "n_class": 4
+      }
+    },
+    "Republic of Aurelia_5_200": {
+      "members": [
+        "Commonwealth of Cerulea_7_554",
+        "Republic of Aurelia_5_200"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_7_554",
+        "Republic of Aurelia_5_200"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_7_554",
+          "Republic of Aurelia_5_200"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_7_554",
+        "Republic of Aurelia_5_200"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_5_203": {
+      "members": [
+        "Commonwealth of Cerulea_6_445",
+        "Republic of Aurelia_5_203"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_6_445",
+        "Republic of Aurelia_5_203"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_6_445",
+          "Republic of Aurelia_5_203"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_6_445",
+        "Republic of Aurelia_5_203"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_6_363": {
+      "members": [
+        "Commonwealth of Cerulea_7_531",
+        "Republic of Aurelia_6_363"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_7_531",
+        "Republic of Aurelia_6_363"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_7_531",
+          "Republic of Aurelia_6_363"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_7_531",
+        "Republic of Aurelia_6_363"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_6_365": {
+      "members": [
+        "Commonwealth of Cerulea_6_256",
+        "Federation of Borealis_5_243",
+        "Republic of Aurelia_6_365"
+      ],
+      "size": 3,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Federation of Borealis",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 3,
+      "validated_core_strict": [],
+      "strict_cliques": [],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_6_256"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.6667,
+        "ipvr_lax_coverage": 0.3333,
+        "n_cross_pairs": 3,
+        "n_direct_cross_pairs": 2,
+        "n_lax_core": 1,
+        "n_class": 3
+      }
+    },
+    "Republic of Aurelia_5_383": {
+      "members": [
+        "Commonwealth of Cerulea_6_481",
+        "Republic of Aurelia_5_383"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_6_481",
+        "Republic of Aurelia_5_383"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_6_481",
+          "Republic of Aurelia_5_383"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_6_481",
+        "Republic of Aurelia_5_383"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_5_424": {
+      "members": [
+        "Commonwealth of Cerulea_5_115",
+        "Republic of Aurelia_5_424",
+        "Republic of Aurelia_5_454"
+      ],
+      "size": 3,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_5_115",
+        "Republic of Aurelia_5_424",
+        "Republic of Aurelia_5_454"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_5_115",
+          "Republic of Aurelia_5_424"
+        ],
+        [
+          "Commonwealth of Cerulea_5_115",
+          "Republic of Aurelia_5_454"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_5_115",
+        "Republic of Aurelia_5_424",
+        "Republic of Aurelia_5_454"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 2,
+        "n_direct_cross_pairs": 2,
+        "n_lax_core": 3,
+        "n_class": 3
+      }
+    },
+    "Republic of Aurelia_5_434": {
+      "members": [
+        "Commonwealth of Cerulea_5_191",
+        "Republic of Aurelia_5_434"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_5_191",
+        "Republic of Aurelia_5_434"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_5_191",
+          "Republic of Aurelia_5_434"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_5_191",
+        "Republic of Aurelia_5_434"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_6_458": {
+      "members": [
+        "Commonwealth of Cerulea_6_559",
+        "Republic of Aurelia_6_458"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_6_559",
+        "Republic of Aurelia_6_458"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_6_559",
+          "Republic of Aurelia_6_458"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_6_559",
+        "Republic of Aurelia_6_458"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_6_480": {
+      "members": [
+        "Commonwealth of Cerulea_5_216",
+        "Republic of Aurelia_6_480"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_5_216",
+        "Republic of Aurelia_6_480"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_5_216",
+          "Republic of Aurelia_6_480"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_5_216",
+        "Republic of Aurelia_6_480"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_5_505": {
+      "members": [
+        "Commonwealth of Cerulea_7_508",
+        "Republic of Aurelia_5_505"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_7_508",
+        "Republic of Aurelia_5_505"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_7_508",
+          "Republic of Aurelia_5_505"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_7_508",
+        "Republic of Aurelia_5_505"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Republic of Aurelia_6_553": {
+      "members": [
+        "Commonwealth of Cerulea_6_423",
+        "Republic of Aurelia_6_553"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_6_423",
+        "Republic of Aurelia_6_553"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_6_423",
+          "Republic of Aurelia_6_553"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_6_423",
+        "Republic of Aurelia_6_553"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Federation of Borealis_2_6": {
+      "members": [
+        "Commonwealth of Cerulea_5_211",
+        "Federation of Borealis_2_6"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Federation of Borealis"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_5_211",
+        "Federation of Borealis_2_6"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_5_211",
+          "Federation of Borealis_2_6"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_5_211",
+        "Federation of Borealis_2_6"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Federation of Borealis_3_25": {
+      "members": [
+        "Commonwealth of Cerulea_2_4",
+        "Federation of Borealis_3_25"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Federation of Borealis"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_2_4",
+        "Federation of Borealis_3_25"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_2_4",
+          "Federation of Borealis_3_25"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_2_4",
+        "Federation of Borealis_3_25"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Federation of Borealis_4_85": {
+      "members": [
+        "Commonwealth of Cerulea_6_232",
+        "Federation of Borealis_4_85"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Federation of Borealis"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_6_232",
+        "Federation of Borealis_4_85"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_6_232",
+          "Federation of Borealis_4_85"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_6_232",
+        "Federation of Borealis_4_85"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Federation of Borealis_4_127": {
+      "members": [
+        "Commonwealth of Cerulea_6_425",
+        "Federation of Borealis_4_127"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Federation of Borealis"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_6_425",
+        "Federation of Borealis_4_127"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_6_425",
+          "Federation of Borealis_4_127"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_6_425",
+        "Federation of Borealis_4_127"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Federation of Borealis_4_130": {
+      "members": [
+        "Commonwealth of Cerulea_5_114",
+        "Federation of Borealis_4_130"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Federation of Borealis"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_5_114",
+        "Federation of Borealis_4_130"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_5_114",
+          "Federation of Borealis_4_130"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_5_114",
+        "Federation of Borealis_4_130"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Federation of Borealis_5_195": {
+      "members": [
+        "Commonwealth of Cerulea_6_513",
+        "Federation of Borealis_5_195"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Federation of Borealis"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_6_513",
+        "Federation of Borealis_5_195"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_6_513",
+          "Federation of Borealis_5_195"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_6_513",
+        "Federation of Borealis_5_195"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Federation of Borealis_5_321": {
+      "members": [
+        "Commonwealth of Cerulea_6_318",
+        "Federation of Borealis_5_321"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Federation of Borealis"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_6_318",
+        "Federation of Borealis_5_321"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_6_318",
+          "Federation of Borealis_5_321"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_6_318",
+        "Federation of Borealis_5_321"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Federation of Borealis_5_360": {
+      "members": [
+        "Commonwealth of Cerulea_5_150",
+        "Federation of Borealis_5_360"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Federation of Borealis"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_5_150",
+        "Federation of Borealis_5_360"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_5_150",
+          "Federation of Borealis_5_360"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_5_150",
+        "Federation of Borealis_5_360"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Federation of Borealis_5_362": {
+      "members": [
+        "Commonwealth of Cerulea_6_512",
+        "Federation of Borealis_5_362"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Federation of Borealis"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_6_512",
+        "Federation of Borealis_5_362"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_6_512",
+          "Federation of Borealis_5_362"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_6_512",
+        "Federation of Borealis_5_362"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Federation of Borealis_5_406": {
+      "members": [
+        "Commonwealth of Cerulea_4_64",
+        "Federation of Borealis_5_406"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Federation of Borealis"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_4_64",
+        "Federation of Borealis_5_406"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_4_64",
+          "Federation of Borealis_5_406"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_4_64",
+        "Federation of Borealis_5_406"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Federation of Borealis_5_410": {
+      "members": [
+        "Commonwealth of Cerulea_7_557",
+        "Federation of Borealis_5_410"
+      ],
+      "size": 2,
+      "actors": [
+        "Commonwealth of Cerulea",
+        "Federation of Borealis"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Commonwealth of Cerulea_7_557",
+        "Federation of Borealis_5_410"
+      ],
+      "strict_cliques": [
+        [
+          "Commonwealth of Cerulea_7_557",
+          "Federation of Borealis_5_410"
+        ]
+      ],
+      "validated_core_lax": [
+        "Commonwealth of Cerulea_7_557",
+        "Federation of Borealis_5_410"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    }
+  },
+  "statistics": {
+    "total_classes": 46,
+    "min_size": 2,
+    "max_size": 101,
+    "avg_size": 5.2826,
+    "min_actors": 2,
+    "max_actors": 3,
+    "classes_strict_nonempty": 42,
+    "classes_lax_nonempty": 46,
+    "ipvr_strict_avg": 0.9059,
+    "ipvr_lax_coverage_avg": 0.9079
+  },
+  "timestamp": "2026-05-01T01:05:39.110093"
+}

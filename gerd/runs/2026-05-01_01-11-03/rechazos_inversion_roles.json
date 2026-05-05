@@ -1,0 +1,214 @@
+{
+  "total": 19,
+  "items": [
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Federal Democratic Republic of Ethiopia",
+      "node_a_id": "Arab Republic of Egypt_2_13",
+      "node_b_id": "Federal Democratic Republic of Ethiopia_4_388",
+      "node_a_texto": "Egypt interprets rejection as confirmation of upstream hegemonic intentions",
+      "node_b_texto": "Ethiopia dismisses downstream concerns as perpetuating historical power imbalances",
+      "nli_score": 0.7243658602237701,
+      "rejection_reason": "Representan perspectivas opuestas sobre hegemonía, prioridades operativas, legitimidad de derechos históricos y enfoques diplomáticos (bilateral vs unilateral)",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] - ROLES INVERTIDOS: Egipto ve rechazo como confirmación de hegemonía etíope vs Etiopía ve preocupaciones como perpetuación de desequilibrios históricos - perspectivas opuestas sobre quién ejerce hegemonía.\n\n[1] - ROLES INVERTIDOS: Egipto enfatiza asignaciones volumétricas vs Etiopía prioriza llenado sobre compromisos - perspectivas opuestas sobre prioridades.\n\n[9] - ROLES INVERTIDOS: Egipto rechaza marcos que contradicen derechos históricos vs Etiopía resiste tratados de era colonial - perspectivas opuestas sobre legitimidad de derechos históricos.\n\n[10] - ROLES INVERTIDOS: Egipto busca alternativas bilaterales vs Etiopía prioriza decisiones unilaterales - enfoques opuestos (bilateral vs unilateral).\n\n[12] - ROLES INVERTIDOS: Egipto busca alternativas bilaterales vs Etiopía prioriza control unilateral - enfoques opuestos (bilateral vs unilateral).\n\nLas demás fusiones representan perspectivas equivalentes o complementarias del mismo fenómeno desde diferentes ángulos, pero no opuestas.\n\nRECHAZAR: 0, 1, 9, 10, 12 | RAZÓN: Representan perspectivas opuestas sobre hegemonía, prioridades operativas, legitimidad de derechos históricos y enfoques diplomáticos (bilateral vs unilateral)"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Federal Democratic Republic of Ethiopia",
+      "node_a_id": "Arab Republic of Egypt_3_19",
+      "node_b_id": "Federal Democratic Republic of Ethiopia_5_369",
+      "node_a_texto": "Proposed frameworks emphasize volumetric water allocations over power output targets",
+      "node_b_texto": "Ethiopia prioritizes reservoir filling over downstream flow commitments",
+      "nli_score": 0.6909250915050507,
+      "rejection_reason": "Representan perspectivas opuestas sobre hegemonía, prioridades operativas, legitimidad de derechos históricos y enfoques diplomáticos (bilateral vs unilateral)",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] - ROLES INVERTIDOS: Egipto ve rechazo como confirmación de hegemonía etíope vs Etiopía ve preocupaciones como perpetuación de desequilibrios históricos - perspectivas opuestas sobre quién ejerce hegemonía.\n\n[1] - ROLES INVERTIDOS: Egipto enfatiza asignaciones volumétricas vs Etiopía prioriza llenado sobre compromisos - perspectivas opuestas sobre prioridades.\n\n[9] - ROLES INVERTIDOS: Egipto rechaza marcos que contradicen derechos históricos vs Etiopía resiste tratados de era colonial - perspectivas opuestas sobre legitimidad de derechos históricos.\n\n[10] - ROLES INVERTIDOS: Egipto busca alternativas bilaterales vs Etiopía prioriza decisiones unilaterales - enfoques opuestos (bilateral vs unilateral).\n\n[12] - ROLES INVERTIDOS: Egipto busca alternativas bilaterales vs Etiopía prioriza control unilateral - enfoques opuestos (bilateral vs unilateral).\n\nLas demás fusiones representan perspectivas equivalentes o complementarias del mismo fenómeno desde diferentes ángulos, pero no opuestas.\n\nRECHAZAR: 0, 1, 9, 10, 12 | RAZÓN: Representan perspectivas opuestas sobre hegemonía, prioridades operativas, legitimidad de derechos históricos y enfoques diplomáticos (bilateral vs unilateral)"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Federal Democratic Republic of Ethiopia",
+      "node_a_id": "Arab Republic of Egypt_4_80",
+      "node_b_id": "Federal Democratic Republic of Ethiopia_5_545",
+      "node_a_texto": "Arab Republic of Egypt rejects frameworks contradicting its historical water rights",
+      "node_b_texto": "Ethiopia demonstrates effective resistance to colonial-era water allocation treaties",
+      "nli_score": 0.9100181758403778,
+      "rejection_reason": "Representan perspectivas opuestas sobre hegemonía, prioridades operativas, legitimidad de derechos históricos y enfoques diplomáticos (bilateral vs unilateral)",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] - ROLES INVERTIDOS: Egipto ve rechazo como confirmación de hegemonía etíope vs Etiopía ve preocupaciones como perpetuación de desequilibrios históricos - perspectivas opuestas sobre quién ejerce hegemonía.\n\n[1] - ROLES INVERTIDOS: Egipto enfatiza asignaciones volumétricas vs Etiopía prioriza llenado sobre compromisos - perspectivas opuestas sobre prioridades.\n\n[9] - ROLES INVERTIDOS: Egipto rechaza marcos que contradicen derechos históricos vs Etiopía resiste tratados de era colonial - perspectivas opuestas sobre legitimidad de derechos históricos.\n\n[10] - ROLES INVERTIDOS: Egipto busca alternativas bilaterales vs Etiopía prioriza decisiones unilaterales - enfoques opuestos (bilateral vs unilateral).\n\n[12] - ROLES INVERTIDOS: Egipto busca alternativas bilaterales vs Etiopía prioriza control unilateral - enfoques opuestos (bilateral vs unilateral).\n\nLas demás fusiones representan perspectivas equivalentes o complementarias del mismo fenómeno desde diferentes ángulos, pero no opuestas.\n\nRECHAZAR: 0, 1, 9, 10, 12 | RAZÓN: Representan perspectivas opuestas sobre hegemonía, prioridades operativas, legitimidad de derechos históricos y enfoques diplomáticos (bilateral vs unilateral)"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Federal Democratic Republic of Ethiopia",
+      "node_a_id": "Arab Republic of Egypt_4_82",
+      "node_b_id": "Federal Democratic Republic of Ethiopia_3_114",
+      "node_a_texto": "Egypt seeks bilateral alternatives bypassing multilateral diplomatic processes",
+      "node_b_texto": "Ethiopia prioritizes unilateral operational decisions over multilateral consensus",
+      "nli_score": 0.986516535282135,
+      "rejection_reason": "Representan perspectivas opuestas sobre hegemonía, prioridades operativas, legitimidad de derechos históricos y enfoques diplomáticos (bilateral vs unilateral)",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] - ROLES INVERTIDOS: Egipto ve rechazo como confirmación de hegemonía etíope vs Etiopía ve preocupaciones como perpetuación de desequilibrios históricos - perspectivas opuestas sobre quién ejerce hegemonía.\n\n[1] - ROLES INVERTIDOS: Egipto enfatiza asignaciones volumétricas vs Etiopía prioriza llenado sobre compromisos - perspectivas opuestas sobre prioridades.\n\n[9] - ROLES INVERTIDOS: Egipto rechaza marcos que contradicen derechos históricos vs Etiopía resiste tratados de era colonial - perspectivas opuestas sobre legitimidad de derechos históricos.\n\n[10] - ROLES INVERTIDOS: Egipto busca alternativas bilaterales vs Etiopía prioriza decisiones unilaterales - enfoques opuestos (bilateral vs unilateral).\n\n[12] - ROLES INVERTIDOS: Egipto busca alternativas bilaterales vs Etiopía prioriza control unilateral - enfoques opuestos (bilateral vs unilateral).\n\nLas demás fusiones representan perspectivas equivalentes o complementarias del mismo fenómeno desde diferentes ángulos, pero no opuestas.\n\nRECHAZAR: 0, 1, 9, 10, 12 | RAZÓN: Representan perspectivas opuestas sobre hegemonía, prioridades operativas, legitimidad de derechos históricos y enfoques diplomáticos (bilateral vs unilateral)"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Federal Democratic Republic of Ethiopia",
+      "node_a_id": "Arab Republic of Egypt_4_82",
+      "node_b_id": "Federal Democratic Republic of Ethiopia_4_234",
+      "node_a_texto": "Egypt seeks bilateral alternatives bypassing multilateral diplomatic processes",
+      "node_b_texto": "Ethiopia prioritizes unilateral operational control over collaborative agreements",
+      "nli_score": 0.8477863669395447,
+      "rejection_reason": "Representan perspectivas opuestas sobre hegemonía, prioridades operativas, legitimidad de derechos históricos y enfoques diplomáticos (bilateral vs unilateral)",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] - ROLES INVERTIDOS: Egipto ve rechazo como confirmación de hegemonía etíope vs Etiopía ve preocupaciones como perpetuación de desequilibrios históricos - perspectivas opuestas sobre quién ejerce hegemonía.\n\n[1] - ROLES INVERTIDOS: Egipto enfatiza asignaciones volumétricas vs Etiopía prioriza llenado sobre compromisos - perspectivas opuestas sobre prioridades.\n\n[9] - ROLES INVERTIDOS: Egipto rechaza marcos que contradicen derechos históricos vs Etiopía resiste tratados de era colonial - perspectivas opuestas sobre legitimidad de derechos históricos.\n\n[10] - ROLES INVERTIDOS: Egipto busca alternativas bilaterales vs Etiopía prioriza decisiones unilaterales - enfoques opuestos (bilateral vs unilateral).\n\n[12] - ROLES INVERTIDOS: Egipto busca alternativas bilaterales vs Etiopía prioriza control unilateral - enfoques opuestos (bilateral vs unilateral).\n\nLas demás fusiones representan perspectivas equivalentes o complementarias del mismo fenómeno desde diferentes ángulos, pero no opuestas.\n\nRECHAZAR: 0, 1, 9, 10, 12 | RAZÓN: Representan perspectivas opuestas sobre hegemonía, prioridades operativas, legitimidad de derechos históricos y enfoques diplomáticos (bilateral vs unilateral)"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Federal Democratic Republic of Ethiopia",
+      "node_a_id": "Arab Republic of Egypt_5_361",
+      "node_b_id": "Federal Democratic Republic of Ethiopia_4_166",
+      "node_a_texto": "Egypt gains multilateral backing for its water security position",
+      "node_b_texto": "International water law scholars reference Ethiopia's approach favorably",
+      "nli_score": 0.6015439331531525,
+      "rejection_reason": "En [7] y [8] ambos actores reclaman respaldo internacional favorable a sus posiciones opuestas; en [9] Egipto aparece como sujeto y objeto simultáneamente; en [12] Egipto gana influencia mientras Etiopía cede parámetros, representando perspectivas contradictorias sobre quién prevalece diplomáticamente",
+      "llm_response": "Analizando cada fusión para identificar roles invertidos que deben rechazarse:\n\nRECHAZAR: 7, 8, 9, 12 | RAZÓN: En [7] y [8] ambos actores reclaman respaldo internacional favorable a sus posiciones opuestas; en [9] Egipto aparece como sujeto y objeto simultáneamente; en [12] Egipto gana influencia mientras Etiopía cede parámetros, representando perspectivas contradictorias sobre quién prevalece diplomáticamente"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Federal Democratic Republic of Ethiopia",
+      "node_a_id": "Arab Republic of Egypt_5_361",
+      "node_b_id": "Federal Democratic Republic of Ethiopia_4_208",
+      "node_a_texto": "Egypt gains multilateral backing for its water security position",
+      "node_b_texto": "International recognition of Ethiopia's water sovereignty principles emerges",
+      "nli_score": 0.8585558831691742,
+      "rejection_reason": "En [7] y [8] ambos actores reclaman respaldo internacional favorable a sus posiciones opuestas; en [9] Egipto aparece como sujeto y objeto simultáneamente; en [12] Egipto gana influencia mientras Etiopía cede parámetros, representando perspectivas contradictorias sobre quién prevalece diplomáticamente",
+      "llm_response": "Analizando cada fusión para identificar roles invertidos que deben rechazarse:\n\nRECHAZAR: 7, 8, 9, 12 | RAZÓN: En [7] y [8] ambos actores reclaman respaldo internacional favorable a sus posiciones opuestas; en [9] Egipto aparece como sujeto y objeto simultáneamente; en [12] Egipto gana influencia mientras Etiopía cede parámetros, representando perspectivas contradictorias sobre quién prevalece diplomáticamente"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Federal Democratic Republic of Ethiopia",
+      "node_a_id": "Arab Republic of Egypt_6_379",
+      "node_b_id": "Federal Democratic Republic of Ethiopia_5_470",
+      "node_a_texto": "Arab Republic of Egypt seeks regional coalition against Ethiopian dam operations",
+      "node_b_texto": "Egypt mobilizes regional diplomatic alliances against Ethiopian dam operations",
+      "nli_score": 0.9694740772247314,
+      "rejection_reason": "En [7] y [8] ambos actores reclaman respaldo internacional favorable a sus posiciones opuestas; en [9] Egipto aparece como sujeto y objeto simultáneamente; en [12] Egipto gana influencia mientras Etiopía cede parámetros, representando perspectivas contradictorias sobre quién prevalece diplomáticamente",
+      "llm_response": "Analizando cada fusión para identificar roles invertidos que deben rechazarse:\n\nRECHAZAR: 7, 8, 9, 12 | RAZÓN: En [7] y [8] ambos actores reclaman respaldo internacional favorable a sus posiciones opuestas; en [9] Egipto aparece como sujeto y objeto simultáneamente; en [12] Egipto gana influencia mientras Etiopía cede parámetros, representando perspectivas contradictorias sobre quién prevalece diplomáticamente"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Federal Democratic Republic of Ethiopia",
+      "node_a_id": "Arab Republic of Egypt_6_418",
+      "node_b_id": "Federal Democratic Republic of Ethiopia_5_378",
+      "node_a_texto": "Regional water-sharing negotiations adopt Egypt's precedential framework",
+      "node_b_texto": "Downstream countries accept Ethiopia's operational parameters as starting point",
+      "nli_score": 0.9087068438529968,
+      "rejection_reason": "En [7] y [8] ambos actores reclaman respaldo internacional favorable a sus posiciones opuestas; en [9] Egipto aparece como sujeto y objeto simultáneamente; en [12] Egipto gana influencia mientras Etiopía cede parámetros, representando perspectivas contradictorias sobre quién prevalece diplomáticamente",
+      "llm_response": "Analizando cada fusión para identificar roles invertidos que deben rechazarse:\n\nRECHAZAR: 7, 8, 9, 12 | RAZÓN: En [7] y [8] ambos actores reclaman respaldo internacional favorable a sus posiciones opuestas; en [9] Egipto aparece como sujeto y objeto simultáneamente; en [12] Egipto gana influencia mientras Etiopía cede parámetros, representando perspectivas contradictorias sobre quién prevalece diplomáticamente"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Federal Democratic Republic of Ethiopia",
+      "node_a_id": "Arab Republic of Egypt_7_551",
+      "node_b_id": "Federal Democratic Republic of Ethiopia_4_95",
+      "node_a_texto": "Multilateral institutions lose influence over Nile water governance",
+      "node_b_texto": "Ethiopia gains unilateral discretion over Blue Nile flow management",
+      "nli_score": 0.7729051411151886,
+      "rejection_reason": "En [6] y [7] Egipto describe pérdida de control institucional mientras Etiopía describe ganancia de autonomía - perspectivas opuestas del mismo fenómeno",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] MISMA PERSPECTIVA: Ambos describen países buscando acuerdos bilaterales fuera de marcos multilaterales.\n\n[1] MISMA PERSPECTIVA: Ambos describen desestabilización de marcos de cooperación hídrica.\n\n[2] MISMA PERSPECTIVA: Ambos describen desestabilización de marcos de asignación hídrica.\n\n[3] MISMA PERSPECTIVA: Ambos describen patrones de flujo de agua impredecibles.\n\n[4] MISMA PERSPECTIVA: Ambos describen el cambio hacia dinámicas bilaterales.\n\n[5] MISMA PERSPECTIVA: Ambos describen reducción de cooperación/coordinación de Etiopía.\n\n[6] ROLES INVERTIDOS: Egipto ve pérdida de influencia institucional (perspectiva de quien pierde control) vs Etiopía ganando discreción unilateral (perspectiva de quien gana control).\n\n[7] ROLES INVERTIDOS: Egipto ve pérdida de influencia institucional vs Etiopía operando con menos supervisión externa (perspectivas opuestas sobre el mismo fenómeno de reducción de oversight).\n\n[8] MISMA PERSPECTIVA: Ambos describen marcos perdiendo autoridad sobre decisiones de infraestructura.\n\n[9] MISMA PERSPECTIVA: Ambos describen países buscando acuerdos bilaterales.\n\n[10] MISMA PERSPECTIVA: Ambos describen participación en mecanismos de mediación de la UA.\n\n[11] MISMA PERSPECTIVA: Ambos describen el cambio hacia marcos bilaterales/medidas unilaterales.\n\n[12] MISMA PERSPECTIVA: Ambos describen países buscando estrategias independientes.\n\n[13] MISMA PERSPECTIVA: Ambos describen países buscando medidas/acuerdos unilaterales/bilaterales.\n\n[14] MISMA PERSPECTIVA: Idénticas - fortalecimiento de capacidades militares.\n\nRECHAZAR: 6, 7 | RAZÓN: En [6] y [7] Egipto describe pérdida de control institucional mientras Etiopía describe ganancia de autonomía - perspectivas opuestas del mismo fenómeno"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Federal Democratic Republic of Ethiopia",
+      "node_a_id": "Arab Republic of Egypt_7_551",
+      "node_b_id": "Federal Democratic Republic of Ethiopia_5_196",
+      "node_a_texto": "Multilateral institutions lose influence over Nile water governance",
+      "node_b_texto": "Federal Democratic Republic of Ethiopia operates GERD with reduced external oversight",
+      "nli_score": 0.7135432809591293,
+      "rejection_reason": "En [6] y [7] Egipto describe pérdida de control institucional mientras Etiopía describe ganancia de autonomía - perspectivas opuestas del mismo fenómeno",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] MISMA PERSPECTIVA: Ambos describen países buscando acuerdos bilaterales fuera de marcos multilaterales.\n\n[1] MISMA PERSPECTIVA: Ambos describen desestabilización de marcos de cooperación hídrica.\n\n[2] MISMA PERSPECTIVA: Ambos describen desestabilización de marcos de asignación hídrica.\n\n[3] MISMA PERSPECTIVA: Ambos describen patrones de flujo de agua impredecibles.\n\n[4] MISMA PERSPECTIVA: Ambos describen el cambio hacia dinámicas bilaterales.\n\n[5] MISMA PERSPECTIVA: Ambos describen reducción de cooperación/coordinación de Etiopía.\n\n[6] ROLES INVERTIDOS: Egipto ve pérdida de influencia institucional (perspectiva de quien pierde control) vs Etiopía ganando discreción unilateral (perspectiva de quien gana control).\n\n[7] ROLES INVERTIDOS: Egipto ve pérdida de influencia institucional vs Etiopía operando con menos supervisión externa (perspectivas opuestas sobre el mismo fenómeno de reducción de oversight).\n\n[8] MISMA PERSPECTIVA: Ambos describen marcos perdiendo autoridad sobre decisiones de infraestructura.\n\n[9] MISMA PERSPECTIVA: Ambos describen países buscando acuerdos bilaterales.\n\n[10] MISMA PERSPECTIVA: Ambos describen participación en mecanismos de mediación de la UA.\n\n[11] MISMA PERSPECTIVA: Ambos describen el cambio hacia marcos bilaterales/medidas unilaterales.\n\n[12] MISMA PERSPECTIVA: Ambos describen países buscando estrategias independientes.\n\n[13] MISMA PERSPECTIVA: Ambos describen países buscando medidas/acuerdos unilaterales/bilaterales.\n\n[14] MISMA PERSPECTIVA: Idénticas - fortalecimiento de capacidades militares.\n\nRECHAZAR: 6, 7 | RAZÓN: En [6] y [7] Egipto describe pérdida de control institucional mientras Etiopía describe ganancia de autonomía - perspectivas opuestas del mismo fenómeno"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Arab Republic of Egypt_6_385",
+      "node_b_id": "Republic of Sudan_4_131",
+      "node_a_texto": "Egypt's water security concerns become marginalized in bilateral discussions",
+      "node_b_texto": "Sudan faces exclusion from bilateral water allocation agreements",
+      "nli_score": 0.9830751419067383,
+      "rejection_reason": "En [8] Egipto ve sus preocupaciones marginalizadas mientras Sudán enfrenta exclusión - perspectivas opuestas sobre el impacto",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos actores movilizan recursos diplomáticos para internacionalizar la crisis del agua - MISMA PERSPECTIVA\n\n[1] Ambos buscan acuerdos bilaterales con Etiopía fuera del marco trilateral - MISMA PERSPECTIVA\n\n[2] Ambos describen actores internacionales posicionándose respecto a la disputa - MISMA PERSPECTIVA\n\n[3] Ambos se alejan de la dependencia del Nilo pero con enfoques diferentes (negociaciones vs infraestructura) - MISMA PERSPECTIVA\n\n[4] Ambos desvían recursos de la planificación centrada en el Nilo - MISMA PERSPECTIVA\n\n[5] Ambos pierden poder de negociación en futuras discusiones trilaterales - MISMA PERSPECTIVA\n\n[6] Ambos ven debilitada su posición negociadora con Etiopía - MISMA PERSPECTIVA\n\n[7] Ambos buscan alianzas alternativas fuera de su relación tradicional - MISMA PERSPECTIVA\n\n[8] ROLES INVERTIDOS: Egipto ve marginalizadas sus preocupaciones vs Sudán enfrenta exclusión - perspectivas opuestas sobre quién es afectado\n\n[9] Ambos buscan tecnología de desalinización - MISMA PERSPECTIVA\n\n[10] Ambos desarrollan capacidades de extracción de agua subterránea - MISMA PERSPECTIVA\n\n[11] Ambos buscan medidas alternativas de agua (conservación vs almacenamiento) - MISMA PERSPECTIVA\n\n[12] Diferentes fenómenos: alianzas diplomáticas vs metodologías hidrológicas - conceptos distintos pero no opuestos\n\n[13] Ambos describen reposicionamiento de actores internacionales - MISMA PERSPECTIVA\n\n[14] Ambos desarrollan capacidades independientes de monitoreo hidrológico - MISMA PERSPECTIVA\n\nRECHAZAR: 8 | RAZÓN: En [8] Egipto ve sus preocupaciones marginalizadas mientras Sudán enfrenta exclusión - perspectivas opuestas sobre el impacto"
+    },
+    {
+      "actor_a": "Arab Republic of Egypt",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Arab Republic of Egypt_7_598",
+      "node_b_id": "Republic of Sudan_5_371",
+      "node_a_texto": "Ethiopia restricts sharing of hydrological and operational data",
+      "node_b_texto": "Sudan reduces information sharing with Ethiopia regarding water data",
+      "nli_score": 0.6830182075500488,
+      "rejection_reason": "En [9] Egipto presenta a Etiopía como restrictiva mientras Sudán se presenta a sí mismo como quien reduce el intercambio - roles invertidos sobre quién limita la cooperación",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos países buscan mediación internacional - MISMA PERSPECTIVA\n[1] Ambos se refieren a incertidumbre en flujos de agua - MISMA PERSPECTIVA  \n[2] Egipto habla de impredecibilidad, Sudán de planificación reactiva - MISMA PERSPECTIVA (consecuencia lógica)\n[3] Ambos sobre falta de predictibilidad en flujos - MISMA PERSPECTIVA\n[4] Ambos sobre incertidumbre en planificación hídrica - MISMA PERSPECTIVA\n[5] Egipto describe debilitamiento, Sudán amenaza retirarse - MISMA PERSPECTIVA (causa-efecto)\n[6] Ambos diversifican fuentes hídricas - MISMA PERSPECTIVA\n[7] Ambos se alejan del marco trilateral - MISMA PERSPECTIVA\n[8] Ambos buscan mediación de la Unión Africana - MISMA PERSPECTIVA\n[9] **ROLES INVERTIDOS**: Egipto dice que Etiopía restringe datos, Sudán dice que él mismo reduce compartir datos - perspectivas opuestas sobre quién limita el intercambio\n[10] Ambos reducen presión/engagement con Etiopía - MISMA PERSPECTIVA\n[11] Ambos sobre Etiopía rechazando intervención externa - MISMA PERSPECTIVA\n[12] Ambos sobre desestabilización de marcos cooperativos - MISMA PERSPECTIVA\n[13] Ambos desarrollan planes unilaterales - MISMA PERSPECTIVA\n[14] Ambos implementan medidas unilaterales - MISMA PERSPECTIVA\n\nRECHAZAR: 9 | RAZÓN: En [9] Egipto presenta a Etiopía como restrictiva mientras Sudán se presenta a sí mismo como quien reduce el intercambio - roles invertidos sobre quién limita la cooperación"
+    },
+    {
+      "actor_a": "Federal Democratic Republic of Ethiopia",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Federal Democratic Republic of Ethiopia_4_182",
+      "node_b_id": "Republic of Sudan_4_117",
+      "node_a_texto": "Ethiopia emphasizes hydrological data over sovereignty concerns",
+      "node_b_texto": "Sudan asserts downstream riparian rights supersede upstream development",
+      "nli_score": 0.630861833691597,
+      "rejection_reason": "Representan perspectivas opuestas del mismo evento - Ethiopia como actor autónomo vs Sudan como receptor de impactos externos",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Misma perspectiva: Ambos describen desestabilización/disrupción de sistemas hídricos\n[1] Roles invertidos: Ethiopia prioriza datos técnicos vs Sudan prioriza derechos soberanos\n[2] Misma perspectiva: Ambos describen fragmentación en enfoques hídricos regionales\n[3] Roles invertidos: Ethiopia ve autonomía operativa vs Sudan ve control externo sobre su infraestructura\n[4] Misma perspectiva: Ambos describen reducción de supervisión externa de GERD\n[5] Misma perspectiva: Ambos describen desincronización/disrupción de planificación agrícola\n[6] Misma perspectiva: Ambos describen establecimiento de precedentes legales regionales\n[7] Roles invertidos: Ethiopia se ve como víctima vs Sudan es visto como fragmentador activo\n[8] Misma perspectiva: Ambos describen eliminación de coordinación externa en operaciones\n[9] Misma perspectiva: Ambos describen retiro/exclusión de marcos cooperativos regionales\n[10] Misma perspectiva: Ambos describen reorientación de financiamiento hacia proyectos bilaterales\n[11] Misma perspectiva: Ambos describen inestabilidad en generación hidroeléctrica de Sudan\n[12] Misma perspectiva: Ambos describen fragmentación/disrupción de marcos regulatorios\n[13] Roles invertidos: Ethiopia ve flexibilidad operativa vs Sudan ve impredecibilidad impuesta\n[14] Misma perspectiva: Ambos buscan mediación de la Unión Africana\n\nRECHAZAR: 1, 3, 7, 13 | RAZÓN: Representan perspectivas opuestas del mismo evento - Ethiopia como actor autónomo vs Sudan como receptor de impactos externos"
+    },
+    {
+      "actor_a": "Federal Democratic Republic of Ethiopia",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Federal Democratic Republic of Ethiopia_5_196",
+      "node_b_id": "Republic of Sudan_5_392",
+      "node_a_texto": "Federal Democratic Republic of Ethiopia operates GERD with reduced external oversight",
+      "node_b_texto": "Sudan's water infrastructure operates under Ethiopian discretionary control",
+      "nli_score": 0.739520937204361,
+      "rejection_reason": "Representan perspectivas opuestas del mismo evento - Ethiopia como actor autónomo vs Sudan como receptor de impactos externos",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Misma perspectiva: Ambos describen desestabilización/disrupción de sistemas hídricos\n[1] Roles invertidos: Ethiopia prioriza datos técnicos vs Sudan prioriza derechos soberanos\n[2] Misma perspectiva: Ambos describen fragmentación en enfoques hídricos regionales\n[3] Roles invertidos: Ethiopia ve autonomía operativa vs Sudan ve control externo sobre su infraestructura\n[4] Misma perspectiva: Ambos describen reducción de supervisión externa de GERD\n[5] Misma perspectiva: Ambos describen desincronización/disrupción de planificación agrícola\n[6] Misma perspectiva: Ambos describen establecimiento de precedentes legales regionales\n[7] Roles invertidos: Ethiopia se ve como víctima vs Sudan es visto como fragmentador activo\n[8] Misma perspectiva: Ambos describen eliminación de coordinación externa en operaciones\n[9] Misma perspectiva: Ambos describen retiro/exclusión de marcos cooperativos regionales\n[10] Misma perspectiva: Ambos describen reorientación de financiamiento hacia proyectos bilaterales\n[11] Misma perspectiva: Ambos describen inestabilidad en generación hidroeléctrica de Sudan\n[12] Misma perspectiva: Ambos describen fragmentación/disrupción de marcos regulatorios\n[13] Roles invertidos: Ethiopia ve flexibilidad operativa vs Sudan ve impredecibilidad impuesta\n[14] Misma perspectiva: Ambos buscan mediación de la Unión Africana\n\nRECHAZAR: 1, 3, 7, 13 | RAZÓN: Representan perspectivas opuestas del mismo evento - Ethiopia como actor autónomo vs Sudan como receptor de impactos externos"
+    },
+    {
+      "actor_a": "Federal Democratic Republic of Ethiopia",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Federal Democratic Republic of Ethiopia_4_268",
+      "node_b_id": "Republic of Sudan_5_461",
+      "node_a_texto": "Ethiopia perceives negotiations as two-against-one dynamic",
+      "node_b_texto": "Sudan's bilateral approach fragments the trilateral negotiation process",
+      "nli_score": 0.8934166729450226,
+      "rejection_reason": "Representan perspectivas opuestas del mismo evento - Ethiopia como actor autónomo vs Sudan como receptor de impactos externos",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Misma perspectiva: Ambos describen desestabilización/disrupción de sistemas hídricos\n[1] Roles invertidos: Ethiopia prioriza datos técnicos vs Sudan prioriza derechos soberanos\n[2] Misma perspectiva: Ambos describen fragmentación en enfoques hídricos regionales\n[3] Roles invertidos: Ethiopia ve autonomía operativa vs Sudan ve control externo sobre su infraestructura\n[4] Misma perspectiva: Ambos describen reducción de supervisión externa de GERD\n[5] Misma perspectiva: Ambos describen desincronización/disrupción de planificación agrícola\n[6] Misma perspectiva: Ambos describen establecimiento de precedentes legales regionales\n[7] Roles invertidos: Ethiopia se ve como víctima vs Sudan es visto como fragmentador activo\n[8] Misma perspectiva: Ambos describen eliminación de coordinación externa en operaciones\n[9] Misma perspectiva: Ambos describen retiro/exclusión de marcos cooperativos regionales\n[10] Misma perspectiva: Ambos describen reorientación de financiamiento hacia proyectos bilaterales\n[11] Misma perspectiva: Ambos describen inestabilidad en generación hidroeléctrica de Sudan\n[12] Misma perspectiva: Ambos describen fragmentación/disrupción de marcos regulatorios\n[13] Roles invertidos: Ethiopia ve flexibilidad operativa vs Sudan ve impredecibilidad impuesta\n[14] Misma perspectiva: Ambos buscan mediación de la Unión Africana\n\nRECHAZAR: 1, 3, 7, 13 | RAZÓN: Representan perspectivas opuestas del mismo evento - Ethiopia como actor autónomo vs Sudan como receptor de impactos externos"
+    },
+    {
+      "actor_a": "Federal Democratic Republic of Ethiopia",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Federal Democratic Republic of Ethiopia_4_329",
+      "node_b_id": "Republic of Sudan_5_429",
+      "node_a_texto": "Ethiopia maintains flexible dam operation protocols without external constraints",
+      "node_b_texto": "Sudan's water infrastructure operates without predictable flow schedules",
+      "nli_score": 0.9278195202350616,
+      "rejection_reason": "Representan perspectivas opuestas del mismo evento - Ethiopia como actor autónomo vs Sudan como receptor de impactos externos",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Misma perspectiva: Ambos describen desestabilización/disrupción de sistemas hídricos\n[1] Roles invertidos: Ethiopia prioriza datos técnicos vs Sudan prioriza derechos soberanos\n[2] Misma perspectiva: Ambos describen fragmentación en enfoques hídricos regionales\n[3] Roles invertidos: Ethiopia ve autonomía operativa vs Sudan ve control externo sobre su infraestructura\n[4] Misma perspectiva: Ambos describen reducción de supervisión externa de GERD\n[5] Misma perspectiva: Ambos describen desincronización/disrupción de planificación agrícola\n[6] Misma perspectiva: Ambos describen establecimiento de precedentes legales regionales\n[7] Roles invertidos: Ethiopia se ve como víctima vs Sudan es visto como fragmentador activo\n[8] Misma perspectiva: Ambos describen eliminación de coordinación externa en operaciones\n[9] Misma perspectiva: Ambos describen retiro/exclusión de marcos cooperativos regionales\n[10] Misma perspectiva: Ambos describen reorientación de financiamiento hacia proyectos bilaterales\n[11] Misma perspectiva: Ambos describen inestabilidad en generación hidroeléctrica de Sudan\n[12] Misma perspectiva: Ambos describen fragmentación/disrupción de marcos regulatorios\n[13] Roles invertidos: Ethiopia ve flexibilidad operativa vs Sudan ve impredecibilidad impuesta\n[14] Misma perspectiva: Ambos buscan mediación de la Unión Africana\n\nRECHAZAR: 1, 3, 7, 13 | RAZÓN: Representan perspectivas opuestas del mismo evento - Ethiopia como actor autónomo vs Sudan como receptor de impactos externos"
+    },
+    {
+      "actor_a": "Federal Democratic Republic of Ethiopia",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Federal Democratic Republic of Ethiopia_6_519",
+      "node_b_id": "Republic of Sudan_3_45",
+      "node_a_texto": "Regional water cooperation frameworks lose binding authority over Ethiopian infrastructure decisions",
+      "node_b_texto": "Sudan loses direct influence over GERD operational protocols",
+      "nli_score": 0.7090500891208649,
+      "rejection_reason": "En [7] Etiopía gana autonomía mientras Sudán pierde influencia; en [14] Etiopía actúa voluntariamente mientras Sudán sufre exclusión",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos actores describen el mismo proceso institucional de la Unión Africana para disputas de agua transfronteriza - MISMA PERSPECTIVA\n\n[1] Ambos describen problemas sistémicos en marcos de gobernanza del agua, uno general y otro específico sobre metodologías - MISMA PERSPECTIVA\n\n[2] Ambos actores buscan mediación de la Unión Africana para el mismo conflicto - MISMA PERSPECTIVA\n\n[3] Ambos países buscan socios internacionales fuera de la región del Nilo - MISMA PERSPECTIVA\n\n[4] Ambos describen la búsqueda de aliados internacionales con preocupaciones de seguridad hídrica - MISMA PERSPECTIVA\n\n[5] Etiopía describe fragmentación general vs Sudán describe impacto específico en su irrigación - MISMA PERSPECTIVA (general vs específico del mismo fenómeno)\n\n[6] Ambos describen fragmentación en coordinación/metodologías hídricas regionales - MISMA PERSPECTIVA\n\n[7] Etiopía pierde restricciones vs Sudán pierde influencia - ROLES INVERTIDOS (uno gana autonomía, otro pierde control)\n\n[8] Ambos describen el mismo fenómeno de variabilidad en flujos de agua - MISMA PERSPECTIVA\n\n[9] Ambos describen impactos de la variabilidad del agua en sistemas de irrigación - MISMA PERSPECTIVA\n\n[10] Ambos describen pérdida de capacidad de alerta temprana para inundaciones - MISMA PERSPECTIVA\n\n[11] Ambos describen pérdida de capacidad de protección contra inundaciones - MISMA PERSPECTIVA\n\n[12] Ambos describen pérdida de capacidad de preparación para emergencias de inundación - MISMA PERSPECTIVA\n\n[13] Ambos países experimentan deterioro en relaciones diplomáticas regionales - MISMA PERSPECTIVA\n\n[14] Etiopía se retira voluntariamente vs Sudán enfrenta exclusión - ROLES INVERTIDOS (acción voluntaria vs consecuencia impuesta)\n\nRECHAZAR: 7, 14 | RAZÓN: En [7] Etiopía gana autonomía mientras Sudán pierde influencia; en [14] Etiopía actúa voluntariamente mientras Sudán sufre exclusión"
+    },
+    {
+      "actor_a": "Federal Democratic Republic of Ethiopia",
+      "actor_b": "Republic of Sudan",
+      "node_a_id": "Federal Democratic Republic of Ethiopia_5_604",
+      "node_b_id": "Republic of Sudan_4_131",
+      "node_a_texto": "Ethiopia withdraws from existing transboundary water institutions",
+      "node_b_texto": "Sudan faces exclusion from bilateral water allocation agreements",
+      "nli_score": 0.8747655749320984,
+      "rejection_reason": "En [7] Etiopía gana autonomía mientras Sudán pierde influencia; en [14] Etiopía actúa voluntariamente mientras Sudán sufre exclusión",
+      "llm_response": "Analizando cada fusión propuesta:\n\n[0] Ambos actores describen el mismo proceso institucional de la Unión Africana para disputas de agua transfronteriza - MISMA PERSPECTIVA\n\n[1] Ambos describen problemas sistémicos en marcos de gobernanza del agua, uno general y otro específico sobre metodologías - MISMA PERSPECTIVA\n\n[2] Ambos actores buscan mediación de la Unión Africana para el mismo conflicto - MISMA PERSPECTIVA\n\n[3] Ambos países buscan socios internacionales fuera de la región del Nilo - MISMA PERSPECTIVA\n\n[4] Ambos describen la búsqueda de aliados internacionales con preocupaciones de seguridad hídrica - MISMA PERSPECTIVA\n\n[5] Etiopía describe fragmentación general vs Sudán describe impacto específico en su irrigación - MISMA PERSPECTIVA (general vs específico del mismo fenómeno)\n\n[6] Ambos describen fragmentación en coordinación/metodologías hídricas regionales - MISMA PERSPECTIVA\n\n[7] Etiopía pierde restricciones vs Sudán pierde influencia - ROLES INVERTIDOS (uno gana autonomía, otro pierde control)\n\n[8] Ambos describen el mismo fenómeno de variabilidad en flujos de agua - MISMA PERSPECTIVA\n\n[9] Ambos describen impactos de la variabilidad del agua en sistemas de irrigación - MISMA PERSPECTIVA\n\n[10] Ambos describen pérdida de capacidad de alerta temprana para inundaciones - MISMA PERSPECTIVA\n\n[11] Ambos describen pérdida de capacidad de protección contra inundaciones - MISMA PERSPECTIVA\n\n[12] Ambos describen pérdida de capacidad de preparación para emergencias de inundación - MISMA PERSPECTIVA\n\n[13] Ambos países experimentan deterioro en relaciones diplomáticas regionales - MISMA PERSPECTIVA\n\n[14] Etiopía se retira voluntariamente vs Sudán enfrenta exclusión - ROLES INVERTIDOS (acción voluntaria vs consecuencia impuesta)\n\nRECHAZAR: 7, 14 | RAZÓN: En [7] Etiopía gana autonomía mientras Sudán pierde influencia; en [14] Etiopía actúa voluntariamente mientras Sudán sufre exclusión"
+    }
+  ]
+}

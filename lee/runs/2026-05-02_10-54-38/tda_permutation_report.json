@@ -1,0 +1,165 @@
+{
+  "test": "Permutation Test for Topological Significance",
+  "method": {
+    "n_permutations": 500,
+    "max_points_per_actor": 300,
+    "metric_space": "Cosine distance in 768d"
+  },
+  "actors": [
+    "Lee Family (Foua and Nao Kao Lee)",
+    "Merced Community Medical Center Clinical Team"
+  ],
+  "n_actors": 2,
+  "n_pairs": 1,
+  "pairs": {
+    "Lee Family (Foua and Nao Kao Lee) vs Merced Community Medical Center Clinical Team": {
+      "metrics": {
+        "H0_mean_lifetime_diff": {
+          "observed": 0.01518749353478982,
+          "null_mean": 0.0056717358237524905,
+          "null_std": 0.004260156960090061,
+          "null_95th": 0.013520702968871715,
+          "null_99th": 0.01793000163641259,
+          "p_value": 0.04,
+          "significant_95": true,
+          "significant_99": false,
+          "effect_size_z": 2.2336636420166465
+        },
+        "H0_max_lifetime_diff": {
+          "observed": 0.08555352687835693,
+          "null_mean": 0.029259658575057985,
+          "null_std": 0.02376317053323171,
+          "null_95th": 0.07470423877239225,
+          "null_99th": 0.09326094985008238,
+          "p_value": 0.02,
+          "significant_95": true,
+          "significant_99": false,
+          "effect_size_z": 2.3689544383218792
+        },
+        "H0_feature_count_diff": {
+          "observed": 0.0,
+          "null_mean": 0.0,
+          "null_std": 0.0,
+          "null_95th": 0.0,
+          "null_99th": 0.0,
+          "p_value": 1.0,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0
+        },
+        "H0_std_lifetime_diff": {
+          "observed": 0.003608889916772065,
+          "null_mean": 0.0037127183852524314,
+          "null_std": 0.002826193314484635,
+          "null_95th": 0.008727014882041351,
+          "null_99th": 0.012208475244622949,
+          "p_value": 0.436,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.03673792162348942
+        },
+        "H0_wasserstein": {
+          "observed": 4.541060566902161,
+          "null_mean": 2.4702761772734374,
+          "null_std": 0.9970714773213287,
+          "null_95th": 4.5080905687106165,
+          "null_99th": 5.809864428502615,
+          "p_value": 0.05,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 2.076866540392837
+        },
+        "H0_bottleneck": {
+          "observed": 0.08555352687835693,
+          "null_mean": 0.05104981762170792,
+          "null_std": 0.016116773476488797,
+          "null_95th": 0.08053106367588041,
+          "null_99th": 0.09326094985008238,
+          "p_value": 0.028,
+          "significant_95": true,
+          "significant_99": false,
+          "effect_size_z": 2.140857120501392
+        },
+        "H1_mean_lifetime_diff": {
+          "observed": 0.002454883024507297,
+          "null_mean": 0.0018414881432035077,
+          "null_std": 0.0014050509978109254,
+          "null_95th": 0.004527038193068846,
+          "null_99th": 0.006214305662547005,
+          "p_value": 0.28,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.436564140561062
+        },
+        "H1_max_lifetime_diff": {
+          "observed": 0.0038513541221618652,
+          "null_mean": 0.02022136163711548,
+          "null_std": 0.0141421554431637,
+          "null_95th": 0.0456847846508026,
+          "null_99th": 0.057573193907737706,
+          "p_value": 0.908,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -1.1575327099708026
+        },
+        "H1_feature_count_diff": {
+          "observed": 26.0,
+          "null_mean": 17.006,
+          "null_std": 12.968807346861158,
+          "null_95th": 40.049999999999955,
+          "null_99th": 57.02999999999997,
+          "p_value": 0.246,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.6935101863608776
+        },
+        "H1_std_lifetime_diff": {
+          "observed": 0.0037746302462487273,
+          "null_mean": 0.0018096110345199154,
+          "null_std": 0.0013775208019283227,
+          "null_95th": 0.004454030379556318,
+          "null_99th": 0.00592913372956342,
+          "p_value": 0.096,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 1.4264896827533053
+        },
+        "H1_wasserstein": {
+          "observed": 3.830163100598812,
+          "null_mean": 2.594061903426489,
+          "null_std": 0.3157563249989863,
+          "null_95th": 3.1949165750538135,
+          "null_99th": 3.6015303122296736,
+          "p_value": 0.002,
+          "significant_95": true,
+          "significant_99": true,
+          "effect_size_z": 3.9147313903412426
+        },
+        "H1_bottleneck": {
+          "observed": 0.029488861560821533,
+          "null_mean": 0.038711622536182405,
+          "null_std": 0.007810304617509551,
+          "null_95th": 0.05367505103349685,
+          "null_99th": 0.06370761275291442,
+          "p_value": 0.91,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -1.180845232935576
+        }
+      },
+      "h1_significant": 1,
+      "h1_total": 6,
+      "conclusion": "Parcial (1/6)"
+    }
+  },
+  "summary": {
+    "divergence_ranking": [
+      {
+        "pair": "Lee Family (Foua and Nao Kao Lee) vs Merced Community Medical Center Clinical Team",
+        "wasserstein_observed": 3.830163100598812,
+        "wasserstein_p": 0.002,
+        "wasserstein_z": 3.9147313903412426
+      }
+    ]
+  }
+}

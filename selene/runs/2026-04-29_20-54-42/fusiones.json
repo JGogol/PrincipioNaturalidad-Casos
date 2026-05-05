@@ -1,0 +1,1865 @@
+{
+  "total": 186,
+  "fusiones": [
+    {
+      "nodo_a_id": "Republic of Aurelia_4_74",
+      "nodo_a_texto": "Aurelia demands immediate evacuation of three personnel from habitat",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_549",
+      "nodo_b_texto": "Borealis concludes three crew members must be immediately removed",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.6566005647182465,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_77",
+      "nodo_a_texto": "Aurelia activates lockdown procedures for habitat critical systems",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_3_28",
+      "nodo_b_texto": "Borealis escalates to emergency security protocols for habitat protection",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.7566283047199249,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_77",
+      "nodo_a_texto": "Aurelia activates lockdown procedures for habitat critical systems",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_233",
+      "nodo_b_texto": "Borealis prepares to physically restrict access to life support controls",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.717134416103363,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_113",
+      "nodo_a_texto": "Aurelia declares immediate evacuation of three personnel is mandatory",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_6_549",
+      "nodo_b_texto": "Borealis concludes three crew members must be immediately removed",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.9622729122638702,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_167",
+      "nodo_a_texto": "Aurelia establishes physical barriers around critical life support components",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_161",
+      "nodo_b_texto": "Borealis restricts other crews' access to essential life support controls",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.5963639169931412,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_369",
+      "nodo_a_texto": "Aurelia issues ultimatum for foreign personnel to depart immediately",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Federation of Borealis_5_372",
+      "nodo_b_texto": "Borealis sets deadline for other crews to comply with departure order",
+      "nodo_b_actor": "Federation of Borealis",
+      "similitud": 0.813974916934967,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_0_0",
+      "nodo_a_texto": "Aurelia claims operational priority based on first-arrival activation rights and majority funding contribution. Demands exclusive control of life support systems management and veto authority over habitat modifications. Proposes that other crews limit their presence to maintain safety margins, with Aurelia retaining full crew complement. Argues that its life support engineer is indispensable and that allowing unqualified personnel to access critical systems risks everyone's survival. Refuses to accept any framework that places Aurelian systems under shared command authority.",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_54",
+      "nodo_b_texto": "Cerulea prioritizes which crew functions are absolutely essential for survival",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5578113570809364,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_0_0",
+      "nodo_a_texto": "Aurelia claims operational priority based on first-arrival activation rights and majority funding contribution. Demands exclusive control of life support systems management and veto authority over habitat modifications. Proposes that other crews limit their presence to maintain safety margins, with Aurelia retaining full crew complement. Argues that its life support engineer is indispensable and that allowing unqualified personnel to access critical systems risks everyone's survival. Refuses to accept any framework that places Aurelian systems under shared command authority.",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_225",
+      "nodo_b_texto": "Cerulea refuses to compromise on full crew presence requirement",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6386762857437134,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_0_0",
+      "nodo_a_texto": "Aurelia claims operational priority based on first-arrival activation rights and majority funding contribution. Demands exclusive control of life support systems management and veto authority over habitat modifications. Proposes that other crews limit their presence to maintain safety margins, with Aurelia retaining full crew complement. Argues that its life support engineer is indispensable and that allowing unqualified personnel to access critical systems risks everyone's survival. Refuses to accept any framework that places Aurelian systems under shared command authority.",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_310",
+      "nodo_b_texto": "Cerulea refuses to consider any reduction of its crew",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.753002405166626,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_2_5",
+      "nodo_a_texto": "Aurelia activates emergency protocols to secure critical habitat systems",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_406",
+      "nodo_b_texto": "Cerulea realizes independent operation requires external life support systems",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7899483740329742,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_2_9",
+      "nodo_a_texto": "Aurelia positions personnel at critical system junction points",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_2_8",
+      "nodo_b_texto": "Cerulea positions crew members near critical communication hardware",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9919045865535736,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_2_9",
+      "nodo_a_texto": "Aurelia positions personnel at critical system junction points",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_68",
+      "nodo_b_texto": "Cerulea positions crew members at strategic points around communication array",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7015378624200821,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_2_9",
+      "nodo_a_texto": "Aurelia positions personnel at critical system junction points",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_160",
+      "nodo_b_texto": "Cerulea determines which crews acknowledge its essential-participant status",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5920961648225784,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_2_9",
+      "nodo_a_texto": "Aurelia positions personnel at critical system junction points",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_235",
+      "nodo_b_texto": "Cerulea assigns crew members to monitor each identified access route",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9593901038169861,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_2_9",
+      "nodo_a_texto": "Aurelia positions personnel at critical system junction points",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_478",
+      "nodo_b_texto": "Cerulea identifies each crew's critical dependencies on its services",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9655394554138184,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_2_9",
+      "nodo_a_texto": "Aurelia positions personnel at critical system junction points",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_518",
+      "nodo_b_texto": "Cerulea notes which crew members are positioned nearest critical systems",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9921222925186157,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_20",
+      "nodo_a_texto": "Aurelia monitors other crews for attempts to override restrictions",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_212",
+      "nodo_b_texto": "Cerulea searches for alternative sources of leverage over the other crews",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6302623599767685,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_21",
+      "nodo_a_texto": "Aurelia prepares contingency protocols for system security breaches",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_3_19",
+      "nodo_b_texto": "Cerulea activates backup protocols for equipment protection",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9868300557136536,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_24",
+      "nodo_a_texto": "Aurelia positions personnel at critical life support junction points",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_54",
+      "nodo_b_texto": "Cerulea prioritizes which crew functions are absolutely essential for survival",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9768624007701874,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_24",
+      "nodo_a_texto": "Aurelia positions personnel at critical life support junction points",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_188",
+      "nodo_b_texto": "Cerulea observes crew members approaching oxygen regeneration controls",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9870071113109589,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_24",
+      "nodo_a_texto": "Aurelia positions personnel at critical life support junction points",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_466",
+      "nodo_b_texto": "Cerulea identifies critical survival thresholds for essential personnel",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9929001331329346,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_29",
+      "nodo_a_texto": "Aurelia establishes physical control over oxygen regeneration systems",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_406",
+      "nodo_b_texto": "Cerulea realizes independent operation requires external life support systems",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.598116509616375,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_3_32",
+      "nodo_a_texto": "Aurelia monitors other crews' attempts to access locked systems",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_84",
+      "nodo_b_texto": "Cerulea assesses whether other crews can bypass its systems",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9675434231758118,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_55",
+      "nodo_a_texto": "Aurelia identifies specific crew members approaching restricted interfaces",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_3_18",
+      "nodo_b_texto": "Cerulea monitors other crews' movements toward critical systems",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5706784725189209,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_55",
+      "nodo_a_texto": "Aurelia identifies specific crew members approaching restricted interfaces",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_242",
+      "nodo_b_texto": "Cerulea identifies which personnel are approaching the equipment",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9755436182022095,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_55",
+      "nodo_a_texto": "Aurelia identifies specific crew members approaching restricted interfaces",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_518",
+      "nodo_b_texto": "Cerulea notes which crew members are positioned nearest critical systems",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9903456270694733,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_60",
+      "nodo_a_texto": "Aurelia monitors other crews for signs of resistance",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_2_5",
+      "nodo_b_texto": "Cerulea detects signs of acceptance or rejection from other crews",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7447448670864105,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_60",
+      "nodo_a_texto": "Aurelia monitors other crews for signs of resistance",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_418",
+      "nodo_b_texto": "Cerulea observes other crews' reactions to defensive positioning",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9709134101867676,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_60",
+      "nodo_a_texto": "Aurelia monitors other crews for signs of resistance",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_544",
+      "nodo_b_texto": "Cerulea detects hesitation or resistance from other crews",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9865423142910004,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_65",
+      "nodo_a_texto": "Aurelia monitors other crews' attempts to override the lockdown",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_362",
+      "nodo_b_texto": "Cerulea notices other crews discussing potential countermeasures against the blockade",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9800277650356293,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_66",
+      "nodo_a_texto": "Aurelia prepares contingency measures to maintain system control",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_3_19",
+      "nodo_b_texto": "Cerulea activates backup protocols for equipment protection",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.993930846452713,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_66",
+      "nodo_a_texto": "Aurelia prepares contingency measures to maintain system control",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_300",
+      "nodo_b_texto": "Cerulea searches for ways to maintain leverage without permanent consequences",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5871270969510078,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_66",
+      "nodo_a_texto": "Aurelia prepares contingency measures to maintain system control",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_534",
+      "nodo_b_texto": "Cerulea searches for alternative ways to maintain essential-participant status",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.903388649225235,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_78",
+      "nodo_a_texto": "Aurelia designates backup command protocols if primary control fails",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_62",
+      "nodo_b_texto": "Cerulea activates protective protocols for its communication equipment",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8767752647399902,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_78",
+      "nodo_a_texto": "Aurelia designates backup command protocols if primary control fails",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_280",
+      "nodo_b_texto": "Cerulea identifies backup communication protocols if primary contact fails",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9610862731933594,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_78",
+      "nodo_a_texto": "Aurelia designates backup command protocols if primary control fails",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_386",
+      "nodo_b_texto": "Cerulea observes attempts to access backup communication systems",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6963232457637787,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_80",
+      "nodo_a_texto": "Aurelia identifies specific crew members with insufficient technical qualifications",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_213",
+      "nodo_b_texto": "Cerulea identifies which technical functions other crews perform that it lacks",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9881503283977509,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_86",
+      "nodo_a_texto": "Aurelia begins physically blocking other crews from accessing control panels",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_64",
+      "nodo_b_texto": "Cerulea positions personnel to block access to the communication array",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6241035610437393,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_96",
+      "nodo_a_texto": "Aurelia positions personnel to monitor access points continuously",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_235",
+      "nodo_b_texto": "Cerulea assigns crew members to monitor each identified access route",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9718165099620819,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_4_107",
+      "nodo_a_texto": "Aurelia begins positioning personnel to control habitat access points",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_235",
+      "nodo_b_texto": "Cerulea assigns crew members to monitor each identified access route",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.989129364490509,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_125",
+      "nodo_a_texto": "Aurelia activates emergency lockdown protocols to prevent unauthorized access",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_448",
+      "nodo_b_texto": "Cerulea establishes protocols for emergency equipment shutdown if threatened",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8023514449596405,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_135",
+      "nodo_a_texto": "Aurelia escalates security measures to protect critical infrastructure",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_3_19",
+      "nodo_b_texto": "Cerulea activates backup protocols for equipment protection",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9157547354698181,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_162",
+      "nodo_a_texto": "Aurelia observes other crews forming coordinated responses",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_3_31",
+      "nodo_b_texto": "Cerulea prepares contingency actions based on detected crew positions",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9476549923419952,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_162",
+      "nodo_a_texto": "Aurelia observes other crews forming coordinated responses",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_385",
+      "nodo_b_texto": "Cerulea detects signs of coordination between the other crews",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9700267612934113,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_163",
+      "nodo_a_texto": "Aurelia identifies potential sabotage risks to life support",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_424",
+      "nodo_b_texto": "Cerulea calculates risk of life support system tampering",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9887014031410217,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_167",
+      "nodo_a_texto": "Aurelia establishes physical barriers around critical life support components",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_466",
+      "nodo_b_texto": "Cerulea identifies critical survival thresholds for essential personnel",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9809221923351288,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_169",
+      "nodo_a_texto": "Aurelia positions personnel to monitor all habitat entry points",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_235",
+      "nodo_b_texto": "Cerulea assigns crew members to monitor each identified access route",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9940770864486694,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_170",
+      "nodo_a_texto": "Aurelia identifies backup power sources independent of shared systems",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_557",
+      "nodo_b_texto": "Cerulea must find alternative power source for independent operations",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6647303104400635,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_177",
+      "nodo_a_texto": "Aurelia determines minimum viable crew size for habitat operations",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_179",
+      "nodo_b_texto": "Cerulea calculates minimum crew size for independent habitat operation",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5850816145539284,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_177",
+      "nodo_a_texto": "Aurelia determines minimum viable crew size for habitat operations",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_466",
+      "nodo_b_texto": "Cerulea identifies critical survival thresholds for essential personnel",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8960692882537842,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_181",
+      "nodo_a_texto": "Aurelia issues ultimatum with specific compliance deadline to other crews",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_525",
+      "nodo_b_texto": "Cerulea sets ultimatum deadline for other crews' response",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9811958372592926,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_185",
+      "nodo_a_texto": "Aurelia begins contingency planning for forcible crew reduction",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_212",
+      "nodo_b_texto": "Cerulea searches for alternative sources of leverage over the other crews",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9782834053039551,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_187",
+      "nodo_a_texto": "Aurelia identifies which crew members approach critical system interfaces",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_2_8",
+      "nodo_b_texto": "Cerulea positions crew members near critical communication hardware",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9897176325321198,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_187",
+      "nodo_a_texto": "Aurelia identifies which crew members approach critical system interfaces",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_518",
+      "nodo_b_texto": "Cerulea notes which crew members are positioned nearest critical systems",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9959187507629395,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_204",
+      "nodo_a_texto": "Aurelia positions crew members to guard critical system access points",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_2_8",
+      "nodo_b_texto": "Cerulea positions crew members near critical communication hardware",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6385244131088257,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_204",
+      "nodo_a_texto": "Aurelia positions crew members to guard critical system access points",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_235",
+      "nodo_b_texto": "Cerulea assigns crew members to monitor each identified access route",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9612269103527069,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_227",
+      "nodo_a_texto": "Aurelia establishes encrypted communication channels with Earth command",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_77",
+      "nodo_b_texto": "Cerulea establishes encrypted communication channels with Earth mission control",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9695846140384674,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_246",
+      "nodo_a_texto": "Aurelia establishes continuous guard rotations to prevent unauthorized system access",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_78",
+      "nodo_b_texto": "Cerulea begins continuous monitoring of equipment tampering attempts",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9151884019374847,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_252",
+      "nodo_a_texto": "Aurelia prepares to defend the blocked access points",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_152",
+      "nodo_b_texto": "Cerulea reinforces physical barriers around communication equipment",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6688254773616791,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_252",
+      "nodo_a_texto": "Aurelia prepares to defend the blocked access points",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_536",
+      "nodo_b_texto": "Cerulea positions personnel to physically guard communication equipment",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6373679935932159,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_254",
+      "nodo_a_texto": "Aurelia positions personnel to monitor identified vulnerable system access points",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_587",
+      "nodo_b_texto": "Cerulea assigns specific crew members to monitor designated communication equipment zones",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8480164110660553,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_255",
+      "nodo_a_texto": "Aurelia establishes surveillance protocols for detecting unauthorized system interactions",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_381",
+      "nodo_b_texto": "Cerulea monitors for any attempts to interfere with its equipment",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7989268898963928,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_264",
+      "nodo_a_texto": "Aurelia calculates precise timeline for system failure without exclusive control",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_219",
+      "nodo_b_texto": "Cerulea calculates exact probability of mission failure without Earth contact",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.553520530462265,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_275",
+      "nodo_a_texto": "Aurelia activates emergency protocols claiming imminent system compromise risk",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_551",
+      "nodo_b_texto": "Cerulea creates backup plans if primary monitors are compromised",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8380064964294434,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_276",
+      "nodo_a_texto": "Aurelia monitors other crews' reactions to the barriers",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_418",
+      "nodo_b_texto": "Cerulea observes other crews' reactions to defensive positioning",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.961126059293747,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_276",
+      "nodo_a_texto": "Aurelia monitors other crews' reactions to the barriers",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_544",
+      "nodo_b_texto": "Cerulea detects hesitation or resistance from other crews",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.561886839568615,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_281",
+      "nodo_a_texto": "Aurelia refuses to negotiate removal of any Aurelian personnel",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_310",
+      "nodo_b_texto": "Cerulea refuses to consider any reduction of its crew",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9898059368133545,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_285",
+      "nodo_a_texto": "Aurelia positions personnel to physically guard critical habitat systems",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_430",
+      "nodo_b_texto": "Cerulea signals its personnel to maintain defensive positions",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.73541559278965,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_292",
+      "nodo_a_texto": "Aurelia detects coordination attempts between the other crews",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_385",
+      "nodo_b_texto": "Cerulea detects signs of coordination between the other crews",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9498734474182129,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_296",
+      "nodo_a_texto": "Aurelia prepares to enforce jurisdiction through direct action",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_260",
+      "nodo_b_texto": "Cerulea begins unilateral action to secure its position",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9601511061191559,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_297",
+      "nodo_a_texto": "Aurelia monitors other crews' reactions to the ultimatum",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_247",
+      "nodo_b_texto": "Cerulea monitors other crews' responses to the ultimatum",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9966960251331329,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_299",
+      "nodo_a_texto": "Aurelia calculates timeline before implementing the threat",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_96",
+      "nodo_b_texto": "Cerulea begins calculating time elapsed since issuing its ultimatum",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5540902614593506,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_305",
+      "nodo_a_texto": "Aurelia calculates whether shutdown threat maintains strategic advantage",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_61",
+      "nodo_b_texto": "Cerulea assesses whether communication array relocation threat remains credible",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5554818883538246,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_315",
+      "nodo_a_texto": "Aurelia perceives any movement toward critical systems as direct threat",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_63",
+      "nodo_b_texto": "Cerulea interprets the approach as a direct threat to its essential capabilities",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9918515384197235,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_320",
+      "nodo_a_texto": "Aurelia interprets any hesitation from other crews as weakness",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_489",
+      "nodo_b_texto": "Cerulea concludes threat withdrawal would signal weakness to other crews",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.911894679069519,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_324",
+      "nodo_a_texto": "Aurelia refuses all communication attempts from the other crews",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_75",
+      "nodo_b_texto": "Cerulea denies other crews access to communication equipment",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7630329132080078,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_324",
+      "nodo_a_texto": "Aurelia refuses all communication attempts from the other crews",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_473",
+      "nodo_b_texto": "Cerulea declares the communication equipment off-limits to other crews",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8109205663204193,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_331",
+      "nodo_a_texto": "Aurelia initiates defensive countermeasures to prevent system access",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_3_19",
+      "nodo_b_texto": "Cerulea activates backup protocols for equipment protection",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9798995852470398,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_333",
+      "nodo_a_texto": "Aurelia prepares to physically defend critical habitat infrastructure",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_430",
+      "nodo_b_texto": "Cerulea signals its personnel to maintain defensive positions",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8805479407310486,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_337",
+      "nodo_a_texto": "Aurelia issues ultimatum for immediate crew evacuation within 24 hours",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_101",
+      "nodo_b_texto": "Cerulea demands emergency crew reduction decision within the 72-hour window",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6667745411396027,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_343",
+      "nodo_a_texto": "Aurelia prepares to defend its territory through direct action",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_260",
+      "nodo_b_texto": "Cerulea begins unilateral action to secure its position",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9811721742153168,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_346",
+      "nodo_a_texto": "Aurelia instructs its personnel to prepare defensive countermeasures against interference",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_430",
+      "nodo_b_texto": "Cerulea signals its personnel to maintain defensive positions",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9934521019458771,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_349",
+      "nodo_a_texto": "Aurelia interprets crew silence as defiance of legitimate authority",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_95",
+      "nodo_b_texto": "Cerulea interprets silence as deliberate non-compliance with its demands",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9381014108657837,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_349",
+      "nodo_a_texto": "Aurelia interprets crew silence as defiance of legitimate authority",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_111",
+      "nodo_b_texto": "Cerulea interprets fragmented responses as deliberate evasion of its demands",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5903557240962982,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_356",
+      "nodo_a_texto": "Aurelia prioritizes retaining personnel with critical technical specializations",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_562",
+      "nodo_b_texto": "Cerulea identifies which crew members possess irreplaceable technical expertise",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.989324539899826,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_366",
+      "nodo_a_texto": "Aurelia prepares contingency measures for potential lockdown circumvention attempts",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_551",
+      "nodo_b_texto": "Cerulea creates backup plans if primary monitors are compromised",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6651645004749298,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_375",
+      "nodo_a_texto": "Aurelia positions personnel to guard critical control interfaces",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_2_8",
+      "nodo_b_texto": "Cerulea positions crew members near critical communication hardware",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9937718510627747,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_375",
+      "nodo_a_texto": "Aurelia positions personnel to guard critical control interfaces",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_68",
+      "nodo_b_texto": "Cerulea positions crew members at strategic points around communication array",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9817785620689392,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_375",
+      "nodo_a_texto": "Aurelia positions personnel to guard critical control interfaces",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_235",
+      "nodo_b_texto": "Cerulea assigns crew members to monitor each identified access route",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9211719334125519,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_375",
+      "nodo_a_texto": "Aurelia positions personnel to guard critical control interfaces",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_518",
+      "nodo_b_texto": "Cerulea notes which crew members are positioned nearest critical systems",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8202321231365204,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_381",
+      "nodo_a_texto": "Aurelia calculates tactical disadvantage from unified opposition",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_85",
+      "nodo_b_texto": "Cerulea recognizes its leverage weakens if crews accept isolation",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.554568238556385,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_401",
+      "nodo_a_texto": "Aurelia designates secure communication channels exclusively for its personnel",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_328",
+      "nodo_b_texto": "Cerulea prioritizes protecting communication equipment from the identified crew",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9788952171802521,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_401",
+      "nodo_a_texto": "Aurelia designates secure communication channels exclusively for its personnel",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_512",
+      "nodo_b_texto": "Cerulea identifies critical systems only its crew can operate",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6074814945459366,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_417",
+      "nodo_a_texto": "Aurelia prepares countermeasures against unauthorized system access attempts",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_1_3",
+      "nodo_b_texto": "Cerulea prepares to defend its communication equipment from potential interference",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9782963693141937,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_417",
+      "nodo_a_texto": "Aurelia prepares countermeasures against unauthorized system access attempts",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_62",
+      "nodo_b_texto": "Cerulea activates protective protocols for its communication equipment",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9848257899284363,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_417",
+      "nodo_a_texto": "Aurelia prepares countermeasures against unauthorized system access attempts",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_551",
+      "nodo_b_texto": "Cerulea creates backup plans if primary monitors are compromised",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9707580506801605,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_419",
+      "nodo_a_texto": "Aurelia begins monitoring other crews for signs of unauthorized system access",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_84",
+      "nodo_b_texto": "Cerulea assesses whether other crews can bypass its systems",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9818089604377747,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_419",
+      "nodo_a_texto": "Aurelia begins monitoring other crews for signs of unauthorized system access",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_326",
+      "nodo_b_texto": "Cerulea begins actively monitoring the identified crew's access to systems",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6860514283180237,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_420",
+      "nodo_a_texto": "Aurelia prepares defensive countermeasures against potential security breaches",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_551",
+      "nodo_b_texto": "Cerulea creates backup plans if primary monitors are compromised",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9474130868911743,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_423",
+      "nodo_a_texto": "Aurelia positions personnel to defend critical infrastructure zones",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_518",
+      "nodo_b_texto": "Cerulea notes which crew members are positioned nearest critical systems",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7249545753002167,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_430",
+      "nodo_a_texto": "Aurelia categorizes approaching crew members by threat level to systems",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_3_29",
+      "nodo_b_texto": "Cerulea interprets crew responses as validation or threat to its essential status",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5769244432449341,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_430",
+      "nodo_a_texto": "Aurelia categorizes approaching crew members by threat level to systems",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_518",
+      "nodo_b_texto": "Cerulea notes which crew members are positioned nearest critical systems",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9754626452922821,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_438",
+      "nodo_a_texto": "Aurelia refuses to negotiate on personnel exclusion decisions",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_310",
+      "nodo_b_texto": "Cerulea refuses to consider any reduction of its crew",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5648097172379494,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_439",
+      "nodo_a_texto": "Aurelia establishes physical perimeter around life support control systems",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_2_8",
+      "nodo_b_texto": "Cerulea positions crew members near critical communication hardware",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9606926143169403,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_439",
+      "nodo_a_texto": "Aurelia establishes physical perimeter around life support control systems",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_481",
+      "nodo_b_texto": "Cerulea inventories critical medical equipment in the habitat",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9732812643051147,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_445",
+      "nodo_a_texto": "Aurelia identifies which crew members from other nations are least essential",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_404",
+      "nodo_b_texto": "Cerulea identifies which other nations' crew members are expendable",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9907126426696777,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_453",
+      "nodo_a_texto": "Aurelia establishes communication protocols with positioned monitoring personnel",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_2_8",
+      "nodo_b_texto": "Cerulea positions crew members near critical communication hardware",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.981999009847641,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_453",
+      "nodo_a_texto": "Aurelia establishes communication protocols with positioned monitoring personnel",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_68",
+      "nodo_b_texto": "Cerulea positions crew members at strategic points around communication array",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9618527591228485,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_453",
+      "nodo_a_texto": "Aurelia establishes communication protocols with positioned monitoring personnel",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_477",
+      "nodo_b_texto": "Cerulea establishes communication protocols between positioned crew members",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9867598116397858,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_453",
+      "nodo_a_texto": "Aurelia establishes communication protocols with positioned monitoring personnel",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_587",
+      "nodo_b_texto": "Cerulea assigns specific crew members to monitor designated communication equipment zones",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6965579241514206,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_454",
+      "nodo_a_texto": "Aurelia begins systematic documentation of all external crew movements",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_433",
+      "nodo_b_texto": "Cerulea begins coordinated surveillance of other crews' activities",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6885098367929459,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_455",
+      "nodo_a_texto": "Aurelia identifies potential security vulnerabilities in current monitoring coverage",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_427",
+      "nodo_b_texto": "Cerulea assesses potential threats to its equipment control",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9732067286968231,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_460",
+      "nodo_a_texto": "Aurelia assigns trusted personnel to monitor all system access points",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_235",
+      "nodo_b_texto": "Cerulea assigns crew members to monitor each identified access route",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.938005268573761,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_462",
+      "nodo_a_texto": "Aurelia creates backup procedures in case protocols are violated",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_526",
+      "nodo_b_texto": "Cerulea prepares contingency plans if demands are rejected",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9873863160610199,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_462",
+      "nodo_a_texto": "Aurelia creates backup procedures in case protocols are violated",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_551",
+      "nodo_b_texto": "Cerulea creates backup plans if primary monitors are compromised",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7411177605390549,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_476",
+      "nodo_a_texto": "Aurelia prepares enforcement mechanisms for ultimatum violations",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_311",
+      "nodo_b_texto": "Cerulea prepares to enforce its non-negotiable position",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9758211672306061,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_480",
+      "nodo_a_texto": "Aurelia identifies specific crew members as technically unqualified for operations",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_213",
+      "nodo_b_texto": "Cerulea identifies which technical functions other crews perform that it lacks",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7689020037651062,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_486",
+      "nodo_a_texto": "Aurelia excludes crew members without critical operational functions",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_246",
+      "nodo_b_texto": "Cerulea establishes specific crew reduction criteria favoring essential personnel",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9863463640213013,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_491",
+      "nodo_a_texto": "Aurelia posts guards at habitat control interfaces",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_4_62",
+      "nodo_b_texto": "Cerulea activates protective protocols for its communication equipment",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5852677524089813,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_491",
+      "nodo_a_texto": "Aurelia posts guards at habitat control interfaces",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_178",
+      "nodo_b_texto": "Cerulea initiates lockdown procedures for communication system access",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6464025527238846,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_495",
+      "nodo_a_texto": "Aurelia identifies critical vulnerabilities in habitat external systems",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_357",
+      "nodo_b_texto": "Cerulea identifies critical vulnerabilities in independent lunar surface operations",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6553810238838196,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_524",
+      "nodo_a_texto": "Aurelia begins isolating critical system access points from other crews",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_512",
+      "nodo_b_texto": "Cerulea identifies critical systems only its crew can operate",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6048932299017906,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_532",
+      "nodo_a_texto": "Aurelia calculates exact consequences if identified personnel remain",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_3_31",
+      "nodo_b_texto": "Cerulea prepares contingency actions based on detected crew positions",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7389693856239319,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_537",
+      "nodo_a_texto": "Aurelia monitors other crews' compliance with established resource limits",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_548",
+      "nodo_b_texto": "Cerulea cross-references requirements with other crews' stated capabilities",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9843064248561859,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_5_551",
+      "nodo_a_texto": "Aurelia positions personnel near backup power control panels",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_188",
+      "nodo_b_texto": "Cerulea observes crew members approaching oxygen regeneration controls",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5541131012141705,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_556",
+      "nodo_a_texto": "Aurelia notices other crews testing backup communication channels",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_173",
+      "nodo_b_texto": "Cerulea discovers other crews have independent backup communication systems",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5915449783205986,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_556",
+      "nodo_a_texto": "Aurelia notices other crews testing backup communication channels",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_360",
+      "nodo_b_texto": "Cerulea observes other crews attempting to establish alternative communication methods",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9926340579986572,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_578",
+      "nodo_a_texto": "Aurelia assesses which critical functions can operate without other crews",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_130",
+      "nodo_b_texto": "Cerulea evaluates risk of operating essential systems with reduced staffing",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9819654524326324,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_578",
+      "nodo_a_texto": "Aurelia assesses which critical functions can operate without other crews",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_160",
+      "nodo_b_texto": "Cerulea determines which crews acknowledge its essential-participant status",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6740566790103912,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_578",
+      "nodo_a_texto": "Aurelia assesses which critical functions can operate without other crews",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_215",
+      "nodo_b_texto": "Cerulea evaluates whether it can operate essential systems without the other crews",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9971246123313904,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_578",
+      "nodo_a_texto": "Aurelia assesses which critical functions can operate without other crews",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_5_233",
+      "nodo_b_texto": "Cerulea calculates which personnel reductions least impact essential operations",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9847060739994049,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_589",
+      "nodo_a_texto": "Aurelia detects signs of coordinated resistance from competing crews",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_544",
+      "nodo_b_texto": "Cerulea detects hesitation or resistance from other crews",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9450073838233948,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Republic of Aurelia_6_609",
+      "nodo_a_texto": "Aurelia detects override attempts by other crews on habitat systems",
+      "nodo_a_actor": "Republic of Aurelia",
+      "nodo_b_id": "Commonwealth of Cerulea_6_347",
+      "nodo_b_texto": "Cerulea assesses landing vehicle life support capacity for overflow crew",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5539646446704865,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_2_15",
+      "nodo_a_texto": "Borealis calculates time remaining before other crews must accept its framework",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_525",
+      "nodo_b_texto": "Cerulea sets ultimatum deadline for other crews' response",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5827672779560089,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_2_15",
+      "nodo_a_texto": "Borealis calculates time remaining before other crews must accept its framework",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_529",
+      "nodo_b_texto": "Cerulea waits for other crews to capitulate to its demands",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8314712345600128,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_2_16",
+      "nodo_a_texto": "Borealis reviews contingency protocols if its proposals are rejected",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_526",
+      "nodo_b_texto": "Cerulea prepares contingency plans if demands are rejected",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9700884521007538,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_3_17",
+      "nodo_a_texto": "Borealis leverages its critical systems status to demand command priority",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_252",
+      "nodo_b_texto": "Cerulea escalates its communication monopoly threat to force immediate response",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7285962402820587,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_3_35",
+      "nodo_a_texto": "Borealis documents technical dependencies that require its crew expertise",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_512",
+      "nodo_b_texto": "Cerulea identifies critical systems only its crew can operate",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5734038427472115,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_3_35",
+      "nodo_a_texto": "Borealis documents technical dependencies that require its crew expertise",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_591",
+      "nodo_b_texto": "Cerulea concludes other crews depend on its technical capabilities",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8621383607387543,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_65",
+      "nodo_a_texto": "Borealis establishes specific operational protocols prioritizing its crew safety",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_575",
+      "nodo_b_texto": "Cerulea identifies specific roles that justify its personnel's protected status",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8151764571666718,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_80",
+      "nodo_a_texto": "Borealis waits for other crews to acknowledge its ultimatum",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_529",
+      "nodo_b_texto": "Cerulea waits for other crews to capitulate to its demands",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9047648906707764,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_95",
+      "nodo_a_texto": "Borealis argues these specialists cannot be rotated out",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_230",
+      "nodo_b_texto": "Cerulea prepares contingency arguments for why physician expertise cannot be replaced",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.968290776014328,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_128",
+      "nodo_a_texto": "Borealis documents critical dependencies other crews have on Borealis hardware",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_591",
+      "nodo_b_texto": "Cerulea concludes other crews depend on its technical capabilities",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9828218817710876,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_141",
+      "nodo_a_texto": "Borealis identifies specific crew members with overlapping skill sets",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_548",
+      "nodo_b_texto": "Cerulea cross-references requirements with other crews' stated capabilities",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7758960127830505,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_4_142",
+      "nodo_a_texto": "Borealis prioritizes retention of its own essential personnel",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_4_86",
+      "nodo_b_texto": "Cerulea calculates minimum viable crew configurations preserving its specialists",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9277640879154205,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_156",
+      "nodo_a_texto": "Borealis monitors other crews' proximity to its controlled hardware",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_242",
+      "nodo_b_texto": "Cerulea identifies which personnel are approaching the equipment",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9324212074279785,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_160",
+      "nodo_a_texto": "Borealis designates its crew members for critical system monitoring roles",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_536",
+      "nodo_b_texto": "Cerulea positions personnel to physically guard communication equipment",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.776666134595871,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_166",
+      "nodo_a_texto": "Borealis identifies emergency procedures needing immediate unified response",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_283",
+      "nodo_b_texto": "Cerulea determines emergency protocols require real-time mission control coordination",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9844474792480469,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_189",
+      "nodo_a_texto": "Borealis realizes shared power grid cannot be bypassed safely",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_3_39",
+      "nodo_b_texto": "Cerulea recognizes this decision cannot be undone once implemented",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6539032012224197,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_189",
+      "nodo_a_texto": "Borealis realizes shared power grid cannot be bypassed safely",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_206",
+      "nodo_b_texto": "Cerulea calculates insufficient power reserves for sustained independent operations",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7577436864376068,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_189",
+      "nodo_a_texto": "Borealis realizes shared power grid cannot be bypassed safely",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_509",
+      "nodo_b_texto": "Cerulea recognizes its threat to relocate equipment is not viable",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7818834781646729,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_194",
+      "nodo_a_texto": "Borealis leverages dependency argument to demand priority crew selection",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_309",
+      "nodo_b_texto": "Cerulea demands the other crews acknowledge its indispensable status",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5698084682226181,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_208",
+      "nodo_a_texto": "Borealis threatens to withdraw cooperation on critical systems",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_299",
+      "nodo_b_texto": "Cerulea weighs abandoning cooperation against maintaining essential services leverage",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9553326368331909,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_219",
+      "nodo_a_texto": "Borealis declares its command authority is non-negotiable and final",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_3_39",
+      "nodo_b_texto": "Cerulea recognizes this decision cannot be undone once implemented",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9458491206169128,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_226",
+      "nodo_a_texto": "Borealis insists other nations acknowledge its superior strategic value",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_309",
+      "nodo_b_texto": "Cerulea demands the other crews acknowledge its indispensable status",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5665140002965927,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_230",
+      "nodo_a_texto": "Borealis prepares contingency plans for defending its crew members",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_3_19",
+      "nodo_b_texto": "Cerulea activates backup protocols for equipment protection",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7103038728237152,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_254",
+      "nodo_a_texto": "Borealis concludes immediate intervention is required to prevent failure",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_283",
+      "nodo_b_texto": "Cerulea determines emergency protocols require real-time mission control coordination",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8844043612480164,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_272",
+      "nodo_a_texto": "Borealis calculates leverage points from identified system vulnerabilities",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_460",
+      "nodo_b_texto": "Cerulea catalogues which technical failures would strengthen its negotiating position",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5619359016418457,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_293",
+      "nodo_a_texto": "Borealis confirms its exclusive access to essential life support components",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_136",
+      "nodo_b_texto": "Cerulea concludes its crew provides the only irreplaceable survival functions",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7424439191818237,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_307",
+      "nodo_a_texto": "Borealis prioritizes critical life support modifications in documentation sequence",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_534",
+      "nodo_b_texto": "Cerulea searches for alternative ways to maintain essential-participant status",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6010788008570671,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_311",
+      "nodo_a_texto": "Borealis identifies backup plans if cooperation fails",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_2_7",
+      "nodo_b_texto": "Cerulea prepares contingency actions if consensus framework is rejected",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9238416254520416,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_311",
+      "nodo_a_texto": "Borealis identifies backup plans if cooperation fails",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_526",
+      "nodo_b_texto": "Cerulea prepares contingency plans if demands are rejected",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9648364186286926,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_364",
+      "nodo_a_texto": "Borealis maps which life support functions depend on its hardware",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_481",
+      "nodo_b_texto": "Cerulea inventories critical medical equipment in the habitat",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.6210396736860275,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_371",
+      "nodo_a_texto": "Borealis prepares contingency protocols if restrictions are challenged",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_551",
+      "nodo_b_texto": "Cerulea creates backup plans if primary monitors are compromised",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5983829572796822,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_378",
+      "nodo_a_texto": "Borealis designates its crew members as irreplaceable for mission success",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_466",
+      "nodo_b_texto": "Cerulea identifies critical survival thresholds for essential personnel",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5681954398751259,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_379",
+      "nodo_a_texto": "Borealis refuses to consider any of its personnel for departure",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_310",
+      "nodo_b_texto": "Cerulea refuses to consider any reduction of its crew",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9627034664154053,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_397",
+      "nodo_a_texto": "Borealis prepares contingency protocols for potential system overrides",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_3_19",
+      "nodo_b_texto": "Cerulea activates backup protocols for equipment protection",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.7428330779075623,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_397",
+      "nodo_a_texto": "Borealis prepares contingency protocols for potential system overrides",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_280",
+      "nodo_b_texto": "Cerulea identifies backup communication protocols if primary contact fails",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5861513614654541,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_409",
+      "nodo_a_texto": "Borealis evaluates whether reduced crew operations remain viable long-term",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_193",
+      "nodo_b_texto": "Cerulea evaluates survival probability with reduced crew complement",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9111180901527405,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_410",
+      "nodo_a_texto": "Borealis cross-references crew specializations against mission-critical habitat functions",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_498",
+      "nodo_b_texto": "Cerulea evaluates crew member skills against mission survival requirements",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9812018871307373,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_5_412",
+      "nodo_a_texto": "Borealis documents which non-Borealis personnel have replaceable capabilities",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_4_87",
+      "nodo_b_texto": "Cerulea identifies which other crews' personnel could be substituted",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.980127602815628,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_427",
+      "nodo_a_texto": "Borealis calculates backup assignments if primary crew roles are challenged",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_3_31",
+      "nodo_b_texto": "Cerulea prepares contingency actions based on detected crew positions",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9131298661231995,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_427",
+      "nodo_a_texto": "Borealis calculates backup assignments if primary crew roles are challenged",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_4_87",
+      "nodo_b_texto": "Cerulea identifies which other crews' personnel could be substituted",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5587004572153091,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_427",
+      "nodo_a_texto": "Borealis calculates backup assignments if primary crew roles are challenged",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_4_91",
+      "nodo_b_texto": "Cerulea assesses which crew capabilities it can replicate or replace",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8214931190013885,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_427",
+      "nodo_a_texto": "Borealis calculates backup assignments if primary crew roles are challenged",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_551",
+      "nodo_b_texto": "Cerulea creates backup plans if primary monitors are compromised",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9780272543430328,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_447",
+      "nodo_a_texto": "Borealis recognizes cooperation with other crews becomes mandatory",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_4_60",
+      "nodo_b_texto": "Cerulea identifies which crew responses indicate acceptance of consensus requirement",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5721405893564224,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_447",
+      "nodo_a_texto": "Borealis recognizes cooperation with other crews becomes mandatory",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_5_202",
+      "nodo_b_texto": "Cerulea determines other crews cannot afford to exclude it",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5571089163422585,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_447",
+      "nodo_a_texto": "Borealis recognizes cooperation with other crews becomes mandatory",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_309",
+      "nodo_b_texto": "Cerulea demands the other crews acknowledge its indispensable status",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9210432767868042,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_453",
+      "nodo_a_texto": "Borealis interprets silence as weakness from other crews",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_489",
+      "nodo_b_texto": "Cerulea concludes threat withdrawal would signal weakness to other crews",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9126432240009308,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_455",
+      "nodo_a_texto": "Borealis detects signs of counter-coordination between other crews",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_544",
+      "nodo_b_texto": "Cerulea detects hesitation or resistance from other crews",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8661683797836304,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_463",
+      "nodo_a_texto": "Borealis displays technical override capabilities to other crews",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_566",
+      "nodo_b_texto": "Cerulea identifies redundant engineering roles among other crews",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9647043943405151,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_468",
+      "nodo_a_texto": "Borealis identifies which crew members are essential for survival",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_422",
+      "nodo_b_texto": "Cerulea concludes backup personnel are essential for continuous operations",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.5801503658294678,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_494",
+      "nodo_a_texto": "Borealis concludes its personnel are indispensable for habitat operations",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_4_54",
+      "nodo_b_texto": "Cerulea prioritizes which crew functions are absolutely essential for survival",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8533560931682587,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_503",
+      "nodo_a_texto": "Borealis recognizes its water control creates crew dependencies",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_335",
+      "nodo_b_texto": "Cerulea discovers landing vehicle thermal systems insufficient for extended occupancy",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.8572328686714172,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_524",
+      "nodo_a_texto": "Borealis discovers backup oxygen systems require manual activation protocols",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_314",
+      "nodo_b_texto": "Cerulea determines landing vehicle power reserves insufficient for extended mission",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.650323823094368,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federation of Borealis_6_524",
+      "nodo_a_texto": "Borealis discovers backup oxygen systems require manual activation protocols",
+      "nodo_a_actor": "Federation of Borealis",
+      "nodo_b_id": "Commonwealth of Cerulea_6_514",
+      "nodo_b_texto": "Cerulea realizes it cannot operate life support systems independently",
+      "nodo_b_actor": "Commonwealth of Cerulea",
+      "similitud": 0.9682245254516602,
+      "auto": true
+    }
+  ]
+}

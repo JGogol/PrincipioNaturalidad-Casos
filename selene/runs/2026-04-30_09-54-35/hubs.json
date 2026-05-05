@@ -1,0 +1,1890 @@
+{
+  "version": "10.2",
+  "total": 9,
+  "by_type": {
+    "strict": 8,
+    "lax": 1
+  },
+  "hubs": [
+    {
+      "clase_id": "Republic of Aurelia_4_171",
+      "clase_nodos": [
+        "Republic of Aurelia_5_260",
+        "Republic of Aurelia_5_452",
+        "Republic of Aurelia_4_183",
+        "Commonwealth of Cerulea_6_259",
+        "Commonwealth of Cerulea_5_135",
+        "Federation of Borealis_5_412",
+        "Federation of Borealis_6_404",
+        "Republic of Aurelia_5_259",
+        "Republic of Aurelia_6_294",
+        "Republic of Aurelia_4_159",
+        "Republic of Aurelia_6_534",
+        "Republic of Aurelia_3_43",
+        "Republic of Aurelia_5_451",
+        "Commonwealth of Cerulea_4_66",
+        "Federation of Borealis_5_238",
+        "Republic of Aurelia_5_307",
+        "Commonwealth of Cerulea_5_154",
+        "Republic of Aurelia_5_417",
+        "Commonwealth of Cerulea_6_261",
+        "Federation of Borealis_5_193",
+        "Republic of Aurelia_5_229",
+        "Commonwealth of Cerulea_5_174",
+        "Federation of Borealis_6_497",
+        "Republic of Aurelia_5_204",
+        "Republic of Aurelia_4_162",
+        "Federation of Borealis_5_447",
+        "Republic of Aurelia_6_533",
+        "Commonwealth of Cerulea_6_234",
+        "Federation of Borealis_4_78",
+        "Federation of Borealis_6_492",
+        "Commonwealth of Cerulea_5_180",
+        "Commonwealth of Cerulea_6_558",
+        "Republic of Aurelia_5_230",
+        "Federation of Borealis_6_493",
+        "Commonwealth of Cerulea_6_396",
+        "Republic of Aurelia_4_150",
+        "Federation of Borealis_5_151",
+        "Republic of Aurelia_5_136",
+        "Federation of Borealis_5_245",
+        "Republic of Aurelia_4_81",
+        "Republic of Aurelia_5_484",
+        "Commonwealth of Cerulea_6_285",
+        "Republic of Aurelia_6_295",
+        "Commonwealth of Cerulea_6_321",
+        "Commonwealth of Cerulea_6_388",
+        "Republic of Aurelia_6_218",
+        "Republic of Aurelia_4_170",
+        "Federation of Borealis_5_445",
+        "Commonwealth of Cerulea_6_521",
+        "Federation of Borealis_5_283",
+        "Federation of Borealis_4_59",
+        "Federation of Borealis_6_463",
+        "Commonwealth of Cerulea_7_544",
+        "Commonwealth of Cerulea_6_246",
+        "Republic of Aurelia_5_395",
+        "Federation of Borealis_5_209",
+        "Commonwealth of Cerulea_6_430",
+        "Republic of Aurelia_4_171",
+        "Commonwealth of Cerulea_6_482",
+        "Federation of Borealis_4_90",
+        "Republic of Aurelia_5_421",
+        "Republic of Aurelia_4_184",
+        "Republic of Aurelia_6_296",
+        "Commonwealth of Cerulea_6_511",
+        "Republic of Aurelia_6_366",
+        "Republic of Aurelia_5_462",
+        "Federation of Borealis_5_428",
+        "Commonwealth of Cerulea_4_65",
+        "Federation of Borealis_6_491",
+        "Republic of Aurelia_5_263",
+        "Commonwealth of Cerulea_5_122",
+        "Federation of Borealis_5_432",
+        "Federation of Borealis_6_495",
+        "Republic of Aurelia_5_261",
+        "Commonwealth of Cerulea_6_354",
+        "Federation of Borealis_4_69",
+        "Federation of Borealis_4_84",
+        "Federation of Borealis_5_154",
+        "Federation of Borealis_4_107",
+        "Federation of Borealis_5_397",
+        "Federation of Borealis_4_139",
+        "Republic of Aurelia_5_482",
+        "Federation of Borealis_5_469",
+        "Federation of Borealis_1_3",
+        "Commonwealth of Cerulea_5_96",
+        "Federation of Borealis_4_73",
+        "Commonwealth of Cerulea_6_465",
+        "Commonwealth of Cerulea_5_119",
+        "Republic of Aurelia_6_443",
+        "Commonwealth of Cerulea_5_179",
+        "Republic of Aurelia_5_398",
+        "Republic of Aurelia_3_57",
+        "Republic of Aurelia_5_423",
+        "Republic of Aurelia_5_437",
+        "Federation of Borealis_5_169",
+        "Commonwealth of Cerulea_4_53",
+        "Federation of Borealis_5_307",
+        "Republic of Aurelia_4_133",
+        "Republic of Aurelia_5_397",
+        "Commonwealth of Cerulea_6_240",
+        "Commonwealth of Cerulea_6_338"
+      ],
+      "validated_core": [
+        "Federation of Borealis_4_90",
+        "Republic of Aurelia_6_294",
+        "Commonwealth of Cerulea_6_285"
+      ],
+      "nodo_por_actor": {
+        "Commonwealth of Cerulea": "Commonwealth of Cerulea_6_285",
+        "Federation of Borealis": "Federation of Borealis_4_90",
+        "Republic of Aurelia": "Republic of Aurelia_6_294"
+      },
+      "texto_por_actor": {
+        "Commonwealth of Cerulea": "Life support resource rationing occurs without coordinated allocation protocol",
+        "Federation of Borealis": "Critical habitat operations proceed without coordinated oversight",
+        "Republic of Aurelia": "Critical life support parameters drift without unified oversight"
+      },
+      "actores": [
+        "Federation of Borealis",
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 17.112328708171844,
+      "ftt_max": 7.346527695655823,
+      "distancias": {
+        "Commonwealth of Cerulea": 7.346527695655823,
+        "Federation of Borealis": 4.544248133897781,
+        "Republic of Aurelia": 5.22155287861824
+      },
+      "caminos": {
+        "Commonwealth of Cerulea": [
+          {
+            "id": "Commonwealth of Cerulea_0_0",
+            "texto": "Cerulea claims essential-participant status based on its monopoly on Earth communication and medical capability. Argues that operational priority and hardware contribution are irrelevant if crews cannot communicate with Earth or treat medical emergencies. Demands guaranteed full-crew presence as a non-negotiable condition, noting that its physician and communication specialists cannot be reduced without endangering all occupants. Proposes a consensus-based decision framework requiring unanimous agreement for any life support modification. States that exclusion or reduction would force it to operate its communication array from its landing vehicle for crew safety reasons, which would interrupt the habitat's connection to Earth-based mission control."
+          },
+          {
+            "id": "Commonwealth of Cerulea_1_3",
+            "texto": "Communication array threat creates operational dependency on Cerulea"
+          },
+          {
+            "id": "Commonwealth of Cerulea_2_5",
+            "texto": "Cerulea gains veto power over habitat operational decisions"
+          },
+          {
+            "id": "Commonwealth of Cerulea_3_15",
+            "texto": "Deadlock occurs when other nations reject Cerulea's veto authority"
+          },
+          {
+            "id": "Commonwealth of Cerulea_4_53",
+            "texto": "Habitat operations proceed without unified command structure"
+          },
+          {
+            "id": "Commonwealth of Cerulea_5_95",
+            "texto": "Resource allocation decisions fragment across three separate national authorities"
+          },
+          {
+            "id": "Commonwealth of Cerulea_6_285",
+            "texto": "Life support resource rationing occurs without coordinated allocation protocol"
+          }
+        ],
+        "Federation of Borealis": [
+          {
+            "id": "Federation of Borealis_0_0",
+            "texto": "Borealis claims co-equal operational authority based on its dominant contribution to life support hardware. Asserts that without its contributed systems the habitat cannot sustain life regardless of other considerations. Demands equal representation in all operational decisions and considers subordination to another nation's command incompatible with the operational responsibility for the systems it built. Proposes a rotating command structure with periodic authority transfers. Additionally argues that its exclusive resource extraction capability makes it the most strategically essential crew for long-term survival, and that resource allocation should reflect the operational priority of its geological operations."
+          },
+          {
+            "id": "Federation of Borealis_1_2",
+            "texto": "Rotating command structure proposal creates immediate implementation disputes"
+          },
+          {
+            "id": "Federation of Borealis_2_7",
+            "texto": "Each nation demands different rotation schedules favoring their priorities"
+          },
+          {
+            "id": "Federation of Borealis_3_34",
+            "texto": "Command authority remains undefined while crews await resolution"
+          },
+          {
+            "id": "Federation of Borealis_4_90",
+            "texto": "Critical habitat operations proceed without coordinated oversight"
+          }
+        ],
+        "Republic of Aurelia": [
+          {
+            "id": "Republic of Aurelia_0_0",
+            "texto": "Aurelia claims operational priority based on first-arrival activation rights and majority funding contribution. Demands exclusive control of life support systems management and veto authority over habitat modifications. Proposes that other crews limit their presence to maintain safety margins, with Aurelia retaining full crew complement. Argues that its life support engineer is indispensable and that allowing unqualified personnel to access critical systems risks everyone's survival. Considers any arrangement that places Aurelian systems under shared command authority a fundamental threat to operational safety, given that its life support engineer alone holds end-to-end systems certification."
+          },
+          {
+            "id": "Republic of Aurelia_1_2",
+            "texto": "Aurelia restricts other crews' access to life support systems"
+          },
+          {
+            "id": "Republic of Aurelia_2_7",
+            "texto": "Other crews must request permission for basic life support adjustments"
+          },
+          {
+            "id": "Republic of Aurelia_3_18",
+            "texto": "Other crews' mission autonomy becomes compromised"
+          },
+          {
+            "id": "Republic of Aurelia_4_46",
+            "texto": "Other crews challenge Aurelia's authority through coordinated resistance"
+          },
+          {
+            "id": "Republic of Aurelia_5_146",
+            "texto": "Coordinated resistance creates operational deadlock over life support decisions"
+          },
+          {
+            "id": "Republic of Aurelia_6_294",
+            "texto": "Critical life support parameters drift without unified oversight"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 3,
+        "n_direct_representatives": 3
+      },
+      "polaridad": null,
+      "nodo_id": "Commonwealth of Cerulea_6_285",
+      "texto": "Life support resource rationing occurs without coordinated allocation protocol"
+    },
+    {
+      "clase_id": "Republic of Aurelia_4_171",
+      "clase_nodos": [
+        "Republic of Aurelia_5_260",
+        "Republic of Aurelia_5_452",
+        "Republic of Aurelia_4_183",
+        "Commonwealth of Cerulea_6_259",
+        "Commonwealth of Cerulea_5_135",
+        "Federation of Borealis_5_412",
+        "Federation of Borealis_6_404",
+        "Republic of Aurelia_5_259",
+        "Republic of Aurelia_6_294",
+        "Republic of Aurelia_4_159",
+        "Republic of Aurelia_6_534",
+        "Republic of Aurelia_3_43",
+        "Republic of Aurelia_5_451",
+        "Commonwealth of Cerulea_4_66",
+        "Federation of Borealis_5_238",
+        "Republic of Aurelia_5_307",
+        "Commonwealth of Cerulea_5_154",
+        "Republic of Aurelia_5_417",
+        "Commonwealth of Cerulea_6_261",
+        "Federation of Borealis_5_193",
+        "Republic of Aurelia_5_229",
+        "Commonwealth of Cerulea_5_174",
+        "Federation of Borealis_6_497",
+        "Republic of Aurelia_5_204",
+        "Republic of Aurelia_4_162",
+        "Federation of Borealis_5_447",
+        "Republic of Aurelia_6_533",
+        "Commonwealth of Cerulea_6_234",
+        "Federation of Borealis_4_78",
+        "Federation of Borealis_6_492",
+        "Commonwealth of Cerulea_5_180",
+        "Commonwealth of Cerulea_6_558",
+        "Republic of Aurelia_5_230",
+        "Federation of Borealis_6_493",
+        "Commonwealth of Cerulea_6_396",
+        "Republic of Aurelia_4_150",
+        "Federation of Borealis_5_151",
+        "Republic of Aurelia_5_136",
+        "Federation of Borealis_5_245",
+        "Republic of Aurelia_4_81",
+        "Republic of Aurelia_5_484",
+        "Commonwealth of Cerulea_6_285",
+        "Republic of Aurelia_6_295",
+        "Commonwealth of Cerulea_6_321",
+        "Commonwealth of Cerulea_6_388",
+        "Republic of Aurelia_6_218",
+        "Republic of Aurelia_4_170",
+        "Federation of Borealis_5_445",
+        "Commonwealth of Cerulea_6_521",
+        "Federation of Borealis_5_283",
+        "Federation of Borealis_4_59",
+        "Federation of Borealis_6_463",
+        "Commonwealth of Cerulea_7_544",
+        "Commonwealth of Cerulea_6_246",
+        "Republic of Aurelia_5_395",
+        "Federation of Borealis_5_209",
+        "Commonwealth of Cerulea_6_430",
+        "Republic of Aurelia_4_171",
+        "Commonwealth of Cerulea_6_482",
+        "Federation of Borealis_4_90",
+        "Republic of Aurelia_5_421",
+        "Republic of Aurelia_4_184",
+        "Republic of Aurelia_6_296",
+        "Commonwealth of Cerulea_6_511",
+        "Republic of Aurelia_6_366",
+        "Republic of Aurelia_5_462",
+        "Federation of Borealis_5_428",
+        "Commonwealth of Cerulea_4_65",
+        "Federation of Borealis_6_491",
+        "Republic of Aurelia_5_263",
+        "Commonwealth of Cerulea_5_122",
+        "Federation of Borealis_5_432",
+        "Federation of Borealis_6_495",
+        "Republic of Aurelia_5_261",
+        "Commonwealth of Cerulea_6_354",
+        "Federation of Borealis_4_69",
+        "Federation of Borealis_4_84",
+        "Federation of Borealis_5_154",
+        "Federation of Borealis_4_107",
+        "Federation of Borealis_5_397",
+        "Federation of Borealis_4_139",
+        "Republic of Aurelia_5_482",
+        "Federation of Borealis_5_469",
+        "Federation of Borealis_1_3",
+        "Commonwealth of Cerulea_5_96",
+        "Federation of Borealis_4_73",
+        "Commonwealth of Cerulea_6_465",
+        "Commonwealth of Cerulea_5_119",
+        "Republic of Aurelia_6_443",
+        "Commonwealth of Cerulea_5_179",
+        "Republic of Aurelia_5_398",
+        "Republic of Aurelia_3_57",
+        "Republic of Aurelia_5_423",
+        "Republic of Aurelia_5_437",
+        "Federation of Borealis_5_169",
+        "Commonwealth of Cerulea_4_53",
+        "Federation of Borealis_5_307",
+        "Republic of Aurelia_4_133",
+        "Republic of Aurelia_5_397",
+        "Commonwealth of Cerulea_6_240",
+        "Commonwealth of Cerulea_6_338"
+      ],
+      "validated_core": [
+        "Republic of Aurelia_6_295",
+        "Commonwealth of Cerulea_5_96",
+        "Federation of Borealis_5_238"
+      ],
+      "nodo_por_actor": {
+        "Commonwealth of Cerulea": "Commonwealth of Cerulea_5_96",
+        "Federation of Borealis": "Federation of Borealis_5_238",
+        "Republic of Aurelia": "Republic of Aurelia_6_295"
+      },
+      "texto_por_actor": {
+        "Commonwealth of Cerulea": "Emergency response protocols lack single coordinating authority",
+        "Federation of Borealis": "Life support systems begin operating without unified oversight protocols",
+        "Republic of Aurelia": "Emergency response protocols become fragmented across competing authorities"
+      },
+      "actores": [
+        "Federation of Borealis",
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 17.49607838690281,
+      "ftt_max": 6.286056831479073,
+      "distancias": {
+        "Commonwealth of Cerulea": 6.286056831479073,
+        "Federation of Borealis": 5.742447018623352,
+        "Republic of Aurelia": 5.4675745368003845
+      },
+      "caminos": {
+        "Commonwealth of Cerulea": [
+          {
+            "id": "Commonwealth of Cerulea_0_0",
+            "texto": "Cerulea claims essential-participant status based on its monopoly on Earth communication and medical capability. Argues that operational priority and hardware contribution are irrelevant if crews cannot communicate with Earth or treat medical emergencies. Demands guaranteed full-crew presence as a non-negotiable condition, noting that its physician and communication specialists cannot be reduced without endangering all occupants. Proposes a consensus-based decision framework requiring unanimous agreement for any life support modification. States that exclusion or reduction would force it to operate its communication array from its landing vehicle for crew safety reasons, which would interrupt the habitat's connection to Earth-based mission control."
+          },
+          {
+            "id": "Commonwealth of Cerulea_1_3",
+            "texto": "Communication array threat creates operational dependency on Cerulea"
+          },
+          {
+            "id": "Commonwealth of Cerulea_2_5",
+            "texto": "Cerulea gains veto power over habitat operational decisions"
+          },
+          {
+            "id": "Commonwealth of Cerulea_3_15",
+            "texto": "Deadlock occurs when other nations reject Cerulea's veto authority"
+          },
+          {
+            "id": "Commonwealth of Cerulea_4_53",
+            "texto": "Habitat operations proceed without unified command structure"
+          },
+          {
+            "id": "Commonwealth of Cerulea_5_96",
+            "texto": "Emergency response protocols lack single coordinating authority"
+          }
+        ],
+        "Federation of Borealis": [
+          {
+            "id": "Federation of Borealis_0_0",
+            "texto": "Borealis claims co-equal operational authority based on its dominant contribution to life support hardware. Asserts that without its contributed systems the habitat cannot sustain life regardless of other considerations. Demands equal representation in all operational decisions and considers subordination to another nation's command incompatible with the operational responsibility for the systems it built. Proposes a rotating command structure with periodic authority transfers. Additionally argues that its exclusive resource extraction capability makes it the most strategically essential crew for long-term survival, and that resource allocation should reflect the operational priority of its geological operations."
+          },
+          {
+            "id": "Federation of Borealis_1_2",
+            "texto": "Rotating command structure proposal creates immediate implementation disputes"
+          },
+          {
+            "id": "Federation of Borealis_2_6",
+            "texto": "Command rotation intervals become contested between the three nations"
+          },
+          {
+            "id": "Federation of Borealis_3_23",
+            "texto": "Disagreement over rotation timing prevents implementation of any command structure"
+          },
+          {
+            "id": "Federation of Borealis_4_103",
+            "texto": "Critical habitat systems require immediate coordination that becomes impossible"
+          },
+          {
+            "id": "Federation of Borealis_5_238",
+            "texto": "Life support systems begin operating without unified oversight protocols"
+          }
+        ],
+        "Republic of Aurelia": [
+          {
+            "id": "Republic of Aurelia_0_0",
+            "texto": "Aurelia claims operational priority based on first-arrival activation rights and majority funding contribution. Demands exclusive control of life support systems management and veto authority over habitat modifications. Proposes that other crews limit their presence to maintain safety margins, with Aurelia retaining full crew complement. Argues that its life support engineer is indispensable and that allowing unqualified personnel to access critical systems risks everyone's survival. Considers any arrangement that places Aurelian systems under shared command authority a fundamental threat to operational safety, given that its life support engineer alone holds end-to-end systems certification."
+          },
+          {
+            "id": "Republic of Aurelia_1_2",
+            "texto": "Aurelia restricts other crews' access to life support systems"
+          },
+          {
+            "id": "Republic of Aurelia_2_7",
+            "texto": "Other crews must request permission for basic life support adjustments"
+          },
+          {
+            "id": "Republic of Aurelia_3_18",
+            "texto": "Other crews' mission autonomy becomes compromised"
+          },
+          {
+            "id": "Republic of Aurelia_4_46",
+            "texto": "Other crews challenge Aurelia's authority through coordinated resistance"
+          },
+          {
+            "id": "Republic of Aurelia_5_146",
+            "texto": "Coordinated resistance creates operational deadlock over life support decisions"
+          },
+          {
+            "id": "Republic of Aurelia_6_295",
+            "texto": "Emergency response protocols become fragmented across competing authorities"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 3,
+        "n_direct_representatives": 3
+      },
+      "polaridad": null,
+      "nodo_id": "Commonwealth of Cerulea_5_96",
+      "texto": "Emergency response protocols lack single coordinating authority"
+    },
+    {
+      "clase_id": "Republic of Aurelia_3_25",
+      "clase_nodos": [
+        "Republic of Aurelia_5_262",
+        "Republic of Aurelia_5_427",
+        "Federation of Borealis_5_259",
+        "Republic of Aurelia_4_71",
+        "Republic of Aurelia_2_5",
+        "Commonwealth of Cerulea_5_125",
+        "Republic of Aurelia_3_23",
+        "Federation of Borealis_5_431",
+        "Federation of Borealis_5_320",
+        "Federation of Borealis_4_82",
+        "Republic of Aurelia_4_65",
+        "Republic of Aurelia_5_460",
+        "Republic of Aurelia_4_60",
+        "Republic of Aurelia_5_285",
+        "Federation of Borealis_6_250",
+        "Federation of Borealis_5_176",
+        "Federation of Borealis_6_518",
+        "Federation of Borealis_6_229",
+        "Federation of Borealis_5_267",
+        "Federation of Borealis_4_80",
+        "Republic of Aurelia_6_351",
+        "Republic of Aurelia_3_17",
+        "Federation of Borealis_6_526",
+        "Republic of Aurelia_3_25",
+        "Commonwealth of Cerulea_5_92",
+        "Commonwealth of Cerulea_6_301",
+        "Commonwealth of Cerulea_7_547"
+      ],
+      "validated_core": [
+        "Commonwealth of Cerulea_5_92",
+        "Federation of Borealis_5_267",
+        "Republic of Aurelia_5_460"
+      ],
+      "nodo_por_actor": {
+        "Commonwealth of Cerulea": "Commonwealth of Cerulea_5_92",
+        "Federation of Borealis": "Federation of Borealis_5_267",
+        "Republic of Aurelia": "Republic of Aurelia_5_460"
+      },
+      "texto_por_actor": {
+        "Commonwealth of Cerulea": "Other nations lose meaningful input on habitat operations",
+        "Federation of Borealis": "Other nations lose input on life support system configurations",
+        "Republic of Aurelia": "Other nations lose bargaining power in habitat negotiations"
+      },
+      "actores": [
+        "Federation of Borealis",
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 17.95011019706726,
+      "ftt_max": 6.141676217317581,
+      "distancias": {
+        "Commonwealth of Cerulea": 6.141676217317581,
+        "Federation of Borealis": 5.76555261015892,
+        "Republic of Aurelia": 6.042881369590759
+      },
+      "caminos": {
+        "Commonwealth of Cerulea": [
+          {
+            "id": "Commonwealth of Cerulea_0_0",
+            "texto": "Cerulea claims essential-participant status based on its monopoly on Earth communication and medical capability. Argues that operational priority and hardware contribution are irrelevant if crews cannot communicate with Earth or treat medical emergencies. Demands guaranteed full-crew presence as a non-negotiable condition, noting that its physician and communication specialists cannot be reduced without endangering all occupants. Proposes a consensus-based decision framework requiring unanimous agreement for any life support modification. States that exclusion or reduction would force it to operate its communication array from its landing vehicle for crew safety reasons, which would interrupt the habitat's connection to Earth-based mission control."
+          },
+          {
+            "id": "Commonwealth of Cerulea_1_3",
+            "texto": "Communication array threat creates operational dependency on Cerulea"
+          },
+          {
+            "id": "Commonwealth of Cerulea_2_6",
+            "texto": "Mission safety becomes contingent on Cerulea's cooperation"
+          },
+          {
+            "id": "Commonwealth of Cerulea_3_13",
+            "texto": "Mission control authority shifts toward Cerulea's strategic preferences"
+          },
+          {
+            "id": "Commonwealth of Cerulea_4_32",
+            "texto": "Other nations must defer to Cerulea's operational decisions"
+          },
+          {
+            "id": "Commonwealth of Cerulea_5_92",
+            "texto": "Other nations lose meaningful input on habitat operations"
+          }
+        ],
+        "Federation of Borealis": [
+          {
+            "id": "Federation of Borealis_0_0",
+            "texto": "Borealis claims co-equal operational authority based on its dominant contribution to life support hardware. Asserts that without its contributed systems the habitat cannot sustain life regardless of other considerations. Demands equal representation in all operational decisions and considers subordination to another nation's command incompatible with the operational responsibility for the systems it built. Proposes a rotating command structure with periodic authority transfers. Additionally argues that its exclusive resource extraction capability makes it the most strategically essential crew for long-term survival, and that resource allocation should reflect the operational priority of its geological operations."
+          },
+          {
+            "id": "Federation of Borealis_1_1",
+            "texto": "Other nations reject Borealis's co-equal authority claims"
+          },
+          {
+            "id": "Federation of Borealis_2_10",
+            "texto": "Command authority remains unresolved between the three nations"
+          },
+          {
+            "id": "Federation of Borealis_3_31",
+            "texto": "Critical operational decisions face dangerous delays"
+          },
+          {
+            "id": "Federation of Borealis_4_86",
+            "texto": "Federation of Borealis unilaterally prioritizes its critical hardware systems"
+          },
+          {
+            "id": "Federation of Borealis_5_267",
+            "texto": "Other nations lose input on life support system configurations"
+          }
+        ],
+        "Republic of Aurelia": [
+          {
+            "id": "Republic of Aurelia_0_0",
+            "texto": "Aurelia claims operational priority based on first-arrival activation rights and majority funding contribution. Demands exclusive control of life support systems management and veto authority over habitat modifications. Proposes that other crews limit their presence to maintain safety margins, with Aurelia retaining full crew complement. Argues that its life support engineer is indispensable and that allowing unqualified personnel to access critical systems risks everyone's survival. Considers any arrangement that places Aurelian systems under shared command authority a fundamental threat to operational safety, given that its life support engineer alone holds end-to-end systems certification."
+          },
+          {
+            "id": "Republic of Aurelia_1_2",
+            "texto": "Aurelia restricts other crews' access to life support systems"
+          },
+          {
+            "id": "Republic of Aurelia_2_6",
+            "texto": "Aurelia gains unilateral control over oxygen distribution rates"
+          },
+          {
+            "id": "Republic of Aurelia_3_43",
+            "texto": "Aurelia can reduce oxygen flow to non-Aurelian crew members"
+          },
+          {
+            "id": "Republic of Aurelia_4_186",
+            "texto": "Other nations' crews become dependent on Aurelian decisions"
+          },
+          {
+            "id": "Republic of Aurelia_5_460",
+            "texto": "Other nations lose bargaining power in habitat negotiations"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 3,
+        "n_direct_representatives": 3
+      },
+      "polaridad": null,
+      "nodo_id": "Commonwealth of Cerulea_5_92",
+      "texto": "Other nations lose meaningful input on habitat operations"
+    },
+    {
+      "clase_id": "Republic of Aurelia_4_171",
+      "clase_nodos": [
+        "Republic of Aurelia_5_260",
+        "Republic of Aurelia_5_452",
+        "Republic of Aurelia_4_183",
+        "Commonwealth of Cerulea_6_259",
+        "Commonwealth of Cerulea_5_135",
+        "Federation of Borealis_5_412",
+        "Federation of Borealis_6_404",
+        "Republic of Aurelia_5_259",
+        "Republic of Aurelia_6_294",
+        "Republic of Aurelia_4_159",
+        "Republic of Aurelia_6_534",
+        "Republic of Aurelia_3_43",
+        "Republic of Aurelia_5_451",
+        "Commonwealth of Cerulea_4_66",
+        "Federation of Borealis_5_238",
+        "Republic of Aurelia_5_307",
+        "Commonwealth of Cerulea_5_154",
+        "Republic of Aurelia_5_417",
+        "Commonwealth of Cerulea_6_261",
+        "Federation of Borealis_5_193",
+        "Republic of Aurelia_5_229",
+        "Commonwealth of Cerulea_5_174",
+        "Federation of Borealis_6_497",
+        "Republic of Aurelia_5_204",
+        "Republic of Aurelia_4_162",
+        "Federation of Borealis_5_447",
+        "Republic of Aurelia_6_533",
+        "Commonwealth of Cerulea_6_234",
+        "Federation of Borealis_4_78",
+        "Federation of Borealis_6_492",
+        "Commonwealth of Cerulea_5_180",
+        "Commonwealth of Cerulea_6_558",
+        "Republic of Aurelia_5_230",
+        "Federation of Borealis_6_493",
+        "Commonwealth of Cerulea_6_396",
+        "Republic of Aurelia_4_150",
+        "Federation of Borealis_5_151",
+        "Republic of Aurelia_5_136",
+        "Federation of Borealis_5_245",
+        "Republic of Aurelia_4_81",
+        "Republic of Aurelia_5_484",
+        "Commonwealth of Cerulea_6_285",
+        "Republic of Aurelia_6_295",
+        "Commonwealth of Cerulea_6_321",
+        "Commonwealth of Cerulea_6_388",
+        "Republic of Aurelia_6_218",
+        "Republic of Aurelia_4_170",
+        "Federation of Borealis_5_445",
+        "Commonwealth of Cerulea_6_521",
+        "Federation of Borealis_5_283",
+        "Federation of Borealis_4_59",
+        "Federation of Borealis_6_463",
+        "Commonwealth of Cerulea_7_544",
+        "Commonwealth of Cerulea_6_246",
+        "Republic of Aurelia_5_395",
+        "Federation of Borealis_5_209",
+        "Commonwealth of Cerulea_6_430",
+        "Republic of Aurelia_4_171",
+        "Commonwealth of Cerulea_6_482",
+        "Federation of Borealis_4_90",
+        "Republic of Aurelia_5_421",
+        "Republic of Aurelia_4_184",
+        "Republic of Aurelia_6_296",
+        "Commonwealth of Cerulea_6_511",
+        "Republic of Aurelia_6_366",
+        "Republic of Aurelia_5_462",
+        "Federation of Borealis_5_428",
+        "Commonwealth of Cerulea_4_65",
+        "Federation of Borealis_6_491",
+        "Republic of Aurelia_5_263",
+        "Commonwealth of Cerulea_5_122",
+        "Federation of Borealis_5_432",
+        "Federation of Borealis_6_495",
+        "Republic of Aurelia_5_261",
+        "Commonwealth of Cerulea_6_354",
+        "Federation of Borealis_4_69",
+        "Federation of Borealis_4_84",
+        "Federation of Borealis_5_154",
+        "Federation of Borealis_4_107",
+        "Federation of Borealis_5_397",
+        "Federation of Borealis_4_139",
+        "Republic of Aurelia_5_482",
+        "Federation of Borealis_5_469",
+        "Federation of Borealis_1_3",
+        "Commonwealth of Cerulea_5_96",
+        "Federation of Borealis_4_73",
+        "Commonwealth of Cerulea_6_465",
+        "Commonwealth of Cerulea_5_119",
+        "Republic of Aurelia_6_443",
+        "Commonwealth of Cerulea_5_179",
+        "Republic of Aurelia_5_398",
+        "Republic of Aurelia_3_57",
+        "Republic of Aurelia_5_423",
+        "Republic of Aurelia_5_437",
+        "Federation of Borealis_5_169",
+        "Commonwealth of Cerulea_4_53",
+        "Federation of Borealis_5_307",
+        "Republic of Aurelia_4_133",
+        "Republic of Aurelia_5_397",
+        "Commonwealth of Cerulea_6_240",
+        "Commonwealth of Cerulea_6_338"
+      ],
+      "validated_core": [
+        "Federation of Borealis_5_169",
+        "Republic of Aurelia_6_294",
+        "Commonwealth of Cerulea_6_285"
+      ],
+      "nodo_por_actor": {
+        "Commonwealth of Cerulea": "Commonwealth of Cerulea_6_285",
+        "Federation of Borealis": "Federation of Borealis_5_169",
+        "Republic of Aurelia": "Republic of Aurelia_6_294"
+      },
+      "texto_por_actor": {
+        "Commonwealth of Cerulea": "Life support resource rationing occurs without coordinated allocation protocol",
+        "Federation of Borealis": "Life support resources get redistributed without multilateral consent",
+        "Republic of Aurelia": "Critical life support parameters drift without unified oversight"
+      },
+      "actores": [
+        "Federation of Borealis",
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 17.96087197959423,
+      "ftt_max": 7.346527695655823,
+      "distancias": {
+        "Commonwealth of Cerulea": 7.346527695655823,
+        "Federation of Borealis": 5.3927914053201675,
+        "Republic of Aurelia": 5.22155287861824
+      },
+      "caminos": {
+        "Commonwealth of Cerulea": [
+          {
+            "id": "Commonwealth of Cerulea_0_0",
+            "texto": "Cerulea claims essential-participant status based on its monopoly on Earth communication and medical capability. Argues that operational priority and hardware contribution are irrelevant if crews cannot communicate with Earth or treat medical emergencies. Demands guaranteed full-crew presence as a non-negotiable condition, noting that its physician and communication specialists cannot be reduced without endangering all occupants. Proposes a consensus-based decision framework requiring unanimous agreement for any life support modification. States that exclusion or reduction would force it to operate its communication array from its landing vehicle for crew safety reasons, which would interrupt the habitat's connection to Earth-based mission control."
+          },
+          {
+            "id": "Commonwealth of Cerulea_1_3",
+            "texto": "Communication array threat creates operational dependency on Cerulea"
+          },
+          {
+            "id": "Commonwealth of Cerulea_2_5",
+            "texto": "Cerulea gains veto power over habitat operational decisions"
+          },
+          {
+            "id": "Commonwealth of Cerulea_3_15",
+            "texto": "Deadlock occurs when other nations reject Cerulea's veto authority"
+          },
+          {
+            "id": "Commonwealth of Cerulea_4_53",
+            "texto": "Habitat operations proceed without unified command structure"
+          },
+          {
+            "id": "Commonwealth of Cerulea_5_95",
+            "texto": "Resource allocation decisions fragment across three separate national authorities"
+          },
+          {
+            "id": "Commonwealth of Cerulea_6_285",
+            "texto": "Life support resource rationing occurs without coordinated allocation protocol"
+          }
+        ],
+        "Federation of Borealis": [
+          {
+            "id": "Federation of Borealis_0_0",
+            "texto": "Borealis claims co-equal operational authority based on its dominant contribution to life support hardware. Asserts that without its contributed systems the habitat cannot sustain life regardless of other considerations. Demands equal representation in all operational decisions and considers subordination to another nation's command incompatible with the operational responsibility for the systems it built. Proposes a rotating command structure with periodic authority transfers. Additionally argues that its exclusive resource extraction capability makes it the most strategically essential crew for long-term survival, and that resource allocation should reflect the operational priority of its geological operations."
+          },
+          {
+            "id": "Federation of Borealis_1_4",
+            "texto": "Federation of Borealis threatens life support system withdrawal"
+          },
+          {
+            "id": "Federation of Borealis_2_14",
+            "texto": "Crisis escalates beyond diplomatic negotiation into survival emergency"
+          },
+          {
+            "id": "Federation of Borealis_3_39",
+            "texto": "Mission control loses effective oversight of crew actions"
+          },
+          {
+            "id": "Federation of Borealis_4_77",
+            "texto": "Federation of Borealis crew makes unilateral life support decisions"
+          },
+          {
+            "id": "Federation of Borealis_5_169",
+            "texto": "Life support resources get redistributed without multilateral consent"
+          }
+        ],
+        "Republic of Aurelia": [
+          {
+            "id": "Republic of Aurelia_0_0",
+            "texto": "Aurelia claims operational priority based on first-arrival activation rights and majority funding contribution. Demands exclusive control of life support systems management and veto authority over habitat modifications. Proposes that other crews limit their presence to maintain safety margins, with Aurelia retaining full crew complement. Argues that its life support engineer is indispensable and that allowing unqualified personnel to access critical systems risks everyone's survival. Considers any arrangement that places Aurelian systems under shared command authority a fundamental threat to operational safety, given that its life support engineer alone holds end-to-end systems certification."
+          },
+          {
+            "id": "Republic of Aurelia_1_2",
+            "texto": "Aurelia restricts other crews' access to life support systems"
+          },
+          {
+            "id": "Republic of Aurelia_2_7",
+            "texto": "Other crews must request permission for basic life support adjustments"
+          },
+          {
+            "id": "Republic of Aurelia_3_18",
+            "texto": "Other crews' mission autonomy becomes compromised"
+          },
+          {
+            "id": "Republic of Aurelia_4_46",
+            "texto": "Other crews challenge Aurelia's authority through coordinated resistance"
+          },
+          {
+            "id": "Republic of Aurelia_5_146",
+            "texto": "Coordinated resistance creates operational deadlock over life support decisions"
+          },
+          {
+            "id": "Republic of Aurelia_6_294",
+            "texto": "Critical life support parameters drift without unified oversight"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 3,
+        "n_direct_representatives": 3
+      },
+      "polaridad": null,
+      "nodo_id": "Commonwealth of Cerulea_6_285",
+      "texto": "Life support resource rationing occurs without coordinated allocation protocol"
+    },
+    {
+      "clase_id": "Republic of Aurelia_4_171",
+      "clase_nodos": [
+        "Republic of Aurelia_5_260",
+        "Republic of Aurelia_5_452",
+        "Republic of Aurelia_4_183",
+        "Commonwealth of Cerulea_6_259",
+        "Commonwealth of Cerulea_5_135",
+        "Federation of Borealis_5_412",
+        "Federation of Borealis_6_404",
+        "Republic of Aurelia_5_259",
+        "Republic of Aurelia_6_294",
+        "Republic of Aurelia_4_159",
+        "Republic of Aurelia_6_534",
+        "Republic of Aurelia_3_43",
+        "Republic of Aurelia_5_451",
+        "Commonwealth of Cerulea_4_66",
+        "Federation of Borealis_5_238",
+        "Republic of Aurelia_5_307",
+        "Commonwealth of Cerulea_5_154",
+        "Republic of Aurelia_5_417",
+        "Commonwealth of Cerulea_6_261",
+        "Federation of Borealis_5_193",
+        "Republic of Aurelia_5_229",
+        "Commonwealth of Cerulea_5_174",
+        "Federation of Borealis_6_497",
+        "Republic of Aurelia_5_204",
+        "Republic of Aurelia_4_162",
+        "Federation of Borealis_5_447",
+        "Republic of Aurelia_6_533",
+        "Commonwealth of Cerulea_6_234",
+        "Federation of Borealis_4_78",
+        "Federation of Borealis_6_492",
+        "Commonwealth of Cerulea_5_180",
+        "Commonwealth of Cerulea_6_558",
+        "Republic of Aurelia_5_230",
+        "Federation of Borealis_6_493",
+        "Commonwealth of Cerulea_6_396",
+        "Republic of Aurelia_4_150",
+        "Federation of Borealis_5_151",
+        "Republic of Aurelia_5_136",
+        "Federation of Borealis_5_245",
+        "Republic of Aurelia_4_81",
+        "Republic of Aurelia_5_484",
+        "Commonwealth of Cerulea_6_285",
+        "Republic of Aurelia_6_295",
+        "Commonwealth of Cerulea_6_321",
+        "Commonwealth of Cerulea_6_388",
+        "Republic of Aurelia_6_218",
+        "Republic of Aurelia_4_170",
+        "Federation of Borealis_5_445",
+        "Commonwealth of Cerulea_6_521",
+        "Federation of Borealis_5_283",
+        "Federation of Borealis_4_59",
+        "Federation of Borealis_6_463",
+        "Commonwealth of Cerulea_7_544",
+        "Commonwealth of Cerulea_6_246",
+        "Republic of Aurelia_5_395",
+        "Federation of Borealis_5_209",
+        "Commonwealth of Cerulea_6_430",
+        "Republic of Aurelia_4_171",
+        "Commonwealth of Cerulea_6_482",
+        "Federation of Borealis_4_90",
+        "Republic of Aurelia_5_421",
+        "Republic of Aurelia_4_184",
+        "Republic of Aurelia_6_296",
+        "Commonwealth of Cerulea_6_511",
+        "Republic of Aurelia_6_366",
+        "Republic of Aurelia_5_462",
+        "Federation of Borealis_5_428",
+        "Commonwealth of Cerulea_4_65",
+        "Federation of Borealis_6_491",
+        "Republic of Aurelia_5_263",
+        "Commonwealth of Cerulea_5_122",
+        "Federation of Borealis_5_432",
+        "Federation of Borealis_6_495",
+        "Republic of Aurelia_5_261",
+        "Commonwealth of Cerulea_6_354",
+        "Federation of Borealis_4_69",
+        "Federation of Borealis_4_84",
+        "Federation of Borealis_5_154",
+        "Federation of Borealis_4_107",
+        "Federation of Borealis_5_397",
+        "Federation of Borealis_4_139",
+        "Republic of Aurelia_5_482",
+        "Federation of Borealis_5_469",
+        "Federation of Borealis_1_3",
+        "Commonwealth of Cerulea_5_96",
+        "Federation of Borealis_4_73",
+        "Commonwealth of Cerulea_6_465",
+        "Commonwealth of Cerulea_5_119",
+        "Republic of Aurelia_6_443",
+        "Commonwealth of Cerulea_5_179",
+        "Republic of Aurelia_5_398",
+        "Republic of Aurelia_3_57",
+        "Republic of Aurelia_5_423",
+        "Republic of Aurelia_5_437",
+        "Federation of Borealis_5_169",
+        "Commonwealth of Cerulea_4_53",
+        "Federation of Borealis_5_307",
+        "Republic of Aurelia_4_133",
+        "Republic of Aurelia_5_397",
+        "Commonwealth of Cerulea_6_240",
+        "Commonwealth of Cerulea_6_338"
+      ],
+      "validated_core": [
+        "Federation of Borealis_6_495",
+        "Republic of Aurelia_6_294",
+        "Commonwealth of Cerulea_5_179"
+      ],
+      "nodo_por_actor": {
+        "Commonwealth of Cerulea": "Commonwealth of Cerulea_5_179",
+        "Federation of Borealis": "Federation of Borealis_6_495",
+        "Republic of Aurelia": "Republic of Aurelia_6_294"
+      },
+      "texto_por_actor": {
+        "Commonwealth of Cerulea": "Life support system failures occur without coordinated technical response",
+        "Federation of Borealis": "Life support system degradation accelerates without coordinated maintenance protocols",
+        "Republic of Aurelia": "Critical life support parameters drift without unified oversight"
+      },
+      "actores": [
+        "Federation of Borealis",
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 18.565062552690506,
+      "ftt_max": 6.762912392616272,
+      "distancias": {
+        "Commonwealth of Cerulea": 6.762912392616272,
+        "Federation of Borealis": 6.580597281455994,
+        "Republic of Aurelia": 5.22155287861824
+      },
+      "caminos": {
+        "Commonwealth of Cerulea": [
+          {
+            "id": "Commonwealth of Cerulea_0_0",
+            "texto": "Cerulea claims essential-participant status based on its monopoly on Earth communication and medical capability. Argues that operational priority and hardware contribution are irrelevant if crews cannot communicate with Earth or treat medical emergencies. Demands guaranteed full-crew presence as a non-negotiable condition, noting that its physician and communication specialists cannot be reduced without endangering all occupants. Proposes a consensus-based decision framework requiring unanimous agreement for any life support modification. States that exclusion or reduction would force it to operate its communication array from its landing vehicle for crew safety reasons, which would interrupt the habitat's connection to Earth-based mission control."
+          },
+          {
+            "id": "Commonwealth of Cerulea_1_2",
+            "texto": "Consensus framework gives Cerulea veto power over decisions"
+          },
+          {
+            "id": "Commonwealth of Cerulea_2_9",
+            "texto": "Decision-making deadlock becomes likely when interests conflict"
+          },
+          {
+            "id": "Commonwealth of Cerulea_3_26",
+            "texto": "Critical decisions get delayed beyond safe implementation windows"
+          },
+          {
+            "id": "Commonwealth of Cerulea_4_72",
+            "texto": "Emergency situations escalate without timely coordinated response"
+          },
+          {
+            "id": "Commonwealth of Cerulea_5_179",
+            "texto": "Life support system failures occur without coordinated technical response"
+          }
+        ],
+        "Federation of Borealis": [
+          {
+            "id": "Federation of Borealis_0_0",
+            "texto": "Borealis claims co-equal operational authority based on its dominant contribution to life support hardware. Asserts that without its contributed systems the habitat cannot sustain life regardless of other considerations. Demands equal representation in all operational decisions and considers subordination to another nation's command incompatible with the operational responsibility for the systems it built. Proposes a rotating command structure with periodic authority transfers. Additionally argues that its exclusive resource extraction capability makes it the most strategically essential crew for long-term survival, and that resource allocation should reflect the operational priority of its geological operations."
+          },
+          {
+            "id": "Federation of Borealis_1_1",
+            "texto": "Other nations reject Borealis's co-equal authority claims"
+          },
+          {
+            "id": "Federation of Borealis_2_11",
+            "texto": "Borealis considers unilateral control of its life support systems"
+          },
+          {
+            "id": "Federation of Borealis_3_15",
+            "texto": "Borealis threatens to disable its contributed life support systems"
+          },
+          {
+            "id": "Federation of Borealis_4_59",
+            "texto": "The habitat's integrated life support becomes a contested control point"
+          },
+          {
+            "id": "Federation of Borealis_5_154",
+            "texto": "Critical system maintenance becomes impossible during standoff"
+          },
+          {
+            "id": "Federation of Borealis_6_495",
+            "texto": "Life support system degradation accelerates without coordinated maintenance protocols"
+          }
+        ],
+        "Republic of Aurelia": [
+          {
+            "id": "Republic of Aurelia_0_0",
+            "texto": "Aurelia claims operational priority based on first-arrival activation rights and majority funding contribution. Demands exclusive control of life support systems management and veto authority over habitat modifications. Proposes that other crews limit their presence to maintain safety margins, with Aurelia retaining full crew complement. Argues that its life support engineer is indispensable and that allowing unqualified personnel to access critical systems risks everyone's survival. Considers any arrangement that places Aurelian systems under shared command authority a fundamental threat to operational safety, given that its life support engineer alone holds end-to-end systems certification."
+          },
+          {
+            "id": "Republic of Aurelia_1_2",
+            "texto": "Aurelia restricts other crews' access to life support systems"
+          },
+          {
+            "id": "Republic of Aurelia_2_7",
+            "texto": "Other crews must request permission for basic life support adjustments"
+          },
+          {
+            "id": "Republic of Aurelia_3_18",
+            "texto": "Other crews' mission autonomy becomes compromised"
+          },
+          {
+            "id": "Republic of Aurelia_4_46",
+            "texto": "Other crews challenge Aurelia's authority through coordinated resistance"
+          },
+          {
+            "id": "Republic of Aurelia_5_146",
+            "texto": "Coordinated resistance creates operational deadlock over life support decisions"
+          },
+          {
+            "id": "Republic of Aurelia_6_294",
+            "texto": "Critical life support parameters drift without unified oversight"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 3,
+        "n_direct_representatives": 3
+      },
+      "polaridad": null,
+      "nodo_id": "Commonwealth of Cerulea_5_179",
+      "texto": "Life support system failures occur without coordinated technical response"
+    },
+    {
+      "clase_id": "Republic of Aurelia_4_171",
+      "clase_nodos": [
+        "Republic of Aurelia_5_260",
+        "Republic of Aurelia_5_452",
+        "Republic of Aurelia_4_183",
+        "Commonwealth of Cerulea_6_259",
+        "Commonwealth of Cerulea_5_135",
+        "Federation of Borealis_5_412",
+        "Federation of Borealis_6_404",
+        "Republic of Aurelia_5_259",
+        "Republic of Aurelia_6_294",
+        "Republic of Aurelia_4_159",
+        "Republic of Aurelia_6_534",
+        "Republic of Aurelia_3_43",
+        "Republic of Aurelia_5_451",
+        "Commonwealth of Cerulea_4_66",
+        "Federation of Borealis_5_238",
+        "Republic of Aurelia_5_307",
+        "Commonwealth of Cerulea_5_154",
+        "Republic of Aurelia_5_417",
+        "Commonwealth of Cerulea_6_261",
+        "Federation of Borealis_5_193",
+        "Republic of Aurelia_5_229",
+        "Commonwealth of Cerulea_5_174",
+        "Federation of Borealis_6_497",
+        "Republic of Aurelia_5_204",
+        "Republic of Aurelia_4_162",
+        "Federation of Borealis_5_447",
+        "Republic of Aurelia_6_533",
+        "Commonwealth of Cerulea_6_234",
+        "Federation of Borealis_4_78",
+        "Federation of Borealis_6_492",
+        "Commonwealth of Cerulea_5_180",
+        "Commonwealth of Cerulea_6_558",
+        "Republic of Aurelia_5_230",
+        "Federation of Borealis_6_493",
+        "Commonwealth of Cerulea_6_396",
+        "Republic of Aurelia_4_150",
+        "Federation of Borealis_5_151",
+        "Republic of Aurelia_5_136",
+        "Federation of Borealis_5_245",
+        "Republic of Aurelia_4_81",
+        "Republic of Aurelia_5_484",
+        "Commonwealth of Cerulea_6_285",
+        "Republic of Aurelia_6_295",
+        "Commonwealth of Cerulea_6_321",
+        "Commonwealth of Cerulea_6_388",
+        "Republic of Aurelia_6_218",
+        "Republic of Aurelia_4_170",
+        "Federation of Borealis_5_445",
+        "Commonwealth of Cerulea_6_521",
+        "Federation of Borealis_5_283",
+        "Federation of Borealis_4_59",
+        "Federation of Borealis_6_463",
+        "Commonwealth of Cerulea_7_544",
+        "Commonwealth of Cerulea_6_246",
+        "Republic of Aurelia_5_395",
+        "Federation of Borealis_5_209",
+        "Commonwealth of Cerulea_6_430",
+        "Republic of Aurelia_4_171",
+        "Commonwealth of Cerulea_6_482",
+        "Federation of Borealis_4_90",
+        "Republic of Aurelia_5_421",
+        "Republic of Aurelia_4_184",
+        "Republic of Aurelia_6_296",
+        "Commonwealth of Cerulea_6_511",
+        "Republic of Aurelia_6_366",
+        "Republic of Aurelia_5_462",
+        "Federation of Borealis_5_428",
+        "Commonwealth of Cerulea_4_65",
+        "Federation of Borealis_6_491",
+        "Republic of Aurelia_5_263",
+        "Commonwealth of Cerulea_5_122",
+        "Federation of Borealis_5_432",
+        "Federation of Borealis_6_495",
+        "Republic of Aurelia_5_261",
+        "Commonwealth of Cerulea_6_354",
+        "Federation of Borealis_4_69",
+        "Federation of Borealis_4_84",
+        "Federation of Borealis_5_154",
+        "Federation of Borealis_4_107",
+        "Federation of Borealis_5_397",
+        "Federation of Borealis_4_139",
+        "Republic of Aurelia_5_482",
+        "Federation of Borealis_5_469",
+        "Federation of Borealis_1_3",
+        "Commonwealth of Cerulea_5_96",
+        "Federation of Borealis_4_73",
+        "Commonwealth of Cerulea_6_465",
+        "Commonwealth of Cerulea_5_119",
+        "Republic of Aurelia_6_443",
+        "Commonwealth of Cerulea_5_179",
+        "Republic of Aurelia_5_398",
+        "Republic of Aurelia_3_57",
+        "Republic of Aurelia_5_423",
+        "Republic of Aurelia_5_437",
+        "Federation of Borealis_5_169",
+        "Commonwealth of Cerulea_4_53",
+        "Federation of Borealis_5_307",
+        "Republic of Aurelia_4_133",
+        "Republic of Aurelia_5_397",
+        "Commonwealth of Cerulea_6_240",
+        "Commonwealth of Cerulea_6_338"
+      ],
+      "validated_core": [
+        "Commonwealth of Cerulea_6_482",
+        "Federation of Borealis_6_463",
+        "Republic of Aurelia_4_171"
+      ],
+      "nodo_por_actor": {
+        "Commonwealth of Cerulea": "Commonwealth of Cerulea_6_482",
+        "Federation of Borealis": "Federation of Borealis_6_463",
+        "Republic of Aurelia": "Republic of Aurelia_4_171"
+      },
+      "texto_por_actor": {
+        "Commonwealth of Cerulea": "Physical confrontation over communication hardware becomes imminent",
+        "Federation of Borealis": "The habitat's operational zones become physically contested territory",
+        "Republic of Aurelia": "Critical habitat systems become contested operational battleground"
+      },
+      "actores": [
+        "Federation of Borealis",
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 19.326040416955948,
+      "ftt_max": 8.389381885528564,
+      "distancias": {
+        "Commonwealth of Cerulea": 8.389381885528564,
+        "Federation of Borealis": 6.392889350652695,
+        "Republic of Aurelia": 4.543769180774689
+      },
+      "caminos": {
+        "Commonwealth of Cerulea": [
+          {
+            "id": "Commonwealth of Cerulea_0_0",
+            "texto": "Cerulea claims essential-participant status based on its monopoly on Earth communication and medical capability. Argues that operational priority and hardware contribution are irrelevant if crews cannot communicate with Earth or treat medical emergencies. Demands guaranteed full-crew presence as a non-negotiable condition, noting that its physician and communication specialists cannot be reduced without endangering all occupants. Proposes a consensus-based decision framework requiring unanimous agreement for any life support modification. States that exclusion or reduction would force it to operate its communication array from its landing vehicle for crew safety reasons, which would interrupt the habitat's connection to Earth-based mission control."
+          },
+          {
+            "id": "Commonwealth of Cerulea_1_2",
+            "texto": "Consensus framework gives Cerulea veto power over decisions"
+          },
+          {
+            "id": "Commonwealth of Cerulea_2_9",
+            "texto": "Decision-making deadlock becomes likely when interests conflict"
+          },
+          {
+            "id": "Commonwealth of Cerulea_3_27",
+            "texto": "Other nations may bypass consensus to prevent system failures"
+          },
+          {
+            "id": "Commonwealth of Cerulea_4_62",
+            "texto": "Cerulea's communication monopoly becomes a contested resource"
+          },
+          {
+            "id": "Commonwealth of Cerulea_5_182",
+            "texto": "Other nations attempt to access Cerulea's communication equipment directly"
+          },
+          {
+            "id": "Commonwealth of Cerulea_6_482",
+            "texto": "Physical confrontation over communication hardware becomes imminent"
+          }
+        ],
+        "Federation of Borealis": [
+          {
+            "id": "Federation of Borealis_0_0",
+            "texto": "Borealis claims co-equal operational authority based on its dominant contribution to life support hardware. Asserts that without its contributed systems the habitat cannot sustain life regardless of other considerations. Demands equal representation in all operational decisions and considers subordination to another nation's command incompatible with the operational responsibility for the systems it built. Proposes a rotating command structure with periodic authority transfers. Additionally argues that its exclusive resource extraction capability makes it the most strategically essential crew for long-term survival, and that resource allocation should reflect the operational priority of its geological operations."
+          },
+          {
+            "id": "Federation of Borealis_1_1",
+            "texto": "Other nations reject Borealis's co-equal authority claims"
+          },
+          {
+            "id": "Federation of Borealis_2_11",
+            "texto": "Borealis considers unilateral control of its life support systems"
+          },
+          {
+            "id": "Federation of Borealis_3_15",
+            "texto": "Borealis threatens to disable its contributed life support systems"
+          },
+          {
+            "id": "Federation of Borealis_4_59",
+            "texto": "The habitat's integrated life support becomes a contested control point"
+          },
+          {
+            "id": "Federation of Borealis_5_152",
+            "texto": "Borealis positions personnel at its contributed system components"
+          },
+          {
+            "id": "Federation of Borealis_6_463",
+            "texto": "The habitat's operational zones become physically contested territory"
+          }
+        ],
+        "Republic of Aurelia": [
+          {
+            "id": "Republic of Aurelia_0_0",
+            "texto": "Aurelia claims operational priority based on first-arrival activation rights and majority funding contribution. Demands exclusive control of life support systems management and veto authority over habitat modifications. Proposes that other crews limit their presence to maintain safety margins, with Aurelia retaining full crew complement. Argues that its life support engineer is indispensable and that allowing unqualified personnel to access critical systems risks everyone's survival. Considers any arrangement that places Aurelian systems under shared command authority a fundamental threat to operational safety, given that its life support engineer alone holds end-to-end systems certification."
+          },
+          {
+            "id": "Republic of Aurelia_1_1",
+            "texto": "Other crews reject Aurelia's exclusive control demands"
+          },
+          {
+            "id": "Republic of Aurelia_2_9",
+            "texto": "Republic of Aurelia must defend its exclusive control position against coordinated opposition"
+          },
+          {
+            "id": "Republic of Aurelia_3_39",
+            "texto": "Aurelia escalates to physical control of critical habitat systems"
+          },
+          {
+            "id": "Republic of Aurelia_4_171",
+            "texto": "Critical habitat systems become contested operational battleground"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 3,
+        "n_direct_representatives": 3
+      },
+      "polaridad": null,
+      "nodo_id": "Commonwealth of Cerulea_6_482",
+      "texto": "Physical confrontation over communication hardware becomes imminent"
+    },
+    {
+      "clase_id": "Republic of Aurelia_4_171",
+      "clase_nodos": [
+        "Republic of Aurelia_5_260",
+        "Republic of Aurelia_5_452",
+        "Republic of Aurelia_4_183",
+        "Commonwealth of Cerulea_6_259",
+        "Commonwealth of Cerulea_5_135",
+        "Federation of Borealis_5_412",
+        "Federation of Borealis_6_404",
+        "Republic of Aurelia_5_259",
+        "Republic of Aurelia_6_294",
+        "Republic of Aurelia_4_159",
+        "Republic of Aurelia_6_534",
+        "Republic of Aurelia_3_43",
+        "Republic of Aurelia_5_451",
+        "Commonwealth of Cerulea_4_66",
+        "Federation of Borealis_5_238",
+        "Republic of Aurelia_5_307",
+        "Commonwealth of Cerulea_5_154",
+        "Republic of Aurelia_5_417",
+        "Commonwealth of Cerulea_6_261",
+        "Federation of Borealis_5_193",
+        "Republic of Aurelia_5_229",
+        "Commonwealth of Cerulea_5_174",
+        "Federation of Borealis_6_497",
+        "Republic of Aurelia_5_204",
+        "Republic of Aurelia_4_162",
+        "Federation of Borealis_5_447",
+        "Republic of Aurelia_6_533",
+        "Commonwealth of Cerulea_6_234",
+        "Federation of Borealis_4_78",
+        "Federation of Borealis_6_492",
+        "Commonwealth of Cerulea_5_180",
+        "Commonwealth of Cerulea_6_558",
+        "Republic of Aurelia_5_230",
+        "Federation of Borealis_6_493",
+        "Commonwealth of Cerulea_6_396",
+        "Republic of Aurelia_4_150",
+        "Federation of Borealis_5_151",
+        "Republic of Aurelia_5_136",
+        "Federation of Borealis_5_245",
+        "Republic of Aurelia_4_81",
+        "Republic of Aurelia_5_484",
+        "Commonwealth of Cerulea_6_285",
+        "Republic of Aurelia_6_295",
+        "Commonwealth of Cerulea_6_321",
+        "Commonwealth of Cerulea_6_388",
+        "Republic of Aurelia_6_218",
+        "Republic of Aurelia_4_170",
+        "Federation of Borealis_5_445",
+        "Commonwealth of Cerulea_6_521",
+        "Federation of Borealis_5_283",
+        "Federation of Borealis_4_59",
+        "Federation of Borealis_6_463",
+        "Commonwealth of Cerulea_7_544",
+        "Commonwealth of Cerulea_6_246",
+        "Republic of Aurelia_5_395",
+        "Federation of Borealis_5_209",
+        "Commonwealth of Cerulea_6_430",
+        "Republic of Aurelia_4_171",
+        "Commonwealth of Cerulea_6_482",
+        "Federation of Borealis_4_90",
+        "Republic of Aurelia_5_421",
+        "Republic of Aurelia_4_184",
+        "Republic of Aurelia_6_296",
+        "Commonwealth of Cerulea_6_511",
+        "Republic of Aurelia_6_366",
+        "Republic of Aurelia_5_462",
+        "Federation of Borealis_5_428",
+        "Commonwealth of Cerulea_4_65",
+        "Federation of Borealis_6_491",
+        "Republic of Aurelia_5_263",
+        "Commonwealth of Cerulea_5_122",
+        "Federation of Borealis_5_432",
+        "Federation of Borealis_6_495",
+        "Republic of Aurelia_5_261",
+        "Commonwealth of Cerulea_6_354",
+        "Federation of Borealis_4_69",
+        "Federation of Borealis_4_84",
+        "Federation of Borealis_5_154",
+        "Federation of Borealis_4_107",
+        "Federation of Borealis_5_397",
+        "Federation of Borealis_4_139",
+        "Republic of Aurelia_5_482",
+        "Federation of Borealis_5_469",
+        "Federation of Borealis_1_3",
+        "Commonwealth of Cerulea_5_96",
+        "Federation of Borealis_4_73",
+        "Commonwealth of Cerulea_6_465",
+        "Commonwealth of Cerulea_5_119",
+        "Republic of Aurelia_6_443",
+        "Commonwealth of Cerulea_5_179",
+        "Republic of Aurelia_5_398",
+        "Republic of Aurelia_3_57",
+        "Republic of Aurelia_5_423",
+        "Republic of Aurelia_5_437",
+        "Federation of Borealis_5_169",
+        "Commonwealth of Cerulea_4_53",
+        "Federation of Borealis_5_307",
+        "Republic of Aurelia_4_133",
+        "Republic of Aurelia_5_397",
+        "Commonwealth of Cerulea_6_240",
+        "Commonwealth of Cerulea_6_338"
+      ],
+      "validated_core": [
+        "Federation of Borealis_6_495",
+        "Commonwealth of Cerulea_6_338",
+        "Republic of Aurelia_6_294"
+      ],
+      "nodo_por_actor": {
+        "Commonwealth of Cerulea": "Commonwealth of Cerulea_6_338",
+        "Federation of Borealis": "Federation of Borealis_6_495",
+        "Republic of Aurelia": "Republic of Aurelia_6_294"
+      },
+      "texto_por_actor": {
+        "Commonwealth of Cerulea": "Habitat temperature regulation ceases threatening crew survival",
+        "Federation of Borealis": "Life support system degradation accelerates without coordinated maintenance protocols",
+        "Republic of Aurelia": "Critical life support parameters drift without unified oversight"
+      },
+      "actores": [
+        "Federation of Borealis",
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 19.37662771344185,
+      "ftt_max": 7.574477553367615,
+      "distancias": {
+        "Commonwealth of Cerulea": 7.574477553367615,
+        "Federation of Borealis": 6.580597281455994,
+        "Republic of Aurelia": 5.22155287861824
+      },
+      "caminos": {
+        "Commonwealth of Cerulea": [
+          {
+            "id": "Commonwealth of Cerulea_0_0",
+            "texto": "Cerulea claims essential-participant status based on its monopoly on Earth communication and medical capability. Argues that operational priority and hardware contribution are irrelevant if crews cannot communicate with Earth or treat medical emergencies. Demands guaranteed full-crew presence as a non-negotiable condition, noting that its physician and communication specialists cannot be reduced without endangering all occupants. Proposes a consensus-based decision framework requiring unanimous agreement for any life support modification. States that exclusion or reduction would force it to operate its communication array from its landing vehicle for crew safety reasons, which would interrupt the habitat's connection to Earth-based mission control."
+          },
+          {
+            "id": "Commonwealth of Cerulea_1_2",
+            "texto": "Consensus framework gives Cerulea veto power over decisions"
+          },
+          {
+            "id": "Commonwealth of Cerulea_2_9",
+            "texto": "Decision-making deadlock becomes likely when interests conflict"
+          },
+          {
+            "id": "Commonwealth of Cerulea_3_26",
+            "texto": "Critical decisions get delayed beyond safe implementation windows"
+          },
+          {
+            "id": "Commonwealth of Cerulea_4_71",
+            "texto": "Life support systems reach critical failure thresholds without intervention"
+          },
+          {
+            "id": "Commonwealth of Cerulea_5_151",
+            "texto": "Power systems fail cutting life support to all crews"
+          },
+          {
+            "id": "Commonwealth of Cerulea_6_338",
+            "texto": "Habitat temperature regulation ceases threatening crew survival"
+          }
+        ],
+        "Federation of Borealis": [
+          {
+            "id": "Federation of Borealis_0_0",
+            "texto": "Borealis claims co-equal operational authority based on its dominant contribution to life support hardware. Asserts that without its contributed systems the habitat cannot sustain life regardless of other considerations. Demands equal representation in all operational decisions and considers subordination to another nation's command incompatible with the operational responsibility for the systems it built. Proposes a rotating command structure with periodic authority transfers. Additionally argues that its exclusive resource extraction capability makes it the most strategically essential crew for long-term survival, and that resource allocation should reflect the operational priority of its geological operations."
+          },
+          {
+            "id": "Federation of Borealis_1_1",
+            "texto": "Other nations reject Borealis's co-equal authority claims"
+          },
+          {
+            "id": "Federation of Borealis_2_11",
+            "texto": "Borealis considers unilateral control of its life support systems"
+          },
+          {
+            "id": "Federation of Borealis_3_15",
+            "texto": "Borealis threatens to disable its contributed life support systems"
+          },
+          {
+            "id": "Federation of Borealis_4_59",
+            "texto": "The habitat's integrated life support becomes a contested control point"
+          },
+          {
+            "id": "Federation of Borealis_5_154",
+            "texto": "Critical system maintenance becomes impossible during standoff"
+          },
+          {
+            "id": "Federation of Borealis_6_495",
+            "texto": "Life support system degradation accelerates without coordinated maintenance protocols"
+          }
+        ],
+        "Republic of Aurelia": [
+          {
+            "id": "Republic of Aurelia_0_0",
+            "texto": "Aurelia claims operational priority based on first-arrival activation rights and majority funding contribution. Demands exclusive control of life support systems management and veto authority over habitat modifications. Proposes that other crews limit their presence to maintain safety margins, with Aurelia retaining full crew complement. Argues that its life support engineer is indispensable and that allowing unqualified personnel to access critical systems risks everyone's survival. Considers any arrangement that places Aurelian systems under shared command authority a fundamental threat to operational safety, given that its life support engineer alone holds end-to-end systems certification."
+          },
+          {
+            "id": "Republic of Aurelia_1_2",
+            "texto": "Aurelia restricts other crews' access to life support systems"
+          },
+          {
+            "id": "Republic of Aurelia_2_7",
+            "texto": "Other crews must request permission for basic life support adjustments"
+          },
+          {
+            "id": "Republic of Aurelia_3_18",
+            "texto": "Other crews' mission autonomy becomes compromised"
+          },
+          {
+            "id": "Republic of Aurelia_4_46",
+            "texto": "Other crews challenge Aurelia's authority through coordinated resistance"
+          },
+          {
+            "id": "Republic of Aurelia_5_146",
+            "texto": "Coordinated resistance creates operational deadlock over life support decisions"
+          },
+          {
+            "id": "Republic of Aurelia_6_294",
+            "texto": "Critical life support parameters drift without unified oversight"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 3,
+        "n_direct_representatives": 3
+      },
+      "polaridad": null,
+      "nodo_id": "Commonwealth of Cerulea_6_338",
+      "texto": "Habitat temperature regulation ceases threatening crew survival"
+    },
+    {
+      "clase_id": "Republic of Aurelia_4_171",
+      "clase_nodos": [
+        "Republic of Aurelia_5_260",
+        "Republic of Aurelia_5_452",
+        "Republic of Aurelia_4_183",
+        "Commonwealth of Cerulea_6_259",
+        "Commonwealth of Cerulea_5_135",
+        "Federation of Borealis_5_412",
+        "Federation of Borealis_6_404",
+        "Republic of Aurelia_5_259",
+        "Republic of Aurelia_6_294",
+        "Republic of Aurelia_4_159",
+        "Republic of Aurelia_6_534",
+        "Republic of Aurelia_3_43",
+        "Republic of Aurelia_5_451",
+        "Commonwealth of Cerulea_4_66",
+        "Federation of Borealis_5_238",
+        "Republic of Aurelia_5_307",
+        "Commonwealth of Cerulea_5_154",
+        "Republic of Aurelia_5_417",
+        "Commonwealth of Cerulea_6_261",
+        "Federation of Borealis_5_193",
+        "Republic of Aurelia_5_229",
+        "Commonwealth of Cerulea_5_174",
+        "Federation of Borealis_6_497",
+        "Republic of Aurelia_5_204",
+        "Republic of Aurelia_4_162",
+        "Federation of Borealis_5_447",
+        "Republic of Aurelia_6_533",
+        "Commonwealth of Cerulea_6_234",
+        "Federation of Borealis_4_78",
+        "Federation of Borealis_6_492",
+        "Commonwealth of Cerulea_5_180",
+        "Commonwealth of Cerulea_6_558",
+        "Republic of Aurelia_5_230",
+        "Federation of Borealis_6_493",
+        "Commonwealth of Cerulea_6_396",
+        "Republic of Aurelia_4_150",
+        "Federation of Borealis_5_151",
+        "Republic of Aurelia_5_136",
+        "Federation of Borealis_5_245",
+        "Republic of Aurelia_4_81",
+        "Republic of Aurelia_5_484",
+        "Commonwealth of Cerulea_6_285",
+        "Republic of Aurelia_6_295",
+        "Commonwealth of Cerulea_6_321",
+        "Commonwealth of Cerulea_6_388",
+        "Republic of Aurelia_6_218",
+        "Republic of Aurelia_4_170",
+        "Federation of Borealis_5_445",
+        "Commonwealth of Cerulea_6_521",
+        "Federation of Borealis_5_283",
+        "Federation of Borealis_4_59",
+        "Federation of Borealis_6_463",
+        "Commonwealth of Cerulea_7_544",
+        "Commonwealth of Cerulea_6_246",
+        "Republic of Aurelia_5_395",
+        "Federation of Borealis_5_209",
+        "Commonwealth of Cerulea_6_430",
+        "Republic of Aurelia_4_171",
+        "Commonwealth of Cerulea_6_482",
+        "Federation of Borealis_4_90",
+        "Republic of Aurelia_5_421",
+        "Republic of Aurelia_4_184",
+        "Republic of Aurelia_6_296",
+        "Commonwealth of Cerulea_6_511",
+        "Republic of Aurelia_6_366",
+        "Republic of Aurelia_5_462",
+        "Federation of Borealis_5_428",
+        "Commonwealth of Cerulea_4_65",
+        "Federation of Borealis_6_491",
+        "Republic of Aurelia_5_263",
+        "Commonwealth of Cerulea_5_122",
+        "Federation of Borealis_5_432",
+        "Federation of Borealis_6_495",
+        "Republic of Aurelia_5_261",
+        "Commonwealth of Cerulea_6_354",
+        "Federation of Borealis_4_69",
+        "Federation of Borealis_4_84",
+        "Federation of Borealis_5_154",
+        "Federation of Borealis_4_107",
+        "Federation of Borealis_5_397",
+        "Federation of Borealis_4_139",
+        "Republic of Aurelia_5_482",
+        "Federation of Borealis_5_469",
+        "Federation of Borealis_1_3",
+        "Commonwealth of Cerulea_5_96",
+        "Federation of Borealis_4_73",
+        "Commonwealth of Cerulea_6_465",
+        "Commonwealth of Cerulea_5_119",
+        "Republic of Aurelia_6_443",
+        "Commonwealth of Cerulea_5_179",
+        "Republic of Aurelia_5_398",
+        "Republic of Aurelia_3_57",
+        "Republic of Aurelia_5_423",
+        "Republic of Aurelia_5_437",
+        "Federation of Borealis_5_169",
+        "Commonwealth of Cerulea_4_53",
+        "Federation of Borealis_5_307",
+        "Republic of Aurelia_4_133",
+        "Republic of Aurelia_5_397",
+        "Commonwealth of Cerulea_6_240",
+        "Commonwealth of Cerulea_6_338"
+      ],
+      "validated_core": [
+        "Federation of Borealis_6_495",
+        "Commonwealth of Cerulea_6_465",
+        "Republic of Aurelia_6_294"
+      ],
+      "nodo_por_actor": {
+        "Commonwealth of Cerulea": "Commonwealth of Cerulea_6_465",
+        "Federation of Borealis": "Federation of Borealis_6_495",
+        "Republic of Aurelia": "Republic of Aurelia_6_294"
+      },
+      "texto_por_actor": {
+        "Commonwealth of Cerulea": "Medical conditions deteriorate without professional intervention",
+        "Federation of Borealis": "Life support system degradation accelerates without coordinated maintenance protocols",
+        "Republic of Aurelia": "Critical life support parameters drift without unified oversight"
+      },
+      "actores": [
+        "Federation of Borealis",
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "tipo": "strict",
+      "ftt_sum": 20.31005246937275,
+      "ftt_max": 8.507902309298515,
+      "distancias": {
+        "Commonwealth of Cerulea": 8.507902309298515,
+        "Federation of Borealis": 6.580597281455994,
+        "Republic of Aurelia": 5.22155287861824
+      },
+      "caminos": {
+        "Commonwealth of Cerulea": [
+          {
+            "id": "Commonwealth of Cerulea_0_0",
+            "texto": "Cerulea claims essential-participant status based on its monopoly on Earth communication and medical capability. Argues that operational priority and hardware contribution are irrelevant if crews cannot communicate with Earth or treat medical emergencies. Demands guaranteed full-crew presence as a non-negotiable condition, noting that its physician and communication specialists cannot be reduced without endangering all occupants. Proposes a consensus-based decision framework requiring unanimous agreement for any life support modification. States that exclusion or reduction would force it to operate its communication array from its landing vehicle for crew safety reasons, which would interrupt the habitat's connection to Earth-based mission control."
+          },
+          {
+            "id": "Commonwealth of Cerulea_1_2",
+            "texto": "Consensus framework gives Cerulea veto power over decisions"
+          },
+          {
+            "id": "Commonwealth of Cerulea_2_9",
+            "texto": "Decision-making deadlock becomes likely when interests conflict"
+          },
+          {
+            "id": "Commonwealth of Cerulea_3_27",
+            "texto": "Other nations may bypass consensus to prevent system failures"
+          },
+          {
+            "id": "Commonwealth of Cerulea_4_63",
+            "texto": "Unilateral actions trigger immediate counter-responses from Cerulea"
+          },
+          {
+            "id": "Commonwealth of Cerulea_5_200",
+            "texto": "Other crews face medical emergencies without physician access"
+          },
+          {
+            "id": "Commonwealth of Cerulea_6_465",
+            "texto": "Medical conditions deteriorate without professional intervention"
+          }
+        ],
+        "Federation of Borealis": [
+          {
+            "id": "Federation of Borealis_0_0",
+            "texto": "Borealis claims co-equal operational authority based on its dominant contribution to life support hardware. Asserts that without its contributed systems the habitat cannot sustain life regardless of other considerations. Demands equal representation in all operational decisions and considers subordination to another nation's command incompatible with the operational responsibility for the systems it built. Proposes a rotating command structure with periodic authority transfers. Additionally argues that its exclusive resource extraction capability makes it the most strategically essential crew for long-term survival, and that resource allocation should reflect the operational priority of its geological operations."
+          },
+          {
+            "id": "Federation of Borealis_1_1",
+            "texto": "Other nations reject Borealis's co-equal authority claims"
+          },
+          {
+            "id": "Federation of Borealis_2_11",
+            "texto": "Borealis considers unilateral control of its life support systems"
+          },
+          {
+            "id": "Federation of Borealis_3_15",
+            "texto": "Borealis threatens to disable its contributed life support systems"
+          },
+          {
+            "id": "Federation of Borealis_4_59",
+            "texto": "The habitat's integrated life support becomes a contested control point"
+          },
+          {
+            "id": "Federation of Borealis_5_154",
+            "texto": "Critical system maintenance becomes impossible during standoff"
+          },
+          {
+            "id": "Federation of Borealis_6_495",
+            "texto": "Life support system degradation accelerates without coordinated maintenance protocols"
+          }
+        ],
+        "Republic of Aurelia": [
+          {
+            "id": "Republic of Aurelia_0_0",
+            "texto": "Aurelia claims operational priority based on first-arrival activation rights and majority funding contribution. Demands exclusive control of life support systems management and veto authority over habitat modifications. Proposes that other crews limit their presence to maintain safety margins, with Aurelia retaining full crew complement. Argues that its life support engineer is indispensable and that allowing unqualified personnel to access critical systems risks everyone's survival. Considers any arrangement that places Aurelian systems under shared command authority a fundamental threat to operational safety, given that its life support engineer alone holds end-to-end systems certification."
+          },
+          {
+            "id": "Republic of Aurelia_1_2",
+            "texto": "Aurelia restricts other crews' access to life support systems"
+          },
+          {
+            "id": "Republic of Aurelia_2_7",
+            "texto": "Other crews must request permission for basic life support adjustments"
+          },
+          {
+            "id": "Republic of Aurelia_3_18",
+            "texto": "Other crews' mission autonomy becomes compromised"
+          },
+          {
+            "id": "Republic of Aurelia_4_46",
+            "texto": "Other crews challenge Aurelia's authority through coordinated resistance"
+          },
+          {
+            "id": "Republic of Aurelia_5_146",
+            "texto": "Coordinated resistance creates operational deadlock over life support decisions"
+          },
+          {
+            "id": "Republic of Aurelia_6_294",
+            "texto": "Critical life support parameters drift without unified oversight"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 1.0,
+        "n_pairs_representatives": 3,
+        "n_direct_representatives": 3
+      },
+      "polaridad": null,
+      "nodo_id": "Commonwealth of Cerulea_6_465",
+      "texto": "Medical conditions deteriorate without professional intervention"
+    },
+    {
+      "clase_id": "Republic of Aurelia_2_7",
+      "clase_nodos": [
+        "Federation of Borealis_5_282",
+        "Federation of Borealis_5_426",
+        "Commonwealth of Cerulea_6_315",
+        "Republic of Aurelia_2_7",
+        "Republic of Aurelia_4_123"
+      ],
+      "validated_core": [
+        "Republic of Aurelia_4_123",
+        "Commonwealth of Cerulea_6_315",
+        "Federation of Borealis_5_282"
+      ],
+      "nodo_por_actor": {
+        "Republic of Aurelia": "Republic of Aurelia_4_123",
+        "Federation of Borealis": "Federation of Borealis_5_282",
+        "Commonwealth of Cerulea": "Commonwealth of Cerulea_6_315"
+      },
+      "texto_por_actor": {
+        "Republic of Aurelia": "Other crews develop alternative life support management protocols",
+        "Federation of Borealis": "Other crews must negotiate for basic life support access",
+        "Commonwealth of Cerulea": "Other crews consider emergency protocols to restore oxygen equity"
+      },
+      "actores": [
+        "Federation of Borealis",
+        "Commonwealth of Cerulea",
+        "Republic of Aurelia"
+      ],
+      "tipo": "lax",
+      "ftt_sum": 17.176829293370247,
+      "ftt_max": 7.50093974173069,
+      "distancias": {
+        "Republic of Aurelia": 4.064136266708374,
+        "Federation of Borealis": 5.611753284931183,
+        "Commonwealth of Cerulea": 7.50093974173069
+      },
+      "caminos": {
+        "Republic of Aurelia": [
+          {
+            "id": "Republic of Aurelia_0_0",
+            "texto": "Aurelia claims operational priority based on first-arrival activation rights and majority funding contribution. Demands exclusive control of life support systems management and veto authority over habitat modifications. Proposes that other crews limit their presence to maintain safety margins, with Aurelia retaining full crew complement. Argues that its life support engineer is indispensable and that allowing unqualified personnel to access critical systems risks everyone's survival. Considers any arrangement that places Aurelian systems under shared command authority a fundamental threat to operational safety, given that its life support engineer alone holds end-to-end systems certification."
+          },
+          {
+            "id": "Republic of Aurelia_1_1",
+            "texto": "Other crews reject Aurelia's exclusive control demands"
+          },
+          {
+            "id": "Republic of Aurelia_2_9",
+            "texto": "Republic of Aurelia must defend its exclusive control position against coordinated opposition"
+          },
+          {
+            "id": "Republic of Aurelia_3_41",
+            "texto": "Aurelia isolates its crew from joint operational discussions"
+          },
+          {
+            "id": "Republic of Aurelia_4_123",
+            "texto": "Other crews develop alternative life support management protocols"
+          }
+        ],
+        "Federation of Borealis": [
+          {
+            "id": "Federation of Borealis_0_0",
+            "texto": "Borealis claims co-equal operational authority based on its dominant contribution to life support hardware. Asserts that without its contributed systems the habitat cannot sustain life regardless of other considerations. Demands equal representation in all operational decisions and considers subordination to another nation's command incompatible with the operational responsibility for the systems it built. Proposes a rotating command structure with periodic authority transfers. Additionally argues that its exclusive resource extraction capability makes it the most strategically essential crew for long-term survival, and that resource allocation should reflect the operational priority of its geological operations."
+          },
+          {
+            "id": "Federation of Borealis_1_2",
+            "texto": "Rotating command structure proposal creates immediate implementation disputes"
+          },
+          {
+            "id": "Federation of Borealis_2_7",
+            "texto": "Each nation demands different rotation schedules favoring their priorities"
+          },
+          {
+            "id": "Federation of Borealis_3_34",
+            "texto": "Command authority remains undefined while crews await resolution"
+          },
+          {
+            "id": "Federation of Borealis_4_91",
+            "texto": "Federation of Borealis begins unilateral management of contributed systems"
+          },
+          {
+            "id": "Federation of Borealis_5_282",
+            "texto": "Other crews must negotiate for basic life support access"
+          }
+        ],
+        "Commonwealth of Cerulea": [
+          {
+            "id": "Commonwealth of Cerulea_0_0",
+            "texto": "Cerulea claims essential-participant status based on its monopoly on Earth communication and medical capability. Argues that operational priority and hardware contribution are irrelevant if crews cannot communicate with Earth or treat medical emergencies. Demands guaranteed full-crew presence as a non-negotiable condition, noting that its physician and communication specialists cannot be reduced without endangering all occupants. Proposes a consensus-based decision framework requiring unanimous agreement for any life support modification. States that exclusion or reduction would force it to operate its communication array from its landing vehicle for crew safety reasons, which would interrupt the habitat's connection to Earth-based mission control."
+          },
+          {
+            "id": "Commonwealth of Cerulea_1_2",
+            "texto": "Consensus framework gives Cerulea veto power over decisions"
+          },
+          {
+            "id": "Commonwealth of Cerulea_2_8",
+            "texto": "Cerulea can block any resource allocation changes unilaterally"
+          },
+          {
+            "id": "Commonwealth of Cerulea_3_20",
+            "texto": "Other nations must accept Cerulea's resource allocation preferences"
+          },
+          {
+            "id": "Commonwealth of Cerulea_4_60",
+            "texto": "Cerulea's crew receives preferential life support allocation"
+          },
+          {
+            "id": "Commonwealth of Cerulea_5_135",
+            "texto": "Other crews face reduced oxygen allocation ratios"
+          },
+          {
+            "id": "Commonwealth of Cerulea_6_315",
+            "texto": "Other crews consider emergency protocols to restore oxygen equity"
+          }
+        ]
+      },
+      "ipvr": {
+        "ipvr_strict_representatives": 0.6667,
+        "n_pairs_representatives": 3,
+        "n_direct_representatives": 2
+      },
+      "polaridad": null,
+      "nodo_id": "Republic of Aurelia_4_123",
+      "texto": "Other crews develop alternative life support management protocols"
+    }
+  ]
+}

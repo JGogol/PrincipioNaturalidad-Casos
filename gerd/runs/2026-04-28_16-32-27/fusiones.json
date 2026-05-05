@@ -1,0 +1,325 @@
+{
+  "total": 32,
+  "fusiones": [
+    {
+      "nodo_a_id": "Arab Republic of Egypt_2_7",
+      "nodo_a_texto": "Egypt begins considering unilateral protective measures",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Federal Democratic Republic of Ethiopia_5_448",
+      "nodo_b_texto": "Ethiopia considers unilateral operational procedures to maintain sovereignty",
+      "nodo_b_actor": "Federal Democratic Republic of Ethiopia",
+      "similitud": 0.6010019555687904,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_2_7",
+      "nodo_a_texto": "Egypt begins considering unilateral protective measures",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Federal Democratic Republic of Ethiopia_6_540",
+      "nodo_b_texto": "Ethiopia develops contingency plans independent of downstream consultation",
+      "nodo_b_actor": "Federal Democratic Republic of Ethiopia",
+      "similitud": 0.9943746626377106,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_4_83",
+      "nodo_a_texto": "Egypt activates contingency planning for unilateral protective measures",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Federal Democratic Republic of Ethiopia_5_448",
+      "nodo_b_texto": "Ethiopia considers unilateral operational procedures to maintain sovereignty",
+      "nodo_b_actor": "Federal Democratic Republic of Ethiopia",
+      "similitud": 0.5640451535582542,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_675",
+      "nodo_a_texto": "Egypt prioritizes unilateral action over multilateral cooperation frameworks",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Federal Democratic Republic of Ethiopia_5_363",
+      "nodo_b_texto": "Ethiopia emphasizes working groups cannot override national sovereignty",
+      "nodo_b_actor": "Federal Democratic Republic of Ethiopia",
+      "similitud": 0.5886382535099983,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_727",
+      "nodo_a_texto": "Egypt considers unilateral protective measures as diplomatic option",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Federal Democratic Republic of Ethiopia_5_448",
+      "nodo_b_texto": "Ethiopia considers unilateral operational procedures to maintain sovereignty",
+      "nodo_b_actor": "Federal Democratic Republic of Ethiopia",
+      "similitud": 0.8679331541061401,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_4_71",
+      "nodo_a_texto": "Egypt seeks alternative water sources to reduce Nile dependence",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_346",
+      "nodo_b_texto": "Sudan identifies backup water sources during GERD retention periods",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.61501744389534,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_109",
+      "nodo_a_texto": "Egypt determines timeline for implementing emergency water distribution",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_77",
+      "nodo_b_texto": "Sudan calculates response timeframes for emergency flow adjustments",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6445674896240234,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_150",
+      "nodo_a_texto": "Egypt weighs strike timing against seasonal water needs",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_6_512",
+      "nodo_b_texto": "Sudan maps flow requirements to specific seasonal irrigation schedules",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9159777164459229,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_167",
+      "nodo_a_texto": "Egypt prepares contingency plans for water supply disruption",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_118",
+      "nodo_b_texto": "Sudan establishes emergency water allocation protocols for critical infrastructure",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9828596413135529,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_167",
+      "nodo_a_texto": "Egypt prepares contingency plans for water supply disruption",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_154",
+      "nodo_b_texto": "Sudan identifies alternative water sources during potential supply disruptions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9755362570285797,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_167",
+      "nodo_a_texto": "Egypt prepares contingency plans for water supply disruption",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_208",
+      "nodo_b_texto": "Sudan establishes emergency protocols for insufficient downstream flow scenarios",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6883781403303146,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_167",
+      "nodo_a_texto": "Egypt prepares contingency plans for water supply disruption",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_408",
+      "nodo_b_texto": "Sudan calculates backup water sources during potential shortfalls",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.919185608625412,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_5_167",
+      "nodo_a_texto": "Egypt prepares contingency plans for water supply disruption",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_6_498",
+      "nodo_b_texto": "Sudan determines infrastructure protection measures during low flow periods",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.964693158864975,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_191",
+      "nodo_a_texto": "Egypt implements rationing measures for agricultural water allocation",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_220",
+      "nodo_b_texto": "Sudan creates water rationing schedules for agricultural zones",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.985060453414917,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_197",
+      "nodo_a_texto": "Egypt seeks international intervention to enforce water rights",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_358",
+      "nodo_b_texto": "Sudan seeks international arbitration for binding water allocation",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9851122200489044,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_214",
+      "nodo_a_texto": "Egypt establishes emergency reserves for critical national security installations",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_337",
+      "nodo_b_texto": "Sudan defines emergency override protocols for critical infrastructure protection",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9668443202972412,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_224",
+      "nodo_a_texto": "Egypt determines backup water sources for critical infrastructure locations",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_118",
+      "nodo_b_texto": "Sudan establishes emergency water allocation protocols for critical infrastructure",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9846291542053223,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_6_359",
+      "nodo_a_texto": "Egypt calculates remaining time before critical water shortage",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_301",
+      "nodo_b_texto": "Sudan identifies critical mismatch periods between irrigation needs and natural flow",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9065918624401093,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_388",
+      "nodo_a_texto": "Egypt experiences reduced agricultural productivity from water restrictions",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_326",
+      "nodo_b_texto": "Sudan estimates agricultural sector losses from disrupted water flows",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9729690253734589,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_415",
+      "nodo_a_texto": "Egypt seeks binding international arbitration mechanisms for water disputes",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_358",
+      "nodo_b_texto": "Sudan seeks international arbitration for binding water allocation",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.608928993344307,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_446",
+      "nodo_a_texto": "Egypt assesses potential crop yield reductions under quota restrictions",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_6_550",
+      "nodo_b_texto": "Sudan calculates reduced crop yields under rationing scenarios",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9788723289966583,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_454",
+      "nodo_a_texto": "Egypt establishes minimum flow thresholds required from Ethiopia",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_4_333",
+      "nodo_b_texto": "Sudan requests Ethiopian guarantees for minimum water flows",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9704223871231079,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_518",
+      "nodo_a_texto": "Egypt identifies which agricultural regions will face water cuts",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_220",
+      "nodo_b_texto": "Sudan creates water rationing schedules for agricultural zones",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9919212758541107,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_518",
+      "nodo_a_texto": "Egypt identifies which agricultural regions will face water cuts",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_6_569",
+      "nodo_b_texto": "Sudan maps agricultural zones most vulnerable to water shortages",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9928882122039795,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_609",
+      "nodo_a_texto": "Egypt calculates potential food security impacts from agricultural restrictions",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_315",
+      "nodo_b_texto": "Sudan quantifies food security threats from reduced agricultural output",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9913539886474609,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_673",
+      "nodo_a_texto": "Egypt activates immediate water security protection protocols",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_6_441",
+      "nodo_b_texto": "Sudan establishes emergency protocols for irrigation system protection during disruptions",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.6024190858006477,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_702",
+      "nodo_a_texto": "Egypt calculates minimum water needed to prevent agricultural collapse",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_158",
+      "nodo_b_texto": "Sudan quantifies minimum water flow requirements for agricultural survival",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9968269765377045,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_702",
+      "nodo_a_texto": "Egypt calculates minimum water needed to prevent agricultural collapse",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_5_169",
+      "nodo_b_texto": "Sudan determines emergency water allocation thresholds for agricultural sectors",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.638608306646347,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_702",
+      "nodo_a_texto": "Egypt calculates minimum water needed to prevent agricultural collapse",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_6_428",
+      "nodo_b_texto": "Sudan estimates water storage capacity needed for emergency agricultural operations",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.7017608284950256,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Arab Republic of Egypt_7_702",
+      "nodo_a_texto": "Egypt calculates minimum water needed to prevent agricultural collapse",
+      "nodo_a_actor": "Arab Republic of Egypt",
+      "nodo_b_id": "Republic of Sudan_6_506",
+      "nodo_b_texto": "Sudan quantifies emergency minimum flows to prevent irrigation system collapse",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.8755728602409363,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federal Democratic Republic of Ethiopia_5_263",
+      "nodo_a_texto": "Ethiopia suggests establishing joint early warning systems for floods",
+      "nodo_a_actor": "Federal Democratic Republic of Ethiopia",
+      "nodo_b_id": "Republic of Sudan_5_578",
+      "nodo_b_texto": "Sudan proposes joint early warning systems for flood management",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.9967239499092102,
+      "auto": true
+    },
+    {
+      "nodo_a_id": "Federal Democratic Republic of Ethiopia_5_314",
+      "nodo_a_texto": "Ethiopia defines minimum disclosure thresholds for emergency drought conditions",
+      "nodo_a_actor": "Federal Democratic Republic of Ethiopia",
+      "nodo_b_id": "Republic of Sudan_5_287",
+      "nodo_b_texto": "Sudan determines critical reservoir levels for drought contingency planning",
+      "nodo_b_actor": "Republic of Sudan",
+      "similitud": 0.554711364209652,
+      "auto": true
+    }
+  ]
+}
