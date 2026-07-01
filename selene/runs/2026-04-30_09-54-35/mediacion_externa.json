@@ -1,0 +1,410 @@
+{
+  "file1": {
+    "texto": "Life-support resources are allocated by independent technical audit",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "Cerulea",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "0/3",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 0,
+      "0.70": 0,
+      "0.55": 0,
+      "0.40": 0,
+      "0.25": 0,
+      "0.10": 0
+    },
+    "por_actor": {
+      "Commonwealth of Cerulea": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.596,
+        "texto": "Other nations begin independent life support calculations",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Federation of Borealis": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.573,
+        "texto": "Borealis begins independent contingency planning for critical system operations",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Republic of Aurelia": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.581,
+        "texto": "Life support engineer certification gains decisive bargaining power",
+        "candidatos": [],
+        "rechazados_llm": 0
+      }
+    }
+  },
+  "file2": {
+    "texto": "Crew size is reduced through a jointly agreed rotation",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "Cerulea",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "0/3",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 0,
+      "0.70": 0,
+      "0.55": 0,
+      "0.40": 0,
+      "0.25": 0,
+      "0.10": 0
+    },
+    "por_actor": {
+      "Commonwealth of Cerulea": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.653,
+        "texto": "Other nations face forced acceptance of unfavorable crew allocation terms",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Federation of Borealis": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.559,
+        "texto": "Other crews reject Borealis's rotation demands as unacceptable",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Republic of Aurelia": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.589,
+        "texto": "Other crews must accept Aurelia's resource distribution without technical dispute",
+        "candidatos": [],
+        "rechazados_llm": 0
+      }
+    }
+  },
+  "file3": {
+    "texto": "A shared emergency protocol governs life-support failures",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "Cerulea",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "1/3",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 1,
+      "0.70": 1,
+      "0.55": 1,
+      "0.40": 1,
+      "0.25": 1,
+      "0.10": 1
+    },
+    "por_actor": {
+      "Commonwealth of Cerulea": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.792,
+        "texto": "Other crews develop physiological stress responses to oxygen deprivation",
+        "candidatos": [
+          {
+            "ttf": 7.691,
+            "score": 0.971,
+            "texto": "Other crews develop physiological stress responses to oxygen deprivation"
+          }
+        ],
+        "rechazados_llm": 1
+      },
+      "Federation of Borealis": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.835,
+        "texto": "Federation of Borealis threatens life support system withdrawal",
+        "candidatos": [
+          {
+            "ttf": 1.216,
+            "score": 0.934,
+            "texto": "Federation of Borealis threatens life support system withdrawal"
+          },
+          {
+            "ttf": 6.191,
+            "score": 0.911,
+            "texto": "Alternative crews face potential system dependency crisis"
+          }
+        ],
+        "rechazados_llm": 2
+      },
+      "Republic of Aurelia": {
+        "incorpora": true,
+        "costo_ttf": 5.062,
+        "soporte": 0.956,
+        "soporte_ttf": 5.062,
+        "opone": 1.0,
+        "sim_max": 0.778,
+        "texto": "Life support systems enter fail-safe mode preventing unauthorized modifications",
+        "candidatos": [
+          {
+            "ttf": 5.062,
+            "score": 0.956,
+            "texto": "Life support systems enter fail-safe mode preventing unauthorized modifications"
+          },
+          {
+            "ttf": 5.628,
+            "score": 0.961,
+            "texto": "Critical life support systems enter emergency shutdown mode"
+          },
+          {
+            "ttf": 5.67,
+            "score": 0.972,
+            "texto": "Non-Aurelian crews attempt emergency override of oxygen controls"
+          },
+          {
+            "ttf": 5.676,
+            "score": 0.955,
+            "texto": "Other crews cannot maintain life support without Aurelian cooperation"
+          }
+        ],
+        "rechazados_llm": 3
+      }
+    }
+  },
+  "file4": {
+    "texto": "Each agency retains operational control over its own modules",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "Cerulea",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "0/3",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 0,
+      "0.70": 0,
+      "0.55": 0,
+      "0.40": 0,
+      "0.25": 0,
+      "0.10": 0
+    },
+    "por_actor": {
+      "Commonwealth of Cerulea": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.536,
+        "texto": "Individual crews revert to independent national mission protocols",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Federation of Borealis": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.518,
+        "texto": "Borealis prioritizes unilateral control over its contributed hardware systems",
+        "candidatos": [
+          {
+            "ttf": 6.527,
+            "score": 0.649,
+            "texto": "Borealis prioritizes unilateral control over its contributed hardware systems"
+          }
+        ],
+        "rechazados_llm": 1
+      },
+      "Republic of Aurelia": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.509,
+        "texto": "Aurelia's crew begins implementing unilateral operational protocols",
+        "candidatos": [],
+        "rechazados_llm": 0
+      }
+    }
+  },
+  "file5": {
+    "texto": "Resource consumption is verified by real-time telemetry",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "Cerulea",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "0/3",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 0,
+      "0.70": 0,
+      "0.55": 0,
+      "0.40": 0,
+      "0.25": 0,
+      "0.10": 0
+    },
+    "por_actor": {
+      "Commonwealth of Cerulea": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.544,
+        "texto": "Decision-making timeline extends beyond immediate survival needs",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Federation of Borealis": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.547,
+        "texto": "Borealis crew can monitor all life support operations directly",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Republic of Aurelia": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 0.995,
+        "sim_max": 0.393,
+        "texto": "System diagnostic alerts flood the habitat's central monitoring displays",
+        "candidatos": [],
+        "rechazados_llm": 0
+      }
+    }
+  },
+  "file6": {
+    "texto": "A neutral arbitrator resolves allocation disputes",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "Cerulea",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "0/3",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 0,
+      "0.70": 0,
+      "0.55": 0,
+      "0.40": 0,
+      "0.25": 0,
+      "0.10": 0
+    },
+    "por_actor": {
+      "Commonwealth of Cerulea": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.516,
+        "texto": "Other nations must negotiate personnel choices with Cerulea",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Federation of Borealis": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.49,
+        "texto": "Borealis secures disproportionate resource allocation in preliminary agreements",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Republic of Aurelia": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.543,
+        "texto": "Other nations' crews become dependent on Aurelian decisions",
+        "candidatos": [],
+        "rechazados_llm": 0
+      }
+    }
+  },
+  "file7": {
+    "texto": "Surplus oxygen is redistributed to crews in deficit",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "Cerulea",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "0/3",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 0,
+      "0.70": 0,
+      "0.55": 0,
+      "0.40": 0,
+      "0.25": 0,
+      "0.10": 0
+    },
+    "por_actor": {
+      "Commonwealth of Cerulea": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.806,
+        "texto": "Cerulea determines life support priority allocation among crews",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Federation of Borealis": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.629,
+        "texto": "Borealis adjusts life support systems to favor its crew",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Republic of Aurelia": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.658,
+        "texto": "Aurelian engineer controls crew survival through oxygen allocation decisions",
+        "candidatos": [],
+        "rechazados_llm": 0
+      }
+    }
+  }
+}

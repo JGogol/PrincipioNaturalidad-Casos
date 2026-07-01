@@ -1,0 +1,2147 @@
+{
+  "case_name": "Cross-Cultural Medical Decision-Making (Lia Lee Case)",
+  "case_dir": "casos\\lee\\runs\\2026-05-02_10-54-38",
+  "actors": [
+    "Lee Family (Foua and Nao Kao Lee)",
+    "Merced Community Medical Center Clinical Team"
+  ],
+  "hash_coverage": 1.0,
+  "per_actor_summary": {
+    "Lee Family (Foua and Nao Kao Lee)": {
+      "n_nodes": 502,
+      "dist_mean": 0.7776378393173218,
+      "dist_median": 0.7733733654022217,
+      "dist_std": 0.09449206292629242,
+      "dist_to_barycenter": 0.18133199214935303
+    },
+    "Merced Community Medical Center Clinical Team": {
+      "n_nodes": 502,
+      "dist_mean": 0.7577365040779114,
+      "dist_median": 0.7526006698608398,
+      "dist_std": 0.08162339776754379,
+      "dist_to_barycenter": 0.18133199214935303
+    }
+  },
+  "pairwise_center_dist": {
+    "Lee Family (Foua and | Merced Community Med": 0.36266398429870605
+  },
+  "n_hubs": 211,
+  "rep_percentile_mean": 0.46294915126224956,
+  "rep_percentile_median": 0.46812749003984067,
+  "rep_percentile_n": 422,
+  "random_percentile_mean": 0.5171210891033025,
+  "mannwhitney_stat": 79174.5,
+  "mannwhitney_pval": 0.0053300140539381214,
+  "hub_records": [
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_2_6",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.4043824701195219,
+        "Merced Community Medical Center Clinical Team": 0.5916334661354582
+      },
+      "mean_percentile": 0.49800796812749004,
+      "dist_to_barycenter": 0.6881786584854126
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6254980079681275,
+        "Merced Community Medical Center Clinical Team": 0.3904382470119522
+      },
+      "mean_percentile": 0.5079681274900398,
+      "dist_to_barycenter": 0.7401588559150696
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_2_13",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.9163346613545816,
+        "Merced Community Medical Center Clinical Team": 0.9422310756972112
+      },
+      "mean_percentile": 0.9292828685258965,
+      "dist_to_barycenter": 0.8846313953399658
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6254980079681275,
+        "Merced Community Medical Center Clinical Team": 0.1553784860557769
+      },
+      "mean_percentile": 0.3904382470119522,
+      "dist_to_barycenter": 0.7401588559150696
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6254980079681275,
+        "Merced Community Medical Center Clinical Team": 0.33266932270916333
+      },
+      "mean_percentile": 0.47908366533864544,
+      "dist_to_barycenter": 0.7401588559150696
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_356",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.29880478087649404,
+        "Merced Community Medical Center Clinical Team": 0.017928286852589643
+      },
+      "mean_percentile": 0.15836653386454183,
+      "dist_to_barycenter": 0.6837005019187927
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_307",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5916334661354582,
+        "Merced Community Medical Center Clinical Team": 0.09362549800796813
+      },
+      "mean_percentile": 0.3426294820717132,
+      "dist_to_barycenter": 0.7522926330566406
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_49",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.4940239043824701,
+        "Merced Community Medical Center Clinical Team": 0.3047808764940239
+      },
+      "mean_percentile": 0.399402390438247,
+      "dist_to_barycenter": 0.741230845451355
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_373",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.2410358565737052,
+        "Merced Community Medical Center Clinical Team": 0.017928286852589643
+      },
+      "mean_percentile": 0.1294820717131474,
+      "dist_to_barycenter": 0.6517642736434937
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_400",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.448207171314741,
+        "Merced Community Medical Center Clinical Team": 0.017928286852589643
+      },
+      "mean_percentile": 0.23306772908366533,
+      "dist_to_barycenter": 0.733839213848114
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_20",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.749003984063745,
+        "Merced Community Medical Center Clinical Team": 0.9621513944223108
+      },
+      "mean_percentile": 0.8555776892430279,
+      "dist_to_barycenter": 0.8497816324234009
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_145",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6115537848605578,
+        "Merced Community Medical Center Clinical Team": 0.06573705179282868
+      },
+      "mean_percentile": 0.33864541832669326,
+      "dist_to_barycenter": 0.7254701256752014
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_100",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.00796812749003984,
+        "Merced Community Medical Center Clinical Team": 0.3745019920318725
+      },
+      "mean_percentile": 0.19123505976095617,
+      "dist_to_barycenter": 0.6549481749534607
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_28",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.36254980079681276,
+        "Merced Community Medical Center Clinical Team": 0.6892430278884463
+      },
+      "mean_percentile": 0.5258964143426295,
+      "dist_to_barycenter": 0.7040299773216248
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_27",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5039840637450199,
+        "Merced Community Medical Center Clinical Team": 0.01195219123505976
+      },
+      "mean_percentile": 0.25796812749003983,
+      "dist_to_barycenter": 0.7125639915466309
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_117",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7549800796812749,
+        "Merced Community Medical Center Clinical Team": 0.6733067729083665
+      },
+      "mean_percentile": 0.7141434262948207,
+      "dist_to_barycenter": 0.8040856719017029
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_74",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.4063745019920319,
+        "Merced Community Medical Center Clinical Team": 0.41832669322709165
+      },
+      "mean_percentile": 0.4123505976095618,
+      "dist_to_barycenter": 0.699519157409668
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_56",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.4123505976095618,
+        "Merced Community Medical Center Clinical Team": 0.6115537848605578
+      },
+      "mean_percentile": 0.5119521912350598,
+      "dist_to_barycenter": 0.7391780018806458
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6254980079681275,
+        "Merced Community Medical Center Clinical Team": 0.14741035856573706
+      },
+      "mean_percentile": 0.38645418326693226,
+      "dist_to_barycenter": 0.7401588559150696
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6254980079681275,
+        "Merced Community Medical Center Clinical Team": 0.035856573705179286
+      },
+      "mean_percentile": 0.33067729083665337,
+      "dist_to_barycenter": 0.7401588559150696
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6254980079681275,
+        "Merced Community Medical Center Clinical Team": 0.00796812749003984
+      },
+      "mean_percentile": 0.31673306772908366,
+      "dist_to_barycenter": 0.7401588559150696
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6254980079681275,
+        "Merced Community Medical Center Clinical Team": 0.30278884462151395
+      },
+      "mean_percentile": 0.46414342629482075,
+      "dist_to_barycenter": 0.7401588559150696
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6254980079681275,
+        "Merced Community Medical Center Clinical Team": 0.1394422310756972
+      },
+      "mean_percentile": 0.38247011952191234,
+      "dist_to_barycenter": 0.7401588559150696
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6254980079681275,
+        "Merced Community Medical Center Clinical Team": 0.6972111553784861
+      },
+      "mean_percentile": 0.6613545816733069,
+      "dist_to_barycenter": 0.7401588559150696
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6254980079681275,
+        "Merced Community Medical Center Clinical Team": 0.21115537848605578
+      },
+      "mean_percentile": 0.41832669322709165,
+      "dist_to_barycenter": 0.7401588559150696
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_134",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6952191235059761,
+        "Merced Community Medical Center Clinical Team": 0.20916334661354583
+      },
+      "mean_percentile": 0.452191235059761,
+      "dist_to_barycenter": 0.7826839089393616
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_100",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.00796812749003984,
+        "Merced Community Medical Center Clinical Team": 0.4960159362549801
+      },
+      "mean_percentile": 0.25199203187250996,
+      "dist_to_barycenter": 0.6549481749534607
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_178",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7749003984063745,
+        "Merced Community Medical Center Clinical Team": 0.3904382470119522
+      },
+      "mean_percentile": 0.5826693227091633,
+      "dist_to_barycenter": 0.7883089184761047
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6254980079681275,
+        "Merced Community Medical Center Clinical Team": 0.19322709163346613
+      },
+      "mean_percentile": 0.4093625498007968,
+      "dist_to_barycenter": 0.7401588559150696
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6254980079681275,
+        "Merced Community Medical Center Clinical Team": 0.2450199203187251
+      },
+      "mean_percentile": 0.4352589641434263,
+      "dist_to_barycenter": 0.7401588559150696
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6254980079681275,
+        "Merced Community Medical Center Clinical Team": 0.2589641434262948
+      },
+      "mean_percentile": 0.44223107569721115,
+      "dist_to_barycenter": 0.7401588559150696
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_146",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.41832669322709165,
+        "Merced Community Medical Center Clinical Team": 0.4960159362549801
+      },
+      "mean_percentile": 0.4571713147410359,
+      "dist_to_barycenter": 0.7490957975387573
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_137",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5936254980079682,
+        "Merced Community Medical Center Clinical Team": 0.1553784860557769
+      },
+      "mean_percentile": 0.3745019920318725,
+      "dist_to_barycenter": 0.7175506353378296
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_391",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.32669322709163345,
+        "Merced Community Medical Center Clinical Team": 0.3346613545816733
+      },
+      "mean_percentile": 0.33067729083665337,
+      "dist_to_barycenter": 0.7023414969444275
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_147",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6294820717131474,
+        "Merced Community Medical Center Clinical Team": 0.41832669322709165
+      },
+      "mean_percentile": 0.5239043824701195,
+      "dist_to_barycenter": 0.7310106158256531
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_391",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.32669322709163345,
+        "Merced Community Medical Center Clinical Team": 0.18326693227091634
+      },
+      "mean_percentile": 0.2549800796812749,
+      "dist_to_barycenter": 0.7023414969444275
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_172",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5338645418326693,
+        "Merced Community Medical Center Clinical Team": 0.3047808764940239
+      },
+      "mean_percentile": 0.4193227091633466,
+      "dist_to_barycenter": 0.7550669312477112
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_100",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.00796812749003984,
+        "Merced Community Medical Center Clinical Team": 0.7669322709163346
+      },
+      "mean_percentile": 0.38745019920318724,
+      "dist_to_barycenter": 0.6549481749534607
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6254980079681275,
+        "Merced Community Medical Center Clinical Team": 0.1752988047808765
+      },
+      "mean_percentile": 0.40039840637450197,
+      "dist_to_barycenter": 0.7401588559150696
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_170",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5737051792828686,
+        "Merced Community Medical Center Clinical Team": 0.11155378486055777
+      },
+      "mean_percentile": 0.3426294820717132,
+      "dist_to_barycenter": 0.7149507403373718
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_307",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5916334661354582,
+        "Merced Community Medical Center Clinical Team": 0.43227091633466136
+      },
+      "mean_percentile": 0.5119521912350598,
+      "dist_to_barycenter": 0.7522926330566406
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_26",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6254980079681275,
+        "Merced Community Medical Center Clinical Team": 0.40239043824701193
+      },
+      "mean_percentile": 0.5139442231075697,
+      "dist_to_barycenter": 0.7401588559150696
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_338",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.14143426294820718,
+        "Merced Community Medical Center Clinical Team": 0.3745019920318725
+      },
+      "mean_percentile": 0.25796812749003983,
+      "dist_to_barycenter": 0.7391442656517029
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_351",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.11155378486055777,
+        "Merced Community Medical Center Clinical Team": 0.6713147410358565
+      },
+      "mean_percentile": 0.39143426294820716,
+      "dist_to_barycenter": 0.7128735780715942
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_351",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.11155378486055777,
+        "Merced Community Medical Center Clinical Team": 0.3745019920318725
+      },
+      "mean_percentile": 0.24302788844621515,
+      "dist_to_barycenter": 0.7128735780715942
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_421",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7470119521912351,
+        "Merced Community Medical Center Clinical Team": 0.3346613545816733
+      },
+      "mean_percentile": 0.5408366533864541,
+      "dist_to_barycenter": 0.8053668737411499
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_81",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.40836653386454186,
+        "Merced Community Medical Center Clinical Team": 0.2350597609561753
+      },
+      "mean_percentile": 0.3217131474103586,
+      "dist_to_barycenter": 0.7127950191497803
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_377",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.0796812749003984,
+        "Merced Community Medical Center Clinical Team": 0.3745019920318725
+      },
+      "mean_percentile": 0.22709163346613545,
+      "dist_to_barycenter": 0.7004993557929993
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_470",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.2788844621513944,
+        "Merced Community Medical Center Clinical Team": 0.3346613545816733
+      },
+      "mean_percentile": 0.3067729083665338,
+      "dist_to_barycenter": 0.6765773892402649
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_489",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5139442231075697,
+        "Merced Community Medical Center Clinical Team": 0.053784860557768925
+      },
+      "mean_percentile": 0.2838645418326693,
+      "dist_to_barycenter": 0.7258374094963074
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_395",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.07171314741035857,
+        "Merced Community Medical Center Clinical Team": 0.3745019920318725
+      },
+      "mean_percentile": 0.22310756972111553,
+      "dist_to_barycenter": 0.6777263283729553
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_347",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.4581673306772908,
+        "Merced Community Medical Center Clinical Team": 0.11155378486055777
+      },
+      "mean_percentile": 0.28486055776892427,
+      "dist_to_barycenter": 0.7261937260627747
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_81",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.40836653386454186,
+        "Merced Community Medical Center Clinical Team": 0.350597609561753
+      },
+      "mean_percentile": 0.3794820717131474,
+      "dist_to_barycenter": 0.7127950191497803
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_3_56",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.4123505976095618,
+        "Merced Community Medical Center Clinical Team": 0.38247011952191234
+      },
+      "mean_percentile": 0.39741035856573703,
+      "dist_to_barycenter": 0.7391780018806458
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_74",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.4063745019920319,
+        "Merced Community Medical Center Clinical Team": 0.2589641434262948
+      },
+      "mean_percentile": 0.3326693227091634,
+      "dist_to_barycenter": 0.699519157409668
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_222",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7250996015936255,
+        "Merced Community Medical Center Clinical Team": 0.0398406374501992
+      },
+      "mean_percentile": 0.38247011952191234,
+      "dist_to_barycenter": 0.7592446208000183
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_209",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.9223107569721115,
+        "Merced Community Medical Center Clinical Team": 0.8047808764940239
+      },
+      "mean_percentile": 0.8635458167330676,
+      "dist_to_barycenter": 0.9000226259231567
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_460",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7111553784860558,
+        "Merced Community Medical Center Clinical Team": 0.3346613545816733
+      },
+      "mean_percentile": 0.5229083665338645,
+      "dist_to_barycenter": 0.7706197500228882
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_207",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.4701195219123506,
+        "Merced Community Medical Center Clinical Team": 0.2848605577689243
+      },
+      "mean_percentile": 0.37749003984063745,
+      "dist_to_barycenter": 0.7279223203659058
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_73",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6394422310756972,
+        "Merced Community Medical Center Clinical Team": 0.199203187250996
+      },
+      "mean_percentile": 0.4193227091633466,
+      "dist_to_barycenter": 0.771079957485199
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_149",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5577689243027888,
+        "Merced Community Medical Center Clinical Team": 0.6115537848605578
+      },
+      "mean_percentile": 0.5846613545816732,
+      "dist_to_barycenter": 0.7584962248802185
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_450",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.42828685258964144,
+        "Merced Community Medical Center Clinical Team": 0.3904382470119522
+      },
+      "mean_percentile": 0.4093625498007968,
+      "dist_to_barycenter": 0.6839842796325684
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_209",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.9223107569721115,
+        "Merced Community Medical Center Clinical Team": 0.9043824701195219
+      },
+      "mean_percentile": 0.9133466135458167,
+      "dist_to_barycenter": 0.9000226259231567
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_135",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5258964143426295,
+        "Merced Community Medical Center Clinical Team": 0.6892430278884463
+      },
+      "mean_percentile": 0.6075697211155379,
+      "dist_to_barycenter": 0.7501518130302429
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_344",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7948207171314741,
+        "Merced Community Medical Center Clinical Team": 0.20916334661354583
+      },
+      "mean_percentile": 0.50199203187251,
+      "dist_to_barycenter": 0.7916781306266785
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_134",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6952191235059761,
+        "Merced Community Medical Center Clinical Team": 0.5179282868525896
+      },
+      "mean_percentile": 0.6065737051792829,
+      "dist_to_barycenter": 0.7826839089393616
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_214",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.8107569721115537,
+        "Merced Community Medical Center Clinical Team": 0.5916334661354582
+      },
+      "mean_percentile": 0.701195219123506,
+      "dist_to_barycenter": 0.7965978384017944
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_534",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7211155378486056,
+        "Merced Community Medical Center Clinical Team": 0.18725099601593626
+      },
+      "mean_percentile": 0.45418326693227096,
+      "dist_to_barycenter": 0.7974174618721008
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_214",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.8107569721115537,
+        "Merced Community Medical Center Clinical Team": 0.0
+      },
+      "mean_percentile": 0.40537848605577687,
+      "dist_to_barycenter": 0.7965978384017944
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_108",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5756972111553785,
+        "Merced Community Medical Center Clinical Team": 0.5796812749003984
+      },
+      "mean_percentile": 0.5776892430278885,
+      "dist_to_barycenter": 0.7369048595428467
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_350",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.3784860557768924,
+        "Merced Community Medical Center Clinical Team": 0.12151394422310757
+      },
+      "mean_percentile": 0.25,
+      "dist_to_barycenter": 0.6953244805335999
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_381",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.30876494023904383,
+        "Merced Community Medical Center Clinical Team": 0.11155378486055777
+      },
+      "mean_percentile": 0.2101593625498008,
+      "dist_to_barycenter": 0.6438646912574768
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_245",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6334661354581673,
+        "Merced Community Medical Center Clinical Team": 0.5756972111553785
+      },
+      "mean_percentile": 0.6045816733067729,
+      "dist_to_barycenter": 0.757490873336792
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_137",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5936254980079682,
+        "Merced Community Medical Center Clinical Team": 0.14741035856573706
+      },
+      "mean_percentile": 0.3705179282868526,
+      "dist_to_barycenter": 0.7175506353378296
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_137",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5936254980079682,
+        "Merced Community Medical Center Clinical Team": 0.1394422310756972
+      },
+      "mean_percentile": 0.3665338645418327,
+      "dist_to_barycenter": 0.7175506353378296
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_528",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7908366533864541,
+        "Merced Community Medical Center Clinical Team": 0.3904382470119522
+      },
+      "mean_percentile": 0.5906374501992031,
+      "dist_to_barycenter": 0.7578059434890747
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_250",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6195219123505976,
+        "Merced Community Medical Center Clinical Team": 0.5756972111553785
+      },
+      "mean_percentile": 0.5976095617529881,
+      "dist_to_barycenter": 0.7911660671234131
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_214",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.8107569721115537,
+        "Merced Community Medical Center Clinical Team": 0.43824701195219123
+      },
+      "mean_percentile": 0.6245019920318725,
+      "dist_to_barycenter": 0.7965978384017944
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_389",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6932270916334662,
+        "Merced Community Medical Center Clinical Team": 0.1553784860557769
+      },
+      "mean_percentile": 0.4243027888446215,
+      "dist_to_barycenter": 0.7561880350112915
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_384",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5239043824701195,
+        "Merced Community Medical Center Clinical Team": 0.2848605577689243
+      },
+      "mean_percentile": 0.4043824701195219,
+      "dist_to_barycenter": 0.7090860605239868
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_186",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.19721115537848605,
+        "Merced Community Medical Center Clinical Team": 0.4342629482071713
+      },
+      "mean_percentile": 0.3157370517928287,
+      "dist_to_barycenter": 0.7134518623352051
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_381",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.30876494023904383,
+        "Merced Community Medical Center Clinical Team": 0.2848605577689243
+      },
+      "mean_percentile": 0.2968127490039841,
+      "dist_to_barycenter": 0.6438646912574768
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_135",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5258964143426295,
+        "Merced Community Medical Center Clinical Team": 0.36254980079681276
+      },
+      "mean_percentile": 0.4442231075697211,
+      "dist_to_barycenter": 0.7501518130302429
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_405",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.4362549800796813,
+        "Merced Community Medical Center Clinical Team": 0.33067729083665337
+      },
+      "mean_percentile": 0.3834661354581673,
+      "dist_to_barycenter": 0.7242909073829651
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_377",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.0796812749003984,
+        "Merced Community Medical Center Clinical Team": 0.41434262948207173
+      },
+      "mean_percentile": 0.24701195219123506,
+      "dist_to_barycenter": 0.7004993557929993
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_170",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5737051792828686,
+        "Merced Community Medical Center Clinical Team": 0.5139442231075697
+      },
+      "mean_percentile": 0.5438247011952191,
+      "dist_to_barycenter": 0.7149507403373718
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_307",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5916334661354582,
+        "Merced Community Medical Center Clinical Team": 0.41832669322709165
+      },
+      "mean_percentile": 0.5049800796812749,
+      "dist_to_barycenter": 0.7522926330566406
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_134",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6952191235059761,
+        "Merced Community Medical Center Clinical Team": 0.603585657370518
+      },
+      "mean_percentile": 0.6494023904382471,
+      "dist_to_barycenter": 0.7826839089393616
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_170",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5737051792828686,
+        "Merced Community Medical Center Clinical Team": 0.01195219123505976
+      },
+      "mean_percentile": 0.29282868525896416,
+      "dist_to_barycenter": 0.7149507403373718
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_400",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.448207171314741,
+        "Merced Community Medical Center Clinical Team": 0.11354581673306773
+      },
+      "mean_percentile": 0.28087649402390436,
+      "dist_to_barycenter": 0.733839213848114
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_137",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5936254980079682,
+        "Merced Community Medical Center Clinical Team": 0.2450199203187251
+      },
+      "mean_percentile": 0.41932270916334663,
+      "dist_to_barycenter": 0.7175506353378296
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_375",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.18725099601593626,
+        "Merced Community Medical Center Clinical Team": 0.2290836653386454
+      },
+      "mean_percentile": 0.20816733067729082,
+      "dist_to_barycenter": 0.662765622138977
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_382",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6553784860557769,
+        "Merced Community Medical Center Clinical Team": 0.5756972111553785
+      },
+      "mean_percentile": 0.6155378486055777,
+      "dist_to_barycenter": 0.7721220254898071
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_137",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5936254980079682,
+        "Merced Community Medical Center Clinical Team": 0.2589641434262948
+      },
+      "mean_percentile": 0.4262948207171315,
+      "dist_to_barycenter": 0.7175506353378296
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_306",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.2689243027888446,
+        "Merced Community Medical Center Clinical Team": 0.6414342629482072
+      },
+      "mean_percentile": 0.4551792828685259,
+      "dist_to_barycenter": 0.7713839411735535
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_297",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.8745019920318725,
+        "Merced Community Medical Center Clinical Team": 0.6175298804780877
+      },
+      "mean_percentile": 0.7460159362549801,
+      "dist_to_barycenter": 0.8449414372444153
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_145",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6115537848605578,
+        "Merced Community Medical Center Clinical Team": 0.099601593625498
+      },
+      "mean_percentile": 0.3555776892430279,
+      "dist_to_barycenter": 0.7254701256752014
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_307",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5916334661354582,
+        "Merced Community Medical Center Clinical Team": 0.6175298804780877
+      },
+      "mean_percentile": 0.6045816733067729,
+      "dist_to_barycenter": 0.7522926330566406
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_517",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7589641434262948,
+        "Merced Community Medical Center Clinical Team": 0.20916334661354583
+      },
+      "mean_percentile": 0.48406374501992033,
+      "dist_to_barycenter": 0.7818270921707153
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_517",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7589641434262948,
+        "Merced Community Medical Center Clinical Team": 0.31673306772908366
+      },
+      "mean_percentile": 0.5378486055776892,
+      "dist_to_barycenter": 0.7818270921707153
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_121",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5657370517928287,
+        "Merced Community Medical Center Clinical Team": 0.10557768924302789
+      },
+      "mean_percentile": 0.3356573705179283,
+      "dist_to_barycenter": 0.7241266965866089
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_351",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.11155378486055777,
+        "Merced Community Medical Center Clinical Team": 0.7669322709163346
+      },
+      "mean_percentile": 0.4392430278884462,
+      "dist_to_barycenter": 0.7128735780715942
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_245",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6334661354581673,
+        "Merced Community Medical Center Clinical Team": 0.5179282868525896
+      },
+      "mean_percentile": 0.5756972111553784,
+      "dist_to_barycenter": 0.757490873336792
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_554",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.8067729083665338,
+        "Merced Community Medical Center Clinical Team": 0.20916334661354583
+      },
+      "mean_percentile": 0.5079681274900398,
+      "dist_to_barycenter": 0.8084537386894226
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_351",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.11155378486055777,
+        "Merced Community Medical Center Clinical Team": 0.547808764940239
+      },
+      "mean_percentile": 0.3296812749003984,
+      "dist_to_barycenter": 0.7128735780715942
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_185",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.24701195219123506,
+        "Merced Community Medical Center Clinical Team": 0.35856573705179284
+      },
+      "mean_percentile": 0.30278884462151395,
+      "dist_to_barycenter": 0.6668135523796082
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_178",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7749003984063745,
+        "Merced Community Medical Center Clinical Team": 0.1394422310756972
+      },
+      "mean_percentile": 0.45717131474103584,
+      "dist_to_barycenter": 0.7883089184761047
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_347",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.4581673306772908,
+        "Merced Community Medical Center Clinical Team": 0.2948207171314741
+      },
+      "mean_percentile": 0.37649402390438247,
+      "dist_to_barycenter": 0.7261937260627747
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_219",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5278884462151394,
+        "Merced Community Medical Center Clinical Team": 0.35856573705179284
+      },
+      "mean_percentile": 0.44322709163346613,
+      "dist_to_barycenter": 0.7127528190612793
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_395",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.07171314741035857,
+        "Merced Community Medical Center Clinical Team": 0.7669322709163346
+      },
+      "mean_percentile": 0.41932270916334663,
+      "dist_to_barycenter": 0.6777263283729553
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_344",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7948207171314741,
+        "Merced Community Medical Center Clinical Team": 0.35258964143426297
+      },
+      "mean_percentile": 0.5737051792828685,
+      "dist_to_barycenter": 0.7916781306266785
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_344",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7948207171314741,
+        "Merced Community Medical Center Clinical Team": 0.42828685258964144
+      },
+      "mean_percentile": 0.6115537848605578,
+      "dist_to_barycenter": 0.7916781306266785
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_170",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5737051792828686,
+        "Merced Community Medical Center Clinical Team": 0.08366533864541832
+      },
+      "mean_percentile": 0.32868525896414347,
+      "dist_to_barycenter": 0.7149507403373718
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_207",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.4701195219123506,
+        "Merced Community Medical Center Clinical Team": 0.44621513944223107
+      },
+      "mean_percentile": 0.4581673306772909,
+      "dist_to_barycenter": 0.7279223203659058
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_530",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7928286852589641,
+        "Merced Community Medical Center Clinical Team": 0.11155378486055777
+      },
+      "mean_percentile": 0.45219123505976094,
+      "dist_to_barycenter": 0.7775033116340637
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_389",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6932270916334662,
+        "Merced Community Medical Center Clinical Team": 0.16733067729083664
+      },
+      "mean_percentile": 0.4302788844621514,
+      "dist_to_barycenter": 0.7561880350112915
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_528",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7908366533864541,
+        "Merced Community Medical Center Clinical Team": 0.1553784860557769
+      },
+      "mean_percentile": 0.4731075697211155,
+      "dist_to_barycenter": 0.7578059434890747
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_411",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.053784860557768925,
+        "Merced Community Medical Center Clinical Team": 0.4800796812749004
+      },
+      "mean_percentile": 0.26693227091633465,
+      "dist_to_barycenter": 0.7028882503509521
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_530",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7928286852589641,
+        "Merced Community Medical Center Clinical Team": 0.0
+      },
+      "mean_percentile": 0.39641434262948205,
+      "dist_to_barycenter": 0.7775033116340637
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_214",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.8107569721115537,
+        "Merced Community Medical Center Clinical Team": 0.061752988047808766
+      },
+      "mean_percentile": 0.4362549800796812,
+      "dist_to_barycenter": 0.7965978384017944
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_186",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.19721115537848605,
+        "Merced Community Medical Center Clinical Team": 0.5298804780876494
+      },
+      "mean_percentile": 0.36354581673306774,
+      "dist_to_barycenter": 0.7134518623352051
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_354",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.950199203187251,
+        "Merced Community Medical Center Clinical Team": 0.5398406374501992
+      },
+      "mean_percentile": 0.7450199203187251,
+      "dist_to_barycenter": 0.9146486520767212
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_350",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.3784860557768924,
+        "Merced Community Medical Center Clinical Team": 0.029880478087649404
+      },
+      "mean_percentile": 0.2041832669322709,
+      "dist_to_barycenter": 0.6953244805335999
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_432",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7390438247011952,
+        "Merced Community Medical Center Clinical Team": 0.6195219123505976
+      },
+      "mean_percentile": 0.6792828685258965,
+      "dist_to_barycenter": 0.7591599225997925
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_350",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.3784860557768924,
+        "Merced Community Medical Center Clinical Team": 0.23705179282868527
+      },
+      "mean_percentile": 0.30776892430278885,
+      "dist_to_barycenter": 0.6953244805335999
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_356",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.29880478087649404,
+        "Merced Community Medical Center Clinical Team": 0.029880478087649404
+      },
+      "mean_percentile": 0.16434262948207173,
+      "dist_to_barycenter": 0.6837005019187927
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_534",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7211155378486056,
+        "Merced Community Medical Center Clinical Team": 0.6533864541832669
+      },
+      "mean_percentile": 0.6872509960159363,
+      "dist_to_barycenter": 0.7974174618721008
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_625",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.8625498007968128,
+        "Merced Community Medical Center Clinical Team": 0.7171314741035857
+      },
+      "mean_percentile": 0.7898406374501992,
+      "dist_to_barycenter": 0.8141696453094482
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_373",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.2410358565737052,
+        "Merced Community Medical Center Clinical Team": 0.029880478087649404
+      },
+      "mean_percentile": 0.13545816733067728,
+      "dist_to_barycenter": 0.6517642736434937
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_391",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.32669322709163345,
+        "Merced Community Medical Center Clinical Team": 0.053784860557768925
+      },
+      "mean_percentile": 0.1902390438247012,
+      "dist_to_barycenter": 0.7023414969444275
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_336",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.8007968127490039,
+        "Merced Community Medical Center Clinical Team": 0.14741035856573706
+      },
+      "mean_percentile": 0.4741035856573705,
+      "dist_to_barycenter": 0.7741081118583679
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_389",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6932270916334662,
+        "Merced Community Medical Center Clinical Team": 0.14741035856573706
+      },
+      "mean_percentile": 0.4203187250996016,
+      "dist_to_barycenter": 0.7561880350112915
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_423",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.4103585657370518,
+        "Merced Community Medical Center Clinical Team": 0.6095617529880478
+      },
+      "mean_percentile": 0.5099601593625498,
+      "dist_to_barycenter": 0.7337847948074341
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_500",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.12749003984063745,
+        "Merced Community Medical Center Clinical Team": 0.4800796812749004
+      },
+      "mean_percentile": 0.30378486055776893,
+      "dist_to_barycenter": 0.7502503991127014
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_373",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.2410358565737052,
+        "Merced Community Medical Center Clinical Team": 0.23705179282868527
+      },
+      "mean_percentile": 0.23904382470119523,
+      "dist_to_barycenter": 0.6517642736434937
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_389",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6932270916334662,
+        "Merced Community Medical Center Clinical Team": 0.1394422310756972
+      },
+      "mean_percentile": 0.4163346613545817,
+      "dist_to_barycenter": 0.7561880350112915
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_338",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.14143426294820718,
+        "Merced Community Medical Center Clinical Team": 0.7749003984063745
+      },
+      "mean_percentile": 0.4581673306772908,
+      "dist_to_barycenter": 0.7391442656517029
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_559",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7609561752988048,
+        "Merced Community Medical Center Clinical Team": 0.547808764940239
+      },
+      "mean_percentile": 0.6543824701195219,
+      "dist_to_barycenter": 0.7956044673919678
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_423",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.4103585657370518,
+        "Merced Community Medical Center Clinical Team": 0.00597609561752988
+      },
+      "mean_percentile": 0.20816733067729085,
+      "dist_to_barycenter": 0.7337847948074341
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_524",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.16533864541832669,
+        "Merced Community Medical Center Clinical Team": 0.4800796812749004
+      },
+      "mean_percentile": 0.32270916334661354,
+      "dist_to_barycenter": 0.749456524848938
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_423",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.4103585657370518,
+        "Merced Community Medical Center Clinical Team": 0.49203187250996017
+      },
+      "mean_percentile": 0.451195219123506,
+      "dist_to_barycenter": 0.7337847948074341
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_178",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7749003984063745,
+        "Merced Community Medical Center Clinical Team": 0.1752988047808765
+      },
+      "mean_percentile": 0.4750996015936255,
+      "dist_to_barycenter": 0.7883089184761047
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_351",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.11155378486055777,
+        "Merced Community Medical Center Clinical Team": 0.7749003984063745
+      },
+      "mean_percentile": 0.44322709163346613,
+      "dist_to_barycenter": 0.7128735780715942
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_400",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.448207171314741,
+        "Merced Community Medical Center Clinical Team": 0.23705179282868527
+      },
+      "mean_percentile": 0.3426294820717132,
+      "dist_to_barycenter": 0.733839213848114
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_559",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7609561752988048,
+        "Merced Community Medical Center Clinical Team": 0.34860557768924305
+      },
+      "mean_percentile": 0.5547808764940239,
+      "dist_to_barycenter": 0.7956044673919678
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_344",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7948207171314741,
+        "Merced Community Medical Center Clinical Team": 0.3844621513944223
+      },
+      "mean_percentile": 0.5896414342629481,
+      "dist_to_barycenter": 0.7916781306266785
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_246",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.4860557768924303,
+        "Merced Community Medical Center Clinical Team": 0.08764940239043825
+      },
+      "mean_percentile": 0.2868525896414343,
+      "dist_to_barycenter": 0.7251002192497253
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_571",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5776892430278885,
+        "Merced Community Medical Center Clinical Team": 0.5976095617529881
+      },
+      "mean_percentile": 0.5876494023904383,
+      "dist_to_barycenter": 0.7438162565231323
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_401",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.8207171314741036,
+        "Merced Community Medical Center Clinical Team": 0.20717131474103587
+      },
+      "mean_percentile": 0.5139442231075697,
+      "dist_to_barycenter": 0.7903683185577393
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_517",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7589641434262948,
+        "Merced Community Medical Center Clinical Team": 0.5139442231075697
+      },
+      "mean_percentile": 0.6364541832669323,
+      "dist_to_barycenter": 0.7818270921707153
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_377",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.0796812749003984,
+        "Merced Community Medical Center Clinical Team": 0.7749003984063745
+      },
+      "mean_percentile": 0.42729083665338646,
+      "dist_to_barycenter": 0.7004993557929993
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_517",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7589641434262948,
+        "Merced Community Medical Center Clinical Team": 0.42828685258964144
+      },
+      "mean_percentile": 0.5936254980079682,
+      "dist_to_barycenter": 0.7818270921707153
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_4_178",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7749003984063745,
+        "Merced Community Medical Center Clinical Team": 0.40239043824701193
+      },
+      "mean_percentile": 0.5886454183266931,
+      "dist_to_barycenter": 0.7883089184761047
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_496",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.21713147410358566,
+        "Merced Community Medical Center Clinical Team": 0.03386454183266932
+      },
+      "mean_percentile": 0.1254980079681275,
+      "dist_to_barycenter": 0.6657743453979492
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_297",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.8745019920318725,
+        "Merced Community Medical Center Clinical Team": 0.6673306772908366
+      },
+      "mean_percentile": 0.7709163346613546,
+      "dist_to_barycenter": 0.8449414372444153
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_440",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5717131474103586,
+        "Merced Community Medical Center Clinical Team": 0.14741035856573706
+      },
+      "mean_percentile": 0.3595617529880478,
+      "dist_to_barycenter": 0.6983166337013245
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_375",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.18725099601593626,
+        "Merced Community Medical Center Clinical Team": 0.27091633466135456
+      },
+      "mean_percentile": 0.2290836653386454,
+      "dist_to_barycenter": 0.662765622138977
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_389",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.6932270916334662,
+        "Merced Community Medical Center Clinical Team": 0.2450199203187251
+      },
+      "mean_percentile": 0.46912350597609564,
+      "dist_to_barycenter": 0.7561880350112915
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_595",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5378486055776892,
+        "Merced Community Medical Center Clinical Team": 0.16733067729083664
+      },
+      "mean_percentile": 0.3525896414342629,
+      "dist_to_barycenter": 0.7298623919487
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_409",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7310756972111554,
+        "Merced Community Medical Center Clinical Team": 0.5796812749003984
+      },
+      "mean_percentile": 0.655378486055777,
+      "dist_to_barycenter": 0.7771754264831543
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_336",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.8007968127490039,
+        "Merced Community Medical Center Clinical Team": 0.2589641434262948
+      },
+      "mean_percentile": 0.5298804780876494,
+      "dist_to_barycenter": 0.7741081118583679
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_517",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7589641434262948,
+        "Merced Community Medical Center Clinical Team": 0.1852589641434263
+      },
+      "mean_percentile": 0.4721115537848606,
+      "dist_to_barycenter": 0.7818270921707153
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_423",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.4103585657370518,
+        "Merced Community Medical Center Clinical Team": 0.7549800796812749
+      },
+      "mean_percentile": 0.5826693227091634,
+      "dist_to_barycenter": 0.7337847948074341
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_528",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7908366533864541,
+        "Merced Community Medical Center Clinical Team": 0.16733067729083664
+      },
+      "mean_percentile": 0.4790836653386454,
+      "dist_to_barycenter": 0.7578059434890747
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_627",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.9322709163346613,
+        "Merced Community Medical Center Clinical Team": 0.8426294820717132
+      },
+      "mean_percentile": 0.8874501992031872,
+      "dist_to_barycenter": 0.8696542382240295
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_297",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.8745019920318725,
+        "Merced Community Medical Center Clinical Team": 0.5657370517928287
+      },
+      "mean_percentile": 0.7201195219123506,
+      "dist_to_barycenter": 0.8449414372444153
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_308",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.00199203187250996,
+        "Merced Community Medical Center Clinical Team": 0.8167330677290837
+      },
+      "mean_percentile": 0.40936254980079684,
+      "dist_to_barycenter": 0.6589900255203247
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_626",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.8645418326693227,
+        "Merced Community Medical Center Clinical Team": 0.8426294820717132
+      },
+      "mean_percentile": 0.853585657370518,
+      "dist_to_barycenter": 0.836243212223053
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_489",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5139442231075697,
+        "Merced Community Medical Center Clinical Team": 0.029880478087649404
+      },
+      "mean_percentile": 0.27191235059760954,
+      "dist_to_barycenter": 0.7258374094963074
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_460",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7111553784860558,
+        "Merced Community Medical Center Clinical Team": 0.053784860557768925
+      },
+      "mean_percentile": 0.38247011952191234,
+      "dist_to_barycenter": 0.7706197500228882
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_432",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7390438247011952,
+        "Merced Community Medical Center Clinical Team": 0.6294820717131474
+      },
+      "mean_percentile": 0.6842629482071714,
+      "dist_to_barycenter": 0.7591599225997925
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_554",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.8067729083665338,
+        "Merced Community Medical Center Clinical Team": 0.5179282868525896
+      },
+      "mean_percentile": 0.6623505976095617,
+      "dist_to_barycenter": 0.8084537386894226
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_428",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7629482071713147,
+        "Merced Community Medical Center Clinical Team": 0.5796812749003984
+      },
+      "mean_percentile": 0.6713147410358566,
+      "dist_to_barycenter": 0.7982886433601379
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_489",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5139442231075697,
+        "Merced Community Medical Center Clinical Team": 0.23705179282868527
+      },
+      "mean_percentile": 0.3754980079681275,
+      "dist_to_barycenter": 0.7258374094963074
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_627",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.9322709163346613,
+        "Merced Community Medical Center Clinical Team": 0.9023904382470119
+      },
+      "mean_percentile": 0.9173306772908366,
+      "dist_to_barycenter": 0.8696542382240295
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_626",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.8645418326693227,
+        "Merced Community Medical Center Clinical Team": 0.9023904382470119
+      },
+      "mean_percentile": 0.8834661354581673,
+      "dist_to_barycenter": 0.836243212223053
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_595",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5378486055776892,
+        "Merced Community Medical Center Clinical Team": 0.14741035856573706
+      },
+      "mean_percentile": 0.3426294820717131,
+      "dist_to_barycenter": 0.7298623919487
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_440",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5717131474103586,
+        "Merced Community Medical Center Clinical Team": 0.2589641434262948
+      },
+      "mean_percentile": 0.4153386454183267,
+      "dist_to_barycenter": 0.6983166337013245
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_490",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.8386454183266933,
+        "Merced Community Medical Center Clinical Team": 0.28286852589641437
+      },
+      "mean_percentile": 0.5607569721115538,
+      "dist_to_barycenter": 0.7831021547317505
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_595",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5378486055776892,
+        "Merced Community Medical Center Clinical Team": 0.1394422310756972
+      },
+      "mean_percentile": 0.3386454183266932,
+      "dist_to_barycenter": 0.7298623919487
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_357",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.32270916334661354,
+        "Merced Community Medical Center Clinical Team": 0.8167330677290837
+      },
+      "mean_percentile": 0.5697211155378487,
+      "dist_to_barycenter": 0.8098455667495728
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_312",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.23705179282868527,
+        "Merced Community Medical Center Clinical Team": 0.8904382470119522
+      },
+      "mean_percentile": 0.5637450199203187,
+      "dist_to_barycenter": 0.7824088931083679
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_528",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7908366533864541,
+        "Merced Community Medical Center Clinical Team": 0.14741035856573706
+      },
+      "mean_percentile": 0.4691235059760956,
+      "dist_to_barycenter": 0.7578059434890747
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_530",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7928286852589641,
+        "Merced Community Medical Center Clinical Team": 0.061752988047808766
+      },
+      "mean_percentile": 0.4272908366533864,
+      "dist_to_barycenter": 0.7775033116340637
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_528",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7908366533864541,
+        "Merced Community Medical Center Clinical Team": 0.30278884462151395
+      },
+      "mean_percentile": 0.546812749003984,
+      "dist_to_barycenter": 0.7578059434890747
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_528",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7908366533864541,
+        "Merced Community Medical Center Clinical Team": 0.1394422310756972
+      },
+      "mean_percentile": 0.4651394422310757,
+      "dist_to_barycenter": 0.7578059434890747
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_363",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.2749003984063745,
+        "Merced Community Medical Center Clinical Team": 0.8266932270916335
+      },
+      "mean_percentile": 0.5507968127490039,
+      "dist_to_barycenter": 0.7649992108345032
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_409",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7310756972111554,
+        "Merced Community Medical Center Clinical Team": 0.07569721115537849
+      },
+      "mean_percentile": 0.40338645418326696,
+      "dist_to_barycenter": 0.7771754264831543
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_490",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.8386454183266933,
+        "Merced Community Medical Center Clinical Team": 0.48406374501992033
+      },
+      "mean_percentile": 0.6613545816733069,
+      "dist_to_barycenter": 0.7831021547317505
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_365",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.04183266932270916,
+        "Merced Community Medical Center Clinical Team": 0.8266932270916335
+      },
+      "mean_percentile": 0.4342629482071713,
+      "dist_to_barycenter": 0.6833142638206482
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_530",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7928286852589641,
+        "Merced Community Medical Center Clinical Team": 0.44621513944223107
+      },
+      "mean_percentile": 0.6195219123505976,
+      "dist_to_barycenter": 0.7775033116340637
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_559",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7609561752988048,
+        "Merced Community Medical Center Clinical Team": 0.5298804780876494
+      },
+      "mean_percentile": 0.6454183266932271,
+      "dist_to_barycenter": 0.7956044673919678
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_432",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7390438247011952,
+        "Merced Community Medical Center Clinical Team": 0.46613545816733065
+      },
+      "mean_percentile": 0.602589641434263,
+      "dist_to_barycenter": 0.7591599225997925
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_593",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5697211155378487,
+        "Merced Community Medical Center Clinical Team": 0.44621513944223107
+      },
+      "mean_percentile": 0.5079681274900398,
+      "dist_to_barycenter": 0.7293503880500793
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_595",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5378486055776892,
+        "Merced Community Medical Center Clinical Team": 0.2450199203187251
+      },
+      "mean_percentile": 0.39143426294820716,
+      "dist_to_barycenter": 0.7298623919487
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_626",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.8645418326693227,
+        "Merced Community Medical Center Clinical Team": 0.7191235059760956
+      },
+      "mean_percentile": 0.7918326693227091,
+      "dist_to_barycenter": 0.836243212223053
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_616",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.703187250996016,
+        "Merced Community Medical Center Clinical Team": 0.00796812749003984
+      },
+      "mean_percentile": 0.3555776892430279,
+      "dist_to_barycenter": 0.7796734571456909
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_616",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.703187250996016,
+        "Merced Community Medical Center Clinical Team": 0.30278884462151395
+      },
+      "mean_percentile": 0.5029880478087649,
+      "dist_to_barycenter": 0.7796734571456909
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_528",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7908366533864541,
+        "Merced Community Medical Center Clinical Team": 0.19322709163346613
+      },
+      "mean_percentile": 0.49203187250996017,
+      "dist_to_barycenter": 0.7578059434890747
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_528",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7908366533864541,
+        "Merced Community Medical Center Clinical Team": 0.2450199203187251
+      },
+      "mean_percentile": 0.5179282868525896,
+      "dist_to_barycenter": 0.7578059434890747
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_450",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.42828685258964144,
+        "Merced Community Medical Center Clinical Team": 0.1752988047808765
+      },
+      "mean_percentile": 0.301792828685259,
+      "dist_to_barycenter": 0.6839842796325684
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_616",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.703187250996016,
+        "Merced Community Medical Center Clinical Team": 0.23107569721115537
+      },
+      "mean_percentile": 0.4671314741035857,
+      "dist_to_barycenter": 0.7796734571456909
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_571",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.5776892430278885,
+        "Merced Community Medical Center Clinical Team": 0.4581673306772908
+      },
+      "mean_percentile": 0.5179282868525896,
+      "dist_to_barycenter": 0.7438162565231323
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_450",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.42828685258964144,
+        "Merced Community Medical Center Clinical Team": 0.40239043824701193
+      },
+      "mean_percentile": 0.41533864541832666,
+      "dist_to_barycenter": 0.6839842796325684
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_500",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.12749003984063745,
+        "Merced Community Medical Center Clinical Team": 0.8904382470119522
+      },
+      "mean_percentile": 0.5089641434262948,
+      "dist_to_barycenter": 0.7502503991127014
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_501",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.41832669322709165,
+        "Merced Community Medical Center Clinical Team": 0.8904382470119522
+      },
+      "mean_percentile": 0.6543824701195219,
+      "dist_to_barycenter": 0.8388804793357849
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_5_448",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7111553784860558,
+        "Merced Community Medical Center Clinical Team": 0.9760956175298805
+      },
+      "mean_percentile": 0.8436254980079682,
+      "dist_to_barycenter": 0.8810381889343262
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_616",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.703187250996016,
+        "Merced Community Medical Center Clinical Team": 0.28087649402390436
+      },
+      "mean_percentile": 0.49203187250996017,
+      "dist_to_barycenter": 0.7796734571456909
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_616",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.703187250996016,
+        "Merced Community Medical Center Clinical Team": 0.043824701195219126
+      },
+      "mean_percentile": 0.37350597609561753,
+      "dist_to_barycenter": 0.7796734571456909
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_528",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.7908366533864541,
+        "Merced Community Medical Center Clinical Team": 0.40239043824701193
+      },
+      "mean_percentile": 0.596613545816733,
+      "dist_to_barycenter": 0.7578059434890747
+    },
+    {
+      "nodo_id": "Lee Family (Foua and Nao Kao Lee)_6_610",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Lee Family (Foua and Nao Kao Lee)": 0.2051792828685259,
+        "Merced Community Medical Center Clinical Team": 0.8167330677290837
+      },
+      "mean_percentile": 0.5109561752988048,
+      "dist_to_barycenter": 0.7310673594474792
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_name": "Intrapersonal Conflict in Bipolar I Disorder: Manic-Depressive Opposition Regarding Treatment Adherence and Self-Perception",
+  "case_dir": "casos\\jamison\\runs\\2026-05-01_16-30-33",
+  "actors": [
+    "Kay Jamison [DepressiveState]",
+    "Kay Jamison [ManicState]"
+  ],
+  "n_actors": 2,
+  "total_classes": 11,
+  "unknown_nodes": 0,
+  "by_n_actors": {
+    "2": {
+      "count": 11,
+      "nodes": 47
+    }
+  },
+  "pair_counts": {
+    "Kay Jamison [DepressiveState] + Kay Jamison [ManicState]": {
+      "count": 11,
+      "nodes": 47
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "case_name": "Cross-Cultural Medical Decision-Making (Lia Lee Case)",
+  "case_dir": "casos\\lee\\runs\\2026-05-02_10-54-38",
+  "n_hubs": 211,
+  "n_chain_pairs": 211,
+  "alias_map": {
+    "Lee Family (Foua and Nao Kao Lee)": "Lee",
+    "Merced Community Medical Center Clinical Team": "Merced"
+  },
+  "alias_source": "derivado (heuristico)",
+  "cosine_baseline_mean": 0.3352012674848346,
+  "cosine_baseline_std": 0.13747299760165688,
+  "profiles": {
+    "endpoint": [
+      {
+        "k": 0,
+        "n_pairs": 211,
+        "cos_mean": 0.7300513525533574,
+        "cos_std": 0.09652174020213021,
+        "frac_T": 0.909952606635071,
+        "frac_B": 0.0,
+        "frac_F": 0.0,
+        "frac_N": 0.09004739336492891,
+        "nli_available": true
+      },
+      {
+        "k": 1,
+        "n_pairs": 211,
+        "cos_mean": 0.4928752505157143,
+        "cos_std": 0.14393702260035895,
+        "frac_T": 0.04265402843601896,
+        "frac_B": 0.0,
+        "frac_F": 0.061611374407582936,
+        "frac_N": 0.8957345971563981,
+        "nli_available": true
+      },
+      {
+        "k": 2,
+        "n_pairs": 211,
+        "cos_mean": 0.42557640489361176,
+        "cos_std": 0.1352578453166252,
+        "frac_T": 0.004739336492890996,
+        "frac_B": 0.0,
+        "frac_F": 0.04739336492890995,
+        "frac_N": 0.9478672985781991,
+        "nli_available": true
+      },
+      {
+        "k": 3,
+        "n_pairs": 205,
+        "cos_mean": 0.3906638494365731,
+        "cos_std": 0.16142817244028979,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.024390243902439025,
+        "frac_N": 0.975609756097561,
+        "nli_available": true
+      },
+      {
+        "k": 4,
+        "n_pairs": 165,
+        "cos_mean": 0.35783628932135353,
+        "cos_std": 0.1369706553748097,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.006060606060606061,
+        "frac_N": 0.9939393939393939,
+        "nli_available": true
+      },
+      {
+        "k": 5,
+        "n_pairs": 97,
+        "cos_mean": 0.4017382810190534,
+        "cos_std": 0.07294252948229521,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.0,
+        "frac_N": 1.0,
+        "nli_available": true
+      },
+      {
+        "k": 6,
+        "n_pairs": 2,
+        "cos_mean": 0.4481808112022868,
+        "cos_std": 0.0,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.0,
+        "frac_N": 1.0,
+        "nli_available": true
+      }
+    ],
+    "normalized": [
+      {
+        "k": 0.0,
+        "n_pairs": 211,
+        "cos_mean": 0.7300513525533574,
+        "cos_std": 0.09652174020213021,
+        "frac_T": 0.909952606635071,
+        "frac_B": 0.0,
+        "frac_F": 0.0,
+        "frac_N": 0.09004739336492891,
+        "nli_available": true
+      },
+      {
+        "k": 0.2,
+        "n_pairs": 211,
+        "cos_mean": 0.494776344435085,
+        "cos_std": 0.14371315327780576,
+        "frac_T": 0.04265402843601896,
+        "frac_B": 0.0,
+        "frac_F": 0.06635071090047394,
+        "frac_N": 0.8909952606635071,
+        "nli_available": true
+      },
+      {
+        "k": 0.4,
+        "n_pairs": 211,
+        "cos_mean": 0.4419394072360628,
+        "cos_std": 0.14084931256408706,
+        "frac_T": 0.004739336492890996,
+        "frac_B": 0.0,
+        "frac_F": 0.04739336492890995,
+        "frac_N": 0.9478672985781991,
+        "nli_available": true
+      },
+      {
+        "k": 0.6,
+        "n_pairs": 211,
+        "cos_mean": 0.39155987517587654,
+        "cos_std": 0.14559336351785382,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.04265402843601896,
+        "frac_N": 0.957345971563981,
+        "nli_available": true
+      },
+      {
+        "k": 0.8,
+        "n_pairs": 211,
+        "cos_mean": 0.33126697692203566,
+        "cos_std": 0.07656785404152619,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.02843601895734597,
+        "frac_N": 0.9715639810426541,
+        "nli_available": true
+      },
+      {
+        "k": 1.0,
+        "n_pairs": 211,
+        "cos_mean": 0.4481808112022867,
+        "cos_std": 1.1102230246251565e-16,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.0,
+        "frac_N": 1.0,
+        "nli_available": true
+      }
+    ]
+  }
+}

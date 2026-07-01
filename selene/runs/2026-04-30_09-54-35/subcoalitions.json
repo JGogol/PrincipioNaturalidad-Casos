@@ -1,0 +1,36 @@
+{
+  "case_name": "Lunar Habitat Sovereignty Dispute (Selene Station)",
+  "case_dir": "casos\\selene\\runs\\2026-04-30_09-54-35",
+  "actors": [
+    "Commonwealth of Cerulea",
+    "Federation of Borealis",
+    "Republic of Aurelia"
+  ],
+  "n_actors": 3,
+  "total_classes": 46,
+  "unknown_nodes": 0,
+  "by_n_actors": {
+    "2": {
+      "count": 40,
+      "nodes": 96
+    },
+    "3": {
+      "count": 6,
+      "nodes": 147
+    }
+  },
+  "pair_counts": {
+    "Commonwealth of Cerulea + Federation of Borealis": {
+      "count": 11,
+      "nodes": 22
+    },
+    "Commonwealth of Cerulea + Republic of Aurelia": {
+      "count": 19,
+      "nodes": 47
+    },
+    "Federation of Borealis + Republic of Aurelia": {
+      "count": 10,
+      "nodes": 27
+    }
+  }
+}

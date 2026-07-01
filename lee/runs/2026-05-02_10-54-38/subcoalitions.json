@@ -1,0 +1,23 @@
+{
+  "case_name": "Cross-Cultural Medical Decision-Making (Lia Lee Case)",
+  "case_dir": "casos\\lee\\runs\\2026-05-02_10-54-38",
+  "actors": [
+    "Lee Family (Foua and Nao Kao Lee)",
+    "Merced Community Medical Center Clinical Team"
+  ],
+  "n_actors": 2,
+  "total_classes": 37,
+  "unknown_nodes": 0,
+  "by_n_actors": {
+    "2": {
+      "count": 37,
+      "nodes": 208
+    }
+  },
+  "pair_counts": {
+    "Lee Family (Foua and Nao Kao Lee) + Merced Community Medical Center Clinical Team": {
+      "count": 37,
+      "nodes": 208
+    }
+  }
+}

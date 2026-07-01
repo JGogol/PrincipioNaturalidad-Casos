@@ -1,0 +1,456 @@
+{
+  "test": "Permutation Test for Topological Significance",
+  "method": {
+    "n_permutations": 500,
+    "max_points_per_actor": 300,
+    "metric_space": "Cosine distance in 768d"
+  },
+  "actors": [
+    "Arab Republic of Egypt",
+    "Federal Democratic Republic of Ethiopia",
+    "Republic of Sudan"
+  ],
+  "n_actors": 3,
+  "n_pairs": 3,
+  "pairs": {
+    "Arab Republic of Egypt vs Federal Democratic Republic of Ethiopia": {
+      "metrics": {
+        "H0_mean_lifetime_diff": {
+          "observed": 0.045122059890657734,
+          "null_mean": 0.00603793739315658,
+          "null_std": 0.004552525022527755,
+          "null_95th": 0.015153196454048154,
+          "null_99th": 0.018185051171277257,
+          "p_value": 0.0,
+          "significant_95": true,
+          "significant_99": true,
+          "effect_size_z": 8.585152701873561
+        },
+        "H0_max_lifetime_diff": {
+          "observed": 0.01390695571899414,
+          "null_mean": 0.04637953877449036,
+          "null_std": 0.032479745482306456,
+          "null_95th": 0.12074244022369375,
+          "null_99th": 0.1400914627313614,
+          "p_value": 0.864,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.9997794802051593
+        },
+        "H0_feature_count_diff": {
+          "observed": 0.0,
+          "null_mean": 0.0,
+          "null_std": 0.0,
+          "null_95th": 0.0,
+          "null_99th": 0.0,
+          "p_value": 1.0,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0
+        },
+        "H0_std_lifetime_diff": {
+          "observed": 0.007372434945238038,
+          "null_mean": 0.004927531086810214,
+          "null_std": 0.0037769264461605867,
+          "null_95th": 0.01258597456865952,
+          "null_99th": 0.015368668590575264,
+          "p_value": 0.228,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.647326309706978
+        },
+        "H0_wasserstein": {
+          "observed": 13.661639511585236,
+          "null_mean": 2.900086932079941,
+          "null_std": 1.007583610854454,
+          "null_95th": 4.879006493091581,
+          "null_99th": 5.732007172046554,
+          "p_value": 0.0,
+          "significant_95": true,
+          "significant_99": true,
+          "effect_size_z": 10.680555403614845
+        },
+        "H0_bottleneck": {
+          "observed": 0.0778423547744751,
+          "null_mean": 0.07387768757343292,
+          "null_std": 0.029304744565920953,
+          "null_95th": 0.13130843341350554,
+          "null_99th": 0.15018184125423428,
+          "p_value": 0.398,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.13529096601144788
+        },
+        "H1_mean_lifetime_diff": {
+          "observed": 0.002223382523269264,
+          "null_mean": 0.0017636051941736957,
+          "null_std": 0.0012497236699302394,
+          "null_95th": 0.004045891114046274,
+          "null_99th": 0.005259234030693469,
+          "p_value": 0.308,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.3679031934485434
+        },
+        "H1_max_lifetime_diff": {
+          "observed": 2.205371856689453e-05,
+          "null_mean": 0.01586786639690399,
+          "null_std": 0.012312734433654425,
+          "null_95th": 0.04202268421649931,
+          "null_99th": 0.05276048123836517,
+          "p_value": 1.0,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -1.2869450538156415
+        },
+        "H1_feature_count_diff": {
+          "observed": 14.0,
+          "null_mean": 18.034,
+          "null_std": 13.559529637859862,
+          "null_95th": 44.049999999999955,
+          "null_99th": 58.0,
+          "p_value": 0.534,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.2975029449942407
+        },
+        "H1_std_lifetime_diff": {
+          "observed": 9.218488665890812e-06,
+          "null_mean": 0.001659936434919187,
+          "null_std": 0.0012580201900038819,
+          "null_95th": 0.004184075034271,
+          "null_99th": 0.005130602039729157,
+          "p_value": 0.994,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -1.3121553687053324
+        },
+        "H1_wasserstein": {
+          "observed": 5.681633411549023,
+          "null_mean": 2.702398614198958,
+          "null_std": 0.3143216536762285,
+          "null_95th": 3.2720585275720104,
+          "null_99th": 3.6495542959966087,
+          "p_value": 0.0,
+          "significant_95": true,
+          "significant_99": true,
+          "effect_size_z": 9.478299577854946
+        },
+        "H1_bottleneck": {
+          "observed": 0.04520601034164429,
+          "null_mean": 0.03945350825786591,
+          "null_std": 0.008399392418377146,
+          "null_95th": 0.053642663359642025,
+          "null_99th": 0.061433405280113214,
+          "p_value": 0.248,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.6848712141597768
+        }
+      },
+      "h1_significant": 1,
+      "h1_total": 6,
+      "conclusion": "Parcial (1/6)"
+    },
+    "Arab Republic of Egypt vs Republic of Sudan": {
+      "metrics": {
+        "H0_mean_lifetime_diff": {
+          "observed": 0.0359221696853638,
+          "null_mean": 0.006033788256421935,
+          "null_std": 0.004371809076628609,
+          "null_95th": 0.013876434971257557,
+          "null_99th": 0.018536279480592863,
+          "p_value": 0.0,
+          "significant_95": true,
+          "significant_99": true,
+          "effect_size_z": 6.836616353793467
+        },
+        "H0_max_lifetime_diff": {
+          "observed": 0.1530364751815796,
+          "null_mean": 0.06409033572673797,
+          "null_std": 0.028568429530769757,
+          "null_95th": 0.11453493535518643,
+          "null_99th": 0.14364902079105377,
+          "p_value": 0.004,
+          "significant_95": true,
+          "significant_99": true,
+          "effect_size_z": 3.1134416877568216
+        },
+        "H0_feature_count_diff": {
+          "observed": 0.0,
+          "null_mean": 0.0,
+          "null_std": 0.0,
+          "null_95th": 0.0,
+          "null_99th": 0.0,
+          "p_value": 1.0,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0
+        },
+        "H0_std_lifetime_diff": {
+          "observed": 0.02024074174554416,
+          "null_mean": 0.004626536719416903,
+          "null_std": 0.003480561251680266,
+          "null_95th": 0.011352080454472873,
+          "null_99th": 0.01492286660075221,
+          "p_value": 0.0,
+          "significant_95": true,
+          "significant_99": true,
+          "effect_size_z": 4.486117007304321
+        },
+        "H0_wasserstein": {
+          "observed": 10.971950888633728,
+          "null_mean": 2.785176106702401,
+          "null_std": 0.9924080353193703,
+          "null_95th": 4.67832059562206,
+          "null_99th": 5.775673623085021,
+          "p_value": 0.0,
+          "significant_95": true,
+          "significant_99": true,
+          "effect_size_z": 8.249403965473448
+        },
+        "H0_bottleneck": {
+          "observed": 0.1530364751815796,
+          "null_mean": 0.07300998735427856,
+          "null_std": 0.022814884729046962,
+          "null_95th": 0.11529976427555085,
+          "null_99th": 0.14507362961769105,
+          "p_value": 0.006,
+          "significant_95": true,
+          "significant_99": true,
+          "effect_size_z": 3.5076437500214337
+        },
+        "H1_mean_lifetime_diff": {
+          "observed": 0.0017778709511317263,
+          "null_mean": 0.001726195777922997,
+          "null_std": 0.0013095880348721579,
+          "null_95th": 0.004282538261793954,
+          "null_99th": 0.005453926674615887,
+          "p_value": 0.41,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.03945910609497416
+        },
+        "H1_max_lifetime_diff": {
+          "observed": 0.0015621781349182129,
+          "null_mean": 0.015153468370437621,
+          "null_std": 0.01201813788197354,
+          "null_95th": 0.03965049684047698,
+          "null_99th": 0.054748927950859054,
+          "p_value": 0.934,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -1.1308981781533312
+        },
+        "H1_feature_count_diff": {
+          "observed": 23.0,
+          "null_mean": 19.718,
+          "null_std": 14.944647068432229,
+          "null_95th": 48.0,
+          "null_99th": 62.039999999999964,
+          "p_value": 0.366,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.21961040531580106
+        },
+        "H1_std_lifetime_diff": {
+          "observed": 0.001211076804267814,
+          "null_mean": 0.0015685448749348852,
+          "null_std": 0.0011837579240553647,
+          "null_95th": 0.003765127168496445,
+          "null_99th": 0.004609387949387208,
+          "p_value": 0.55,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.30197734131522685
+        },
+        "H1_wasserstein": {
+          "observed": 4.702100464504618,
+          "null_mean": 2.8382729786049947,
+          "null_std": 0.35279089595674784,
+          "null_95th": 3.5097425539578286,
+          "null_99th": 3.8255308731743667,
+          "p_value": 0.0,
+          "significant_95": true,
+          "significant_99": true,
+          "effect_size_z": 5.283094057302794
+        },
+        "H1_bottleneck": {
+          "observed": 0.03992745280265808,
+          "null_mean": 0.04300787842273712,
+          "null_std": 0.009122080158792347,
+          "null_95th": 0.058865588903427114,
+          "null_99th": 0.065415843129158,
+          "p_value": 0.566,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.33768894445747255
+        }
+      },
+      "h1_significant": 1,
+      "h1_total": 6,
+      "conclusion": "Parcial (1/6)"
+    },
+    "Federal Democratic Republic of Ethiopia vs Republic of Sudan": {
+      "metrics": {
+        "H0_mean_lifetime_diff": {
+          "observed": 0.008116854074407986,
+          "null_mean": 0.005616157657326664,
+          "null_std": 0.004352546566969436,
+          "null_95th": 0.013806567672503028,
+          "null_99th": 0.01738115823587843,
+          "p_value": 0.246,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.5745363957869133
+        },
+        "H0_max_lifetime_diff": {
+          "observed": 0.139129638671875,
+          "null_mean": 0.07752661430835724,
+          "null_std": 0.04594138332661016,
+          "null_95th": 0.15829796195030213,
+          "null_99th": 0.18454217910766602,
+          "p_value": 0.094,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 1.3409048640430483
+        },
+        "H0_feature_count_diff": {
+          "observed": 0.0,
+          "null_mean": 0.0,
+          "null_std": 0.0,
+          "null_95th": 0.0,
+          "null_99th": 0.0,
+          "p_value": 1.0,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0
+        },
+        "H0_std_lifetime_diff": {
+          "observed": 0.015550760862808002,
+          "null_mean": 0.004443324815008944,
+          "null_std": 0.003399244459090774,
+          "null_95th": 0.01119781753864621,
+          "null_99th": 0.013860522320149124,
+          "p_value": 0.002,
+          "significant_95": true,
+          "significant_99": true,
+          "effect_size_z": 3.267619078732002
+        },
+        "H0_wasserstein": {
+          "observed": 5.457462549209595,
+          "null_mean": 2.644513513758212,
+          "null_std": 0.9992616903359041,
+          "null_95th": 4.686700710654258,
+          "null_99th": 5.404194075959271,
+          "p_value": 0.01,
+          "significant_95": true,
+          "significant_99": false,
+          "effect_size_z": 2.8150273973835658
+        },
+        "H0_bottleneck": {
+          "observed": 0.139129638671875,
+          "null_mean": 0.08613452303409576,
+          "null_std": 0.03914013132840992,
+          "null_95th": 0.15829796195030213,
+          "null_99th": 0.18454217910766602,
+          "p_value": 0.094,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 1.3539841037608544
+        },
+        "H1_mean_lifetime_diff": {
+          "observed": 0.0007049373456350302,
+          "null_mean": 0.0017273195564761752,
+          "null_std": 0.001265690957874656,
+          "null_95th": 0.004107889182271656,
+          "null_99th": 0.005541375479313745,
+          "p_value": 0.758,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.8077660699717139
+        },
+        "H1_max_lifetime_diff": {
+          "observed": 0.010359048843383789,
+          "null_mean": 0.017605867862701415,
+          "null_std": 0.012888031430436975,
+          "null_95th": 0.04007545709609984,
+          "null_99th": 0.05003484368324279,
+          "p_value": 0.616,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.562290607253114
+        },
+        "H1_feature_count_diff": {
+          "observed": 34.0,
+          "null_mean": 18.052,
+          "null_std": 13.554235352833446,
+          "null_95th": 44.09999999999991,
+          "null_99th": 58.039999999999964,
+          "p_value": 0.13,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 1.1766063953335553
+        },
+        "H1_std_lifetime_diff": {
+          "observed": 0.0032976489195845303,
+          "null_mean": 0.0015703845012104921,
+          "null_std": 0.0011634830971011857,
+          "null_95th": 0.003744327296345354,
+          "null_99th": 0.005311886853097914,
+          "p_value": 0.082,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 1.4845633964752145
+        },
+        "H1_wasserstein": {
+          "observed": 4.264857587732699,
+          "null_mean": 2.4597728585010232,
+          "null_std": 0.29853971518022704,
+          "null_95th": 2.9761670310240724,
+          "null_99th": 3.338014508436201,
+          "p_value": 0.0,
+          "significant_95": true,
+          "significant_99": true,
+          "effect_size_z": 6.046380556576717
+        },
+        "H1_bottleneck": {
+          "observed": 0.03171306848526001,
+          "null_mean": 0.032741242587566374,
+          "null_std": 0.006512252879081547,
+          "null_95th": 0.043973520398139954,
+          "null_99th": 0.0516895031929016,
+          "p_value": 0.514,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.1578830124378359
+        }
+      },
+      "h1_significant": 1,
+      "h1_total": 6,
+      "conclusion": "Parcial (1/6)"
+    }
+  },
+  "summary": {
+    "divergence_ranking": [
+      {
+        "pair": "Arab Republic of Egypt vs Federal Democratic Republic of Ethiopia",
+        "wasserstein_observed": 5.681633411549023,
+        "wasserstein_p": 0.0,
+        "wasserstein_z": 9.478299577854946
+      },
+      {
+        "pair": "Arab Republic of Egypt vs Republic of Sudan",
+        "wasserstein_observed": 4.702100464504618,
+        "wasserstein_p": 0.0,
+        "wasserstein_z": 5.283094057302794
+      },
+      {
+        "pair": "Federal Democratic Republic of Ethiopia vs Republic of Sudan",
+        "wasserstein_observed": 4.264857587732699,
+        "wasserstein_p": 0.0,
+        "wasserstein_z": 6.046380556576717
+      }
+    ]
+  }
+}

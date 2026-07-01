@@ -1,0 +1,494 @@
+{
+  "file1": {
+    "texto": "Independent third-party monitoring of dam operations is mandatory",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "Ethiopia",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "2/3",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 2,
+      "0.70": 2,
+      "0.55": 2,
+      "0.40": 2,
+      "0.25": 2,
+      "0.10": 2
+    },
+    "por_actor": {
+      "Arab Republic of Egypt": {
+        "incorpora": true,
+        "costo_ttf": 7.053,
+        "soporte": 0.958,
+        "soporte_ttf": 7.804,
+        "opone": 1.0,
+        "sim_max": 0.727,
+        "texto": "Egypt demands independent international hydrological assessment of GERD impacts",
+        "candidatos": [
+          {
+            "ttf": 7.053,
+            "score": 0.924,
+            "texto": "Arab Republic of Egypt demands third-party monitoring of dam releases"
+          },
+          {
+            "ttf": 7.804,
+            "score": 0.958,
+            "texto": "Egypt demands independent international hydrological assessment of GERD impacts"
+          }
+        ],
+        "rechazados_llm": 0
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.623,
+        "texto": "Water management expertise becomes prerequisite for diplomatic participation",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Republic of Sudan": {
+        "incorpora": true,
+        "costo_ttf": 6.448,
+        "soporte": 0.975,
+        "soporte_ttf": 6.448,
+        "opone": 1.0,
+        "sim_max": 0.751,
+        "texto": "Sudan demands independent technical verification of GERD operations",
+        "candidatos": [
+          {
+            "ttf": 6.448,
+            "score": 0.975,
+            "texto": "Sudan demands independent technical verification of GERD operations"
+          }
+        ],
+        "rechazados_llm": 0
+      }
+    }
+  },
+  "file2": {
+    "texto": "Minimum downstream water releases are guaranteed during droughts",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "Egypt",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "0/3",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 0,
+      "0.70": 0,
+      "0.55": 0,
+      "0.40": 0,
+      "0.25": 0,
+      "0.10": 0
+    },
+    "por_actor": {
+      "Arab Republic of Egypt": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.625,
+        "texto": "Arab Republic of Egypt prepares contingency plans for water rationing",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.648,
+        "texto": "Sudan and Egypt receive reduced water supply during Ethiopian low demand periods",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Republic of Sudan": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.66,
+        "texto": "Sudan meets threshold requirements for urgent judicial intervention",
+        "candidatos": [],
+        "rechazados_llm": 0
+      }
+    }
+  },
+  "file3": {
+    "texto": "Reservoir filling follows a jointly agreed staged schedule",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "Egypt",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "0/3",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 0,
+      "0.70": 0,
+      "0.55": 0,
+      "0.40": 0,
+      "0.25": 0,
+      "0.10": 0
+    },
+    "por_actor": {
+      "Arab Republic of Egypt": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.623,
+        "texto": "Ethiopia accelerates GERD filling to establish irreversible operational facts",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.569,
+        "texto": "Ethiopia prioritizes reservoir filling schedules based on domestic energy demands",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Republic of Sudan": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.504,
+        "texto": "Sudan explores non-Western technical expertise for infrastructure projects",
+        "candidatos": [],
+        "rechazados_llm": 0
+      }
+    }
+  },
+  "file4": {
+    "texto": "An African Union commission arbitrates trilateral disputes",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "Egypt",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "0/3",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 0,
+      "0.70": 0,
+      "0.55": 0,
+      "0.40": 0,
+      "0.25": 0,
+      "0.10": 0
+    },
+    "por_actor": {
+      "Arab Republic of Egypt": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.591,
+        "texto": "Ethiopia perceives Egypt's position as inflexible and unreasonable",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.639,
+        "texto": "Egypt's negotiating position weakens relative to Ethiopia's leverage",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Republic of Sudan": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.762,
+        "texto": "Sudan escalates GERD concerns to IGAD leadership",
+        "candidatos": [],
+        "rechazados_llm": 0
+      }
+    }
+  },
+  "file5": {
+    "texto": "Downstream water losses during filling are compensated",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "Egypt",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "0/3",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 0,
+      "0.70": 0,
+      "0.55": 0,
+      "0.40": 0,
+      "0.25": 0,
+      "0.10": 0
+    },
+    "por_actor": {
+      "Arab Republic of Egypt": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.528,
+        "texto": "Sudan questions the validity of Egypt's proposed calculations",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.579,
+        "texto": "Ethiopia maintains higher reservoir levels during drought periods",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Republic of Sudan": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.473,
+        "texto": "African Union requests additional funding from member states for expertise",
+        "candidatos": [],
+        "rechazados_llm": 0
+      }
+    }
+  },
+  "file6": {
+    "texto": "Real-time technical data on dam operations is shared",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "Egypt",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "1/3",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 1,
+      "0.70": 1,
+      "0.55": 1,
+      "0.40": 1,
+      "0.25": 1,
+      "0.10": 1
+    },
+    "por_actor": {
+      "Arab Republic of Egypt": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.684,
+        "texto": "Arab Republic of Egypt receives enhanced satellite monitoring data on Ethiopian dam operat",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.534,
+        "texto": "Sudan's negotiating position with Egypt becomes weakened",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Republic of Sudan": {
+        "incorpora": true,
+        "costo_ttf": 0.0,
+        "soporte": 0.979,
+        "soporte_ttf": 0.0,
+        "opone": 1.0,
+        "sim_max": 0.54,
+        "texto": "Sudan conditions its acceptance on the implementation of a robust real-time technical data",
+        "candidatos": [
+          {
+            "ttf": 0.0,
+            "score": 0.979,
+            "texto": "Sudan conditions its acceptance on the implementation of a robust real-time technical data exchange mechanism (daily/hourly). While acknowledging that the GERD can control seasonal floods affecting Khartoum and reduce sedimentation at Roseires, it considers unacceptable the operational risk of a 74 billion cubic meter dam upstream without binding coordination, fearing the collapse of its own irrigation and electricity generation systems."
+          }
+        ],
+        "rechazados_llm": 0
+      }
+    }
+  },
+  "file7": {
+    "texto": "A binding legal agreement replaces voluntary guidelines",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "Egypt",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "1/3",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 1,
+      "0.70": 1,
+      "0.55": 1,
+      "0.40": 1,
+      "0.25": 1,
+      "0.10": 1
+    },
+    "por_actor": {
+      "Arab Republic of Egypt": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.548,
+        "texto": "Sudan evaluates its position regarding World Bank involvement",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.602,
+        "texto": "Ethiopia's hydroelectric power generation capacity becomes available ahead of schedule",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Republic of Sudan": {
+        "incorpora": true,
+        "costo_ttf": 7.135,
+        "soporte": 0.977,
+        "soporte_ttf": 7.135,
+        "opone": 1.0,
+        "sim_max": 0.488,
+        "texto": "Sudan shifts from technical negotiations to juridical framework",
+        "candidatos": [
+          {
+            "ttf": 7.135,
+            "score": 0.977,
+            "texto": "Sudan shifts from technical negotiations to juridical framework"
+          }
+        ],
+        "rechazados_llm": 0
+      }
+    }
+  },
+  "file8": {
+    "texto": "Reservoir operation adjusts to annual hydrological conditions",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "Sudan",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "2/3",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 1,
+      "0.70": 2,
+      "0.55": 2,
+      "0.40": 2,
+      "0.25": 2,
+      "0.10": 2
+    },
+    "por_actor": {
+      "Arab Republic of Egypt": {
+        "incorpora": true,
+        "costo_ttf": 6.536,
+        "soporte": 0.974,
+        "soporte_ttf": 6.536,
+        "opone": 1.0,
+        "sim_max": 0.667,
+        "texto": "Technical negotiations shift toward quantifying drought-year flow requirements",
+        "candidatos": [
+          {
+            "ttf": 6.536,
+            "score": 0.974,
+            "texto": "Technical negotiations shift toward quantifying drought-year flow requirements"
+          },
+          {
+            "ttf": 6.546,
+            "score": 0.955,
+            "texto": "Egypt demands drought contingency protocols be seasonally differentiated"
+          },
+          {
+            "ttf": 7.129,
+            "score": 0.974,
+            "texto": "Egypt proposes seasonal operation protocols favoring downstream water security"
+          },
+          {
+            "ttf": 8.055,
+            "score": 0.969,
+            "texto": "Negotiation complexity increases due to multiple seasonal variables"
+          }
+        ],
+        "rechazados_llm": 1
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "incorpora": true,
+        "costo_ttf": 5.255,
+        "soporte": 0.791,
+        "soporte_ttf": 5.255,
+        "opone": 1.0,
+        "sim_max": 0.625,
+        "texto": "Ethiopia increases hydroelectric power generation capacity during rainy season",
+        "candidatos": [
+          {
+            "ttf": 4.96,
+            "score": 0.967,
+            "texto": "Downstream water flows decrease below historical seasonal averages"
+          },
+          {
+            "ttf": 5.091,
+            "score": 0.985,
+            "texto": "Federal Democratic Republic of Ethiopia controls timing of Blue Nile seasonal flows"
+          },
+          {
+            "ttf": 5.095,
+            "score": 0.964,
+            "texto": "Ethiopia maintains higher reservoir levels during drought periods"
+          },
+          {
+            "ttf": 5.245,
+            "score": 0.939,
+            "texto": "Ethiopia reduces water releases when reservoir levels decline"
+          },
+          {
+            "ttf": 5.255,
+            "score": 0.791,
+            "texto": "Ethiopia increases hydroelectric power generation capacity during rainy season"
+          }
+        ],
+        "rechazados_llm": 4
+      },
+      "Republic of Sudan": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.591,
+        "texto": "Sudan conditions its acceptance on the implementation of a robust real-time technical data",
+        "candidatos": [],
+        "rechazados_llm": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "case_name": "Lunar Habitat Sovereignty Dispute (Selene Station)",
+  "case_dir": "casos\\selene\\runs\\2026-04-30_09-54-35",
+  "n_classes_from_F": 46,
+  "n_fusiones": 218,
+  "n_hubs": 9,
+  "spectral": {
+    "n_active": 243,
+    "isolated_count": 1260,
+    "H1c_beta0_topological": 46,
+    "H1c_dim_kernel_L": 46,
+    "H1c_match": true,
+    "H1b_fiedler_ipvr_pairs": [
+      {
+        "class_id": "F_class_0007",
+        "n_nodes": 4,
+        "n_edges": 3,
+        "lambda_2": 0.9350063597575359,
+        "ipvr": 1.0
+      },
+      {
+        "class_id": "F_class_0001",
+        "n_nodes": 27,
+        "n_edges": 31,
+        "lambda_2": 0.066965880470511,
+        "ipvr": 0.13839285714285715
+      },
+      {
+        "class_id": "F_class_0003",
+        "n_nodes": 5,
+        "n_edges": 4,
+        "lambda_2": 0.344460406763623,
+        "ipvr": 0.5
+      },
+      {
+        "class_id": "F_class_0004",
+        "n_nodes": 5,
+        "n_edges": 4,
+        "lambda_2": 0.6888287567719683,
+        "ipvr": 0.6666666666666666
+      },
+      {
+        "class_id": "F_class_0010",
+        "n_nodes": 3,
+        "n_edges": 2,
+        "lambda_2": 1.1006308353551466,
+        "ipvr": 1.0
+      },
+      {
+        "class_id": "F_class_0011",
+        "n_nodes": 3,
+        "n_edges": 2,
+        "lambda_2": 1.0991072305273046,
+        "ipvr": 1.0
+      },
+      {
+        "class_id": "F_class_0000",
+        "n_nodes": 101,
+        "n_edges": 114,
+        "lambda_2": 0.023446093563122182,
+        "ipvr": 0.033847980997624705
+      },
+      {
+        "class_id": "F_class_0002",
+        "n_nodes": 7,
+        "n_edges": 6,
+        "lambda_2": 0.38593531303743284,
+        "ipvr": 0.4
+      },
+      {
+        "class_id": "F_class_0005",
+        "n_nodes": 5,
+        "n_edges": 4,
+        "lambda_2": 0.6047891969593078,
+        "ipvr": 0.6666666666666666
+      },
+      {
+        "class_id": "F_class_0008",
+        "n_nodes": 4,
+        "n_edges": 3,
+        "lambda_2": 1.136625705852399,
+        "ipvr": 1.0
+      },
+      {
+        "class_id": "F_class_0006",
+        "n_nodes": 5,
+        "n_edges": 6,
+        "lambda_2": 2.46909454098129,
+        "ipvr": 1.0
+      },
+      {
+        "class_id": "F_class_0009",
+        "n_nodes": 4,
+        "n_edges": 3,
+        "lambda_2": 0.8155546562462889,
+        "ipvr": 0.6
+      },
+      {
+        "class_id": "F_class_0012",
+        "n_nodes": 3,
+        "n_edges": 2,
+        "lambda_2": 1.3596882977663736,
+        "ipvr": 0.6666666666666666
+      },
+      {
+        "class_id": "F_class_0013",
+        "n_nodes": 3,
+        "n_edges": 2,
+        "lambda_2": 0.9875335091088955,
+        "ipvr": 1.0
+      }
+    ],
+    "H1b_spearman_rho": 0.8297644768648387,
+    "H1b_spearman_pval": 0.00024091195466324398,
+    "H1b_n": 14,
+    "H1b_corr_lambda2_logn": -0.7406781110234781,
+    "H1b_corr_ipvr_logn": -0.7533649009110281,
+    "H1b_partial_rho": 0.6151044170161553,
+    "H1b_partial_pval": 0.025252357668432257,
+    "H1b_bootstrap_ci": [
+      0.4390868081599132,
+      0.9570494911942975
+    ],
+    "H1b_bootstrap_n": 1000,
+    "H1a_ari": 0.011435797313177771,
+    "H1a_nmi": 0.6034500907455782,
+    "H1a_k": 46,
+    "H1a_n_nodes": 243
+  },
+  "pareto": {
+    "n_hubs_total": 9,
+    "n_pareto_frontier": 3,
+    "strict_in_frontier": 3,
+    "lax_in_frontier": 0,
+    "h_star_id": "Commonwealth of Cerulea_6_285",
+    "h_star_tipo": "strict",
+    "h_star_ftt_sum": 17.112328708171844,
+    "argmin_ttf_sum_id": "Commonwealth of Cerulea_6_285",
+    "argmin_ttf_sum_tipo": "strict",
+    "argmin_ttf_sum_value": 17.112328708171844,
+    "tau_changes_winner": false,
+    "frontier_ids": [
+      "Commonwealth of Cerulea_6_285",
+      "Commonwealth of Cerulea_5_96",
+      "Commonwealth of Cerulea_5_92"
+    ]
+  },
+  "transitivity": {
+    "n_paths_total": 385,
+    "n_triangles_total": 24,
+    "closure_rate_total": 0.06233766233766234,
+    "n_paths_3actor": 130,
+    "n_triangles_3actor": 24,
+    "closure_rate_3actor": 0.18461538461538463,
+    "curvature_proxy_global": 0.9376623376623376,
+    "spearman_curv_ipvr_rho": 0.746003846592251,
+    "spearman_curv_ipvr_pval": 0.020990531661453704,
+    "per_class": [
+      {
+        "class_id": "F_class_0000",
+        "closure_rate": 0.07636363636363637,
+        "ipvr": 0.033847980997624705,
+        "curvature_proxy": 0.9236363636363636,
+        "n_paths": 275,
+        "n_triangles": 21,
+        "n_nodes": 101
+      },
+      {
+        "class_id": "F_class_0001",
+        "closure_rate": 0.04225352112676056,
+        "ipvr": 0.13839285714285715,
+        "curvature_proxy": 0.9577464788732395,
+        "n_paths": 71,
+        "n_triangles": 3,
+        "n_nodes": 27
+      },
+      {
+        "class_id": "F_class_0002",
+        "closure_rate": 0.0,
+        "ipvr": 0.4,
+        "curvature_proxy": 1.0,
+        "n_paths": 7,
+        "n_triangles": 0,
+        "n_nodes": 7
+      },
+      {
+        "class_id": "F_class_0003",
+        "closure_rate": 0.0,
+        "ipvr": 0.5,
+        "curvature_proxy": 1.0,
+        "n_paths": 3,
+        "n_triangles": 0,
+        "n_nodes": 5
+      },
+      {
+        "class_id": "F_class_0004",
+        "closure_rate": 0.0,
+        "ipvr": 0.6666666666666666,
+        "curvature_proxy": 1.0,
+        "n_paths": 4,
+        "n_triangles": 0,
+        "n_nodes": 5
+      },
+      {
+        "class_id": "F_class_0005",
+        "closure_rate": 0.0,
+        "ipvr": 0.6666666666666666,
+        "curvature_proxy": 1.0,
+        "n_paths": 4,
+        "n_triangles": 0,
+        "n_nodes": 5
+      },
+      {
+        "class_id": "F_class_0006",
+        "closure_rate": 0.0,
+        "ipvr": 1.0,
+        "curvature_proxy": 1.0,
+        "n_paths": 9,
+        "n_triangles": 0,
+        "n_nodes": 5
+      },
+      {
+        "class_id": "F_class_0007",
+        "closure_rate": 0.0,
+        "ipvr": 1.0,
+        "curvature_proxy": 1.0,
+        "n_paths": 3,
+        "n_triangles": 0,
+        "n_nodes": 4
+      },
+      {
+        "class_id": "F_class_0008",
+        "closure_rate": 0.0,
+        "ipvr": 1.0,
+        "curvature_proxy": 1.0,
+        "n_paths": 3,
+        "n_triangles": 0,
+        "n_nodes": 4
+      }
+    ]
+  },
+  "ipvr_per_class_summary": {
+    "n_classes_with_cross_actor": 46,
+    "mean_ipvr": 0.9059182790900104,
+    "min_ipvr": 0.033847980997624705,
+    "max_ipvr": 1.0
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "case_name": "Nile Hydropolitical Dispute (GERD Case)",
+  "case_dir": "casos\\gerd\\runs\\2026-05-01_01-11-03",
+  "n_classes_from_F": 41,
+  "n_fusiones": 102,
+  "n_hubs": 3,
+  "spectral": {
+    "n_active": 137,
+    "isolated_count": 1367,
+    "H1c_beta0_topological": 41,
+    "H1c_dim_kernel_L": 41,
+    "H1c_match": true,
+    "H1b_fiedler_ipvr_pairs": [
+      {
+        "class_id": "F_class_0000",
+        "n_nodes": 30,
+        "n_edges": 32,
+        "lambda_2": 0.0698118700003528,
+        "ipvr": 0.10921501706484642
+      },
+      {
+        "class_id": "F_class_0003",
+        "n_nodes": 4,
+        "n_edges": 3,
+        "lambda_2": 0.8755577846660444,
+        "ipvr": 0.75
+      },
+      {
+        "class_id": "F_class_0001",
+        "n_nodes": 6,
+        "n_edges": 6,
+        "lambda_2": 0.9448467310232063,
+        "ipvr": 0.75
+      },
+      {
+        "class_id": "F_class_0004",
+        "n_nodes": 4,
+        "n_edges": 3,
+        "lambda_2": 1.1806265455702434,
+        "ipvr": 0.6
+      },
+      {
+        "class_id": "F_class_0011",
+        "n_nodes": 3,
+        "n_edges": 2,
+        "lambda_2": 1.5537191821238108,
+        "ipvr": 1.0
+      },
+      {
+        "class_id": "F_class_0005",
+        "n_nodes": 4,
+        "n_edges": 3,
+        "lambda_2": 0.5721369924218194,
+        "ipvr": 0.75
+      },
+      {
+        "class_id": "F_class_0012",
+        "n_nodes": 3,
+        "n_edges": 2,
+        "lambda_2": 1.6531156533767137,
+        "ipvr": 1.0
+      },
+      {
+        "class_id": "F_class_0002",
+        "n_nodes": 5,
+        "n_edges": 4,
+        "lambda_2": 0.5929816766938747,
+        "ipvr": 0.6666666666666666
+      },
+      {
+        "class_id": "F_class_0006",
+        "n_nodes": 4,
+        "n_edges": 3,
+        "lambda_2": 0.7012831131760766,
+        "ipvr": 0.75
+      },
+      {
+        "class_id": "F_class_0007",
+        "n_nodes": 4,
+        "n_edges": 4,
+        "lambda_2": 1.4689746751049992,
+        "ipvr": 0.8
+      },
+      {
+        "class_id": "F_class_0008",
+        "n_nodes": 4,
+        "n_edges": 3,
+        "lambda_2": 0.6839012339500781,
+        "ipvr": 0.6
+      },
+      {
+        "class_id": "F_class_0013",
+        "n_nodes": 3,
+        "n_edges": 3,
+        "lambda_2": 4.596180456225867,
+        "ipvr": 1.0
+      },
+      {
+        "class_id": "F_class_0009",
+        "n_nodes": 4,
+        "n_edges": 3,
+        "lambda_2": 1.0088069915728142,
+        "ipvr": 1.0
+      },
+      {
+        "class_id": "F_class_0014",
+        "n_nodes": 3,
+        "n_edges": 2,
+        "lambda_2": 1.1427193333220373,
+        "ipvr": 1.0
+      },
+      {
+        "class_id": "F_class_0010",
+        "n_nodes": 4,
+        "n_edges": 3,
+        "lambda_2": 1.1442186728051735,
+        "ipvr": 1.0
+      }
+    ],
+    "H1b_spearman_rho": 0.712012781642929,
+    "H1b_spearman_pval": 0.002903254350410776,
+    "H1b_n": 15,
+    "H1b_corr_lambda2_logn": -0.7340815280068576,
+    "H1b_corr_ipvr_logn": -0.7345550974541472,
+    "H1b_partial_rho": 0.37499629470463447,
+    "H1b_partial_pval": 0.18645859734328107,
+    "H1b_bootstrap_ci": [
+      0.27364086382711517,
+      0.9344910379054147
+    ],
+    "H1b_bootstrap_n": 1000,
+    "H1a_ari": 0.04786124897022425,
+    "H1a_nmi": 0.6699940647586328,
+    "H1a_k": 41,
+    "H1a_n_nodes": 137
+  },
+  "pareto": {
+    "n_hubs_total": 3,
+    "n_pareto_frontier": 2,
+    "strict_in_frontier": 2,
+    "lax_in_frontier": 0,
+    "h_star_id": "Arab Republic of Egypt_6_489",
+    "h_star_tipo": "strict",
+    "h_star_ftt_sum": 17.61089490354061,
+    "argmin_ttf_sum_id": "Arab Republic of Egypt_6_489",
+    "argmin_ttf_sum_tipo": "strict",
+    "argmin_ttf_sum_value": 17.61089490354061,
+    "tau_changes_winner": false,
+    "frontier_ids": [
+      "Arab Republic of Egypt_6_489",
+      "Arab Republic of Egypt_6_339"
+    ]
+  },
+  "transitivity": {
+    "n_paths_total": 112,
+    "n_triangles_total": 9,
+    "closure_rate_total": 0.08035714285714286,
+    "n_paths_3actor": 37,
+    "n_triangles_3actor": 9,
+    "closure_rate_3actor": 0.24324324324324326,
+    "curvature_proxy_global": 0.9196428571428571,
+    "spearman_curv_ipvr_rho": -0.11180339887498948,
+    "spearman_curv_ipvr_pval": 0.7921090042364137,
+    "per_class": [
+      {
+        "class_id": "F_class_0000",
+        "closure_rate": 0.04225352112676056,
+        "ipvr": 0.10921501706484642,
+        "curvature_proxy": 0.9577464788732395,
+        "n_paths": 71,
+        "n_triangles": 3,
+        "n_nodes": 30
+      },
+      {
+        "class_id": "F_class_0001",
+        "closure_rate": 0.0,
+        "ipvr": 0.75,
+        "curvature_proxy": 1.0,
+        "n_paths": 9,
+        "n_triangles": 0,
+        "n_nodes": 6
+      },
+      {
+        "class_id": "F_class_0002",
+        "closure_rate": 0.0,
+        "ipvr": 0.6666666666666666,
+        "curvature_proxy": 1.0,
+        "n_paths": 4,
+        "n_triangles": 0,
+        "n_nodes": 5
+      },
+      {
+        "class_id": "F_class_0004",
+        "closure_rate": 0.0,
+        "ipvr": 0.6,
+        "curvature_proxy": 1.0,
+        "n_paths": 3,
+        "n_triangles": 0,
+        "n_nodes": 4
+      },
+      {
+        "class_id": "F_class_0007",
+        "closure_rate": 0.6,
+        "ipvr": 0.8,
+        "curvature_proxy": 0.4,
+        "n_paths": 5,
+        "n_triangles": 3,
+        "n_nodes": 4
+      },
+      {
+        "class_id": "F_class_0009",
+        "closure_rate": 0.0,
+        "ipvr": 1.0,
+        "curvature_proxy": 1.0,
+        "n_paths": 3,
+        "n_triangles": 0,
+        "n_nodes": 4
+      },
+      {
+        "class_id": "F_class_0010",
+        "closure_rate": 0.0,
+        "ipvr": 1.0,
+        "curvature_proxy": 1.0,
+        "n_paths": 3,
+        "n_triangles": 0,
+        "n_nodes": 4
+      },
+      {
+        "class_id": "F_class_0013",
+        "closure_rate": 1.0,
+        "ipvr": 1.0,
+        "curvature_proxy": 0.0,
+        "n_paths": 3,
+        "n_triangles": 3,
+        "n_nodes": 3
+      }
+    ]
+  },
+  "ipvr_per_class_summary": {
+    "n_classes_with_cross_actor": 41,
+    "mean_ipvr": 0.9213629678958906,
+    "min_ipvr": 0.10921501706484642,
+    "max_ipvr": 1.0
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "case_name": "Nile Hydropolitical Dispute (GERD Case)",
+  "case_dir": "casos\\gerd\\runs\\2026-05-01_01-11-03",
+  "n_hubs": 3,
+  "n_chain_pairs": 9,
+  "alias_map": {
+    "Arab Republic of Egypt": "Egypt",
+    "Federal Democratic Republic of Ethiopia": "Ethiopia",
+    "Republic of Sudan": "Sudan"
+  },
+  "alias_source": "derivado (heuristico)",
+  "cosine_baseline_mean": 0.3422691158730089,
+  "cosine_baseline_std": 0.1297292293266893,
+  "profiles": {
+    "endpoint": [
+      {
+        "k": 0,
+        "n_pairs": 9,
+        "cos_mean": 0.6434566595567218,
+        "cos_std": 0.07852396875463492,
+        "frac_T": 1.0,
+        "frac_B": 0.0,
+        "frac_F": 0.0,
+        "frac_N": 0.0,
+        "nli_available": true
+      },
+      {
+        "k": 1,
+        "n_pairs": 9,
+        "cos_mean": 0.40154982738450723,
+        "cos_std": 0.10890658467674845,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.1111111111111111,
+        "frac_N": 0.8888888888888888,
+        "nli_available": true
+      },
+      {
+        "k": 2,
+        "n_pairs": 9,
+        "cos_mean": 0.38458516320986685,
+        "cos_std": 0.11253300996207204,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.2222222222222222,
+        "frac_N": 0.7777777777777778,
+        "nli_available": true
+      },
+      {
+        "k": 3,
+        "n_pairs": 9,
+        "cos_mean": 0.34506919761724525,
+        "cos_std": 0.09484212972046231,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.2222222222222222,
+        "frac_N": 0.7777777777777778,
+        "nli_available": true
+      },
+      {
+        "k": 4,
+        "n_pairs": 7,
+        "cos_mean": 0.3608212152083044,
+        "cos_std": 0.13265471324335104,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.0,
+        "frac_N": 1.0,
+        "nli_available": true
+      },
+      {
+        "k": 5,
+        "n_pairs": 3,
+        "cos_mean": 0.3032862367787151,
+        "cos_std": 0.03761778808975622,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.0,
+        "frac_N": 1.0,
+        "nli_available": true
+      }
+    ],
+    "normalized": [
+      {
+        "k": 0.0,
+        "n_pairs": 9,
+        "cos_mean": 0.6434566595567218,
+        "cos_std": 0.07852396875463492,
+        "frac_T": 1.0,
+        "frac_B": 0.0,
+        "frac_F": 0.0,
+        "frac_N": 0.0,
+        "nli_available": true
+      },
+      {
+        "k": 0.2,
+        "n_pairs": 9,
+        "cos_mean": 0.40154982738450723,
+        "cos_std": 0.10890658467674845,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.1111111111111111,
+        "frac_N": 0.8888888888888888,
+        "nli_available": true
+      },
+      {
+        "k": 0.4,
+        "n_pairs": 9,
+        "cos_mean": 0.3765510721229531,
+        "cos_std": 0.11554496343148077,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.3333333333333333,
+        "frac_N": 0.6666666666666666,
+        "nli_available": true
+      },
+      {
+        "k": 0.6,
+        "n_pairs": 9,
+        "cos_mean": 0.3502051869889736,
+        "cos_std": 0.07923456007741153,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.1111111111111111,
+        "frac_N": 0.8888888888888888,
+        "nli_available": true
+      },
+      {
+        "k": 0.8,
+        "n_pairs": 9,
+        "cos_mean": 0.33014772988994845,
+        "cos_std": 0.19392067511421254,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.0,
+        "frac_N": 1.0,
+        "nli_available": true
+      },
+      {
+        "k": 1.0,
+        "n_pairs": 9,
+        "cos_mean": 0.5546654836766126,
+        "cos_std": 0.09134948537316548,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.3333333333333333,
+        "frac_N": 0.6666666666666666,
+        "nli_available": true
+      }
+    ]
+  }
+}

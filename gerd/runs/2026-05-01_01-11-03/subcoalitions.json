@@ -1,0 +1,36 @@
+{
+  "case_name": "Nile Hydropolitical Dispute (GERD Case)",
+  "case_dir": "casos\\gerd\\runs\\2026-05-01_01-11-03",
+  "actors": [
+    "Arab Republic of Egypt",
+    "Federal Democratic Republic of Ethiopia",
+    "Republic of Sudan"
+  ],
+  "n_actors": 3,
+  "total_classes": 41,
+  "unknown_nodes": 0,
+  "by_n_actors": {
+    "2": {
+      "count": 36,
+      "nodes": 92
+    },
+    "3": {
+      "count": 5,
+      "nodes": 45
+    }
+  },
+  "pair_counts": {
+    "Arab Republic of Egypt + Federal Democratic Republic of Ethiopia": {
+      "count": 9,
+      "nodes": 28
+    },
+    "Arab Republic of Egypt + Republic of Sudan": {
+      "count": 18,
+      "nodes": 43
+    },
+    "Federal Democratic Republic of Ethiopia + Republic of Sudan": {
+      "count": 9,
+      "nodes": 21
+    }
+  }
+}

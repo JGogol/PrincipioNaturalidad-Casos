@@ -1,0 +1,343 @@
+{
+  "case_name": "Lunar Habitat Sovereignty Dispute (Selene Station)",
+  "case_dir": "casos\\selene\\runs\\2026-04-30_09-54-35",
+  "actors": [
+    "Commonwealth of Cerulea",
+    "Federation of Borealis",
+    "Republic of Aurelia"
+  ],
+  "per_actor": {
+    "Commonwealth of Cerulea": {
+      "n_nodes": 503,
+      "R_touch": 0.31536316871643066,
+      "R_cover": 0.8491322994232178,
+      "d_mean": 0.639699520458047,
+      "d_median": 0.6419556736946106
+    },
+    "Federation of Borealis": {
+      "n_nodes": 500,
+      "R_touch": 0.26857703924179077,
+      "R_cover": 0.8354199528694153,
+      "d_mean": 0.6075859905183315,
+      "d_median": 0.6139364242553711
+    },
+    "Republic of Aurelia": {
+      "n_nodes": 500,
+      "R_touch": 0.2743643522262573,
+      "R_cover": 0.8407925367355347,
+      "d_mean": 0.5738922269940376,
+      "d_median": 0.5719199180603027
+    }
+  },
+  "R_touch_universal": 0.31536316871643066,
+  "R_cover_universal": 0.8491322994232178,
+  "R_cover_min": 0.8354199528694153,
+  "band_width": 0.5337691307067871,
+  "h_star": {
+    "nodo_id": "Commonwealth of Cerulea_6_285",
+    "tipo": "strict",
+    "rep_distances": {
+      "Commonwealth of Cerulea": 0.38104248046875,
+      "Federation of Borealis": 0.4892922639846802,
+      "Republic of Aurelia": 0.4326472282409668
+    },
+    "d_mean": 0.43432732423146564,
+    "pos_in_band_mean": 0.22287567540204006
+  },
+  "hubs_distances": [
+    {
+      "nodo_id": "Commonwealth of Cerulea_6_285",
+      "tipo": "strict",
+      "ftt_sum": 17.112328708171844,
+      "rep_distances": {
+        "Commonwealth of Cerulea": 0.38104248046875,
+        "Federation of Borealis": 0.4892922639846802,
+        "Republic of Aurelia": 0.4326472282409668
+      },
+      "d_mean": 0.43432732423146564,
+      "d_min": 0.38104248046875,
+      "d_max": 0.4892922639846802,
+      "pos_in_band_mean": 0.22287567540204006
+    },
+    {
+      "nodo_id": "Commonwealth of Cerulea_5_96",
+      "tipo": "strict",
+      "ftt_sum": 17.49607838690281,
+      "rep_distances": {
+        "Commonwealth of Cerulea": 0.5215970277786255,
+        "Federation of Borealis": 0.4439500570297241,
+        "Republic of Aurelia": 0.5166558623313904
+      },
+      "d_mean": 0.49406764904658,
+      "d_min": 0.4439500570297241,
+      "d_max": 0.5215970277786255,
+      "pos_in_band_mean": 0.33479733099873893
+    },
+    {
+      "nodo_id": "Commonwealth of Cerulea_5_92",
+      "tipo": "strict",
+      "ftt_sum": 17.95011019706726,
+      "rep_distances": {
+        "Commonwealth of Cerulea": 0.5856609344482422,
+        "Federation of Borealis": 0.4687737226486206,
+        "Republic of Aurelia": 0.6433810889720917
+      },
+      "d_mean": 0.5659385820229849,
+      "d_min": 0.4687737226486206,
+      "d_max": 0.6433810889720917,
+      "pos_in_band_mean": 0.4694453067654106
+    },
+    {
+      "nodo_id": "Commonwealth of Cerulea_6_285",
+      "tipo": "strict",
+      "ftt_sum": 17.96087197959423,
+      "rep_distances": {
+        "Commonwealth of Cerulea": 0.38104248046875,
+        "Federation of Borealis": 0.42063939571380615,
+        "Republic of Aurelia": 0.4326472282409668
+      },
+      "d_mean": 0.411443034807841,
+      "d_min": 0.38104248046875,
+      "d_max": 0.4326472282409668,
+      "pos_in_band_mean": 0.18000266513012242
+    },
+    {
+      "nodo_id": "Commonwealth of Cerulea_5_179",
+      "tipo": "strict",
+      "ftt_sum": 18.565062552690506,
+      "rep_distances": {
+        "Commonwealth of Cerulea": 0.45658379793167114,
+        "Federation of Borealis": 0.5382974147796631,
+        "Republic of Aurelia": 0.4326472282409668
+      },
+      "d_mean": 0.475842813650767,
+      "d_min": 0.4326472282409668,
+      "d_max": 0.5382974147796631,
+      "pos_in_band_mean": 0.3006536641072484
+    },
+    {
+      "nodo_id": "Commonwealth of Cerulea_6_482",
+      "tipo": "strict",
+      "ftt_sum": 19.326040416955948,
+      "rep_distances": {
+        "Commonwealth of Cerulea": 0.7335303425788879,
+        "Federation of Borealis": 0.5186525881290436,
+        "Republic of Aurelia": 0.5154956579208374
+      },
+      "d_mean": 0.5892261962095896,
+      "d_min": 0.5154956579208374,
+      "d_max": 0.7335303425788879,
+      "pos_in_band_mean": 0.5130739335385036
+    },
+    {
+      "nodo_id": "Commonwealth of Cerulea_6_338",
+      "tipo": "strict",
+      "ftt_sum": 19.37662771344185,
+      "rep_distances": {
+        "Commonwealth of Cerulea": 0.543995589017868,
+        "Federation of Borealis": 0.5382974147796631,
+        "Republic of Aurelia": 0.4326472282409668
+      },
+      "d_mean": 0.504980077346166,
+      "d_min": 0.4326472282409668,
+      "d_max": 0.543995589017868,
+      "pos_in_band_mean": 0.35524142877774756
+    },
+    {
+      "nodo_id": "Commonwealth of Cerulea_6_465",
+      "tipo": "strict",
+      "ftt_sum": 20.31005246937275,
+      "rep_distances": {
+        "Commonwealth of Cerulea": 0.7416518926620483,
+        "Federation of Borealis": 0.5382974147796631,
+        "Republic of Aurelia": 0.4326472282409668
+      },
+      "d_mean": 0.5708655118942261,
+      "d_min": 0.4326472282409668,
+      "d_max": 0.7416518926620483,
+      "pos_in_band_mean": 0.47867575788707295
+    },
+    {
+      "nodo_id": "Republic of Aurelia_4_123",
+      "tipo": "lax",
+      "ftt_sum": 17.176829293370247,
+      "rep_distances": {
+        "Republic of Aurelia": 0.4023500084877014,
+        "Federation of Borealis": 0.3675389885902405,
+        "Commonwealth of Cerulea": 0.4884690046310425
+      },
+      "d_mean": 0.4194526672363281,
+      "d_min": 0.3675389885902405,
+      "d_max": 0.4884690046310425,
+      "pos_in_band_mean": 0.19500846439371267
+    }
+  ],
+  "coverage_curve": [
+    {
+      "R": 0.0,
+      "Commonwealth of Cerulea": {
+        "n_covered": 0,
+        "frac": 0.0
+      },
+      "Federation of Borealis": {
+        "n_covered": 0,
+        "frac": 0.0
+      },
+      "Republic of Aurelia": {
+        "n_covered": 0,
+        "frac": 0.0
+      }
+    },
+    {
+      "R": 0.08491322994232178,
+      "Commonwealth of Cerulea": {
+        "n_covered": 0,
+        "frac": 0.0
+      },
+      "Federation of Borealis": {
+        "n_covered": 0,
+        "frac": 0.0
+      },
+      "Republic of Aurelia": {
+        "n_covered": 0,
+        "frac": 0.0
+      }
+    },
+    {
+      "R": 0.16982645988464357,
+      "Commonwealth of Cerulea": {
+        "n_covered": 0,
+        "frac": 0.0
+      },
+      "Federation of Borealis": {
+        "n_covered": 0,
+        "frac": 0.0
+      },
+      "Republic of Aurelia": {
+        "n_covered": 0,
+        "frac": 0.0
+      }
+    },
+    {
+      "R": 0.2547396898269653,
+      "Commonwealth of Cerulea": {
+        "n_covered": 0,
+        "frac": 0.0
+      },
+      "Federation of Borealis": {
+        "n_covered": 0,
+        "frac": 0.0
+      },
+      "Republic of Aurelia": {
+        "n_covered": 0,
+        "frac": 0.0
+      }
+    },
+    {
+      "R": 0.33965291976928713,
+      "Commonwealth of Cerulea": {
+        "n_covered": 1,
+        "frac": 0.0019880715705765406
+      },
+      "Federation of Borealis": {
+        "n_covered": 1,
+        "frac": 0.002
+      },
+      "Republic of Aurelia": {
+        "n_covered": 4,
+        "frac": 0.008
+      }
+    },
+    {
+      "R": 0.4245661497116089,
+      "Commonwealth of Cerulea": {
+        "n_covered": 9,
+        "frac": 0.017892644135188866
+      },
+      "Federation of Borealis": {
+        "n_covered": 19,
+        "frac": 0.038
+      },
+      "Republic of Aurelia": {
+        "n_covered": 19,
+        "frac": 0.038
+      }
+    },
+    {
+      "R": 0.5094793796539306,
+      "Commonwealth of Cerulea": {
+        "n_covered": 54,
+        "frac": 0.1073558648111332
+      },
+      "Federation of Borealis": {
+        "n_covered": 69,
+        "frac": 0.138
+      },
+      "Republic of Aurelia": {
+        "n_covered": 132,
+        "frac": 0.264
+      }
+    },
+    {
+      "R": 0.5943926095962524,
+      "Commonwealth of Cerulea": {
+        "n_covered": 166,
+        "frac": 0.33001988071570576
+      },
+      "Federation of Borealis": {
+        "n_covered": 221,
+        "frac": 0.442
+      },
+      "Republic of Aurelia": {
+        "n_covered": 284,
+        "frac": 0.568
+      }
+    },
+    {
+      "R": 0.6793058395385743,
+      "Commonwealth of Cerulea": {
+        "n_covered": 317,
+        "frac": 0.6302186878727635
+      },
+      "Federation of Borealis": {
+        "n_covered": 387,
+        "frac": 0.774
+      },
+      "Republic of Aurelia": {
+        "n_covered": 431,
+        "frac": 0.862
+      }
+    },
+    {
+      "R": 0.764219069480896,
+      "Commonwealth of Cerulea": {
+        "n_covered": 448,
+        "frac": 0.8906560636182903
+      },
+      "Federation of Borealis": {
+        "n_covered": 475,
+        "frac": 0.95
+      },
+      "Republic of Aurelia": {
+        "n_covered": 492,
+        "frac": 0.984
+      }
+    },
+    {
+      "R": 0.8491322994232178,
+      "Commonwealth of Cerulea": {
+        "n_covered": 503,
+        "frac": 1.0
+      },
+      "Federation of Borealis": {
+        "n_covered": 500,
+        "frac": 1.0
+      },
+      "Republic of Aurelia": {
+        "n_covered": 500,
+        "frac": 1.0
+      }
+    }
+  ],
+  "n_hubs": 9
+}

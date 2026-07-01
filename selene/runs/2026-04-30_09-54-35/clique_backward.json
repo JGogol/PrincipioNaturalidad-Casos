@@ -1,0 +1,163 @@
+{
+  "case_name": "Lunar Habitat Sovereignty Dispute (Selene Station)",
+  "case_dir": "casos\\selene\\runs\\2026-04-30_09-54-35",
+  "n_hubs": 9,
+  "n_chain_pairs": 27,
+  "alias_map": {
+    "Commonwealth of Cerulea": "Cerulea",
+    "Federation of Borealis": "Borealis",
+    "Republic of Aurelia": "Aurelia"
+  },
+  "alias_source": "derivado (heuristico)",
+  "cosine_baseline_mean": 0.255677821586787,
+  "cosine_baseline_std": 0.11673457379662291,
+  "profiles": {
+    "endpoint": [
+      {
+        "k": 0,
+        "n_pairs": 27,
+        "cos_mean": 0.6061931637824425,
+        "cos_std": 0.14982291243936566,
+        "frac_T": 0.9629629629629629,
+        "frac_B": 0.0,
+        "frac_F": 0.0,
+        "frac_N": 0.037037037037037035,
+        "nli_available": true
+      },
+      {
+        "k": 1,
+        "n_pairs": 27,
+        "cos_mean": 0.3860013535558493,
+        "cos_std": 0.13966048905211662,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.14814814814814814,
+        "frac_N": 0.8518518518518519,
+        "nli_available": true
+      },
+      {
+        "k": 2,
+        "n_pairs": 27,
+        "cos_mean": 0.25461657156601136,
+        "cos_std": 0.08887997811614123,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.1111111111111111,
+        "frac_N": 0.8888888888888888,
+        "nli_available": true
+      },
+      {
+        "k": 3,
+        "n_pairs": 27,
+        "cos_mean": 0.2756470454071314,
+        "cos_std": 0.0865278440644512,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.07407407407407407,
+        "frac_N": 0.9259259259259259,
+        "nli_available": true
+      },
+      {
+        "k": 4,
+        "n_pairs": 27,
+        "cos_mean": 0.2808390997090666,
+        "cos_std": 0.11977322977929794,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.037037037037037035,
+        "frac_N": 0.9629629629629629,
+        "nli_available": true
+      },
+      {
+        "k": 5,
+        "n_pairs": 21,
+        "cos_mean": 0.4073393305735006,
+        "cos_std": 0.15376041829847134,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.14285714285714285,
+        "frac_N": 0.8571428571428571,
+        "nli_available": true
+      },
+      {
+        "k": 6,
+        "n_pairs": 10,
+        "cos_mean": 0.6414467946855467,
+        "cos_std": 0.011710056254508765,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.0,
+        "frac_N": 1.0,
+        "nli_available": true
+      }
+    ],
+    "normalized": [
+      {
+        "k": 0.0,
+        "n_pairs": 27,
+        "cos_mean": 0.6061931637824425,
+        "cos_std": 0.14982291243936566,
+        "frac_T": 0.9629629629629629,
+        "frac_B": 0.0,
+        "frac_F": 0.0,
+        "frac_N": 0.037037037037037035,
+        "nli_available": true
+      },
+      {
+        "k": 0.2,
+        "n_pairs": 27,
+        "cos_mean": 0.3860013535558493,
+        "cos_std": 0.13966048905211662,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.14814814814814814,
+        "frac_N": 0.8518518518518519,
+        "nli_available": true
+      },
+      {
+        "k": 0.4,
+        "n_pairs": 27,
+        "cos_mean": 0.25461657156601136,
+        "cos_std": 0.08887997811614123,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.1111111111111111,
+        "frac_N": 0.8888888888888888,
+        "nli_available": true
+      },
+      {
+        "k": 0.6,
+        "n_pairs": 27,
+        "cos_mean": 0.21371416637512844,
+        "cos_std": 0.11059093712922378,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.037037037037037035,
+        "frac_N": 0.9629629629629629,
+        "nli_available": true
+      },
+      {
+        "k": 0.8,
+        "n_pairs": 27,
+        "cos_mean": 0.2993651854459995,
+        "cos_std": 0.10381650282165812,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.2222222222222222,
+        "frac_N": 0.7777777777777778,
+        "nli_available": true
+      },
+      {
+        "k": 1.0,
+        "n_pairs": 27,
+        "cos_mean": 0.6398818548939674,
+        "cos_std": 0.011308015275426433,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.0,
+        "frac_N": 1.0,
+        "nli_available": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "case_name": "Nile Hydropolitical Dispute (GERD Case)",
+  "case_dir": "casos\\gerd\\runs\\2026-05-01_01-11-03",
+  "actors": [
+    "Arab Republic of Egypt",
+    "Federal Democratic Republic of Ethiopia",
+    "Republic of Sudan"
+  ],
+  "hash_coverage": 1.0,
+  "per_actor_summary": {
+    "Arab Republic of Egypt": {
+      "n_nodes": 502,
+      "dist_mean": 0.7799373865127563,
+      "dist_median": 0.7657466530799866,
+      "dist_std": 0.08620625734329224,
+      "dist_to_barycenter": 0.22440971434116364
+    },
+    "Federal Democratic Republic of Ethiopia": {
+      "n_nodes": 501,
+      "dist_mean": 0.7454878091812134,
+      "dist_median": 0.7462886571884155,
+      "dist_std": 0.09345191717147827,
+      "dist_to_barycenter": 0.24134257435798645
+    },
+    "Republic of Sudan": {
+      "n_nodes": 501,
+      "dist_mean": 0.7345647811889648,
+      "dist_median": 0.7262690663337708,
+      "dist_std": 0.06836740672588348,
+      "dist_to_barycenter": 0.23705345392227173
+    }
+  },
+  "pairwise_center_dist": {
+    "Arab Republic of Egy | Federal Democratic R": 0.40126997232437134,
+    "Arab Republic of Egy | Republic of Sudan": 0.39352497458457947,
+    "Federal Democratic R | Republic of Sudan": 0.42251795530319214
+  },
+  "n_hubs": 3,
+  "rep_percentile_mean": 0.38767750024519354,
+  "rep_percentile_median": 0.36327345309381237,
+  "rep_percentile_n": 9,
+  "random_percentile_mean": 0.33310978750776443,
+  "mannwhitney_stat": 40.0,
+  "mannwhitney_pval": 1.0,
+  "hub_records": [
+    {
+      "nodo_id": "Arab Republic of Egypt_6_489",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Arab Republic of Egypt": 0.5796812749003984,
+        "Federal Democratic Republic of Ethiopia": 0.9920159680638723,
+        "Republic of Sudan": 0.31736526946107785
+      },
+      "mean_percentile": 0.6296875041417829,
+      "dist_to_barycenter": 0.8306205868721008
+    },
+    {
+      "nodo_id": "Arab Republic of Egypt_6_339",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Arab Republic of Egypt": 0.14940239043824702,
+        "Federal Democratic Republic of Ethiopia": 0.36327345309381237,
+        "Republic of Sudan": 0.37924151696606784
+      },
+      "mean_percentile": 0.2973057868327091,
+      "dist_to_barycenter": 0.7552028298377991
+    },
+    {
+      "nodo_id": "Arab Republic of Egypt_6_580",
+      "tipo": "strict",
+      "rep_percentiles": {
+        "Arab Republic of Egypt": 0.23306772908366533,
+        "Federal Democratic Republic of Ethiopia": 0.3712574850299401,
+        "Republic of Sudan": 0.10379241516966067
+      },
+      "mean_percentile": 0.2360392097610887,
+      "dist_to_barycenter": 0.7926690578460693
+    }
+  ]
+}

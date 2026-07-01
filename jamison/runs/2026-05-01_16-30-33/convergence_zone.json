@@ -1,0 +1,658 @@
+{
+  "case_name": "Intrapersonal Conflict in Bipolar I Disorder: Manic-Depressive Opposition Regarding Treatment Adherence and Self-Perception",
+  "case_dir": "casos\\jamison\\runs\\2026-05-01_16-30-33",
+  "actors": [
+    "Kay Jamison [DepressiveState]",
+    "Kay Jamison [ManicState]"
+  ],
+  "per_actor": {
+    "Kay Jamison [DepressiveState]": {
+      "n_nodes": 501,
+      "R_touch": 0.22655367851257324,
+      "R_cover": 0.8498723804950714,
+      "d_mean": 0.5932705653998667,
+      "d_median": 0.5911694169044495
+    },
+    "Kay Jamison [ManicState]": {
+      "n_nodes": 503,
+      "R_touch": 0.1763649582862854,
+      "R_cover": 0.8470882922410965,
+      "d_mean": 0.6638368385331057,
+      "d_median": 0.6752001047134399
+    }
+  },
+  "R_touch_universal": 0.22655367851257324,
+  "R_cover_universal": 0.8498723804950714,
+  "R_cover_min": 0.8470882922410965,
+  "band_width": 0.6233187019824982,
+  "h_star": {
+    "nodo_id": "Kay Jamison [DepressiveState]_5_115",
+    "tipo": "strict",
+    "rep_distances": {
+      "Kay Jamison [DepressiveState]": 0.5050554573535919,
+      "Kay Jamison [ManicState]": 0.48101985454559326
+    },
+    "d_mean": 0.4930376559495926,
+    "pos_in_band_mean": 0.427524437481906
+  },
+  "hubs_distances": [
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_5_115",
+      "tipo": "strict",
+      "ftt_sum": 8.255294799804688,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.5050554573535919,
+        "Kay Jamison [ManicState]": 0.48101985454559326
+      },
+      "d_mean": 0.4930376559495926,
+      "d_min": 0.48101985454559326,
+      "d_max": 0.5050554573535919,
+      "pos_in_band_mean": 0.427524437481906
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_5_154",
+      "tipo": "strict",
+      "ftt_sum": 8.629425406455994,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.6199813485145569,
+        "Kay Jamison [ManicState]": 0.48101985454559326
+      },
+      "d_mean": 0.5505006015300751,
+      "d_min": 0.48101985454559326,
+      "d_max": 0.6199813485145569,
+      "pos_in_band_mean": 0.5197131451168904
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_313",
+      "tipo": "strict",
+      "ftt_sum": 9.361149251461029,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.5653074979782104,
+        "Kay Jamison [ManicState]": 0.48101985454559326
+      },
+      "d_mean": 0.5231636762619019,
+      "d_min": 0.48101985454559326,
+      "d_max": 0.5653074979782104,
+      "pos_in_band_mean": 0.47585608582887823
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_382",
+      "tipo": "strict",
+      "ftt_sum": 9.391539335250854,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.5501847267150879,
+        "Kay Jamison [ManicState]": 0.435604989528656
+      },
+      "d_mean": 0.49289485812187195,
+      "d_min": 0.435604989528656,
+      "d_max": 0.5501847267150879,
+      "pos_in_band_mean": 0.427295344680316
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_467",
+      "tipo": "strict",
+      "ftt_sum": 9.48886787891388,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.43696343898773193,
+        "Kay Jamison [ManicState]": 0.48101985454559326
+      },
+      "d_mean": 0.4589916467666626,
+      "d_min": 0.43696343898773193,
+      "d_max": 0.48101985454559326,
+      "pos_in_band_mean": 0.37290388931827023
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_381",
+      "tipo": "strict",
+      "ftt_sum": 9.851030558347702,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.6388632655143738,
+        "Kay Jamison [ManicState]": 0.5064981579780579
+      },
+      "d_mean": 0.5726807117462158,
+      "d_min": 0.5064981579780579,
+      "d_max": 0.6388632655143738,
+      "pos_in_band_mean": 0.555297044886937
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_4_52",
+      "tipo": "strict",
+      "ftt_sum": 10.380312442779541,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.43212246894836426,
+        "Kay Jamison [ManicState]": 0.4991394877433777
+      },
+      "d_mean": 0.46563097834587097,
+      "d_min": 0.43212246894836426,
+      "d_max": 0.4991394877433777,
+      "pos_in_band_mean": 0.38355547342458957
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_381",
+      "tipo": "strict",
+      "ftt_sum": 10.405866801738739,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.6388632655143738,
+        "Kay Jamison [ManicState]": 0.5430775284767151
+      },
+      "d_mean": 0.5909703969955444,
+      "d_min": 0.5430775284767151,
+      "d_max": 0.6388632655143738,
+      "pos_in_band_mean": 0.5846394746763165
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_510",
+      "tipo": "strict",
+      "ftt_sum": 10.503203839063644,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.5636409223079681,
+        "Kay Jamison [ManicState]": 0.5430775284767151
+      },
+      "d_mean": 0.5533592253923416,
+      "d_min": 0.5430775284767151,
+      "d_max": 0.5636409223079681,
+      "pos_in_band_mean": 0.5242992803526446
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_467",
+      "tipo": "strict",
+      "ftt_sum": 10.731415927410126,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.43696343898773193,
+        "Kay Jamison [ManicState]": 0.5627846717834473
+      },
+      "d_mean": 0.4998740553855896,
+      "d_min": 0.43696343898773193,
+      "d_max": 0.5627846717834473,
+      "pos_in_band_mean": 0.4384921806512566
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_293",
+      "tipo": "strict",
+      "ftt_sum": 11.077743217349052,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.552214652299881,
+        "Kay Jamison [ManicState]": 0.7423661947250366
+      },
+      "d_mean": 0.6472904235124588,
+      "d_min": 0.552214652299881,
+      "d_max": 0.7423661947250366,
+      "pos_in_band_mean": 0.6749945792765564
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_5_115",
+      "tipo": "strict",
+      "ftt_sum": 11.42049965262413,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.5050554573535919,
+        "Kay Jamison [ManicState]": 0.4991394877433777
+      },
+      "d_mean": 0.5020974725484848,
+      "d_min": 0.4991394877433777,
+      "d_max": 0.5050554573535919,
+      "pos_in_band_mean": 0.4420592437857711
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_5_165",
+      "tipo": "strict",
+      "ftt_sum": 11.475680947303772,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.47315019369125366,
+        "Kay Jamison [ManicState]": 0.5435044169425964
+      },
+      "d_mean": 0.508327305316925,
+      "d_min": 0.47315019369125366,
+      "d_max": 0.5435044169425964,
+      "pos_in_band_mean": 0.45205386250750357
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_5_154",
+      "tipo": "strict",
+      "ftt_sum": 11.68419325351715,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.6199813485145569,
+        "Kay Jamison [ManicState]": 0.5435044169425964
+      },
+      "d_mean": 0.5817428827285767,
+      "d_min": 0.5435044169425964,
+      "d_max": 0.6199813485145569,
+      "pos_in_band_mean": 0.5698356283652413
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_496",
+      "tipo": "strict",
+      "ftt_sum": 11.727351650595665,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.6105645298957825,
+        "Kay Jamison [ManicState]": 0.7423661947250366
+      },
+      "d_mean": 0.6764653623104095,
+      "d_min": 0.6105645298957825,
+      "d_max": 0.7423661947250366,
+      "pos_in_band_mean": 0.72180039258708
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_406",
+      "tipo": "strict",
+      "ftt_sum": 11.76695340871811,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.63576340675354,
+        "Kay Jamison [ManicState]": 0.5537065267562866
+      },
+      "d_mean": 0.5947349667549133,
+      "d_min": 0.5537065267562866,
+      "d_max": 0.63576340675354,
+      "pos_in_band_mean": 0.5906790331676556
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_5_154",
+      "tipo": "strict",
+      "ftt_sum": 11.806084752082825,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.6199813485145569,
+        "Kay Jamison [ManicState]": 0.6480340659618378
+      },
+      "d_mean": 0.6340077072381973,
+      "d_min": 0.6199813485145569,
+      "d_max": 0.6480340659618378,
+      "pos_in_band_mean": 0.653684908586402
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_567",
+      "tipo": "strict",
+      "ftt_sum": 11.81073634326458,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.5495541989803314,
+        "Kay Jamison [ManicState]": 0.7423661947250366
+      },
+      "d_mean": 0.645960196852684,
+      "d_min": 0.5495541989803314,
+      "d_max": 0.7423661947250366,
+      "pos_in_band_mean": 0.6728604757183863
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_5_154",
+      "tipo": "strict",
+      "ftt_sum": 11.821866273880005,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.6199813485145569,
+        "Kay Jamison [ManicState]": 0.5188844203948975
+      },
+      "d_mean": 0.5694328844547272,
+      "d_min": 0.5188844203948975,
+      "d_max": 0.6199813485145569,
+      "pos_in_band_mean": 0.5500865044665088
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_5_118",
+      "tipo": "strict",
+      "ftt_sum": 11.916275978088379,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.5138220191001892,
+        "Kay Jamison [ManicState]": 0.44122493267059326
+      },
+      "d_mean": 0.47752347588539124,
+      "d_min": 0.44122493267059326,
+      "d_max": 0.5138220191001892,
+      "pos_in_band_mean": 0.40263479432687527
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_5_218",
+      "tipo": "strict",
+      "ftt_sum": 12.081404745578766,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.5693078935146332,
+        "Kay Jamison [ManicState]": 0.4991394877433777
+      },
+      "d_mean": 0.5342236906290054,
+      "d_min": 0.4991394877433777,
+      "d_max": 0.5693078935146332,
+      "pos_in_band_mean": 0.4935998408805502
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_5_109",
+      "tipo": "strict",
+      "ftt_sum": 12.270134627819061,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.5929252207279205,
+        "Kay Jamison [ManicState]": 0.7057954668998718
+      },
+      "d_mean": 0.6493603438138962,
+      "d_min": 0.5929252207279205,
+      "d_max": 0.7057954668998718,
+      "pos_in_band_mean": 0.6783153849813328
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_313",
+      "tipo": "strict",
+      "ftt_sum": 12.308458760380745,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.5653074979782104,
+        "Kay Jamison [ManicState]": 0.6105409562587738
+      },
+      "d_mean": 0.5879242271184921,
+      "d_min": 0.5653074979782104,
+      "d_max": 0.6105409562587738,
+      "pos_in_band_mean": 0.5797524564184593
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_5_154",
+      "tipo": "strict",
+      "ftt_sum": 12.35993304848671,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.6199813485145569,
+        "Kay Jamison [ManicState]": 0.44122493267059326
+      },
+      "d_mean": 0.5306031405925751,
+      "d_min": 0.44122493267059326,
+      "d_max": 0.6199813485145569,
+      "pos_in_band_mean": 0.4877913354965227
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_467",
+      "tipo": "strict",
+      "ftt_sum": 12.570348769426346,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.43696343898773193,
+        "Kay Jamison [ManicState]": 0.6063567698001862
+      },
+      "d_mean": 0.521660104393959,
+      "d_min": 0.43696343898773193,
+      "d_max": 0.6063567698001862,
+      "pos_in_band_mean": 0.4734438818260774
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_448",
+      "tipo": "strict",
+      "ftt_sum": 12.656404167413712,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.4569830894470215,
+        "Kay Jamison [ManicState]": 0.47469544410705566
+      },
+      "d_mean": 0.4658392667770386,
+      "d_min": 0.4569830894470215,
+      "d_max": 0.47469544410705566,
+      "pos_in_band_mean": 0.3838896338316255
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_539",
+      "tipo": "strict",
+      "ftt_sum": 12.658008962869644,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.42844319343566895,
+        "Kay Jamison [ManicState]": 0.5361841320991516
+      },
+      "d_mean": 0.4823136627674103,
+      "d_min": 0.42844319343566895,
+      "d_max": 0.5361841320991516,
+      "pos_in_band_mean": 0.4103197665036824
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_467",
+      "tipo": "strict",
+      "ftt_sum": 12.66552722454071,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.43696343898773193,
+        "Kay Jamison [ManicState]": 0.6480340659618378
+      },
+      "d_mean": 0.5424987524747849,
+      "d_min": 0.43696343898773193,
+      "d_max": 0.6480340659618378,
+      "pos_in_band_mean": 0.5068756527877818
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_467",
+      "tipo": "strict",
+      "ftt_sum": 12.68130874633789,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.43696343898773193,
+        "Kay Jamison [ManicState]": 0.5188844203948975
+      },
+      "d_mean": 0.4779239296913147,
+      "d_min": 0.43696343898773193,
+      "d_max": 0.5188844203948975,
+      "pos_in_band_mean": 0.4032772486678886
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_392",
+      "tipo": "strict",
+      "ftt_sum": 12.776566833257675,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.518634706735611,
+        "Kay Jamison [ManicState]": 0.6746679544448853
+      },
+      "d_mean": 0.5966513305902481,
+      "d_min": 0.518634706735611,
+      "d_max": 0.6746679544448853,
+      "pos_in_band_mean": 0.5937534858180248
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_406",
+      "tipo": "strict",
+      "ftt_sum": 12.869781196117401,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.63576340675354,
+        "Kay Jamison [ManicState]": 0.5237311124801636
+      },
+      "d_mean": 0.5797472596168518,
+      "d_min": 0.5237311124801636,
+      "d_max": 0.63576340675354,
+      "pos_in_band_mean": 0.5666340188108069
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_406",
+      "tipo": "strict",
+      "ftt_sum": 12.973566144704819,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.63576340675354,
+        "Kay Jamison [ManicState]": 0.6570735275745392
+      },
+      "d_mean": 0.6464184671640396,
+      "d_min": 0.63576340675354,
+      "d_max": 0.6570735275745392,
+      "pos_in_band_mean": 0.673595685988667
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_406",
+      "tipo": "strict",
+      "ftt_sum": 13.03821524977684,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.63576340675354,
+        "Kay Jamison [ManicState]": 0.6221098899841309
+      },
+      "d_mean": 0.6289366483688354,
+      "d_min": 0.6221098899841309,
+      "d_max": 0.63576340675354,
+      "pos_in_band_mean": 0.6455493290614606
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_350",
+      "tipo": "strict",
+      "ftt_sum": 13.057121619582176,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.6175104677677155,
+        "Kay Jamison [ManicState]": 0.7016178369522095
+      },
+      "d_mean": 0.6595641523599625,
+      "d_min": 0.6175104677677155,
+      "d_max": 0.7016178369522095,
+      "pos_in_band_mean": 0.6946855155639907
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_401",
+      "tipo": "strict",
+      "ftt_sum": 13.433652400970459,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.4750667214393616,
+        "Kay Jamison [ManicState]": 0.586760938167572
+      },
+      "d_mean": 0.5309138298034668,
+      "d_min": 0.4750667214393616,
+      "d_max": 0.586760938167572,
+      "pos_in_band_mean": 0.48828977908549825
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_350",
+      "tipo": "strict",
+      "ftt_sum": 13.48460203409195,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.6175104677677155,
+        "Kay Jamison [ManicState]": 0.5094966292381287
+      },
+      "d_mean": 0.5635035485029221,
+      "d_min": 0.5094966292381287,
+      "d_max": 0.6175104677677155,
+      "pos_in_band_mean": 0.5405739775152933
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_6_510",
+      "tipo": "strict",
+      "ftt_sum": 13.70726427435875,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.5636409223079681,
+        "Kay Jamison [ManicState]": 0.5094966292381287
+      },
+      "d_mean": 0.5365687757730484,
+      "d_min": 0.5094966292381287,
+      "d_max": 0.5636409223079681,
+      "pos_in_band_mean": 0.497362097871371
+    },
+    {
+      "nodo_id": "Kay Jamison [DepressiveState]_7_526",
+      "tipo": "strict",
+      "ftt_sum": 14.272015899419785,
+      "rep_distances": {
+        "Kay Jamison [DepressiveState]": 0.6463821828365326,
+        "Kay Jamison [ManicState]": 0.7428897023200989
+      },
+      "d_mean": 0.6946359425783157,
+      "d_min": 0.6463821828365326,
+      "d_max": 0.7428897023200989,
+      "pos_in_band_mean": 0.7509517403809353
+    }
+  ],
+  "coverage_curve": [
+    {
+      "R": 0.0,
+      "Kay Jamison [DepressiveState]": {
+        "n_covered": 0,
+        "frac": 0.0
+      },
+      "Kay Jamison [ManicState]": {
+        "n_covered": 0,
+        "frac": 0.0
+      }
+    },
+    {
+      "R": 0.08498723804950714,
+      "Kay Jamison [DepressiveState]": {
+        "n_covered": 0,
+        "frac": 0.0
+      },
+      "Kay Jamison [ManicState]": {
+        "n_covered": 0,
+        "frac": 0.0
+      }
+    },
+    {
+      "R": 0.16997447609901428,
+      "Kay Jamison [DepressiveState]": {
+        "n_covered": 0,
+        "frac": 0.0
+      },
+      "Kay Jamison [ManicState]": {
+        "n_covered": 0,
+        "frac": 0.0
+      }
+    },
+    {
+      "R": 0.2549617141485214,
+      "Kay Jamison [DepressiveState]": {
+        "n_covered": 1,
+        "frac": 0.001996007984031936
+      },
+      "Kay Jamison [ManicState]": {
+        "n_covered": 1,
+        "frac": 0.0019880715705765406
+      }
+    },
+    {
+      "R": 0.33994895219802856,
+      "Kay Jamison [DepressiveState]": {
+        "n_covered": 4,
+        "frac": 0.007984031936127744
+      },
+      "Kay Jamison [ManicState]": {
+        "n_covered": 1,
+        "frac": 0.0019880715705765406
+      }
+    },
+    {
+      "R": 0.4249361902475357,
+      "Kay Jamison [DepressiveState]": {
+        "n_covered": 17,
+        "frac": 0.033932135728542916
+      },
+      "Kay Jamison [ManicState]": {
+        "n_covered": 7,
+        "frac": 0.013916500994035786
+      }
+    },
+    {
+      "R": 0.5099234282970428,
+      "Kay Jamison [DepressiveState]": {
+        "n_covered": 93,
+        "frac": 0.18562874251497005
+      },
+      "Kay Jamison [ManicState]": {
+        "n_covered": 32,
+        "frac": 0.0636182902584493
+      }
+    },
+    {
+      "R": 0.59491066634655,
+      "Kay Jamison [DepressiveState]": {
+        "n_covered": 260,
+        "frac": 0.5189620758483033
+      },
+      "Kay Jamison [ManicState]": {
+        "n_covered": 120,
+        "frac": 0.23856858846918488
+      }
+    },
+    {
+      "R": 0.6798979043960571,
+      "Kay Jamison [DepressiveState]": {
+        "n_covered": 406,
+        "frac": 0.810379241516966
+      },
+      "Kay Jamison [ManicState]": {
+        "n_covered": 263,
+        "frac": 0.5228628230616302
+      }
+    },
+    {
+      "R": 0.7648851424455643,
+      "Kay Jamison [DepressiveState]": {
+        "n_covered": 484,
+        "frac": 0.9660678642714571
+      },
+      "Kay Jamison [ManicState]": {
+        "n_covered": 424,
+        "frac": 0.8429423459244533
+      }
+    },
+    {
+      "R": 0.8498723804950714,
+      "Kay Jamison [DepressiveState]": {
+        "n_covered": 501,
+        "frac": 1.0
+      },
+      "Kay Jamison [ManicState]": {
+        "n_covered": 503,
+        "frac": 1.0
+      }
+    }
+  ],
+  "n_hubs": 38
+}

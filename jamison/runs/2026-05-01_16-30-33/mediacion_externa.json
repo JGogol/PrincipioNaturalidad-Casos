@@ -1,0 +1,306 @@
+{
+  "file1": {
+    "texto": "Professional treatment is sought without delay",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "[DepressiveState",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "0/2",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 0,
+      "0.70": 0,
+      "0.55": 0,
+      "0.40": 0,
+      "0.25": 0,
+      "0.10": 0
+    },
+    "por_actor": {
+      "Kay Jamison [DepressiveState]": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.555,
+        "texto": "Kay Jamison [DepressiveState] defers to her psychiatrist's medication recommendations with",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Kay Jamison [ManicState]": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.568,
+        "texto": "Kay Jamison [ManicState] will perceive these insights as requiring urgent professional imp",
+        "candidatos": [],
+        "rechazados_llm": 0
+      }
+    }
+  },
+  "file2": {
+    "texto": "Daily routines are kept stable and predictable",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "[DepressiveState",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "0/2",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 0,
+      "0.70": 0,
+      "0.55": 0,
+      "0.40": 0,
+      "0.25": 0,
+      "0.10": 0
+    },
+    "por_actor": {
+      "Kay Jamison [DepressiveState]": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 0.638,
+        "sim_max": 0.533,
+        "texto": "Kay Jamison [DepressiveState] will maintain consistent academic productivity and teaching ",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Kay Jamison [ManicState]": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 0.999,
+        "sim_max": 0.418,
+        "texto": "Kay Jamison [ManicState] will require minimal sleep while sustaining productivity",
+        "candidatos": [],
+        "rechazados_llm": 0
+      }
+    }
+  },
+  "file3": {
+    "texto": "Medication adherence is maintained consistently",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "[ManicState",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "1/2",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 1,
+      "0.70": 1,
+      "0.55": 1,
+      "0.40": 1,
+      "0.25": 1,
+      "0.10": 1
+    },
+    "por_actor": {
+      "Kay Jamison [DepressiveState]": {
+        "incorpora": true,
+        "costo_ttf": 3.861,
+        "soporte": 0.927,
+        "soporte_ttf": 3.861,
+        "opone": 1.0,
+        "sim_max": 0.762,
+        "texto": "Kay Jamison [DepressiveState] will maintain consistent medication adherence despite side e",
+        "candidatos": [
+          {
+            "ttf": 2.943,
+            "score": 0.97,
+            "texto": "Kay Jamison [DepressiveState] will maintain consistent therapeutic lithium blood levels"
+          },
+          {
+            "ttf": 3.861,
+            "score": 0.927,
+            "texto": "Kay Jamison [DepressiveState] will maintain consistent medication adherence despite side effects"
+          },
+          {
+            "ttf": 6.67,
+            "score": 0.849,
+            "texto": "Kay Jamison [DepressiveState] will maintain lithium treatment despite visible tremor"
+          }
+        ],
+        "rechazados_llm": 1
+      },
+      "Kay Jamison [ManicState]": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.52,
+        "texto": "Kay Jamison [ManicState] will maintain heightened energy levels throughout extended period",
+        "candidatos": [],
+        "rechazados_llm": 0
+      }
+    }
+  },
+  "file4": {
+    "texto": "Social connections are actively preserved",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "[ManicState",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "1/2",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 1,
+      "0.70": 1,
+      "0.55": 1,
+      "0.40": 1,
+      "0.25": 1,
+      "0.10": 1
+    },
+    "por_actor": {
+      "Kay Jamison [DepressiveState]": {
+        "incorpora": true,
+        "costo_ttf": 2.87,
+        "soporte": 0.99,
+        "soporte_ttf": 5.461,
+        "opone": 0.999,
+        "sim_max": 0.455,
+        "texto": "Kay Jamison [DepressiveState] prioritizes relationship preservation over personal autonomy",
+        "candidatos": [
+          {
+            "ttf": 2.87,
+            "score": 0.956,
+            "texto": "Kay Jamison [DepressiveState] will preserve the therapeutic alliance with her psychiatrist"
+          },
+          {
+            "ttf": 4.976,
+            "score": 0.978,
+            "texto": "Kay Jamison [DepressiveState] will preserve professional relationships through predictable behavior"
+          },
+          {
+            "ttf": 5.141,
+            "score": 0.987,
+            "texto": "Kay Jamison [DepressiveState] will maintain more stable professional relationships with colleagues"
+          },
+          {
+            "ttf": 5.368,
+            "score": 0.986,
+            "texto": "Kay Jamison [DepressiveState] prioritizes relationship stability over cognitive sharpness"
+          },
+          {
+            "ttf": 5.461,
+            "score": 0.99,
+            "texto": "Kay Jamison [DepressiveState] prioritizes relationship preservation over personal autonomy regarding treatment"
+          },
+          {
+            "ttf": 6.324,
+            "score": 0.965,
+            "texto": "Kay Jamison [DepressiveState] will maintain professional credibility with colleagues"
+          }
+        ],
+        "rechazados_llm": 0
+      },
+      "Kay Jamison [ManicState]": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 0.014,
+        "sim_max": 0.375,
+        "texto": "Kay Jamison [ManicState] will perceive simultaneous commitments as synergistic rather than",
+        "candidatos": [
+          {
+            "ttf": 6.732,
+            "score": 0.869,
+            "texto": "Kay Jamison [ManicState] will maintain perceived professional credibility and authority"
+          },
+          {
+            "ttf": 6.961,
+            "score": 0.898,
+            "texto": "Kay Jamison [ManicState] will perceive simultaneous commitments as synergistic rather than competing"
+          }
+        ],
+        "rechazados_llm": 2
+      }
+    }
+  },
+  "file5": {
+    "texto": "Sleep schedule is regularized",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "[DepressiveState",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "0/2",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 0,
+      "0.70": 0,
+      "0.55": 0,
+      "0.40": 0,
+      "0.25": 0,
+      "0.10": 0
+    },
+    "por_actor": {
+      "Kay Jamison [DepressiveState]": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 0.975,
+        "sim_max": 0.463,
+        "texto": "Kay Jamison [DepressiveState] will report sleep patterns and energy levels to her psychiat",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Kay Jamison [ManicState]": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.66,
+        "texto": "Kay Jamison [ManicState] will require only 2-4 hours of sleep nightly",
+        "candidatos": [],
+        "rechazados_llm": 0
+      }
+    }
+  },
+  "file6": {
+    "texto": "Early warning signs are monitored and recorded",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "[DepressiveState",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "0/2",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 0,
+      "0.70": 0,
+      "0.55": 0,
+      "0.40": 0,
+      "0.25": 0,
+      "0.10": 0
+    },
+    "por_actor": {
+      "Kay Jamison [DepressiveState]": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 0.998,
+        "sim_max": 0.549,
+        "texto": "Kay Jamison [DepressiveState] will detect early signs of lithium toxicity through regular ",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Kay Jamison [ManicState]": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.436,
+        "texto": "Kay Jamison [ManicState] will perceive hidden patterns in coincidental occurrences",
+        "candidatos": [],
+        "rechazados_llm": 0
+      }
+    }
+  }
+}

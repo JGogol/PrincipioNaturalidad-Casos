@@ -1,0 +1,162 @@
+{
+  "case_name": "Intrapersonal Conflict in Bipolar I Disorder: Manic-Depressive Opposition Regarding Treatment Adherence and Self-Perception",
+  "case_dir": "casos\\jamison\\runs\\2026-05-01_16-30-33",
+  "n_hubs": 38,
+  "n_chain_pairs": 38,
+  "alias_map": {
+    "Kay Jamison [DepressiveState]": "Kay",
+    "Kay Jamison [ManicState]": "Kay"
+  },
+  "alias_source": "derivado (heuristico)",
+  "cosine_baseline_mean": 0.4547047504919491,
+  "cosine_baseline_std": 0.09986847252626527,
+  "profiles": {
+    "endpoint": [
+      {
+        "k": 0,
+        "n_pairs": 38,
+        "cos_mean": 0.6737645906971697,
+        "cos_std": 0.07482178518505707,
+        "frac_T": 0.631578947368421,
+        "frac_B": 0.0,
+        "frac_F": 0.0,
+        "frac_N": 0.3684210526315789,
+        "nli_available": true
+      },
+      {
+        "k": 1,
+        "n_pairs": 38,
+        "cos_mean": 0.5080603280340666,
+        "cos_std": 0.09781436018489668,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.3157894736842105,
+        "frac_N": 0.6842105263157895,
+        "nli_available": true
+      },
+      {
+        "k": 2,
+        "n_pairs": 38,
+        "cos_mean": 0.5082531323389329,
+        "cos_std": 0.1006680842373709,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.5,
+        "frac_N": 0.5,
+        "nli_available": true
+      },
+      {
+        "k": 3,
+        "n_pairs": 38,
+        "cos_mean": 0.5368384250008533,
+        "cos_std": 0.10338556324340814,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.5526315789473685,
+        "frac_N": 0.4473684210526316,
+        "nli_available": true
+      },
+      {
+        "k": 4,
+        "n_pairs": 32,
+        "cos_mean": 0.470404171877161,
+        "cos_std": 0.15229739291834143,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.4375,
+        "frac_N": 0.5625,
+        "nli_available": true
+      },
+      {
+        "k": 5,
+        "n_pairs": 25,
+        "cos_mean": 0.41035555568305987,
+        "cos_std": 0.20226044316908626,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.44,
+        "frac_N": 0.56,
+        "nli_available": true
+      },
+      {
+        "k": 6,
+        "n_pairs": 11,
+        "cos_mean": 0.6732292370349462,
+        "cos_std": 0.06300741421628084,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.0,
+        "frac_N": 1.0,
+        "nli_available": true
+      }
+    ],
+    "normalized": [
+      {
+        "k": 0.0,
+        "n_pairs": 38,
+        "cos_mean": 0.6737645906971697,
+        "cos_std": 0.07482178518505707,
+        "frac_T": 0.631578947368421,
+        "frac_B": 0.0,
+        "frac_F": 0.0,
+        "frac_N": 0.3684210526315789,
+        "nli_available": true
+      },
+      {
+        "k": 0.2,
+        "n_pairs": 38,
+        "cos_mean": 0.5080603280340666,
+        "cos_std": 0.09781436018489668,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.3157894736842105,
+        "frac_N": 0.6842105263157895,
+        "nli_available": true
+      },
+      {
+        "k": 0.4,
+        "n_pairs": 38,
+        "cos_mean": 0.4971856690954882,
+        "cos_std": 0.11265243505168304,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.5526315789473685,
+        "frac_N": 0.4473684210526316,
+        "nli_available": true
+      },
+      {
+        "k": 0.6,
+        "n_pairs": 38,
+        "cos_mean": 0.4852542093030355,
+        "cos_std": 0.08498242093061568,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.631578947368421,
+        "frac_N": 0.3684210526315789,
+        "nli_available": true
+      },
+      {
+        "k": 0.8,
+        "n_pairs": 38,
+        "cos_mean": 0.3729969927796843,
+        "cos_std": 0.14861239884342012,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.42105263157894735,
+        "frac_N": 0.5789473684210527,
+        "nli_available": true
+      },
+      {
+        "k": 1.0,
+        "n_pairs": 38,
+        "cos_mean": 0.7091818210723267,
+        "cos_std": 1.1102230246251565e-16,
+        "frac_T": 0.0,
+        "frac_B": 0.0,
+        "frac_F": 0.0,
+        "frac_N": 1.0,
+        "nli_available": true
+      }
+    ]
+  }
+}

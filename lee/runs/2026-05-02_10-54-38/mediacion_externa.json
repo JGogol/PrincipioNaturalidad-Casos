@@ -1,0 +1,664 @@
+{
+  "file1": {
+    "texto": "A cultural liaison mediates all clinical decisions",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "Lee)",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "0/2",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 0,
+      "0.70": 0,
+      "0.55": 0,
+      "0.40": 0,
+      "0.25": 0,
+      "0.10": 0
+    },
+    "por_actor": {
+      "Lee Family (Foua and Nao Kao Lee)": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 0.998,
+        "sim_max": 0.572,
+        "texto": "Hospital administration initiates formal case review process with ethics committee",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Merced Community Medical Center Clinical Team": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.754,
+        "texto": "The case manager schedules regular interpreter-mediated family conferences",
+        "candidatos": [],
+        "rechazados_llm": 0
+      }
+    }
+  },
+  "file2": {
+    "texto": "Traditional healing practices are accommodated alongside treatment",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "Team",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "1/2",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 1,
+      "0.70": 1,
+      "0.55": 1,
+      "0.40": 1,
+      "0.25": 1,
+      "0.10": 1
+    },
+    "por_actor": {
+      "Lee Family (Foua and Nao Kao Lee)": {
+        "incorpora": true,
+        "costo_ttf": 6.733,
+        "soporte": 0.961,
+        "soporte_ttf": 6.733,
+        "opone": 1.0,
+        "sim_max": 0.815,
+        "texto": "The Lee family consults traditional Hmong healers about Lia's condition",
+        "candidatos": [
+          {
+            "ttf": 3.708,
+            "score": 0.991,
+            "texto": "Daily medication timing becomes secondary to ritual obligations"
+          },
+          {
+            "ttf": 6.733,
+            "score": 0.961,
+            "texto": "The Lee family consults traditional Hmong healers about Lia's condition"
+          },
+          {
+            "ttf": 7.548,
+            "score": 0.978,
+            "texto": "The Lee family attempts to perform healing rituals for multiple diagnoses simultaneously"
+          },
+          {
+            "ttf": 7.735,
+            "score": 0.981,
+            "texto": "The Lee family increases reliance on traditional txiv neeb interventions"
+          }
+        ],
+        "rechazados_llm": 3
+      },
+      "Merced Community Medical Center Clinical Team": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.765,
+        "texto": "The family interprets medical interventions through traditional spiritual frameworks",
+        "candidatos": [
+          {
+            "ttf": 6.013,
+            "score": 0.984,
+            "texto": "The family interprets medical interventions through traditional spiritual frameworks"
+          }
+        ],
+        "rechazados_llm": 1
+      }
+    }
+  },
+  "file3": {
+    "texto": "Medication schedules are explained through an interpreter",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "Lee)",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "0/2",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 0,
+      "0.70": 0,
+      "0.55": 0,
+      "0.40": 0,
+      "0.25": 0,
+      "0.10": 0
+    },
+    "por_actor": {
+      "Lee Family (Foua and Nao Kao Lee)": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 0.999,
+        "sim_max": 0.589,
+        "texto": "Medical staff interpret documentation as evidence of treatment non-compliance",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Merced Community Medical Center Clinical Team": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.602,
+        "texto": "The medical team relies more heavily on family members for translation",
+        "candidatos": [],
+        "rechazados_llm": 0
+      }
+    }
+  },
+  "file4": {
+    "texto": "The family participates in treatment planning",
+    "tau_estrella": 0.978,
+    "universal": true,
+    "binding": "Team",
+    "soporte_binding": 0.978,
+    "cobertura_tau_ent": "2/2",
+    "ttf_convergencia": 13.61,
+    "curva_cobertura": {
+      "0.90": 2,
+      "0.70": 2,
+      "0.55": 2,
+      "0.40": 2,
+      "0.25": 2,
+      "0.10": 2
+    },
+    "por_actor": {
+      "Lee Family (Foua and Nao Kao Lee)": {
+        "incorpora": true,
+        "costo_ttf": 3.505,
+        "soporte": 0.995,
+        "soporte_ttf": 7.897,
+        "opone": 0.999,
+        "sim_max": 0.749,
+        "texto": "Lee Family receives new medication instructions from medical staff",
+        "candidatos": [
+          {
+            "ttf": 3.505,
+            "score": 0.978,
+            "texto": "Family resources are allocated primarily toward traditional healing expenses"
+          },
+          {
+            "ttf": 4.446,
+            "score": 0.981,
+            "texto": "Medical staff initiates discussions about treatment plan modifications with Lee family"
+          },
+          {
+            "ttf": 4.673,
+            "score": 0.974,
+            "texto": "Medical staff increases monitoring frequency of Lee family medication adherence"
+          },
+          {
+            "ttf": 5.129,
+            "score": 0.985,
+            "texto": "The Lee family receives less effective spiritual interventions for Lia"
+          },
+          {
+            "ttf": 5.185,
+            "score": 0.969,
+            "texto": "The Lee family requests appointment changes based on spiritual calendar"
+          },
+          {
+            "ttf": 5.362,
+            "score": 0.986,
+            "texto": "The Lee family intensifies spiritual interventions to address escalating soul loss"
+          },
+          {
+            "ttf": 5.4,
+            "score": 0.817,
+            "texto": "The Lee family attempts to combine multiple cheaper healers simultaneously"
+          },
+          {
+            "ttf": 5.529,
+            "score": 0.768,
+            "texto": "Lee family requests inclusion of traditional healing approaches in discussions"
+          },
+          {
+            "ttf": 5.536,
+            "score": 0.988,
+            "texto": "The Lee family increases medication administration to Lia"
+          },
+          {
+            "ttf": 6.045,
+            "score": 0.963,
+            "texto": "The Lee family seeks to intensify spiritual interventions before medical treatments"
+          },
+          {
+            "ttf": 6.225,
+            "score": 0.977,
+            "texto": "Lee Family must arrange transportation to medical facility more often"
+          },
+          {
+            "ttf": 6.496,
+            "score": 0.962,
+            "texto": "The Lee family reduces medication compliance further to avoid soul suppression"
+          },
+          {
+            "ttf": 6.522,
+            "score": 0.992,
+            "texto": "Lee family considers avoiding future medical appointments to prevent intervention"
+          },
+          {
+            "ttf": 6.555,
+            "score": 0.985,
+            "texto": "Lee family seeks free or low-cost medical alternatives"
+          },
+          {
+            "ttf": 6.599,
+            "score": 0.966,
+            "texto": "The Lee family seeks additional txiv neeb for second opinions"
+          },
+          {
+            "ttf": 6.605,
+            "score": 0.992,
+            "texto": "The Lee family seeks emergency shamanic intervention"
+          },
+          {
+            "ttf": 6.632,
+            "score": 0.913,
+            "texto": "The Lee family increases investment in traditional healing ceremonies"
+          },
+          {
+            "ttf": 6.638,
+            "score": 0.936,
+            "texto": "The Lee family faces scheduling conflicts between multiple healing ceremonies"
+          },
+          {
+            "ttf": 6.68,
+            "score": 0.991,
+            "texto": "Lee family seeks additional traditional healing consultations"
+          },
+          {
+            "ttf": 6.712,
+            "score": 0.982,
+            "texto": "Hospital administration implements enhanced monitoring protocols for the family"
+          },
+          {
+            "ttf": 6.716,
+            "score": 0.824,
+            "texto": "The Lee family intensifies efforts to find more powerful shamanic intervention"
+          },
+          {
+            "ttf": 6.733,
+            "score": 0.994,
+            "texto": "The Lee family consults traditional Hmong healers about Lia's condition"
+          },
+          {
+            "ttf": 6.734,
+            "score": 0.983,
+            "texto": "The Lee family seeks second opinions from other medical providers"
+          },
+          {
+            "ttf": 6.778,
+            "score": 0.984,
+            "texto": "The Lee family seeks recommendations for txiv neeb with epilepsy expertise"
+          },
+          {
+            "ttf": 6.903,
+            "score": 0.968,
+            "texto": "Lee family becomes more selective about which medical recommendations to follow"
+          },
+          {
+            "ttf": 6.981,
+            "score": 0.989,
+            "texto": "The Lee family requests community referrals for powerful txiv neeb"
+          },
+          {
+            "ttf": 7.001,
+            "score": 0.935,
+            "texto": "Lee family reduces medication administration frequency further"
+          },
+          {
+            "ttf": 7.161,
+            "score": 0.776,
+            "texto": "The Lee family prioritizes shamanic consultations over medical appointments"
+          },
+          {
+            "ttf": 7.187,
+            "score": 0.969,
+            "texto": "The Lee family delays medication administration until after soul-calling rituals"
+          },
+          {
+            "ttf": 7.202,
+            "score": 0.974,
+            "texto": "The Lee family requests spiritual ceremonies before hospital visits"
+          },
+          {
+            "ttf": 7.29,
+            "score": 0.872,
+            "texto": "Lee family faces more invasive monitoring of their child"
+          },
+          {
+            "ttf": 7.316,
+            "score": 0.964,
+            "texto": "Lee family discusses among themselves what new medications might mean spiritually"
+          },
+          {
+            "ttf": 7.355,
+            "score": 0.974,
+            "texto": "Medical staff reviews family education and adherence counseling protocols"
+          },
+          {
+            "ttf": 7.377,
+            "score": 0.965,
+            "texto": "Medical team schedules increased monitoring appointments for Lee family"
+          },
+          {
+            "ttf": 7.548,
+            "score": 0.993,
+            "texto": "The Lee family attempts to perform healing rituals for multiple diagnoses simultaneously"
+          },
+          {
+            "ttf": 7.552,
+            "score": 0.97,
+            "texto": "The Lee family seeks additional shamanic consultations for Lia"
+          },
+          {
+            "ttf": 7.624,
+            "score": 0.984,
+            "texto": "The Lee family debates whether to attempt more expensive healing rituals"
+          },
+          {
+            "ttf": 7.659,
+            "score": 0.935,
+            "texto": "Medical staff provides detailed liquid dosing instructions to Lee family"
+          },
+          {
+            "ttf": 7.67,
+            "score": 0.992,
+            "texto": "The Lee family receives recommendations for specific ceremonial interventions"
+          },
+          {
+            "ttf": 7.697,
+            "score": 0.951,
+            "texto": "Case manager documents family interactions and medication compliance patterns"
+          },
+          {
+            "ttf": 7.719,
+            "score": 0.923,
+            "texto": "Lee family prepares to attend scheduled appointment with medical staff"
+          },
+          {
+            "ttf": 7.72,
+            "score": 0.968,
+            "texto": "The Lee family develops defensive responses to medical authority"
+          },
+          {
+            "ttf": 7.725,
+            "score": 0.993,
+            "texto": "The Lee family is counseled about balancing traditional and Western approaches"
+          },
+          {
+            "ttf": 7.735,
+            "score": 0.984,
+            "texto": "The Lee family increases reliance on traditional txiv neeb interventions"
+          },
+          {
+            "ttf": 7.849,
+            "score": 0.99,
+            "texto": "The Lee family increases medication compliance with prescribed anticonvulsants"
+          },
+          {
+            "ttf": 7.888,
+            "score": 0.979,
+            "texto": "The Lee family administers medications more consistently as prescribed"
+          },
+          {
+            "ttf": 7.897,
+            "score": 0.995,
+            "texto": "Lee Family receives new medication instructions from medical staff"
+          },
+          {
+            "ttf": 7.916,
+            "score": 0.994,
+            "texto": "The Lee family shows greater compliance with medication schedules"
+          }
+        ],
+        "rechazados_llm": 0
+      },
+      "Merced Community Medical Center Clinical Team": {
+        "incorpora": true,
+        "costo_ttf": 4.557,
+        "soporte": 0.978,
+        "soporte_ttf": 5.717,
+        "opone": 1.0,
+        "sim_max": 0.745,
+        "texto": "The medical team establishes grounds for termination of parental rights proceedings",
+        "candidatos": [
+          {
+            "ttf": 4.557,
+            "score": 0.977,
+            "texto": "Medication administration becomes more difficult for the family"
+          },
+          {
+            "ttf": 4.685,
+            "score": 0.937,
+            "texto": "The medical team creates a more compelling case for permanent custody transfer"
+          },
+          {
+            "ttf": 4.973,
+            "score": 0.828,
+            "texto": "The medical team becomes dependent on family cooperation for basic patient assessment"
+          },
+          {
+            "ttf": 5.076,
+            "score": 0.661,
+            "texto": "The medical team makes more assumptions about the family's understanding"
+          },
+          {
+            "ttf": 5.193,
+            "score": 0.973,
+            "texto": "The medical team creates additional scheduling burden on the Lee family"
+          },
+          {
+            "ttf": 5.453,
+            "score": 0.96,
+            "texto": "The medical team establishes clearer legal justification for custody removal"
+          },
+          {
+            "ttf": 5.579,
+            "score": 0.975,
+            "texto": "The medical team establishes grounds for potential custody modification"
+          },
+          {
+            "ttf": 5.693,
+            "score": 0.853,
+            "texto": "The medical team builds a case record that demonstrates parental unfitness"
+          },
+          {
+            "ttf": 5.717,
+            "score": 0.978,
+            "texto": "The medical team establishes grounds for termination of parental rights proceedings"
+          },
+          {
+            "ttf": 5.756,
+            "score": 0.924,
+            "texto": "The medical team strengthens their legal position for custody proceedings"
+          },
+          {
+            "ttf": 5.771,
+            "score": 0.863,
+            "texto": "The medical team positions staff to observe family medication techniques"
+          },
+          {
+            "ttf": 5.773,
+            "score": 0.799,
+            "texto": "The medical team identifies medication timing conflicts with family routines"
+          },
+          {
+            "ttf": 5.822,
+            "score": 0.986,
+            "texto": "The family requires more time to complete medication administration"
+          },
+          {
+            "ttf": 5.855,
+            "score": 0.981,
+            "texto": "The family seeks alternative medical providers or avoids medical contact"
+          },
+          {
+            "ttf": 5.855,
+            "score": 0.988,
+            "texto": "The medical team generates documentation showing family prioritizes traditional healing over medications"
+          },
+          {
+            "ttf": 5.872,
+            "score": 0.938,
+            "texto": "The medical team misinterprets family's selective medication use as defiance"
+          },
+          {
+            "ttf": 5.874,
+            "score": 0.846,
+            "texto": "The medical team considers removal of family medication administration privileges"
+          },
+          {
+            "ttf": 5.947,
+            "score": 0.994,
+            "texto": "The family makes medication decisions based on incomplete understanding"
+          },
+          {
+            "ttf": 6.313,
+            "score": 0.577,
+            "texto": "The medical team establishes mandatory compliance verification protocols for the family"
+          },
+          {
+            "ttf": 6.51,
+            "score": 0.986,
+            "texto": "The Lee family administers medications incorrectly or inconsistently"
+          },
+          {
+            "ttf": 6.533,
+            "score": 0.865,
+            "texto": "The medical team requests emergency custody transfer to ensure medication adherence"
+          },
+          {
+            "ttf": 6.687,
+            "score": 0.948,
+            "texto": "The medical team implements more frequent home visits to verify medication administration"
+          }
+        ],
+        "rechazados_llm": 10
+      }
+    }
+  },
+  "file5": {
+    "texto": "Hospitalization decisions require informed family consent",
+    "tau_estrella": 0.0,
+    "universal": false,
+    "binding": "Lee)",
+    "soporte_binding": 0.0,
+    "cobertura_tau_ent": "0/2",
+    "ttf_convergencia": null,
+    "curva_cobertura": {
+      "0.90": 0,
+      "0.70": 0,
+      "0.55": 0,
+      "0.40": 0,
+      "0.25": 0,
+      "0.10": 0
+    },
+    "por_actor": {
+      "Lee Family (Foua and Nao Kao Lee)": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 0.999,
+        "sim_max": 0.745,
+        "texto": "The Lee family requests spiritual ceremonies before hospital visits",
+        "candidatos": [],
+        "rechazados_llm": 0
+      },
+      "Merced Community Medical Center Clinical Team": {
+        "incorpora": false,
+        "costo_ttf": null,
+        "soporte": 0.0,
+        "soporte_ttf": null,
+        "opone": 1.0,
+        "sim_max": 0.691,
+        "texto": "The family makes more medication administration errors",
+        "candidatos": [],
+        "rechazados_llm": 0
+      }
+    }
+  },
+  "file6": {
+    "texto": "A shared care plan respects both medical and spiritual concerns",
+    "tau_estrella": 0.943,
+    "universal": true,
+    "binding": "Team",
+    "soporte_binding": 0.943,
+    "cobertura_tau_ent": "2/2",
+    "ttf_convergencia": 13.73,
+    "curva_cobertura": {
+      "0.90": 2,
+      "0.70": 2,
+      "0.55": 2,
+      "0.40": 2,
+      "0.25": 2,
+      "0.10": 2
+    },
+    "por_actor": {
+      "Lee Family (Foua and Nao Kao Lee)": {
+        "incorpora": true,
+        "costo_ttf": 7.325,
+        "soporte": 0.986,
+        "soporte_ttf": 7.325,
+        "opone": 1.0,
+        "sim_max": 0.634,
+        "texto": "The Lee family considers combining spiritual and medical approaches",
+        "candidatos": [
+          {
+            "ttf": 7.325,
+            "score": 0.986,
+            "texto": "The Lee family considers combining spiritual and medical approaches"
+          },
+          {
+            "ttf": 7.548,
+            "score": 0.983,
+            "texto": "The Lee family attempts to perform healing rituals for multiple diagnoses simultaneously"
+          }
+        ],
+        "rechazados_llm": 1
+      },
+      "Merced Community Medical Center Clinical Team": {
+        "incorpora": true,
+        "costo_ttf": 4.816,
+        "soporte": 0.943,
+        "soporte_ttf": 6.406,
+        "opone": 1.0,
+        "sim_max": 0.665,
+        "texto": "The medical team receives formal protocols for engaging cultural liaisons",
+        "candidatos": [
+          {
+            "ttf": 4.816,
+            "score": 0.767,
+            "texto": "The medical team records family statements about traditional healing practices"
+          },
+          {
+            "ttf": 5.862,
+            "score": 0.979,
+            "texto": "The family increases reliance on traditional healing practices"
+          },
+          {
+            "ttf": 6.013,
+            "score": 0.979,
+            "texto": "The family interprets medical interventions through traditional spiritual frameworks"
+          },
+          {
+            "ttf": 6.054,
+            "score": 0.914,
+            "texto": "The family seeks guidance from Hmong shamans regarding treatment decisions"
+          },
+          {
+            "ttf": 6.406,
+            "score": 0.943,
+            "texto": "The medical team receives formal protocols for engaging cultural liaisons"
+          }
+        ],
+        "rechazados_llm": 3
+      }
+    }
+  }
+}

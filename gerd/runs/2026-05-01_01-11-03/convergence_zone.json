@@ -1,0 +1,259 @@
+{
+  "case_name": "Nile Hydropolitical Dispute (GERD Case)",
+  "case_dir": "casos\\gerd\\runs\\2026-05-01_01-11-03",
+  "actors": [
+    "Arab Republic of Egypt",
+    "Federal Democratic Republic of Ethiopia",
+    "Republic of Sudan"
+  ],
+  "per_actor": {
+    "Arab Republic of Egypt": {
+      "n_nodes": 502,
+      "R_touch": 0.26618754863739014,
+      "R_cover": 0.849725678563118,
+      "d_mean": 0.6741071128512759,
+      "d_median": 0.6918091773986816
+    },
+    "Federal Democratic Republic of Ethiopia": {
+      "n_nodes": 501,
+      "R_touch": 0.3209773898124695,
+      "R_cover": 0.8476641178131104,
+      "d_mean": 0.5816860237640297,
+      "d_median": 0.5716510117053986
+    },
+    "Republic of Sudan": {
+      "n_nodes": 501,
+      "R_touch": 0.2511258125305176,
+      "R_cover": 0.8499623835086823,
+      "d_mean": 0.6460789949177744,
+      "d_median": 0.6507157385349274
+    }
+  },
+  "R_touch_universal": 0.3209773898124695,
+  "R_cover_universal": 0.8499623835086823,
+  "R_cover_min": 0.8476641178131104,
+  "band_width": 0.5289849936962128,
+  "h_star": {
+    "nodo_id": "Arab Republic of Egypt_6_489",
+    "tipo": "strict",
+    "rep_distances": {
+      "Arab Republic of Egypt": 0.5885328650474548,
+      "Federal Democratic Republic of Ethiopia": 0.5521523058414459,
+      "Republic of Sudan": 0.563818097114563
+    },
+    "d_mean": 0.5681677560011545,
+    "pos_in_band_mean": 0.46729183083526626
+  },
+  "hubs_distances": [
+    {
+      "nodo_id": "Arab Republic of Egypt_6_489",
+      "tipo": "strict",
+      "ftt_sum": 17.61089490354061,
+      "rep_distances": {
+        "Arab Republic of Egypt": 0.5885328650474548,
+        "Federal Democratic Republic of Ethiopia": 0.5521523058414459,
+        "Republic of Sudan": 0.563818097114563
+      },
+      "d_mean": 0.5681677560011545,
+      "d_min": 0.5521523058414459,
+      "d_max": 0.5885328650474548,
+      "pos_in_band_mean": 0.46729183083526626
+    },
+    {
+      "nodo_id": "Arab Republic of Egypt_6_339",
+      "tipo": "strict",
+      "ftt_sum": 20.355128824710846,
+      "rep_distances": {
+        "Arab Republic of Egypt": 0.798208475112915,
+        "Federal Democratic Republic of Ethiopia": 0.7353715300559998,
+        "Republic of Sudan": 0.7860113680362701
+      },
+      "d_mean": 0.7731971244017283,
+      "d_min": 0.7353715300559998,
+      "d_max": 0.798208475112915,
+      "pos_in_band_mean": 0.8548819720374923
+    },
+    {
+      "nodo_id": "Arab Republic of Egypt_6_580",
+      "tipo": "strict",
+      "ftt_sum": 21.392906852066517,
+      "rep_distances": {
+        "Arab Republic of Egypt": 0.8242337703704834,
+        "Federal Democratic Republic of Ethiopia": 0.6990131735801697,
+        "Republic of Sudan": 0.8056687712669373
+      },
+      "d_mean": 0.7763052384058634,
+      "d_min": 0.6990131735801697,
+      "d_max": 0.8242337703704834,
+      "pos_in_band_mean": 0.8607575905166056
+    }
+  ],
+  "coverage_curve": [
+    {
+      "R": 0.0,
+      "Arab Republic of Egypt": {
+        "n_covered": 0,
+        "frac": 0.0
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "n_covered": 0,
+        "frac": 0.0
+      },
+      "Republic of Sudan": {
+        "n_covered": 0,
+        "frac": 0.0
+      }
+    },
+    {
+      "R": 0.08499623835086823,
+      "Arab Republic of Egypt": {
+        "n_covered": 0,
+        "frac": 0.0
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "n_covered": 0,
+        "frac": 0.0
+      },
+      "Republic of Sudan": {
+        "n_covered": 0,
+        "frac": 0.0
+      }
+    },
+    {
+      "R": 0.16999247670173645,
+      "Arab Republic of Egypt": {
+        "n_covered": 0,
+        "frac": 0.0
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "n_covered": 0,
+        "frac": 0.0
+      },
+      "Republic of Sudan": {
+        "n_covered": 0,
+        "frac": 0.0
+      }
+    },
+    {
+      "R": 0.2549887150526047,
+      "Arab Republic of Egypt": {
+        "n_covered": 0,
+        "frac": 0.0
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "n_covered": 0,
+        "frac": 0.0
+      },
+      "Republic of Sudan": {
+        "n_covered": 1,
+        "frac": 0.001996007984031936
+      }
+    },
+    {
+      "R": 0.3399849534034729,
+      "Arab Republic of Egypt": {
+        "n_covered": 3,
+        "frac": 0.00597609561752988
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "n_covered": 2,
+        "frac": 0.003992015968063872
+      },
+      "Republic of Sudan": {
+        "n_covered": 3,
+        "frac": 0.005988023952095809
+      }
+    },
+    {
+      "R": 0.4249811917543411,
+      "Arab Republic of Egypt": {
+        "n_covered": 10,
+        "frac": 0.0199203187250996
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "n_covered": 25,
+        "frac": 0.0499001996007984
+      },
+      "Republic of Sudan": {
+        "n_covered": 10,
+        "frac": 0.01996007984031936
+      }
+    },
+    {
+      "R": 0.5099774301052094,
+      "Arab Republic of Egypt": {
+        "n_covered": 63,
+        "frac": 0.1254980079681275
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "n_covered": 144,
+        "frac": 0.2874251497005988
+      },
+      "Republic of Sudan": {
+        "n_covered": 62,
+        "frac": 0.12375249500998003
+      }
+    },
+    {
+      "R": 0.5949736684560776,
+      "Arab Republic of Egypt": {
+        "n_covered": 137,
+        "frac": 0.2729083665338645
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "n_covered": 288,
+        "frac": 0.5748502994011976
+      },
+      "Republic of Sudan": {
+        "n_covered": 163,
+        "frac": 0.3253493013972056
+      }
+    },
+    {
+      "R": 0.6799699068069458,
+      "Arab Republic of Egypt": {
+        "n_covered": 234,
+        "frac": 0.46613545816733065
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "n_covered": 398,
+        "frac": 0.7944111776447106
+      },
+      "Republic of Sudan": {
+        "n_covered": 297,
+        "frac": 0.592814371257485
+      }
+    },
+    {
+      "R": 0.764966145157814,
+      "Arab Republic of Egypt": {
+        "n_covered": 355,
+        "frac": 0.7071713147410359
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "n_covered": 470,
+        "frac": 0.93812375249501
+      },
+      "Republic of Sudan": {
+        "n_covered": 420,
+        "frac": 0.8383233532934131
+      }
+    },
+    {
+      "R": 0.8499623835086823,
+      "Arab Republic of Egypt": {
+        "n_covered": 502,
+        "frac": 1.0
+      },
+      "Federal Democratic Republic of Ethiopia": {
+        "n_covered": 501,
+        "frac": 1.0
+      },
+      "Republic of Sudan": {
+        "n_covered": 501,
+        "frac": 1.0
+      }
+    }
+  ],
+  "n_hubs": 3
+}

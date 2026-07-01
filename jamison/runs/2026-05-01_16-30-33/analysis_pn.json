@@ -1,0 +1,130 @@
+{
+  "case_name": "Intrapersonal Conflict in Bipolar I Disorder: Manic-Depressive Opposition Regarding Treatment Adherence and Self-Perception",
+  "case_dir": "casos\\jamison\\runs\\2026-05-01_16-30-33",
+  "n_classes_from_F": 11,
+  "n_fusiones": 38,
+  "n_hubs": 38,
+  "spectral": {
+    "n_active": 47,
+    "isolated_count": 957,
+    "H1c_beta0_topological": 11,
+    "H1c_dim_kernel_L": 11,
+    "H1c_match": true,
+    "H1b_fiedler_ipvr_pairs": [
+      {
+        "class_id": "F_class_0001",
+        "n_nodes": 7,
+        "n_edges": 6,
+        "lambda_2": 0.21152031049851772,
+        "ipvr": 0.5
+      },
+      {
+        "class_id": "F_class_0000",
+        "n_nodes": 17,
+        "n_edges": 18,
+        "lambda_2": 0.13890820450165065,
+        "ipvr": 0.25
+      },
+      {
+        "class_id": "F_class_0003",
+        "n_nodes": 4,
+        "n_edges": 3,
+        "lambda_2": 1.194398923405032,
+        "ipvr": 1.0
+      },
+      {
+        "class_id": "F_class_0002",
+        "n_nodes": 5,
+        "n_edges": 4,
+        "lambda_2": 1.1533789454459247,
+        "ipvr": 1.0
+      }
+    ],
+    "H1b_spearman_rho": 0.9486832980505139,
+    "H1b_spearman_pval": 0.05131670194948613,
+    "H1b_n": 4,
+    "H1b_corr_lambda2_logn": -1.0,
+    "H1b_corr_ipvr_logn": -0.9486832980505139,
+    "H1b_partial_rho": null,
+    "H1b_bootstrap_ci": [
+      0.8164965809277261,
+      1.0
+    ],
+    "H1b_bootstrap_n": 927,
+    "H1a_ari": 0.13609569598240545,
+    "H1a_nmi": 0.6242719547883439,
+    "H1a_k": 11,
+    "H1a_n_nodes": 47
+  },
+  "pareto": {
+    "n_hubs_total": 38,
+    "n_pareto_frontier": 1,
+    "strict_in_frontier": 1,
+    "lax_in_frontier": 0,
+    "h_star_id": "Kay Jamison [DepressiveState]_5_115",
+    "h_star_tipo": "strict",
+    "h_star_ftt_sum": 8.255294799804688,
+    "argmin_ttf_sum_id": "Kay Jamison [DepressiveState]_5_115",
+    "argmin_ttf_sum_tipo": "strict",
+    "argmin_ttf_sum_value": 8.255294799804688,
+    "tau_changes_winner": false,
+    "frontier_ids": [
+      "Kay Jamison [DepressiveState]_5_115"
+    ]
+  },
+  "transitivity": {
+    "n_paths_total": 49,
+    "n_triangles_total": 0,
+    "closure_rate_total": 0.0,
+    "n_paths_3actor": 0,
+    "n_triangles_3actor": 0,
+    "closure_rate_3actor": 0,
+    "curvature_proxy_global": 1.0,
+    "spearman_curv_ipvr_rho": null,
+    "spearman_curv_ipvr_pval": null,
+    "per_class": [
+      {
+        "class_id": "F_class_0000",
+        "closure_rate": 0.0,
+        "ipvr": 0.25,
+        "curvature_proxy": 1.0,
+        "n_paths": 35,
+        "n_triangles": 0,
+        "n_nodes": 17
+      },
+      {
+        "class_id": "F_class_0001",
+        "closure_rate": 0.0,
+        "ipvr": 0.5,
+        "curvature_proxy": 1.0,
+        "n_paths": 5,
+        "n_triangles": 0,
+        "n_nodes": 7
+      },
+      {
+        "class_id": "F_class_0002",
+        "closure_rate": 0.0,
+        "ipvr": 1.0,
+        "curvature_proxy": 1.0,
+        "n_paths": 6,
+        "n_triangles": 0,
+        "n_nodes": 5
+      },
+      {
+        "class_id": "F_class_0003",
+        "closure_rate": 0.0,
+        "ipvr": 1.0,
+        "curvature_proxy": 1.0,
+        "n_paths": 3,
+        "n_triangles": 0,
+        "n_nodes": 4
+      }
+    ]
+  },
+  "ipvr_per_class_summary": {
+    "n_classes_with_cross_actor": 11,
+    "mean_ipvr": 0.8863636363636364,
+    "min_ipvr": 0.25,
+    "max_ipvr": 1.0
+  }
+}
