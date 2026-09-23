@@ -1,0 +1,1995 @@
+{
+  "version": "7.5",
+  "total_classes": 97,
+  "statistics": {
+    "min_size": 2,
+    "max_size": 706,
+    "avg_size": 10.422680412371134,
+    "min_actors": 2,
+    "max_actors": 2,
+    "classes_with_all_actors": 0
+  },
+  "classes": {
+    "AutisticCognition_4_5338": {
+      "members": [
+        "AutisticCognition_2_806",
+        "AutisticCognition_3_1453",
+        "AutisticCognition_3_1645",
+        "AutisticCognition_3_2079",
+        "AutisticCognition_4_5338",
+        "AutisticCognition_5_7272",
+        "AutisticCognition_6_7865",
+        "AutisticCognition_6_8099",
+        "AutisticCognition_s46_1_170",
+        "AutisticCognition_s50_1_185",
+        "NeurotypicalCognition_3_1931",
+        "NeurotypicalCognition_7_7871"
+      ],
+      "size": 12,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_6646": {
+      "members": [
+        "AutisticCognition_5_6646",
+        "NeurotypicalCognition_3_3272",
+        "NeurotypicalCognition_s20_1_69"
+      ],
+      "size": 3,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_s4_1_13": {
+      "members": [
+        "AutisticCognition_2_1087",
+        "AutisticCognition_2_1111",
+        "AutisticCognition_2_1112",
+        "AutisticCognition_2_1113",
+        "AutisticCognition_2_1134",
+        "AutisticCognition_2_1151",
+        "AutisticCognition_2_1156",
+        "AutisticCognition_2_1184",
+        "AutisticCognition_2_1223",
+        "AutisticCognition_2_1278",
+        "AutisticCognition_2_1345",
+        "AutisticCognition_2_1355",
+        "AutisticCognition_2_370",
+        "AutisticCognition_2_383",
+        "AutisticCognition_2_394",
+        "AutisticCognition_2_397",
+        "AutisticCognition_2_406",
+        "AutisticCognition_2_423",
+        "AutisticCognition_2_429",
+        "AutisticCognition_2_431",
+        "AutisticCognition_2_436",
+        "AutisticCognition_2_452",
+        "AutisticCognition_2_476",
+        "AutisticCognition_2_501",
+        "AutisticCognition_2_510",
+        "AutisticCognition_2_513",
+        "AutisticCognition_2_517",
+        "AutisticCognition_2_546",
+        "AutisticCognition_2_595",
+        "AutisticCognition_2_596",
+        "AutisticCognition_2_610",
+        "AutisticCognition_2_623",
+        "AutisticCognition_2_633",
+        "AutisticCognition_2_640",
+        "AutisticCognition_2_657",
+        "AutisticCognition_2_666",
+        "AutisticCognition_2_685",
+        "AutisticCognition_2_693",
+        "AutisticCognition_2_714",
+        "AutisticCognition_2_731",
+        "AutisticCognition_2_734",
+        "AutisticCognition_2_742",
+        "AutisticCognition_2_749",
+        "AutisticCognition_2_755",
+        "AutisticCognition_2_772",
+        "AutisticCognition_2_780",
+        "AutisticCognition_2_818",
+        "AutisticCognition_2_848",
+        "AutisticCognition_2_849",
+        "AutisticCognition_2_874",
+        "AutisticCognition_2_876",
+        "AutisticCognition_2_882",
+        "AutisticCognition_2_886",
+        "AutisticCognition_2_894",
+        "AutisticCognition_2_948",
+        "AutisticCognition_2_959",
+        "AutisticCognition_2_978",
+        "AutisticCognition_2_980",
+        "AutisticCognition_2_982",
+        "AutisticCognition_2_996",
+        "AutisticCognition_3_1408",
+        "AutisticCognition_3_1409",
+        "AutisticCognition_3_1410",
+        "AutisticCognition_3_1415",
+        "AutisticCognition_3_1417",
+        "AutisticCognition_3_1420",
+        "AutisticCognition_3_1428",
+        "AutisticCognition_3_1437",
+        "AutisticCognition_3_1439",
+        "AutisticCognition_3_1440",
+        "AutisticCognition_3_1442",
+        "AutisticCognition_3_1450",
+        "AutisticCognition_3_1486",
+        "AutisticCognition_3_1488",
+        "AutisticCognition_3_1492",
+        "AutisticCognition_3_1497",
+        "AutisticCognition_3_1508",
+        "AutisticCognition_3_1510",
+        "AutisticCognition_3_1515",
+        "AutisticCognition_3_1517",
+        "AutisticCognition_3_1523",
+        "AutisticCognition_3_1538",
+        "AutisticCognition_3_1546",
+        "AutisticCognition_3_1555",
+        "AutisticCognition_3_1564",
+        "AutisticCognition_3_1586",
+        "AutisticCognition_3_1589",
+        "AutisticCognition_3_1613",
+        "AutisticCognition_3_1616",
+        "AutisticCognition_3_1619",
+        "AutisticCognition_3_1627",
+        "AutisticCognition_3_1658",
+        "AutisticCognition_3_1661",
+        "AutisticCognition_3_1670",
+        "AutisticCognition_3_1696",
+        "AutisticCognition_3_1700",
+        "AutisticCognition_3_1702",
+        "AutisticCognition_3_1706",
+        "AutisticCognition_3_1740",
+        "AutisticCognition_3_1794",
+        "AutisticCognition_3_1799",
+        "AutisticCognition_3_1814",
+        "AutisticCognition_3_1818",
+        "AutisticCognition_3_1832",
+        "AutisticCognition_3_1838",
+        "AutisticCognition_3_1846",
+        "AutisticCognition_3_1852",
+        "AutisticCognition_3_1854",
+        "AutisticCognition_3_1869",
+        "AutisticCognition_3_1883",
+        "AutisticCognition_3_1887",
+        "AutisticCognition_3_1915",
+        "AutisticCognition_3_1923",
+        "AutisticCognition_3_1945",
+        "AutisticCognition_3_1968",
+        "AutisticCognition_3_1988",
+        "AutisticCognition_3_2014",
+        "AutisticCognition_3_2042",
+        "AutisticCognition_3_2061",
+        "AutisticCognition_3_2091",
+        "AutisticCognition_3_2095",
+        "AutisticCognition_3_2099",
+        "AutisticCognition_3_2102",
+        "AutisticCognition_3_2111",
+        "AutisticCognition_3_2151",
+        "AutisticCognition_3_2170",
+        "AutisticCognition_3_2193",
+        "AutisticCognition_3_2209",
+        "AutisticCognition_3_2224",
+        "AutisticCognition_3_2233",
+        "AutisticCognition_3_2255",
+        "AutisticCognition_3_2258",
+        "AutisticCognition_3_2322",
+        "AutisticCognition_3_2334",
+        "AutisticCognition_3_2371",
+        "AutisticCognition_3_2386",
+        "AutisticCognition_3_2424",
+        "AutisticCognition_3_2444",
+        "AutisticCognition_3_2457",
+        "AutisticCognition_3_2498",
+        "AutisticCognition_3_2554",
+        "AutisticCognition_3_2573",
+        "AutisticCognition_3_2576",
+        "AutisticCognition_3_2580",
+        "AutisticCognition_3_2585",
+        "AutisticCognition_3_2615",
+        "AutisticCognition_3_2713",
+        "AutisticCognition_3_2722",
+        "AutisticCognition_3_2730",
+        "AutisticCognition_3_2752",
+        "AutisticCognition_3_2763",
+        "AutisticCognition_3_2824",
+        "AutisticCognition_3_2860",
+        "AutisticCognition_3_2882",
+        "AutisticCognition_3_2941",
+        "AutisticCognition_3_2963",
+        "AutisticCognition_3_2971",
+        "AutisticCognition_3_3014",
+        "AutisticCognition_3_3039",
+        "AutisticCognition_3_3129",
+        "AutisticCognition_3_3187",
+        "AutisticCognition_3_3201",
+        "AutisticCognition_3_3237",
+        "AutisticCognition_3_3261",
+        "AutisticCognition_3_3315",
+        "AutisticCognition_3_3324",
+        "AutisticCognition_3_3349",
+        "AutisticCognition_3_3368",
+        "AutisticCognition_3_3409",
+        "AutisticCognition_3_3461",
+        "AutisticCognition_3_3495",
+        "AutisticCognition_3_3525",
+        "AutisticCognition_3_3538",
+        "AutisticCognition_3_3558",
+        "AutisticCognition_3_3586",
+        "AutisticCognition_3_3630",
+        "AutisticCognition_3_3686",
+        "AutisticCognition_4_3676",
+        "AutisticCognition_4_3732",
+        "AutisticCognition_4_3736",
+        "AutisticCognition_4_3738",
+        "AutisticCognition_4_3760",
+        "AutisticCognition_4_3762",
+        "AutisticCognition_4_3764",
+        "AutisticCognition_4_3774",
+        "AutisticCognition_4_3775",
+        "AutisticCognition_4_3821",
+        "AutisticCognition_4_3822",
+        "AutisticCognition_4_3831",
+        "AutisticCognition_4_3844",
+        "AutisticCognition_4_3856",
+        "AutisticCognition_4_3900",
+        "AutisticCognition_4_3927",
+        "AutisticCognition_4_3933",
+        "AutisticCognition_4_3983",
+        "AutisticCognition_4_3992",
+        "AutisticCognition_4_3997",
+        "AutisticCognition_4_3998",
+        "AutisticCognition_4_4019",
+        "AutisticCognition_4_4041",
+        "AutisticCognition_4_4061",
+        "AutisticCognition_4_4074",
+        "AutisticCognition_4_4133",
+        "AutisticCognition_4_4159",
+        "AutisticCognition_4_4160",
+        "AutisticCognition_4_4163",
+        "AutisticCognition_4_4186",
+        "AutisticCognition_4_4189",
+        "AutisticCognition_4_4198",
+        "AutisticCognition_4_4209",
+        "AutisticCognition_4_4218",
+        "AutisticCognition_4_4226",
+        "AutisticCognition_4_4232",
+        "AutisticCognition_4_4234",
+        "AutisticCognition_4_4235",
+        "AutisticCognition_4_4242",
+        "AutisticCognition_4_4281",
+        "AutisticCognition_4_4286",
+        "AutisticCognition_4_4296",
+        "AutisticCognition_4_4307",
+        "AutisticCognition_4_4324",
+        "AutisticCognition_4_4341",
+        "AutisticCognition_4_4344",
+        "AutisticCognition_4_4373",
+        "AutisticCognition_4_4385",
+        "AutisticCognition_4_4394",
+        "AutisticCognition_4_4411",
+        "AutisticCognition_4_4427",
+        "AutisticCognition_4_4440",
+        "AutisticCognition_4_4443",
+        "AutisticCognition_4_4449",
+        "AutisticCognition_4_4469",
+        "AutisticCognition_4_4514",
+        "AutisticCognition_4_4543",
+        "AutisticCognition_4_4546",
+        "AutisticCognition_4_4553",
+        "AutisticCognition_4_4572",
+        "AutisticCognition_4_4576",
+        "AutisticCognition_4_4582",
+        "AutisticCognition_4_4605",
+        "AutisticCognition_4_4647",
+        "AutisticCognition_4_4679",
+        "AutisticCognition_4_4704",
+        "AutisticCognition_4_4706",
+        "AutisticCognition_4_4714",
+        "AutisticCognition_4_4767",
+        "AutisticCognition_4_4796",
+        "AutisticCognition_4_4818",
+        "AutisticCognition_4_4834",
+        "AutisticCognition_4_4855",
+        "AutisticCognition_4_4885",
+        "AutisticCognition_4_4891",
+        "AutisticCognition_4_4900",
+        "AutisticCognition_4_4990",
+        "AutisticCognition_4_5045",
+        "AutisticCognition_4_5067",
+        "AutisticCognition_4_5094",
+        "AutisticCognition_4_5103",
+        "AutisticCognition_4_5117",
+        "AutisticCognition_4_5135",
+        "AutisticCognition_4_5163",
+        "AutisticCognition_4_5176",
+        "AutisticCognition_4_5264",
+        "AutisticCognition_4_5295",
+        "AutisticCognition_4_5298",
+        "AutisticCognition_4_5342",
+        "AutisticCognition_4_5366",
+        "AutisticCognition_4_5369",
+        "AutisticCognition_4_5443",
+        "AutisticCognition_4_5508",
+        "AutisticCognition_4_5509",
+        "AutisticCognition_4_5533",
+        "AutisticCognition_4_5545",
+        "AutisticCognition_4_5562",
+        "AutisticCognition_4_5575",
+        "AutisticCognition_4_5582",
+        "AutisticCognition_4_5619",
+        "AutisticCognition_4_5628",
+        "AutisticCognition_4_5658",
+        "AutisticCognition_4_5660",
+        "AutisticCognition_4_5727",
+        "AutisticCognition_4_5728",
+        "AutisticCognition_4_5736",
+        "AutisticCognition_4_5757",
+        "AutisticCognition_4_5814",
+        "AutisticCognition_4_5841",
+        "AutisticCognition_4_5867",
+        "AutisticCognition_4_5891",
+        "AutisticCognition_4_5892",
+        "AutisticCognition_4_6252",
+        "AutisticCognition_4_6364",
+        "AutisticCognition_5_5604",
+        "AutisticCognition_5_5847",
+        "AutisticCognition_5_5899",
+        "AutisticCognition_5_5905",
+        "AutisticCognition_5_6020",
+        "AutisticCognition_5_6056",
+        "AutisticCognition_5_6073",
+        "AutisticCognition_5_6074",
+        "AutisticCognition_5_6097",
+        "AutisticCognition_5_6098",
+        "AutisticCognition_5_6124",
+        "AutisticCognition_5_6137",
+        "AutisticCognition_5_6156",
+        "AutisticCognition_5_6166",
+        "AutisticCognition_5_6184",
+        "AutisticCognition_5_6200",
+        "AutisticCognition_5_6203",
+        "AutisticCognition_5_6213",
+        "AutisticCognition_5_6226",
+        "AutisticCognition_5_6232",
+        "AutisticCognition_5_6233",
+        "AutisticCognition_5_6240",
+        "AutisticCognition_5_6257",
+        "AutisticCognition_5_6338",
+        "AutisticCognition_5_6345",
+        "AutisticCognition_5_6354",
+        "AutisticCognition_5_6375",
+        "AutisticCognition_5_6391",
+        "AutisticCognition_5_6473",
+        "AutisticCognition_5_6474",
+        "AutisticCognition_5_6486",
+        "AutisticCognition_5_6499",
+        "AutisticCognition_5_6504",
+        "AutisticCognition_5_6505",
+        "AutisticCognition_5_6550",
+        "AutisticCognition_5_6603",
+        "AutisticCognition_5_6632",
+        "AutisticCognition_5_6633",
+        "AutisticCognition_5_6640",
+        "AutisticCognition_5_6650",
+        "AutisticCognition_5_6651",
+        "AutisticCognition_5_6710",
+        "AutisticCognition_5_6726",
+        "AutisticCognition_5_6762",
+        "AutisticCognition_5_6791",
+        "AutisticCognition_5_6867",
+        "AutisticCognition_5_6870",
+        "AutisticCognition_5_6882",
+        "AutisticCognition_5_6886",
+        "AutisticCognition_5_6951",
+        "AutisticCognition_5_6954",
+        "AutisticCognition_5_6993",
+        "AutisticCognition_5_7011",
+        "AutisticCognition_5_7022",
+        "AutisticCognition_5_7044",
+        "AutisticCognition_5_7056",
+        "AutisticCognition_5_7084",
+        "AutisticCognition_5_7099",
+        "AutisticCognition_5_7149",
+        "AutisticCognition_5_7193",
+        "AutisticCognition_5_7236",
+        "AutisticCognition_5_7279",
+        "AutisticCognition_5_7422",
+        "AutisticCognition_5_7439",
+        "AutisticCognition_5_7529",
+        "AutisticCognition_5_7543",
+        "AutisticCognition_5_7553",
+        "AutisticCognition_5_7604",
+        "AutisticCognition_5_7660",
+        "AutisticCognition_5_7727",
+        "AutisticCognition_5_7761",
+        "AutisticCognition_5_7780",
+        "AutisticCognition_5_7781",
+        "AutisticCognition_5_7839",
+        "AutisticCognition_5_7848",
+        "AutisticCognition_5_7885",
+        "AutisticCognition_5_7895",
+        "AutisticCognition_5_7994",
+        "AutisticCognition_5_8044",
+        "AutisticCognition_5_8114",
+        "AutisticCognition_5_8147",
+        "AutisticCognition_5_8149",
+        "AutisticCognition_5_8293",
+        "AutisticCognition_6_7798",
+        "AutisticCognition_6_7911",
+        "AutisticCognition_6_7966",
+        "AutisticCognition_6_7982",
+        "AutisticCognition_6_7990",
+        "AutisticCognition_6_8046",
+        "AutisticCognition_6_8048",
+        "AutisticCognition_6_8060",
+        "AutisticCognition_6_8103",
+        "AutisticCognition_6_8135",
+        "AutisticCognition_6_8141",
+        "AutisticCognition_6_8261",
+        "AutisticCognition_6_8322",
+        "AutisticCognition_6_8325",
+        "AutisticCognition_6_8374",
+        "AutisticCognition_6_8413",
+        "AutisticCognition_6_8427",
+        "AutisticCognition_6_8453",
+        "AutisticCognition_6_8470",
+        "AutisticCognition_6_8471",
+        "AutisticCognition_6_8484",
+        "AutisticCognition_6_8519",
+        "AutisticCognition_6_8558",
+        "AutisticCognition_6_8602",
+        "AutisticCognition_6_8618",
+        "AutisticCognition_6_8638",
+        "AutisticCognition_6_8645",
+        "AutisticCognition_6_8682",
+        "AutisticCognition_6_8775",
+        "AutisticCognition_6_8793",
+        "AutisticCognition_6_8803",
+        "AutisticCognition_6_8812",
+        "AutisticCognition_6_8817",
+        "AutisticCognition_6_8872",
+        "AutisticCognition_6_8886",
+        "AutisticCognition_6_8888",
+        "AutisticCognition_6_8912",
+        "AutisticCognition_6_8918",
+        "AutisticCognition_6_8928",
+        "AutisticCognition_6_8951",
+        "AutisticCognition_6_9065",
+        "AutisticCognition_6_9157",
+        "AutisticCognition_6_9160",
+        "AutisticCognition_6_9168",
+        "AutisticCognition_6_9171",
+        "AutisticCognition_6_9177",
+        "AutisticCognition_6_9229",
+        "AutisticCognition_6_9267",
+        "AutisticCognition_6_9316",
+        "AutisticCognition_6_9327",
+        "AutisticCognition_6_9337",
+        "AutisticCognition_6_9359",
+        "AutisticCognition_6_9503",
+        "AutisticCognition_6_9519",
+        "AutisticCognition_6_9553",
+        "AutisticCognition_6_9607",
+        "AutisticCognition_6_9609",
+        "AutisticCognition_6_9675",
+        "AutisticCognition_6_9723",
+        "AutisticCognition_6_9739",
+        "AutisticCognition_7_9406",
+        "AutisticCognition_7_9480",
+        "AutisticCognition_7_9676",
+        "AutisticCognition_7_9677",
+        "AutisticCognition_7_9709",
+        "AutisticCognition_7_9749",
+        "AutisticCognition_s10_1_34",
+        "AutisticCognition_s14_1_49",
+        "AutisticCognition_s15_1_53",
+        "AutisticCognition_s19_1_69",
+        "AutisticCognition_s20_1_72",
+        "AutisticCognition_s21_1_75",
+        "AutisticCognition_s21_1_76",
+        "AutisticCognition_s24_1_84",
+        "AutisticCognition_s25_1_89",
+        "AutisticCognition_s27_1_96",
+        "AutisticCognition_s29_1_103",
+        "AutisticCognition_s31_1_113",
+        "AutisticCognition_s33_1_120",
+        "AutisticCognition_s34_1_123",
+        "AutisticCognition_s36_1_130",
+        "AutisticCognition_s40_1_144",
+        "AutisticCognition_s43_1_156",
+        "AutisticCognition_s47_1_174",
+        "AutisticCognition_s4_1_13",
+        "AutisticCognition_s51_1_190",
+        "AutisticCognition_s59_1_217",
+        "AutisticCognition_s61_1_224",
+        "AutisticCognition_s62_1_226",
+        "AutisticCognition_s71_1_258",
+        "AutisticCognition_s73_1_266",
+        "AutisticCognition_s75_1_273",
+        "AutisticCognition_s78_1_281",
+        "AutisticCognition_s78_1_283",
+        "AutisticCognition_s7_1_22",
+        "AutisticCognition_s80_1_288",
+        "AutisticCognition_s84_1_302",
+        "AutisticCognition_s87_1_314",
+        "AutisticCognition_s92_1_332",
+        "AutisticCognition_s9_1_30",
+        "NeurotypicalCognition_2_1007",
+        "NeurotypicalCognition_2_1059",
+        "NeurotypicalCognition_2_1131",
+        "NeurotypicalCognition_2_1152",
+        "NeurotypicalCognition_2_1184",
+        "NeurotypicalCognition_2_1223",
+        "NeurotypicalCognition_2_1236",
+        "NeurotypicalCognition_2_1251",
+        "NeurotypicalCognition_2_1276",
+        "NeurotypicalCognition_2_418",
+        "NeurotypicalCognition_2_445",
+        "NeurotypicalCognition_2_469",
+        "NeurotypicalCognition_2_490",
+        "NeurotypicalCognition_2_491",
+        "NeurotypicalCognition_2_524",
+        "NeurotypicalCognition_2_572",
+        "NeurotypicalCognition_2_623",
+        "NeurotypicalCognition_2_697",
+        "NeurotypicalCognition_2_725",
+        "NeurotypicalCognition_2_731",
+        "NeurotypicalCognition_2_824",
+        "NeurotypicalCognition_2_887",
+        "NeurotypicalCognition_2_912",
+        "NeurotypicalCognition_2_964",
+        "NeurotypicalCognition_3_1337",
+        "NeurotypicalCognition_3_1357",
+        "NeurotypicalCognition_3_1374",
+        "NeurotypicalCognition_3_1420",
+        "NeurotypicalCognition_3_1423",
+        "NeurotypicalCognition_3_1438",
+        "NeurotypicalCognition_3_1463",
+        "NeurotypicalCognition_3_1487",
+        "NeurotypicalCognition_3_1507",
+        "NeurotypicalCognition_3_1523",
+        "NeurotypicalCognition_3_1565",
+        "NeurotypicalCognition_3_1591",
+        "NeurotypicalCognition_3_1609",
+        "NeurotypicalCognition_3_1707",
+        "NeurotypicalCognition_3_1816",
+        "NeurotypicalCognition_3_1818",
+        "NeurotypicalCognition_3_1830",
+        "NeurotypicalCognition_3_1859",
+        "NeurotypicalCognition_3_1898",
+        "NeurotypicalCognition_3_1907",
+        "NeurotypicalCognition_3_1921",
+        "NeurotypicalCognition_3_1977",
+        "NeurotypicalCognition_3_2314",
+        "NeurotypicalCognition_3_2333",
+        "NeurotypicalCognition_3_2364",
+        "NeurotypicalCognition_3_2535",
+        "NeurotypicalCognition_3_2624",
+        "NeurotypicalCognition_3_2631",
+        "NeurotypicalCognition_3_2652",
+        "NeurotypicalCognition_3_2667",
+        "NeurotypicalCognition_3_2681",
+        "NeurotypicalCognition_3_2682",
+        "NeurotypicalCognition_3_2823",
+        "NeurotypicalCognition_3_2904",
+        "NeurotypicalCognition_3_3003",
+        "NeurotypicalCognition_3_3023",
+        "NeurotypicalCognition_3_3036",
+        "NeurotypicalCognition_3_3090",
+        "NeurotypicalCognition_3_3114",
+        "NeurotypicalCognition_3_3243",
+        "NeurotypicalCognition_3_3255",
+        "NeurotypicalCognition_3_3423",
+        "NeurotypicalCognition_4_3076",
+        "NeurotypicalCognition_4_3208",
+        "NeurotypicalCognition_4_3209",
+        "NeurotypicalCognition_4_3385",
+        "NeurotypicalCognition_4_3386",
+        "NeurotypicalCognition_4_3442",
+        "NeurotypicalCognition_4_3485",
+        "NeurotypicalCognition_4_3487",
+        "NeurotypicalCognition_4_3602",
+        "NeurotypicalCognition_4_3669",
+        "NeurotypicalCognition_4_3670",
+        "NeurotypicalCognition_4_3707",
+        "NeurotypicalCognition_4_3760",
+        "NeurotypicalCognition_4_3761",
+        "NeurotypicalCognition_4_3819",
+        "NeurotypicalCognition_4_3821",
+        "NeurotypicalCognition_4_3843",
+        "NeurotypicalCognition_4_3964",
+        "NeurotypicalCognition_4_3979",
+        "NeurotypicalCognition_4_3992",
+        "NeurotypicalCognition_4_3993",
+        "NeurotypicalCognition_4_3994",
+        "NeurotypicalCognition_4_4005",
+        "NeurotypicalCognition_4_4202",
+        "NeurotypicalCognition_4_4209",
+        "NeurotypicalCognition_4_4218",
+        "NeurotypicalCognition_4_4224",
+        "NeurotypicalCognition_4_4293",
+        "NeurotypicalCognition_4_4294",
+        "NeurotypicalCognition_4_4295",
+        "NeurotypicalCognition_4_4305",
+        "NeurotypicalCognition_4_4381",
+        "NeurotypicalCognition_4_4533",
+        "NeurotypicalCognition_4_4592",
+        "NeurotypicalCognition_4_4676",
+        "NeurotypicalCognition_4_4697",
+        "NeurotypicalCognition_4_4857",
+        "NeurotypicalCognition_4_4973",
+        "NeurotypicalCognition_4_5265",
+        "NeurotypicalCognition_4_5578",
+        "NeurotypicalCognition_5_4544",
+        "NeurotypicalCognition_5_4713",
+        "NeurotypicalCognition_5_4714",
+        "NeurotypicalCognition_5_4854",
+        "NeurotypicalCognition_5_4920",
+        "NeurotypicalCognition_5_4921",
+        "NeurotypicalCognition_5_5013",
+        "NeurotypicalCognition_5_5057",
+        "NeurotypicalCognition_5_5263",
+        "NeurotypicalCognition_5_5310",
+        "NeurotypicalCognition_5_5331",
+        "NeurotypicalCognition_5_5377",
+        "NeurotypicalCognition_5_5403",
+        "NeurotypicalCognition_5_5404",
+        "NeurotypicalCognition_5_5405",
+        "NeurotypicalCognition_5_5427",
+        "NeurotypicalCognition_5_5429",
+        "NeurotypicalCognition_5_5456",
+        "NeurotypicalCognition_5_5489",
+        "NeurotypicalCognition_5_5490",
+        "NeurotypicalCognition_5_5497",
+        "NeurotypicalCognition_5_5524",
+        "NeurotypicalCognition_5_5631",
+        "NeurotypicalCognition_5_5632",
+        "NeurotypicalCognition_5_5698",
+        "NeurotypicalCognition_5_5721",
+        "NeurotypicalCognition_5_5723",
+        "NeurotypicalCognition_5_5758",
+        "NeurotypicalCognition_5_5808",
+        "NeurotypicalCognition_5_5901",
+        "NeurotypicalCognition_5_5942",
+        "NeurotypicalCognition_5_5971",
+        "NeurotypicalCognition_5_6049",
+        "NeurotypicalCognition_5_6154",
+        "NeurotypicalCognition_5_6238",
+        "NeurotypicalCognition_5_6261",
+        "NeurotypicalCognition_5_6335",
+        "NeurotypicalCognition_5_6437",
+        "NeurotypicalCognition_5_6518",
+        "NeurotypicalCognition_5_6948",
+        "NeurotypicalCognition_5_6957",
+        "NeurotypicalCognition_5_7292",
+        "NeurotypicalCognition_5_7460",
+        "NeurotypicalCognition_6_5774",
+        "NeurotypicalCognition_6_5926",
+        "NeurotypicalCognition_6_5927",
+        "NeurotypicalCognition_6_5941",
+        "NeurotypicalCognition_6_6093",
+        "NeurotypicalCognition_6_6213",
+        "NeurotypicalCognition_6_6215",
+        "NeurotypicalCognition_6_6349",
+        "NeurotypicalCognition_6_6374",
+        "NeurotypicalCognition_6_6415",
+        "NeurotypicalCognition_6_6485",
+        "NeurotypicalCognition_6_6535",
+        "NeurotypicalCognition_6_6587",
+        "NeurotypicalCognition_6_6659",
+        "NeurotypicalCognition_6_6664",
+        "NeurotypicalCognition_6_6715",
+        "NeurotypicalCognition_6_6722",
+        "NeurotypicalCognition_6_6731",
+        "NeurotypicalCognition_6_6756",
+        "NeurotypicalCognition_6_6889",
+        "NeurotypicalCognition_6_6890",
+        "NeurotypicalCognition_6_6907",
+        "NeurotypicalCognition_6_6962",
+        "NeurotypicalCognition_6_6974",
+        "NeurotypicalCognition_6_6980",
+        "NeurotypicalCognition_6_7100",
+        "NeurotypicalCognition_6_7102",
+        "NeurotypicalCognition_6_7119",
+        "NeurotypicalCognition_6_7121",
+        "NeurotypicalCognition_6_7194",
+        "NeurotypicalCognition_6_7208",
+        "NeurotypicalCognition_6_7223",
+        "NeurotypicalCognition_6_7301",
+        "NeurotypicalCognition_6_7303",
+        "NeurotypicalCognition_6_7305",
+        "NeurotypicalCognition_6_7314",
+        "NeurotypicalCognition_6_7366",
+        "NeurotypicalCognition_6_7409",
+        "NeurotypicalCognition_6_7451",
+        "NeurotypicalCognition_6_7486",
+        "NeurotypicalCognition_6_7487",
+        "NeurotypicalCognition_6_7566",
+        "NeurotypicalCognition_6_7573",
+        "NeurotypicalCognition_6_7574",
+        "NeurotypicalCognition_6_7607",
+        "NeurotypicalCognition_6_7608",
+        "NeurotypicalCognition_6_7675",
+        "NeurotypicalCognition_6_7714",
+        "NeurotypicalCognition_6_7719",
+        "NeurotypicalCognition_6_7730",
+        "NeurotypicalCognition_6_7743",
+        "NeurotypicalCognition_6_7744",
+        "NeurotypicalCognition_6_8009",
+        "NeurotypicalCognition_6_8026",
+        "NeurotypicalCognition_6_8062",
+        "NeurotypicalCognition_6_8100",
+        "NeurotypicalCognition_6_8129",
+        "NeurotypicalCognition_7_7147",
+        "NeurotypicalCognition_7_7244",
+        "NeurotypicalCognition_7_7463",
+        "NeurotypicalCognition_7_7464",
+        "NeurotypicalCognition_7_7471",
+        "NeurotypicalCognition_7_7499",
+        "NeurotypicalCognition_7_7500",
+        "NeurotypicalCognition_7_7531",
+        "NeurotypicalCognition_7_7553",
+        "NeurotypicalCognition_7_7852",
+        "NeurotypicalCognition_7_7941",
+        "NeurotypicalCognition_7_7970",
+        "NeurotypicalCognition_7_8063",
+        "NeurotypicalCognition_7_8065",
+        "NeurotypicalCognition_7_8228",
+        "NeurotypicalCognition_7_8229",
+        "NeurotypicalCognition_7_8292",
+        "NeurotypicalCognition_7_8339",
+        "NeurotypicalCognition_s16_1_56",
+        "NeurotypicalCognition_s27_1_92",
+        "NeurotypicalCognition_s35_1_122",
+        "NeurotypicalCognition_s37_1_129",
+        "NeurotypicalCognition_s51_1_184",
+        "NeurotypicalCognition_s69_1_252",
+        "NeurotypicalCognition_s6_1_19",
+        "NeurotypicalCognition_s79_1_285"
+      ],
+      "size": 706,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_2_1263": {
+      "members": [
+        "AutisticCognition_2_1263",
+        "NeurotypicalCognition_3_1500"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_3434": {
+      "members": [
+        "AutisticCognition_3_3434",
+        "NeurotypicalCognition_3_3074"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_7300": {
+      "members": [
+        "AutisticCognition_5_7300",
+        "NeurotypicalCognition_4_4497"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_8721": {
+      "members": [
+        "AutisticCognition_3_1701",
+        "AutisticCognition_5_8721",
+        "NeurotypicalCognition_4_4392"
+      ],
+      "size": 3,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_6_9735": {
+      "members": [
+        "AutisticCognition_3_2261",
+        "AutisticCognition_3_3569",
+        "AutisticCognition_4_6654",
+        "AutisticCognition_5_6708",
+        "AutisticCognition_5_7470",
+        "AutisticCognition_6_9563",
+        "AutisticCognition_6_9735",
+        "NeurotypicalCognition_3_1653",
+        "NeurotypicalCognition_3_1826",
+        "NeurotypicalCognition_3_2319",
+        "NeurotypicalCognition_3_2571",
+        "NeurotypicalCognition_3_2577",
+        "NeurotypicalCognition_5_5209",
+        "NeurotypicalCognition_5_6160",
+        "NeurotypicalCognition_5_6347",
+        "NeurotypicalCognition_5_7066",
+        "NeurotypicalCognition_6_7978",
+        "NeurotypicalCognition_6_8027",
+        "NeurotypicalCognition_6_8127",
+        "NeurotypicalCognition_6_8165",
+        "NeurotypicalCognition_6_8279"
+      ],
+      "size": 21,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_4_4360": {
+      "members": [
+        "AutisticCognition_4_4360",
+        "NeurotypicalCognition_5_5679"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_2505": {
+      "members": [
+        "AutisticCognition_3_2415",
+        "AutisticCognition_3_2505",
+        "NeurotypicalCognition_6_6682"
+      ],
+      "size": 3,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_1972": {
+      "members": [
+        "AutisticCognition_3_1972",
+        "NeurotypicalCognition_6_7488"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_3625": {
+      "members": [
+        "AutisticCognition_3_3625",
+        "NeurotypicalCognition_3_3181"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_6_9197": {
+      "members": [
+        "AutisticCognition_6_9197",
+        "NeurotypicalCognition_5_4543"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_2235": {
+      "members": [
+        "AutisticCognition_3_2235",
+        "AutisticCognition_6_8925",
+        "NeurotypicalCognition_3_2343",
+        "NeurotypicalCognition_3_2853"
+      ],
+      "size": 4,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_6_8927": {
+      "members": [
+        "AutisticCognition_6_8927",
+        "NeurotypicalCognition_5_5592"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_7922": {
+      "members": [
+        "AutisticCognition_5_7922",
+        "NeurotypicalCognition_s28_1_96"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_4_4669": {
+      "members": [
+        "AutisticCognition_4_4669",
+        "AutisticCognition_4_4957",
+        "AutisticCognition_5_5942",
+        "AutisticCognition_6_8247",
+        "AutisticCognition_7_9387",
+        "NeurotypicalCognition_5_5056",
+        "NeurotypicalCognition_6_5940",
+        "NeurotypicalCognition_7_8064"
+      ],
+      "size": 8,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_s14_1_47": {
+      "members": [
+        "AutisticCognition_s14_1_47",
+        "NeurotypicalCognition_3_2582"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_2986": {
+      "members": [
+        "AutisticCognition_3_1529",
+        "AutisticCognition_3_2832",
+        "AutisticCognition_3_2986",
+        "AutisticCognition_3_3671",
+        "AutisticCognition_4_4042",
+        "AutisticCognition_5_8221",
+        "NeurotypicalCognition_2_500",
+        "NeurotypicalCognition_3_1485",
+        "NeurotypicalCognition_3_2905",
+        "NeurotypicalCognition_3_3287",
+        "NeurotypicalCognition_3_3813",
+        "NeurotypicalCognition_4_4108",
+        "NeurotypicalCognition_5_6634",
+        "NeurotypicalCognition_s5_1_17"
+      ],
+      "size": 14,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_8034": {
+      "members": [
+        "AutisticCognition_5_8034",
+        "NeurotypicalCognition_3_3383"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_2_620": {
+      "members": [
+        "AutisticCognition_2_620",
+        "AutisticCognition_4_5994",
+        "NeurotypicalCognition_s49_1_176"
+      ],
+      "size": 3,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_6_8608": {
+      "members": [
+        "AutisticCognition_6_8608",
+        "NeurotypicalCognition_2_538"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_4_6091": {
+      "members": [
+        "AutisticCognition_4_6091",
+        "NeurotypicalCognition_4_4123",
+        "NeurotypicalCognition_s83_1_299"
+      ],
+      "size": 3,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_2347": {
+      "members": [
+        "AutisticCognition_3_2347",
+        "AutisticCognition_5_7685",
+        "NeurotypicalCognition_3_1605",
+        "NeurotypicalCognition_3_2149",
+        "NeurotypicalCognition_4_3467",
+        "NeurotypicalCognition_4_3627",
+        "NeurotypicalCognition_5_5678",
+        "NeurotypicalCognition_6_6966",
+        "NeurotypicalCognition_6_7057",
+        "NeurotypicalCognition_7_8133"
+      ],
+      "size": 10,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_4_5296": {
+      "members": [
+        "AutisticCognition_3_1771",
+        "AutisticCognition_4_5296",
+        "AutisticCognition_4_5543",
+        "AutisticCognition_4_5957",
+        "AutisticCognition_5_6973",
+        "AutisticCognition_5_7086",
+        "AutisticCognition_5_7636",
+        "AutisticCognition_5_7823",
+        "NeurotypicalCognition_6_7239",
+        "NeurotypicalCognition_6_7302"
+      ],
+      "size": 10,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_7006": {
+      "members": [
+        "AutisticCognition_5_7006",
+        "NeurotypicalCognition_6_6430"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_2310": {
+      "members": [
+        "AutisticCognition_3_2310",
+        "NeurotypicalCognition_6_7228"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_7369": {
+      "members": [
+        "AutisticCognition_5_6861",
+        "AutisticCognition_5_7369",
+        "AutisticCognition_6_9669",
+        "AutisticCognition_s60_1_221",
+        "NeurotypicalCognition_3_1708",
+        "NeurotypicalCognition_5_6271"
+      ],
+      "size": 6,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_7374": {
+      "members": [
+        "AutisticCognition_5_7374",
+        "NeurotypicalCognition_3_2270"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_4_4193": {
+      "members": [
+        "AutisticCognition_4_4193",
+        "AutisticCognition_5_6842",
+        "AutisticCognition_6_7810",
+        "AutisticCognition_6_8502",
+        "NeurotypicalCognition_5_4853",
+        "NeurotypicalCognition_6_7313",
+        "NeurotypicalCognition_7_7243"
+      ],
+      "size": 7,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_4_4420": {
+      "members": [
+        "AutisticCognition_4_4420",
+        "NeurotypicalCognition_3_1776"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_6_8669": {
+      "members": [
+        "AutisticCognition_6_8669",
+        "NeurotypicalCognition_2_377"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_4_4178": {
+      "members": [
+        "AutisticCognition_2_574",
+        "AutisticCognition_4_4178",
+        "NeurotypicalCognition_2_730"
+      ],
+      "size": 3,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_5878": {
+      "members": [
+        "AutisticCognition_5_5878",
+        "NeurotypicalCognition_4_4426"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_6273": {
+      "members": [
+        "AutisticCognition_5_6273",
+        "NeurotypicalCognition_5_5912"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_6382": {
+      "members": [
+        "AutisticCognition_5_6382",
+        "NeurotypicalCognition_4_4851"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_7166": {
+      "members": [
+        "AutisticCognition_5_7166",
+        "NeurotypicalCognition_4_4922"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_7674": {
+      "members": [
+        "AutisticCognition_5_7674",
+        "NeurotypicalCognition_4_3668"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_6_9156": {
+      "members": [
+        "AutisticCognition_6_9156",
+        "NeurotypicalCognition_3_2632"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_1792": {
+      "members": [
+        "AutisticCognition_3_1792",
+        "AutisticCognition_4_4884",
+        "AutisticCognition_4_5712",
+        "NeurotypicalCognition_3_1505",
+        "NeurotypicalCognition_6_8325"
+      ],
+      "size": 5,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_2366": {
+      "members": [
+        "AutisticCognition_2_1266",
+        "AutisticCognition_3_2366",
+        "AutisticCognition_6_8709",
+        "NeurotypicalCognition_6_6658",
+        "NeurotypicalCognition_6_7842"
+      ],
+      "size": 5,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_s28_1_101": {
+      "members": [
+        "AutisticCognition_s28_1_101",
+        "NeurotypicalCognition_2_575"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_6_9490": {
+      "members": [
+        "AutisticCognition_6_9490",
+        "NeurotypicalCognition_5_5867"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_8292": {
+      "members": [
+        "AutisticCognition_5_8292",
+        "NeurotypicalCognition_3_3607"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_6931": {
+      "members": [
+        "AutisticCognition_5_6931",
+        "NeurotypicalCognition_6_6775"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_1456": {
+      "members": [
+        "AutisticCognition_3_1456",
+        "NeurotypicalCognition_4_3499",
+        "NeurotypicalCognition_4_3604"
+      ],
+      "size": 3,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_4_3751": {
+      "members": [
+        "AutisticCognition_4_3751",
+        "NeurotypicalCognition_4_3734"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_1402": {
+      "members": [
+        "AutisticCognition_3_1402",
+        "AutisticCognition_6_8366",
+        "NeurotypicalCognition_5_6781",
+        "NeurotypicalCognition_6_8007"
+      ],
+      "size": 4,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_4_5194": {
+      "members": [
+        "AutisticCognition_3_1881",
+        "AutisticCognition_3_3527",
+        "AutisticCognition_4_5194",
+        "NeurotypicalCognition_7_8230"
+      ],
+      "size": 4,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_6_8057": {
+      "members": [
+        "AutisticCognition_6_8057",
+        "NeurotypicalCognition_3_2742"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_4_5364": {
+      "members": [
+        "AutisticCognition_4_5186",
+        "AutisticCognition_4_5364",
+        "NeurotypicalCognition_4_3539"
+      ],
+      "size": 3,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_7140": {
+      "members": [
+        "AutisticCognition_3_2835",
+        "AutisticCognition_5_7140",
+        "NeurotypicalCognition_3_2680",
+        "NeurotypicalCognition_3_2936"
+      ],
+      "size": 4,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_2_526": {
+      "members": [
+        "AutisticCognition_2_526",
+        "NeurotypicalCognition_4_3849"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_2304": {
+      "members": [
+        "AutisticCognition_3_2304",
+        "NeurotypicalCognition_6_7641"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_s40_1_145": {
+      "members": [
+        "AutisticCognition_s40_1_145",
+        "NeurotypicalCognition_2_1137"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_6509": {
+      "members": [
+        "AutisticCognition_5_6509",
+        "NeurotypicalCognition_3_2633",
+        "NeurotypicalCognition_3_2802"
+      ],
+      "size": 3,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_3111": {
+      "members": [
+        "AutisticCognition_3_3111",
+        "NeurotypicalCognition_3_2001"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_2_1341": {
+      "members": [
+        "AutisticCognition_2_1341",
+        "NeurotypicalCognition_5_6522"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_4_5645": {
+      "members": [
+        "AutisticCognition_4_5645",
+        "NeurotypicalCognition_5_6017"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_3353": {
+      "members": [
+        "AutisticCognition_3_3353",
+        "NeurotypicalCognition_3_1405"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_4_3768": {
+      "members": [
+        "AutisticCognition_4_3768",
+        "NeurotypicalCognition_4_4085"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_1427": {
+      "members": [
+        "AutisticCognition_3_1427",
+        "NeurotypicalCognition_7_7621"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_6185": {
+      "members": [
+        "AutisticCognition_5_6185",
+        "NeurotypicalCognition_3_1564"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_2_550": {
+      "members": [
+        "AutisticCognition_2_550",
+        "AutisticCognition_4_4112",
+        "NeurotypicalCognition_6_7609"
+      ],
+      "size": 3,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_6_9508": {
+      "members": [
+        "AutisticCognition_6_9508",
+        "NeurotypicalCognition_6_6916"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_2_1242": {
+      "members": [
+        "AutisticCognition_2_1242",
+        "AutisticCognition_s55_1_205",
+        "NeurotypicalCognition_2_1308",
+        "NeurotypicalCognition_2_584",
+        "NeurotypicalCognition_6_7961"
+      ],
+      "size": 5,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_6_8533": {
+      "members": [
+        "AutisticCognition_6_8533",
+        "NeurotypicalCognition_5_5373"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_6851": {
+      "members": [
+        "AutisticCognition_5_6851",
+        "NeurotypicalCognition_5_5872"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_6863": {
+      "members": [
+        "AutisticCognition_4_4897",
+        "AutisticCognition_5_6863",
+        "AutisticCognition_6_8781",
+        "NeurotypicalCognition_3_2641",
+        "NeurotypicalCognition_4_4359"
+      ],
+      "size": 5,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_s63_1_229": {
+      "members": [
+        "AutisticCognition_s63_1_229",
+        "NeurotypicalCognition_3_2432",
+        "NeurotypicalCognition_4_4945",
+        "NeurotypicalCognition_5_6250"
+      ],
+      "size": 4,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_2_425": {
+      "members": [
+        "AutisticCognition_2_425",
+        "NeurotypicalCognition_s70_1_255"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_7489": {
+      "members": [
+        "AutisticCognition_5_7489",
+        "NeurotypicalCognition_6_8123"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_6_9312": {
+      "members": [
+        "AutisticCognition_6_9312",
+        "NeurotypicalCognition_3_2151",
+        "NeurotypicalCognition_5_5163"
+      ],
+      "size": 3,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_1786": {
+      "members": [
+        "AutisticCognition_3_1786",
+        "NeurotypicalCognition_3_1515",
+        "NeurotypicalCognition_3_1543",
+        "NeurotypicalCognition_3_1870",
+        "NeurotypicalCognition_3_2438",
+        "NeurotypicalCognition_5_6393"
+      ],
+      "size": 6,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_s72_1_262": {
+      "members": [
+        "AutisticCognition_2_1018",
+        "AutisticCognition_s72_1_262",
+        "NeurotypicalCognition_2_1032"
+      ],
+      "size": 3,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_2027": {
+      "members": [
+        "AutisticCognition_3_1429",
+        "AutisticCognition_3_2027",
+        "NeurotypicalCognition_6_7410"
+      ],
+      "size": 3,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_6_8211": {
+      "members": [
+        "AutisticCognition_6_8211",
+        "NeurotypicalCognition_3_1817"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_s74_1_270": {
+      "members": [
+        "AutisticCognition_s74_1_270",
+        "NeurotypicalCognition_2_501"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_1451": {
+      "members": [
+        "AutisticCognition_3_1451",
+        "NeurotypicalCognition_5_5491"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_2727": {
+      "members": [
+        "AutisticCognition_3_2727",
+        "NeurotypicalCognition_5_5014"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_6720": {
+      "members": [
+        "AutisticCognition_5_6720",
+        "NeurotypicalCognition_4_3844"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_s77_1_278": {
+      "members": [
+        "AutisticCognition_2_572",
+        "AutisticCognition_s77_1_278",
+        "NeurotypicalCognition_2_833"
+      ],
+      "size": 3,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_4_3731": {
+      "members": [
+        "AutisticCognition_4_3731",
+        "NeurotypicalCognition_6_7136"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_2_659": {
+      "members": [
+        "AutisticCognition_2_659",
+        "NeurotypicalCognition_6_7326"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_6_8914": {
+      "members": [
+        "AutisticCognition_6_8914",
+        "AutisticCognition_7_9665",
+        "NeurotypicalCognition_2_537"
+      ],
+      "size": 3,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_2_1034": {
+      "members": [
+        "AutisticCognition_2_1034",
+        "NeurotypicalCognition_2_769"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_6_8428": {
+      "members": [
+        "AutisticCognition_6_8428",
+        "NeurotypicalCognition_3_3037"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_3534": {
+      "members": [
+        "AutisticCognition_3_3534",
+        "NeurotypicalCognition_3_2350"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_4_5414": {
+      "members": [
+        "AutisticCognition_4_5414",
+        "NeurotypicalCognition_5_6601"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_6_7933": {
+      "members": [
+        "AutisticCognition_6_7933",
+        "NeurotypicalCognition_4_4958"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_5936": {
+      "members": [
+        "AutisticCognition_5_5936",
+        "NeurotypicalCognition_2_766"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_5_6034": {
+      "members": [
+        "AutisticCognition_5_6034",
+        "NeurotypicalCognition_6_6375"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_2_1219": {
+      "members": [
+        "AutisticCognition_2_1219",
+        "NeurotypicalCognition_2_849"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_2_1387": {
+      "members": [
+        "AutisticCognition_2_1387",
+        "NeurotypicalCognition_2_1271"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_3_3565": {
+      "members": [
+        "AutisticCognition_3_3565",
+        "NeurotypicalCognition_2_682"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_4_3693": {
+      "members": [
+        "AutisticCognition_4_3693",
+        "NeurotypicalCognition_2_664"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    },
+    "AutisticCognition_2_726": {
+      "members": [
+        "AutisticCognition_2_726",
+        "NeurotypicalCognition_2_874"
+      ],
+      "size": 2,
+      "actors": [
+        "AutisticCognition",
+        "NeurotypicalCognition"
+      ],
+      "num_actors": 2
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "nodos": [
+    "Agrarian Federation of Tessara_0_0",
+    "Agrarian Federation of Tessara_1_4",
+    "Agrarian Federation of Tessara_2_32",
+    "Agrarian Federation of Tessara_3_88",
+    "Agrarian Federation of Tessara_4_256",
+    "Coastal State of Ondrel_0_0",
+    "Coastal State of Ondrel_1_1",
+    "Coastal State of Ondrel_2_24",
+    "Coastal State of Ondrel_3_86",
+    "Coastal State of Ondrel_4_397",
+    "Highland Republic of Vireya_0_0",
+    "Highland Republic of Vireya_1_5",
+    "Highland Republic of Vireya_2_10",
+    "Highland Republic of Vireya_3_67"
+  ],
+  "nodo_textos": [
+    "Tessara demands that Phase II be suspended until a binding instrument guarantees minimum rain-equivalent moisture passage during dry seasons, with independent monitoring of the cloud corridor. It invokes the customary principle that no state may cause significant harm beyond its borders and the spirit of the Meridian Declaration. It declares that a third failed harvest would be existential and that all options remain open to protect its food supply.",
+    "Agrarian Federation of Tessara treats the Meridian Declaration as a live legal instrument despite its non-binding status.",
+    "Agrarian Federation of Tessara perceives the Meridian Declaration as providing enforceable procedural rights against Phase II activation.",
+    "Agrarian Federation of Tessara frames Phase II activation without consultation as a Declaration breach.",
+    "Agrarian Federation of Tessara treats Phase II activation as legally challengeable state conduct.",
+    "Ondrel demands strict performance of the contracted conduit volumes through the full term and an enforceable compensation formula for estuary salinity damage tied to measured river flow. It will not accept a Phase II design that diverts contracted export water to Vireya's reservoirs, and warns that collapsing Tessaran harvests would push migration into its port districts beyond what its housing and services can absorb. It conditions any continued conduit operation on these guarantees.",
+    "Coastal State of Ondrel has formally conditioned continued conduit operation on unmet guarantees.",
+    "Coastal State of Ondrel's conduit revenue stream is exposed to imminent interruption risk.",
+    "Coastal State of Ondrel identifies the transit contract as a legally contested asset.",
+    "Coastal State of Ondrel treats Phase II activation as a potential triggering event for legal action.",
+    "Vireya asserts the sovereign right to harvest moisture from the airspace above its territory and will energize Phase II on the announced schedule. It offers voluntary seasonal telemetry summaries but rejects any binding capture quota, calling downwind attribution scientifically unproven. It frames the Array as the only remedy for its structural drought and the foundation of highland development, and states it will protect the project against any interference.",
+    "Highland Republic of Vireya faces potential demands from Ondrel to guarantee contracted conduit volumes under Phase II.",
+    "Highland Republic of Vireya anticipates potential breach-of-contract liability claims from Ondrel over reduced conduit flows.",
+    "Highland Republic of Vireya perceives legal risk as a constraint on Phase II operational flexibility."
+  ],
+  "hubs_info": [
+    {
+      "clase_id": "Highland Republic of Vireya_3_181",
+      "tipo": "strict",
+      "closure_size": 308,
+      "core_size": 3,
+      "ftt_sum": 10.735477209091187,
+      "ftt_max": 4.112031400203705
+    }
+  ],
+  "actores": [
+    "Agrarian Federation of Tessara",
+    "Coastal State of Ondrel",
+    "Highland Republic of Vireya"
+  ],
+  "version": "1.0",
+  "k_max": 10,
+  "cap": 10000,
+  "N": 14,
+  "H": 1,
+  "K": 3
+}

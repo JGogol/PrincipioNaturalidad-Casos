@@ -1,0 +1,32 @@
+{
+  "problema": {
+    "titulo": "Phase II of the Cirrus Array: Atmospheric Moisture Capture Dispute",
+    "descripcion": "The Highland Republic of Vireya has completed Phase I of the Cirrus Array, a network of high-altitude condensation towers on the Serrat Plateau that captures moisture from the prevailing cloud corridor before it crosses the mountains. Phase I supplies Vireya's highland cities and feeds an export conduit, operated by the Coastal State of Ondrel under a twenty-year transit contract, which carries surplus water to Ondrel's ports for regional sale. Phase II would triple capture capacity and would redirect part of the current export volume to Vireya's new domestic reservoirs. The rain-fed grain belt of the Agrarian Federation of Tessara lies directly downwind of the Array; Tessara recorded its two driest seasons on record during Phase I operation, and meteorological models commissioned separately by each government disagree sharply on attribution. The river that reaches Ondrel's estuary is fed by rainfall from the same corridor, and measured salinity at the estuary mouth has risen since Phase I began. In past poor harvest years, Tessaran seasonal laborers have migrated to Ondrel's port districts. Vireya has announced that Phase II towers will be energized at the start of the next dry season. The only instrument in force among the three states is the Meridian Declaration, a non-binding statement of rainfall courtesy signed by Vireya and Tessara in 1971.",
+    "contexto_adicional": "",
+    "decision_central": "How should the activation of Phase II of the Cirrus Array be governed - its timing, capture quotas during dry seasons, and the sharing of atmospheric and flow data - in a manner that simultaneously addresses Vireya's water sovereignty and highland development, Tessara's rain-fed food security, and Ondrel's contracted conduit volumes and estuarine economy?",
+    "decision_central_embedding": "Governance of Phase II activation of the Cirrus Array: timing, dry-season capture quotas, and atmospheric data sharing, balancing Vireya's water sovereignty, Tessara's rain-fed food security, and Ondrel's conduit contract and estuary economy."
+  },
+  "actores": [
+    {
+      "nombre": "Highland Republic of Vireya",
+      "alias": "Vireya",
+      "contexto": "Arid highland state. Built and operates the Cirrus Array on its own territory with domestic financing. Chronic urban water rationing ended only after Phase I. Views atmospheric moisture above its plateau as a sovereign resource.",
+      "postura": "Vireya asserts the sovereign right to harvest moisture from the airspace above its territory and will energize Phase II on the announced schedule. It offers voluntary seasonal telemetry summaries but rejects any binding capture quota, calling downwind attribution scientifically unproven. It frames the Array as the only remedy for its structural drought and the foundation of highland development, and states it will protect the project against any interference.",
+      "postura_embedding": "Vireya: sovereign right over airspace moisture; Phase II proceeds on schedule; voluntary telemetry only; rejects binding quotas; attribution unproven; Array essential to end structural drought and enable development."
+    },
+    {
+      "nombre": "Agrarian Federation of Tessara",
+      "alias": "Tessara",
+      "contexto": "Downwind agrarian federation. Rain-fed grain belt feeds most of its population and its export economy. Two driest seasons on record coincided with Phase I. Signatory of the non-binding Meridian Declaration with Vireya.",
+      "postura": "Tessara demands that Phase II be suspended until a binding instrument guarantees minimum rain-equivalent moisture passage during dry seasons, with independent monitoring of the cloud corridor. It invokes the customary principle that no state may cause significant harm beyond its borders and the spirit of the Meridian Declaration. It declares that a third failed harvest would be existential and that all options remain open to protect its food supply.",
+      "postura_embedding": "Tessara: suspend Phase II until binding guaranteed moisture passage in dry seasons with independent corridor monitoring; invokes no-significant-harm and Meridian Declaration; third failed harvest existential; all options open."
+    },
+    {
+      "nombre": "Coastal State of Ondrel",
+      "alias": "Ondrel",
+      "contexto": "Coastal trading state. Operates the export conduit and ports under a twenty-year transit contract with Vireya. Estuarine aquaculture beds are a major employer. Receives Tessaran seasonal labor migration in poor harvest years.",
+      "postura": "Ondrel demands strict performance of the contracted conduit volumes through the full term and an enforceable compensation formula for estuary salinity damage tied to measured river flow. It will not accept a Phase II design that diverts contracted export water to Vireya's reservoirs, and warns that collapsing Tessaran harvests would push migration into its port districts beyond what its housing and services can absorb. It conditions any continued conduit operation on these guarantees.",
+      "postura_embedding": "Ondrel: enforce contracted conduit volumes full term; enforceable salinity compensation tied to measured flow; rejects diversion of contracted water to Vireya reservoirs; warns of migration strain from Tessaran harvest failure; conditions conduit operation on guarantees."
+    }
+  ]
+}

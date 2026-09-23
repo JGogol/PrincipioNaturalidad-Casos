@@ -1,0 +1,105 @@
+{
+  "case": "autismo",
+  "method": "Vietoris-Rips Persistent Homology",
+  "metric": "Cosine distance in original 768d space (no PCA, no info loss)",
+  "actors": [
+    "AutisticCognition",
+    "NeurotypicalCognition"
+  ],
+  "n_actors": 2,
+  "n_pairs": 1,
+  "pairwise_comparison": {
+    "AutisticCognition vs NeurotypicalCognition": {
+      "H0": {
+        "bottleneck": 0.040248870849609375,
+        "wasserstein": 10.95675382071016,
+        "AutisticCognition_features": 500,
+        "NeurotypicalCognition_features": 500,
+        "AutisticCognition_max_lifetime": 0.35036683082580566,
+        "NeurotypicalCognition_max_lifetime": 0.3101179599761963,
+        "AutisticCognition_mean_lifetime": 0.1237797584227904,
+        "NeurotypicalCognition_mean_lifetime": 0.14558841673310152,
+        "mean_lifetime_diff": 0.02180865831031112,
+        "mean_lifetime_ratio": 1.1761892137147336
+      },
+      "H1": {
+        "bottleneck": 0.030373990535736084,
+        "wasserstein": 5.584073319066748,
+        "AutisticCognition_features": 453,
+        "NeurotypicalCognition_features": 465,
+        "AutisticCognition_max_lifetime": 0.07068568468093872,
+        "NeurotypicalCognition_max_lifetime": 0.08689278364181519,
+        "AutisticCognition_mean_lifetime": 0.014939645663002469,
+        "NeurotypicalCognition_mean_lifetime": 0.01908863898246519,
+        "mean_lifetime_diff": 0.004148993319462722,
+        "mean_lifetime_ratio": 1.277716982922665
+      }
+    }
+  },
+  "per_actor": {
+    "AutisticCognition": {
+      "H0": {
+        "total_features": 500,
+        "infinite_features": 1,
+        "finite_features": 499,
+        "max_lifetime": 0.35036683082580566,
+        "mean_lifetime": 0.1237797584227904,
+        "std_lifetime": 0.04310837126264838,
+        "top_5_lifetimes": [
+          0.35036683082580566,
+          0.2678970694541931,
+          0.2609574794769287,
+          0.25818973779678345,
+          0.25680041313171387
+        ]
+      },
+      "H1": {
+        "total_features": 453,
+        "infinite_features": 0,
+        "finite_features": 453,
+        "max_lifetime": 0.07068568468093872,
+        "mean_lifetime": 0.014939645663002469,
+        "std_lifetime": 0.013519007477687929,
+        "top_5_lifetimes": [
+          0.07068568468093872,
+          0.06685101985931396,
+          0.06496745347976685,
+          0.06261897087097168,
+          0.062101662158966064
+        ]
+      }
+    },
+    "NeurotypicalCognition": {
+      "H0": {
+        "total_features": 500,
+        "infinite_features": 1,
+        "finite_features": 499,
+        "max_lifetime": 0.3101179599761963,
+        "mean_lifetime": 0.14558841673310152,
+        "std_lifetime": 0.04589208987684295,
+        "top_5_lifetimes": [
+          0.3101179599761963,
+          0.2998983860015869,
+          0.27320659160614014,
+          0.27207446098327637,
+          0.2670750617980957
+        ]
+      },
+      "H1": {
+        "total_features": 465,
+        "infinite_features": 0,
+        "finite_features": 465,
+        "max_lifetime": 0.08689278364181519,
+        "mean_lifetime": 0.01908863898246519,
+        "std_lifetime": 0.01764591248099863,
+        "top_5_lifetimes": [
+          0.08689278364181519,
+          0.08334493637084961,
+          0.07988709211349487,
+          0.07620227336883545,
+          0.07592976093292236
+        ]
+      }
+    }
+  }
+}

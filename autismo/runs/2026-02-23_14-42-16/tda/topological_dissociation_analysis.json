@@ -1,0 +1,31 @@
+{
+  "n_actors": 2,
+  "actors": [
+    "AutisticCognition",
+    "NeurotypicalCognition"
+  ],
+  "beta_0": 2,
+  "beta_0_sin_bridges": 2,
+  "delta_beta_0": 0,
+  "avg_node_purity": 1.0,
+  "random_baseline": 0.5,
+  "total_nodes": 68,
+  "total_edges": 447,
+  "mixed_nodes_count": 0,
+  "bridges_count": 0,
+  "bridges": [],
+  "components": [
+    {
+      "size": 33,
+      "type_counts": {
+        "AutisticCognition": 33
+      }
+    },
+    {
+      "size": 35,
+      "type_counts": {
+        "NeurotypicalCognition": 35
+      }
+    }
+  ]
+}

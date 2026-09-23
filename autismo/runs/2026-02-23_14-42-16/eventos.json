@@ -1,0 +1,1488 @@
+{
+  "eventos": [
+    {
+      "evento": "fase_inicio",
+      "datos": {
+        "numero": "2b",
+        "fase": "LLM fusion verification"
+      },
+      "timestamp": "2026-02-23T15:13:29.972223"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "AutisticCognition sufre abrumamiento sensorial mie"
+      },
+      "timestamp": "2026-02-23T15:14:28.187751"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan perspectivas opuestas del mismo proces"
+      },
+      "timestamp": "2026-02-23T15:15:16.323123"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan perspectivas opuestas del mismo proces"
+      },
+      "timestamp": "2026-02-23T15:15:16.324227"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan perspectivas opuestas del mismo proces"
+      },
+      "timestamp": "2026-02-23T15:15:16.324227"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan perspectivas opuestas del mismo proces"
+      },
+      "timestamp": "2026-02-23T15:15:16.324227"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan perspectivas opuestas del mismo proces"
+      },
+      "timestamp": "2026-02-23T15:15:16.324227"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan perspectivas opuestas del mismo proces"
+      },
+      "timestamp": "2026-02-23T15:15:16.324227"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan perspectivas opuestas del mismo proces"
+      },
+      "timestamp": "2026-02-23T15:15:16.324227"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan perspectivas opuestas del mismo proces"
+      },
+      "timestamp": "2026-02-23T15:15:16.324227"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan perspectivas opuestas del mismo proces"
+      },
+      "timestamp": "2026-02-23T15:15:16.324227"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan perspectivas opuestas del mismo proces"
+      },
+      "timestamp": "2026-02-23T15:15:16.324227"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan perspectivas opuestas del mismo proces"
+      },
+      "timestamp": "2026-02-23T15:15:16.324227"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan modos de procesamiento opuestos (enfoq"
+      },
+      "timestamp": "2026-02-23T15:15:33.105429"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan modos de procesamiento opuestos (enfoq"
+      },
+      "timestamp": "2026-02-23T15:15:33.105429"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan modos de procesamiento opuestos (enfoq"
+      },
+      "timestamp": "2026-02-23T15:15:33.105429"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan modos de procesamiento opuestos (enfoq"
+      },
+      "timestamp": "2026-02-23T15:15:33.105429"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan modos de procesamiento opuestos (enfoq"
+      },
+      "timestamp": "2026-02-23T15:15:33.105429"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [10] AutisticCognition se mantiene fijado en de"
+      },
+      "timestamp": "2026-02-23T15:15:57.222965"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Estrategias de afrontamiento opuestas - búsqueda d"
+      },
+      "timestamp": "2026-02-23T15:16:02.965317"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [6] AutisticCognition muestra comportamiento at"
+      },
+      "timestamp": "2026-02-23T15:16:49.290822"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Procesan modalidades sensoriales completamente dif"
+      },
+      "timestamp": "2026-02-23T15:16:57.254733"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan capacidades complementarias opuestas d"
+      },
+      "timestamp": "2026-02-23T15:17:19.254654"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan capacidades complementarias opuestas d"
+      },
+      "timestamp": "2026-02-23T15:17:19.254654"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan capacidades complementarias opuestas d"
+      },
+      "timestamp": "2026-02-23T15:17:19.254654"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan capacidades complementarias opuestas d"
+      },
+      "timestamp": "2026-02-23T15:17:19.254654"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [3] y [14] representan mecanismos cognitivos fu"
+      },
+      "timestamp": "2026-02-23T15:17:27.691282"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [3] y [14] representan mecanismos cognitivos fu"
+      },
+      "timestamp": "2026-02-23T15:17:27.691282"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [12] uno necesita información y otro la integra"
+      },
+      "timestamp": "2026-02-23T15:17:43.712807"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [12] uno necesita información y otro la integra"
+      },
+      "timestamp": "2026-02-23T15:17:43.712807"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "AutisticCognition experimenta pérdida involuntaria"
+      },
+      "timestamp": "2026-02-23T15:17:53.502885"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "AutisticCognition describe inmovilidad pasiva mien"
+      },
+      "timestamp": "2026-02-23T15:18:15.811441"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [2] abordan problemas cognitivos diferentes (pr"
+      },
+      "timestamp": "2026-02-23T15:18:35.309425"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [2] abordan problemas cognitivos diferentes (pr"
+      },
+      "timestamp": "2026-02-23T15:18:35.309425"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [2] abordan problemas cognitivos diferentes (pr"
+      },
+      "timestamp": "2026-02-23T15:18:35.309425"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan enfoques cognitivos diferentes - proce"
+      },
+      "timestamp": "2026-02-23T15:19:04.923574"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan enfoques cognitivos diferentes - proce"
+      },
+      "timestamp": "2026-02-23T15:19:04.923574"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan enfoques cognitivos diferentes - proce"
+      },
+      "timestamp": "2026-02-23T15:19:04.923574"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [9] uno tiene problema interno vs búsqueda acti"
+      },
+      "timestamp": "2026-02-23T15:19:13.142172"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [9] uno tiene problema interno vs búsqueda acti"
+      },
+      "timestamp": "2026-02-23T15:19:13.142172"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [6] AutisticCognition describe detección objeti"
+      },
+      "timestamp": "2026-02-23T15:19:36.375510"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [11] y [12] AutisticCognition tiene enfoque int"
+      },
+      "timestamp": "2026-02-23T15:19:59.958331"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [11] y [12] AutisticCognition tiene enfoque int"
+      },
+      "timestamp": "2026-02-23T15:19:59.958331"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [6] y [7] un actor procesa detalles básicos mie"
+      },
+      "timestamp": "2026-02-23T15:20:10.764340"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [6] y [7] un actor procesa detalles básicos mie"
+      },
+      "timestamp": "2026-02-23T15:20:10.764340"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [6] y [7] un actor procesa detalles básicos mie"
+      },
+      "timestamp": "2026-02-23T15:20:10.764340"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Roles invertidos - AutisticCognition experimenta f"
+      },
+      "timestamp": "2026-02-23T15:21:26.939444"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Roles invertidos - AutisticCognition experimenta f"
+      },
+      "timestamp": "2026-02-23T15:21:26.939444"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Roles invertidos - AutisticCognition experimenta f"
+      },
+      "timestamp": "2026-02-23T15:21:26.939444"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Roles invertidos - AutisticCognition experimenta f"
+      },
+      "timestamp": "2026-02-23T15:21:26.940501"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Roles invertidos - AutisticCognition experimenta f"
+      },
+      "timestamp": "2026-02-23T15:21:26.940501"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Roles invertidos - AutisticCognition experimenta f"
+      },
+      "timestamp": "2026-02-23T15:21:26.940501"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Roles invertidos - AutisticCognition experimenta f"
+      },
+      "timestamp": "2026-02-23T15:21:26.940501"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Representan fallas en sistemas cognitivos opuestos"
+      },
+      "timestamp": "2026-02-23T15:21:34.990759"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "AutisticCognition experimenta sobrecarga sensorial"
+      },
+      "timestamp": "2026-02-23T15:22:07.259601"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [3] modos de procesamiento opuestos (separado v"
+      },
+      "timestamp": "2026-02-23T15:22:25.766797"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [3] modos de procesamiento opuestos (separado v"
+      },
+      "timestamp": "2026-02-23T15:22:25.766797"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "En [11] AutisticCognition es receptor pasivo de fe"
+      },
+      "timestamp": "2026-02-23T15:22:56.669231"
+    },
+    {
+      "evento": "fusion_rejected_llm",
+      "datos": {
+        "actor_a": "AutisticCognition",
+        "actor_b": "NeurotypicalCognition",
+        "reason": "Perspectivas opuestas - uno enfocado internamente "
+      },
+      "timestamp": "2026-02-23T15:23:30.291067"
+    },
+    {
+      "evento": "fase_inicio",
+      "datos": {
+        "numero": 3,
+        "fase": "Unified graph construction (v8.5 - bicomposite)"
+      },
+      "timestamp": "2026-02-23T15:24:01.005695"
+    },
+    {
+      "evento": "fase_inicio",
+      "datos": {
+        "numero": 4,
+        "fase": "Convergence HUB search (v8.5 - bicomposite)"
+      },
+      "timestamp": "2026-02-23T15:24:04.159260"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_4_5338",
+        "num_nodos": 12,
+        "ftt_sum": 3.9036504924297333,
+        "ftt_max": 2.751448482275009
+      },
+      "timestamp": "2026-02-23T15:24:04.205272"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_6646",
+        "num_nodos": 3,
+        "ftt_sum": 6.52866518497467,
+        "ftt_max": 5.546441346406937
+      },
+      "timestamp": "2026-02-23T15:24:04.216260"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_s4_1_13",
+        "num_nodos": 640,
+        "ftt_sum": 1.8850226998329163,
+        "ftt_max": 1.0520401000976562
+      },
+      "timestamp": "2026-02-23T15:24:04.217260"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_2_1263",
+        "num_nodos": 2,
+        "ftt_sum": 5.208792358636856,
+        "ftt_max": 2.673489063978195
+      },
+      "timestamp": "2026-02-23T15:24:04.226260"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_3434",
+        "num_nodos": 2,
+        "ftt_sum": 7.043818831443787,
+        "ftt_max": 3.9638227820396423
+      },
+      "timestamp": "2026-02-23T15:24:04.238260"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_4_5658",
+        "num_nodos": 30,
+        "ftt_sum": 4.9505274295806885,
+        "ftt_max": 3.05308535695076
+      },
+      "timestamp": "2026-02-23T15:24:04.245263"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_7300",
+        "num_nodos": 2,
+        "ftt_sum": 10.293832778930664,
+        "ftt_max": 6.285321801900864
+      },
+      "timestamp": "2026-02-23T15:24:04.263260"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_8721",
+        "num_nodos": 3,
+        "ftt_sum": 6.922780156135559,
+        "ftt_max": 3.6682653427124023
+      },
+      "timestamp": "2026-02-23T15:24:04.273259"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_6_9735",
+        "num_nodos": 21,
+        "ftt_sum": 6.54891511797905,
+        "ftt_max": 3.7226796746253967
+      },
+      "timestamp": "2026-02-23T15:24:04.284259"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_4_4360",
+        "num_nodos": 2,
+        "ftt_sum": 9.233035832643509,
+        "ftt_max": 4.80804780125618
+      },
+      "timestamp": "2026-02-23T15:24:04.300260"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_2505",
+        "num_nodos": 3,
+        "ftt_sum": 9.546586006879807,
+        "ftt_max": 5.787214875221252
+      },
+      "timestamp": "2026-02-23T15:24:04.316259"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_1972",
+        "num_nodos": 2,
+        "ftt_sum": 9.31111603975296,
+        "ftt_max": 5.8807143568992615
+      },
+      "timestamp": "2026-02-23T15:24:04.332260"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_3625",
+        "num_nodos": 2,
+        "ftt_sum": 7.4643970131874084,
+        "ftt_max": 3.989586651325226
+      },
+      "timestamp": "2026-02-23T15:24:04.344260"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_6_9197",
+        "num_nodos": 2,
+        "ftt_sum": 11.972046315670013,
+        "ftt_max": 7.559535324573517
+      },
+      "timestamp": "2026-02-23T15:24:04.363260"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_2235",
+        "num_nodos": 4,
+        "ftt_sum": 6.714909374713898,
+        "ftt_max": 3.6716349124908447
+      },
+      "timestamp": "2026-02-23T15:24:04.374260"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_6_8927",
+        "num_nodos": 2,
+        "ftt_sum": 12.124602377414703,
+        "ftt_max": 7.432810932397842
+      },
+      "timestamp": "2026-02-23T15:24:04.393259"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_7922",
+        "num_nodos": 2,
+        "ftt_sum": 7.9233225882053375,
+        "ftt_max": 6.851297289133072
+      },
+      "timestamp": "2026-02-23T15:24:04.405260"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_4_4669",
+        "num_nodos": 8,
+        "ftt_sum": 9.302265524864197,
+        "ftt_max": 4.7729198932647705
+      },
+      "timestamp": "2026-02-23T15:24:04.420260"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_s14_1_47",
+        "num_nodos": 2,
+        "ftt_sum": 4.9739930331707,
+        "ftt_max": 3.5199341773986816
+      },
+      "timestamp": "2026-02-23T15:24:04.429260"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_8221",
+        "num_nodos": 13,
+        "ftt_sum": 5.702931195497513,
+        "ftt_max": 3.7159436345100403
+      },
+      "timestamp": "2026-02-23T15:24:04.437260"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_8034",
+        "num_nodos": 2,
+        "ftt_sum": 9.896006047725677,
+        "ftt_max": 6.509427845478058
+      },
+      "timestamp": "2026-02-23T15:24:04.453259"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_2_620",
+        "num_nodos": 2,
+        "ftt_sum": 3.858963504433632,
+        "ftt_max": 2.593412920832634
+      },
+      "timestamp": "2026-02-23T15:24:04.459260"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_6_8608",
+        "num_nodos": 2,
+        "ftt_sum": 9.26875352859497,
+        "ftt_max": 7.29605370759964
+      },
+      "timestamp": "2026-02-23T15:24:06.285295"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_4_6091",
+        "num_nodos": 3,
+        "ftt_sum": 6.568579822778702,
+        "ftt_max": 5.639788508415222
+      },
+      "timestamp": "2026-02-23T15:24:06.295292"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_2347",
+        "num_nodos": 10,
+        "ftt_sum": 6.0332834124565125,
+        "ftt_max": 3.4307339191436768
+      },
+      "timestamp": "2026-02-23T15:24:06.305292"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_4_5296",
+        "num_nodos": 10,
+        "ftt_sum": 9.328234016895294,
+        "ftt_max": 5.735024780035019
+      },
+      "timestamp": "2026-02-23T15:24:06.324298"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_7006",
+        "num_nodos": 2,
+        "ftt_sum": 11.516228646039963,
+        "ftt_max": 6.110802978277206
+      },
+      "timestamp": "2026-02-23T15:24:06.349298"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_2310",
+        "num_nodos": 2,
+        "ftt_sum": 9.25671237707138,
+        "ftt_max": 5.669702529907227
+      },
+      "timestamp": "2026-02-23T15:24:06.369296"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_4_4193",
+        "num_nodos": 7,
+        "ftt_sum": 9.31875416636467,
+        "ftt_max": 4.702028959989548
+      },
+      "timestamp": "2026-02-23T15:24:06.389294"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_6_8669",
+        "num_nodos": 2,
+        "ftt_sum": 9.13937097787857,
+        "ftt_max": 7.284855425357819
+      },
+      "timestamp": "2026-02-23T15:24:06.406298"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_4_4178",
+        "num_nodos": 3,
+        "ftt_sum": 4.611928969621658,
+        "ftt_max": 2.3871094584465027
+      },
+      "timestamp": "2026-02-23T15:24:06.415296"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_5878",
+        "num_nodos": 2,
+        "ftt_sum": 9.395616829395294,
+        "ftt_max": 5.433488368988037
+      },
+      "timestamp": "2026-02-23T15:24:06.436296"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_6273",
+        "num_nodos": 2,
+        "ftt_sum": 10.555951625108719,
+        "ftt_max": 5.775452524423599
+      },
+      "timestamp": "2026-02-23T15:24:06.458295"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_6382",
+        "num_nodos": 2,
+        "ftt_sum": 10.017073959112167,
+        "ftt_max": 5.790400385856628
+      },
+      "timestamp": "2026-02-23T15:24:06.479297"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_7166",
+        "num_nodos": 2,
+        "ftt_sum": 10.941578418016434,
+        "ftt_max": 6.5949318408966064
+      },
+      "timestamp": "2026-02-23T15:24:06.512296"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_7674",
+        "num_nodos": 2,
+        "ftt_sum": 10.285678565502167,
+        "ftt_max": 6.67128112912178
+      },
+      "timestamp": "2026-02-23T15:24:06.545295"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_6_9156",
+        "num_nodos": 2,
+        "ftt_sum": 10.473929673433304,
+        "ftt_max": 7.259631901979446
+      },
+      "timestamp": "2026-02-23T15:24:06.578296"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_1792",
+        "num_nodos": 5,
+        "ftt_sum": 6.318664163351059,
+        "ftt_max": 3.551530599594116
+      },
+      "timestamp": "2026-02-23T15:24:06.596300"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_1794",
+        "num_nodos": 3,
+        "ftt_sum": 6.308003216981888,
+        "ftt_max": 3.594587415456772
+      },
+      "timestamp": "2026-02-23T15:24:06.614293"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_s27_1_96",
+        "num_nodos": 3,
+        "ftt_sum": 2.9393136501312256,
+        "ftt_max": 1.7527853548526764
+      },
+      "timestamp": "2026-02-23T15:24:06.619294"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_2366",
+        "num_nodos": 5,
+        "ftt_sum": 8.137694358825684,
+        "ftt_max": 5.468548774719238
+      },
+      "timestamp": "2026-02-23T15:24:06.637296"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_6_9490",
+        "num_nodos": 2,
+        "ftt_sum": 12.694834917783737,
+        "ftt_max": 7.853689402341843
+      },
+      "timestamp": "2026-02-23T15:24:06.661293"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_8292",
+        "num_nodos": 2,
+        "ftt_sum": 10.475375354290009,
+        "ftt_max": 6.884586930274963
+      },
+      "timestamp": "2026-02-23T15:24:06.681294"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_1456",
+        "num_nodos": 3,
+        "ftt_sum": 6.748948335647583,
+        "ftt_max": 3.507020115852356
+      },
+      "timestamp": "2026-02-23T15:24:06.695297"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_4_3751",
+        "num_nodos": 2,
+        "ftt_sum": 8.308085143566132,
+        "ftt_max": 4.342306733131409
+      },
+      "timestamp": "2026-02-23T15:24:06.712296"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_4_5194",
+        "num_nodos": 4,
+        "ftt_sum": 9.981032520532608,
+        "ftt_max": 6.524648904800415
+      },
+      "timestamp": "2026-02-23T15:24:06.731293"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_6_8057",
+        "num_nodos": 2,
+        "ftt_sum": 9.176397860050201,
+        "ftt_max": 6.515250027179718
+      },
+      "timestamp": "2026-02-23T15:24:06.748296"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_4_5364",
+        "num_nodos": 3,
+        "ftt_sum": 8.530043542385101,
+        "ftt_max": 4.899862825870514
+      },
+      "timestamp": "2026-02-23T15:24:06.765294"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_7140",
+        "num_nodos": 4,
+        "ftt_sum": 6.976722091436386,
+        "ftt_max": 3.8492314517498016
+      },
+      "timestamp": "2026-02-23T15:24:06.779296"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_2304",
+        "num_nodos": 2,
+        "ftt_sum": 9.940886706113815,
+        "ftt_max": 5.986669570207596
+      },
+      "timestamp": "2026-02-23T15:24:06.799298"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_s40_1_145",
+        "num_nodos": 2,
+        "ftt_sum": 3.2899011969566345,
+        "ftt_max": 1.9976093769073486
+      },
+      "timestamp": "2026-02-23T15:24:06.805293"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_7369",
+        "num_nodos": 2,
+        "ftt_sum": 9.290802985429764,
+        "ftt_max": 6.439633905887604
+      },
+      "timestamp": "2026-02-23T15:24:06.823297"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_6509",
+        "num_nodos": 3,
+        "ftt_sum": 9.065440624952316,
+        "ftt_max": 5.910904705524445
+      },
+      "timestamp": "2026-02-23T15:24:06.840297"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_3111",
+        "num_nodos": 2,
+        "ftt_sum": 6.89262318611145,
+        "ftt_max": 3.900126814842224
+      },
+      "timestamp": "2026-02-23T15:24:06.854297"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_2_1341",
+        "num_nodos": 2,
+        "ftt_sum": 8.216022282838821,
+        "ftt_max": 5.347934365272522
+      },
+      "timestamp": "2026-02-23T15:24:06.871297"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_7895",
+        "num_nodos": 3,
+        "ftt_sum": 8.642439305782318,
+        "ftt_max": 6.6697105169296265
+      },
+      "timestamp": "2026-02-23T15:24:06.887301"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_4_5645",
+        "num_nodos": 2,
+        "ftt_sum": 9.843707501888275,
+        "ftt_max": 5.123924732208252
+      },
+      "timestamp": "2026-02-23T15:24:06.908296"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_3353",
+        "num_nodos": 2,
+        "ftt_sum": 6.566748321056366,
+        "ftt_max": 3.8283650279045105
+      },
+      "timestamp": "2026-02-23T15:24:06.920298"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_4_3768",
+        "num_nodos": 2,
+        "ftt_sum": 7.836975157260895,
+        "ftt_max": 4.249057978391647
+      },
+      "timestamp": "2026-02-23T15:24:06.933296"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_1427",
+        "num_nodos": 2,
+        "ftt_sum": 9.361496657133102,
+        "ftt_max": 6.250273287296295
+      },
+      "timestamp": "2026-02-23T15:24:06.950299"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_6185",
+        "num_nodos": 2,
+        "ftt_sum": 8.535196721553802,
+        "ftt_max": 5.822167724370956
+      },
+      "timestamp": "2026-02-23T15:24:06.966299"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_2_550",
+        "num_nodos": 3,
+        "ftt_sum": 7.917037516832352,
+        "ftt_max": 5.801599562168121
+      },
+      "timestamp": "2026-02-23T15:24:06.980299"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_2_1242",
+        "num_nodos": 5,
+        "ftt_sum": 2.9152737855911255,
+        "ftt_max": 1.7751842141151428
+      },
+      "timestamp": "2026-02-23T15:24:06.983300"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_6_8533",
+        "num_nodos": 2,
+        "ftt_sum": 11.578408628702164,
+        "ftt_max": 6.815289795398712
+      },
+      "timestamp": "2026-02-23T15:24:07.005299"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_6851",
+        "num_nodos": 2,
+        "ftt_sum": 10.862081617116928,
+        "ftt_max": 6.140705943107605
+      },
+      "timestamp": "2026-02-23T15:24:07.025300"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_s62_1_226",
+        "num_nodos": 3,
+        "ftt_sum": 3.254032850265503,
+        "ftt_max": 2.1235210597515106
+      },
+      "timestamp": "2026-02-23T15:24:07.029294"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_6863",
+        "num_nodos": 5,
+        "ftt_sum": 7.963124483823776,
+        "ftt_max": 4.767861574888229
+      },
+      "timestamp": "2026-02-23T15:24:07.043299"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_s63_1_229",
+        "num_nodos": 4,
+        "ftt_sum": 4.011466920375824,
+        "ftt_max": 2.868727296590805
+      },
+      "timestamp": "2026-02-23T15:24:07.052295"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_2_425",
+        "num_nodos": 2,
+        "ftt_sum": 3.358713299036026,
+        "ftt_max": 2.340965360403061
+      },
+      "timestamp": "2026-02-23T15:24:07.059292"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_7489",
+        "num_nodos": 2,
+        "ftt_sum": 12.649892017245293,
+        "ftt_max": 6.349646136164665
+      },
+      "timestamp": "2026-02-23T15:24:07.084292"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_6_9312",
+        "num_nodos": 3,
+        "ftt_sum": 10.763435915112495,
+        "ftt_max": 7.804628774523735
+      },
+      "timestamp": "2026-02-23T15:24:07.105292"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_1786",
+        "num_nodos": 6,
+        "ftt_sum": 6.221720933914185,
+        "ftt_max": 3.502850204706192
+      },
+      "timestamp": "2026-02-23T15:24:07.115292"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_s72_1_262",
+        "num_nodos": 3,
+        "ftt_sum": 3.3291701674461365,
+        "ftt_max": 2.14368137717247
+      },
+      "timestamp": "2026-02-23T15:24:07.121294"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_2027",
+        "num_nodos": 3,
+        "ftt_sum": 9.17702803015709,
+        "ftt_max": 5.6918163895606995
+      },
+      "timestamp": "2026-02-23T15:24:07.138291"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_6_8211",
+        "num_nodos": 2,
+        "ftt_sum": 9.34413805603981,
+        "ftt_max": 6.536520391702652
+      },
+      "timestamp": "2026-02-23T15:24:07.155293"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_s74_1_270",
+        "num_nodos": 2,
+        "ftt_sum": 3.0893349051475525,
+        "ftt_max": 1.9683252573013306
+      },
+      "timestamp": "2026-02-23T15:24:07.159299"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_1451",
+        "num_nodos": 2,
+        "ftt_sum": 7.898547321557999,
+        "ftt_max": 4.6853525042533875
+      },
+      "timestamp": "2026-02-23T15:24:07.173294"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_2727",
+        "num_nodos": 2,
+        "ftt_sum": 7.962207853794098,
+        "ftt_max": 4.415403425693512
+      },
+      "timestamp": "2026-02-23T15:24:07.188300"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_6720",
+        "num_nodos": 2,
+        "ftt_sum": 9.74501621723175,
+        "ftt_max": 5.953195124864578
+      },
+      "timestamp": "2026-02-23T15:24:07.206299"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_s77_1_278",
+        "num_nodos": 3,
+        "ftt_sum": 3.0691864490509033,
+        "ftt_max": 1.9563379883766174
+      },
+      "timestamp": "2026-02-23T15:24:07.210299"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_2_659",
+        "num_nodos": 2,
+        "ftt_sum": 8.026022791862488,
+        "ftt_max": 5.634972274303436
+      },
+      "timestamp": "2026-02-23T15:24:07.225300"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_6_8914",
+        "num_nodos": 3,
+        "ftt_sum": 9.16088792681694,
+        "ftt_max": 7.158757597208023
+      },
+      "timestamp": "2026-02-23T15:24:07.241299"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_2_1034",
+        "num_nodos": 2,
+        "ftt_sum": 5.062601655721664,
+        "ftt_max": 2.7519980669021606
+      },
+      "timestamp": "2026-02-23T15:24:07.249299"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_6_8428",
+        "num_nodos": 2,
+        "ftt_sum": 9.914927750825882,
+        "ftt_max": 6.823372423648834
+      },
+      "timestamp": "2026-02-23T15:24:07.267299"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_3534",
+        "num_nodos": 2,
+        "ftt_sum": 6.745014101266861,
+        "ftt_max": 3.7678244709968567
+      },
+      "timestamp": "2026-02-23T15:24:07.280299"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_4_5414",
+        "num_nodos": 2,
+        "ftt_sum": 9.847462266683578,
+        "ftt_max": 5.048732310533524
+      },
+      "timestamp": "2026-02-23T15:24:07.298299"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_6_7933",
+        "num_nodos": 2,
+        "ftt_sum": 10.993636220693588,
+        "ftt_max": 6.831587255001068
+      },
+      "timestamp": "2026-02-23T15:24:07.318299"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_5936",
+        "num_nodos": 2,
+        "ftt_sum": 7.691442400217056,
+        "ftt_max": 5.574293524026871
+      },
+      "timestamp": "2026-02-23T15:24:07.331299"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_5_6034",
+        "num_nodos": 2,
+        "ftt_sum": 10.834462732076645,
+        "ftt_max": 5.437003672122955
+      },
+      "timestamp": "2026-02-23T15:24:07.352296"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_2_1387",
+        "num_nodos": 2,
+        "ftt_sum": 5.292682722210884,
+        "ftt_max": 2.798152521252632
+      },
+      "timestamp": "2026-02-23T15:24:07.361299"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_3_3565",
+        "num_nodos": 2,
+        "ftt_sum": 6.267606094479561,
+        "ftt_max": 4.119711771607399
+      },
+      "timestamp": "2026-02-23T15:24:07.372299"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_4_3693",
+        "num_nodos": 2,
+        "ftt_sum": 5.845981746912003,
+        "ftt_max": 4.125774711370468
+      },
+      "timestamp": "2026-02-23T15:24:07.381299"
+    },
+    {
+      "evento": "hub_encontrado",
+      "datos": {
+        "clase_id": "AutisticCognition_2_726",
+        "num_nodos": 2,
+        "ftt_sum": 4.929543137550354,
+        "ftt_max": 2.5006463825702667
+      },
+      "timestamp": "2026-02-23T15:24:07.390299"
+    },
+    {
+      "evento": "fase_inicio",
+      "datos": {
+        "numero": 5,
+        "fase": "Solution generation"
+      },
+      "timestamp": "2026-02-23T15:24:07.438298"
+    }
+  ]
+}

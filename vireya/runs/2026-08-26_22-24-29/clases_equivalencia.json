@@ -1,0 +1,1949 @@
+{
+  "version": "10.2",
+  "classes": {
+    "Highland Republic of Vireya_3_181": {
+      "members": [
+        "Agrarian Federation of Tessara_2_10",
+        "Agrarian Federation of Tessara_2_14",
+        "Agrarian Federation of Tessara_2_16",
+        "Agrarian Federation of Tessara_2_19",
+        "Agrarian Federation of Tessara_2_36",
+        "Agrarian Federation of Tessara_2_42",
+        "Agrarian Federation of Tessara_2_43",
+        "Agrarian Federation of Tessara_3_102",
+        "Agrarian Federation of Tessara_3_104",
+        "Agrarian Federation of Tessara_3_108",
+        "Agrarian Federation of Tessara_3_112",
+        "Agrarian Federation of Tessara_3_113",
+        "Agrarian Federation of Tessara_3_120",
+        "Agrarian Federation of Tessara_3_124",
+        "Agrarian Federation of Tessara_3_135",
+        "Agrarian Federation of Tessara_3_137",
+        "Agrarian Federation of Tessara_3_146",
+        "Agrarian Federation of Tessara_3_149",
+        "Agrarian Federation of Tessara_3_151",
+        "Agrarian Federation of Tessara_3_156",
+        "Agrarian Federation of Tessara_3_159",
+        "Agrarian Federation of Tessara_3_164",
+        "Agrarian Federation of Tessara_3_188",
+        "Agrarian Federation of Tessara_3_189",
+        "Agrarian Federation of Tessara_3_190",
+        "Agrarian Federation of Tessara_3_191",
+        "Agrarian Federation of Tessara_3_193",
+        "Agrarian Federation of Tessara_3_196",
+        "Agrarian Federation of Tessara_3_197",
+        "Agrarian Federation of Tessara_3_203",
+        "Agrarian Federation of Tessara_3_204",
+        "Agrarian Federation of Tessara_3_207",
+        "Agrarian Federation of Tessara_3_214",
+        "Agrarian Federation of Tessara_3_219",
+        "Agrarian Federation of Tessara_3_46",
+        "Agrarian Federation of Tessara_3_52",
+        "Agrarian Federation of Tessara_3_53",
+        "Agrarian Federation of Tessara_3_54",
+        "Agrarian Federation of Tessara_3_65",
+        "Agrarian Federation of Tessara_3_79",
+        "Agrarian Federation of Tessara_3_80",
+        "Agrarian Federation of Tessara_3_82",
+        "Agrarian Federation of Tessara_4_221",
+        "Agrarian Federation of Tessara_4_224",
+        "Agrarian Federation of Tessara_4_227",
+        "Agrarian Federation of Tessara_4_231",
+        "Agrarian Federation of Tessara_4_235",
+        "Agrarian Federation of Tessara_4_240",
+        "Agrarian Federation of Tessara_4_256",
+        "Agrarian Federation of Tessara_4_262",
+        "Agrarian Federation of Tessara_4_263",
+        "Agrarian Federation of Tessara_4_284",
+        "Agrarian Federation of Tessara_4_292",
+        "Agrarian Federation of Tessara_4_313",
+        "Agrarian Federation of Tessara_4_333",
+        "Agrarian Federation of Tessara_4_337",
+        "Agrarian Federation of Tessara_4_347",
+        "Agrarian Federation of Tessara_4_370",
+        "Agrarian Federation of Tessara_4_372",
+        "Agrarian Federation of Tessara_4_378",
+        "Agrarian Federation of Tessara_4_387",
+        "Agrarian Federation of Tessara_4_389",
+        "Agrarian Federation of Tessara_4_393",
+        "Agrarian Federation of Tessara_4_394",
+        "Agrarian Federation of Tessara_4_396",
+        "Agrarian Federation of Tessara_4_403",
+        "Agrarian Federation of Tessara_4_413",
+        "Agrarian Federation of Tessara_4_442",
+        "Agrarian Federation of Tessara_4_454",
+        "Agrarian Federation of Tessara_4_459",
+        "Agrarian Federation of Tessara_4_483",
+        "Agrarian Federation of Tessara_4_485",
+        "Agrarian Federation of Tessara_4_486",
+        "Agrarian Federation of Tessara_4_497",
+        "Agrarian Federation of Tessara_4_498",
+        "Agrarian Federation of Tessara_4_510",
+        "Agrarian Federation of Tessara_4_512",
+        "Agrarian Federation of Tessara_4_524",
+        "Agrarian Federation of Tessara_4_526",
+        "Agrarian Federation of Tessara_4_529",
+        "Coastal State of Ondrel_1_1",
+        "Coastal State of Ondrel_1_3",
+        "Coastal State of Ondrel_2_10",
+        "Coastal State of Ondrel_2_11",
+        "Coastal State of Ondrel_2_17",
+        "Coastal State of Ondrel_2_24",
+        "Coastal State of Ondrel_2_27",
+        "Coastal State of Ondrel_2_9",
+        "Coastal State of Ondrel_3_103",
+        "Coastal State of Ondrel_3_104",
+        "Coastal State of Ondrel_3_111",
+        "Coastal State of Ondrel_3_113",
+        "Coastal State of Ondrel_3_116",
+        "Coastal State of Ondrel_3_120",
+        "Coastal State of Ondrel_3_122",
+        "Coastal State of Ondrel_3_31",
+        "Coastal State of Ondrel_3_36",
+        "Coastal State of Ondrel_3_41",
+        "Coastal State of Ondrel_3_42",
+        "Coastal State of Ondrel_3_43",
+        "Coastal State of Ondrel_3_48",
+        "Coastal State of Ondrel_3_49",
+        "Coastal State of Ondrel_3_60",
+        "Coastal State of Ondrel_3_65",
+        "Coastal State of Ondrel_3_73",
+        "Coastal State of Ondrel_3_75",
+        "Coastal State of Ondrel_3_78",
+        "Coastal State of Ondrel_3_83",
+        "Coastal State of Ondrel_3_86",
+        "Coastal State of Ondrel_3_91",
+        "Coastal State of Ondrel_3_95",
+        "Coastal State of Ondrel_4_123",
+        "Coastal State of Ondrel_4_133",
+        "Coastal State of Ondrel_4_140",
+        "Coastal State of Ondrel_4_146",
+        "Coastal State of Ondrel_4_149",
+        "Coastal State of Ondrel_4_150",
+        "Coastal State of Ondrel_4_160",
+        "Coastal State of Ondrel_4_161",
+        "Coastal State of Ondrel_4_162",
+        "Coastal State of Ondrel_4_170",
+        "Coastal State of Ondrel_4_180",
+        "Coastal State of Ondrel_4_182",
+        "Coastal State of Ondrel_4_183",
+        "Coastal State of Ondrel_4_195",
+        "Coastal State of Ondrel_4_196",
+        "Coastal State of Ondrel_4_199",
+        "Coastal State of Ondrel_4_202",
+        "Coastal State of Ondrel_4_209",
+        "Coastal State of Ondrel_4_215",
+        "Coastal State of Ondrel_4_216",
+        "Coastal State of Ondrel_4_221",
+        "Coastal State of Ondrel_4_227",
+        "Coastal State of Ondrel_4_232",
+        "Coastal State of Ondrel_4_246",
+        "Coastal State of Ondrel_4_247",
+        "Coastal State of Ondrel_4_249",
+        "Coastal State of Ondrel_4_250",
+        "Coastal State of Ondrel_4_251",
+        "Coastal State of Ondrel_4_254",
+        "Coastal State of Ondrel_4_269",
+        "Coastal State of Ondrel_4_274",
+        "Coastal State of Ondrel_4_282",
+        "Coastal State of Ondrel_4_285",
+        "Coastal State of Ondrel_4_291",
+        "Coastal State of Ondrel_4_292",
+        "Coastal State of Ondrel_4_294",
+        "Coastal State of Ondrel_4_300",
+        "Coastal State of Ondrel_4_314",
+        "Coastal State of Ondrel_4_329",
+        "Coastal State of Ondrel_4_335",
+        "Coastal State of Ondrel_4_336",
+        "Coastal State of Ondrel_4_337",
+        "Coastal State of Ondrel_4_339",
+        "Coastal State of Ondrel_4_349",
+        "Coastal State of Ondrel_4_354",
+        "Coastal State of Ondrel_4_358",
+        "Coastal State of Ondrel_4_362",
+        "Coastal State of Ondrel_4_366",
+        "Coastal State of Ondrel_4_367",
+        "Coastal State of Ondrel_4_373",
+        "Coastal State of Ondrel_4_374",
+        "Coastal State of Ondrel_4_375",
+        "Coastal State of Ondrel_4_378",
+        "Coastal State of Ondrel_4_383",
+        "Coastal State of Ondrel_4_388",
+        "Coastal State of Ondrel_4_397",
+        "Coastal State of Ondrel_4_399",
+        "Coastal State of Ondrel_4_405",
+        "Coastal State of Ondrel_4_410",
+        "Coastal State of Ondrel_4_412",
+        "Coastal State of Ondrel_4_414",
+        "Coastal State of Ondrel_4_416",
+        "Coastal State of Ondrel_4_418",
+        "Coastal State of Ondrel_4_421",
+        "Coastal State of Ondrel_4_423",
+        "Coastal State of Ondrel_4_430",
+        "Coastal State of Ondrel_4_432",
+        "Coastal State of Ondrel_4_433",
+        "Coastal State of Ondrel_4_437",
+        "Coastal State of Ondrel_4_442",
+        "Coastal State of Ondrel_4_459",
+        "Coastal State of Ondrel_4_461",
+        "Coastal State of Ondrel_4_467",
+        "Coastal State of Ondrel_4_471",
+        "Coastal State of Ondrel_4_489",
+        "Coastal State of Ondrel_4_491",
+        "Coastal State of Ondrel_4_512",
+        "Coastal State of Ondrel_4_515",
+        "Coastal State of Ondrel_5_505",
+        "Coastal State of Ondrel_5_522",
+        "Highland Republic of Vireya_2_13",
+        "Highland Republic of Vireya_2_15",
+        "Highland Republic of Vireya_2_16",
+        "Highland Republic of Vireya_2_17",
+        "Highland Republic of Vireya_2_20",
+        "Highland Republic of Vireya_2_23",
+        "Highland Republic of Vireya_2_30",
+        "Highland Republic of Vireya_2_36",
+        "Highland Republic of Vireya_2_37",
+        "Highland Republic of Vireya_2_39",
+        "Highland Republic of Vireya_2_40",
+        "Highland Republic of Vireya_2_41",
+        "Highland Republic of Vireya_2_9",
+        "Highland Republic of Vireya_3_106",
+        "Highland Republic of Vireya_3_113",
+        "Highland Republic of Vireya_3_114",
+        "Highland Republic of Vireya_3_117",
+        "Highland Republic of Vireya_3_118",
+        "Highland Republic of Vireya_3_120",
+        "Highland Republic of Vireya_3_123",
+        "Highland Republic of Vireya_3_132",
+        "Highland Republic of Vireya_3_144",
+        "Highland Republic of Vireya_3_147",
+        "Highland Republic of Vireya_3_148",
+        "Highland Republic of Vireya_3_149",
+        "Highland Republic of Vireya_3_153",
+        "Highland Republic of Vireya_3_165",
+        "Highland Republic of Vireya_3_178",
+        "Highland Republic of Vireya_3_179",
+        "Highland Republic of Vireya_3_181",
+        "Highland Republic of Vireya_3_182",
+        "Highland Republic of Vireya_3_183",
+        "Highland Republic of Vireya_3_186",
+        "Highland Republic of Vireya_3_189",
+        "Highland Republic of Vireya_3_190",
+        "Highland Republic of Vireya_3_191",
+        "Highland Republic of Vireya_3_192",
+        "Highland Republic of Vireya_3_54",
+        "Highland Republic of Vireya_3_57",
+        "Highland Republic of Vireya_3_64",
+        "Highland Republic of Vireya_3_67",
+        "Highland Republic of Vireya_3_68",
+        "Highland Republic of Vireya_3_69",
+        "Highland Republic of Vireya_3_70",
+        "Highland Republic of Vireya_3_71",
+        "Highland Republic of Vireya_3_89",
+        "Highland Republic of Vireya_3_94",
+        "Highland Republic of Vireya_4_195",
+        "Highland Republic of Vireya_4_205",
+        "Highland Republic of Vireya_4_206",
+        "Highland Republic of Vireya_4_212",
+        "Highland Republic of Vireya_4_216",
+        "Highland Republic of Vireya_4_220",
+        "Highland Republic of Vireya_4_221",
+        "Highland Republic of Vireya_4_231",
+        "Highland Republic of Vireya_4_233",
+        "Highland Republic of Vireya_4_235",
+        "Highland Republic of Vireya_4_236",
+        "Highland Republic of Vireya_4_243",
+        "Highland Republic of Vireya_4_245",
+        "Highland Republic of Vireya_4_250",
+        "Highland Republic of Vireya_4_262",
+        "Highland Republic of Vireya_4_265",
+        "Highland Republic of Vireya_4_282",
+        "Highland Republic of Vireya_4_283",
+        "Highland Republic of Vireya_4_285",
+        "Highland Republic of Vireya_4_290",
+        "Highland Republic of Vireya_4_293",
+        "Highland Republic of Vireya_4_299",
+        "Highland Republic of Vireya_4_300",
+        "Highland Republic of Vireya_4_304",
+        "Highland Republic of Vireya_4_308",
+        "Highland Republic of Vireya_4_316",
+        "Highland Republic of Vireya_4_327",
+        "Highland Republic of Vireya_4_336",
+        "Highland Republic of Vireya_4_338",
+        "Highland Republic of Vireya_4_341",
+        "Highland Republic of Vireya_4_344",
+        "Highland Republic of Vireya_4_347",
+        "Highland Republic of Vireya_4_349",
+        "Highland Republic of Vireya_4_351",
+        "Highland Republic of Vireya_4_357",
+        "Highland Republic of Vireya_4_362",
+        "Highland Republic of Vireya_4_365",
+        "Highland Republic of Vireya_4_367",
+        "Highland Republic of Vireya_4_380",
+        "Highland Republic of Vireya_4_381",
+        "Highland Republic of Vireya_4_382",
+        "Highland Republic of Vireya_4_383",
+        "Highland Republic of Vireya_4_390",
+        "Highland Republic of Vireya_4_394",
+        "Highland Republic of Vireya_4_405",
+        "Highland Republic of Vireya_4_415",
+        "Highland Republic of Vireya_4_419",
+        "Highland Republic of Vireya_4_421",
+        "Highland Republic of Vireya_4_432",
+        "Highland Republic of Vireya_4_433",
+        "Highland Republic of Vireya_4_438",
+        "Highland Republic of Vireya_4_440",
+        "Highland Republic of Vireya_4_446",
+        "Highland Republic of Vireya_4_447",
+        "Highland Republic of Vireya_4_455",
+        "Highland Republic of Vireya_4_458",
+        "Highland Republic of Vireya_4_471",
+        "Highland Republic of Vireya_4_472",
+        "Highland Republic of Vireya_4_488",
+        "Highland Republic of Vireya_4_491",
+        "Highland Republic of Vireya_4_493",
+        "Highland Republic of Vireya_4_495",
+        "Highland Republic of Vireya_4_498",
+        "Highland Republic of Vireya_4_503",
+        "Highland Republic of Vireya_4_507",
+        "Highland Republic of Vireya_4_509",
+        "Highland Republic of Vireya_4_511",
+        "Highland Republic of Vireya_4_515",
+        "Highland Republic of Vireya_4_517",
+        "Highland Republic of Vireya_4_532"
+      ],
+      "size": 308,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 3,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_4_256",
+        "Coastal State of Ondrel_4_397",
+        "Highland Republic of Vireya_3_67"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_4_256",
+          "Coastal State of Ondrel_4_397",
+          "Highland Republic of Vireya_3_67"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_2_36",
+        "Agrarian Federation of Tessara_3_52",
+        "Agrarian Federation of Tessara_3_53",
+        "Agrarian Federation of Tessara_3_82",
+        "Agrarian Federation of Tessara_4_256",
+        "Agrarian Federation of Tessara_4_512",
+        "Coastal State of Ondrel_3_75",
+        "Coastal State of Ondrel_3_95",
+        "Coastal State of Ondrel_4_133",
+        "Coastal State of Ondrel_4_161",
+        "Coastal State of Ondrel_4_375",
+        "Coastal State of Ondrel_4_397",
+        "Coastal State of Ondrel_4_461",
+        "Coastal State of Ondrel_4_467",
+        "Coastal State of Ondrel_4_491",
+        "Highland Republic of Vireya_2_17",
+        "Highland Republic of Vireya_2_39",
+        "Highland Republic of Vireya_2_40",
+        "Highland Republic of Vireya_2_41",
+        "Highland Republic of Vireya_3_147",
+        "Highland Republic of Vireya_3_179",
+        "Highland Republic of Vireya_3_182",
+        "Highland Republic of Vireya_3_183",
+        "Highland Republic of Vireya_3_186",
+        "Highland Republic of Vireya_3_189",
+        "Highland Republic of Vireya_3_191",
+        "Highland Republic of Vireya_3_192",
+        "Highland Republic of Vireya_3_54",
+        "Highland Republic of Vireya_3_67",
+        "Highland Republic of Vireya_3_89",
+        "Highland Republic of Vireya_3_94",
+        "Highland Republic of Vireya_4_206",
+        "Highland Republic of Vireya_4_212",
+        "Highland Republic of Vireya_4_221",
+        "Highland Republic of Vireya_4_236",
+        "Highland Republic of Vireya_4_290",
+        "Highland Republic of Vireya_4_304",
+        "Highland Republic of Vireya_4_341",
+        "Highland Republic of Vireya_4_344",
+        "Highland Republic of Vireya_4_351",
+        "Highland Republic of Vireya_4_365",
+        "Highland Republic of Vireya_4_367",
+        "Highland Republic of Vireya_4_381",
+        "Highland Republic of Vireya_4_383",
+        "Highland Republic of Vireya_4_405",
+        "Highland Republic of Vireya_4_415",
+        "Highland Republic of Vireya_4_433",
+        "Highland Republic of Vireya_4_440",
+        "Highland Republic of Vireya_4_498"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.0137,
+        "ipvr_lax_coverage": 0.1591,
+        "n_cross_pairs": 31227,
+        "n_direct_cross_pairs": 429,
+        "n_lax_core": 49,
+        "n_class": 308
+      }
+    },
+    "Highland Republic of Vireya_2_19": {
+      "members": [
+        "Agrarian Federation of Tessara_3_168",
+        "Coastal State of Ondrel_4_441",
+        "Highland Republic of Vireya_2_19",
+        "Highland Republic of Vireya_4_252",
+        "Highland Republic of Vireya_4_505"
+      ],
+      "size": 5,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 3,
+      "validated_core_strict": [],
+      "strict_cliques": [],
+      "validated_core_lax": [
+        "Highland Republic of Vireya_2_19"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.5714,
+        "ipvr_lax_coverage": 0.2,
+        "n_cross_pairs": 7,
+        "n_direct_cross_pairs": 4,
+        "n_lax_core": 1,
+        "n_class": 5
+      }
+    },
+    "Highland Republic of Vireya_2_21": {
+      "members": [
+        "Agrarian Federation of Tessara_3_47",
+        "Highland Republic of Vireya_2_21",
+        "Highland Republic of Vireya_3_141"
+      ],
+      "size": 3,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_3_47",
+        "Highland Republic of Vireya_2_21",
+        "Highland Republic of Vireya_3_141"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_3_47",
+          "Highland Republic of Vireya_3_141"
+        ],
+        [
+          "Agrarian Federation of Tessara_3_47",
+          "Highland Republic of Vireya_2_21"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_3_47",
+        "Highland Republic of Vireya_2_21",
+        "Highland Republic of Vireya_3_141"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 2,
+        "n_direct_cross_pairs": 2,
+        "n_lax_core": 3,
+        "n_class": 3
+      }
+    },
+    "Highland Republic of Vireya_2_33": {
+      "members": [
+        "Agrarian Federation of Tessara_4_419",
+        "Highland Republic of Vireya_2_33"
+      ],
+      "size": 2,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_4_419",
+        "Highland Republic of Vireya_2_33"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_4_419",
+          "Highland Republic of Vireya_2_33"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_4_419",
+        "Highland Republic of Vireya_2_33"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_3_82": {
+      "members": [
+        "Agrarian Federation of Tessara_4_415",
+        "Highland Republic of Vireya_3_82"
+      ],
+      "size": 2,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_4_415",
+        "Highland Republic of Vireya_3_82"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_4_415",
+          "Highland Republic of Vireya_3_82"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_4_415",
+        "Highland Republic of Vireya_3_82"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_3_101": {
+      "members": [
+        "Agrarian Federation of Tessara_4_279",
+        "Highland Republic of Vireya_3_101"
+      ],
+      "size": 2,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_4_279",
+        "Highland Republic of Vireya_3_101"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_4_279",
+          "Highland Republic of Vireya_3_101"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_4_279",
+        "Highland Republic of Vireya_3_101"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_3_109": {
+      "members": [
+        "Agrarian Federation of Tessara_4_466",
+        "Highland Republic of Vireya_3_109"
+      ],
+      "size": 2,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_4_466",
+        "Highland Republic of Vireya_3_109"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_4_466",
+          "Highland Republic of Vireya_3_109"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_4_466",
+        "Highland Republic of Vireya_3_109"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_3_125": {
+      "members": [
+        "Agrarian Federation of Tessara_4_349",
+        "Coastal State of Ondrel_3_98",
+        "Highland Republic of Vireya_3_125"
+      ],
+      "size": 3,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 3,
+      "validated_core_strict": [],
+      "strict_cliques": [],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_4_349"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.6667,
+        "ipvr_lax_coverage": 0.3333,
+        "n_cross_pairs": 3,
+        "n_direct_cross_pairs": 2,
+        "n_lax_core": 1,
+        "n_class": 3
+      }
+    },
+    "Highland Republic of Vireya_3_129": {
+      "members": [
+        "Agrarian Federation of Tessara_4_421",
+        "Coastal State of Ondrel_4_295",
+        "Highland Republic of Vireya_3_129"
+      ],
+      "size": 3,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 3,
+      "validated_core_strict": [],
+      "strict_cliques": [],
+      "validated_core_lax": [
+        "Highland Republic of Vireya_3_129"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.6667,
+        "ipvr_lax_coverage": 0.3333,
+        "n_cross_pairs": 3,
+        "n_direct_cross_pairs": 2,
+        "n_lax_core": 1,
+        "n_class": 3
+      }
+    },
+    "Highland Republic of Vireya_4_496": {
+      "members": [
+        "Agrarian Federation of Tessara_3_182",
+        "Agrarian Federation of Tessara_4_305",
+        "Agrarian Federation of Tessara_4_373",
+        "Highland Republic of Vireya_3_150",
+        "Highland Republic of Vireya_4_496"
+      ],
+      "size": 5,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_3_182",
+        "Agrarian Federation of Tessara_4_305",
+        "Agrarian Federation of Tessara_4_373",
+        "Highland Republic of Vireya_3_150",
+        "Highland Republic of Vireya_4_496"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_3_182",
+          "Highland Republic of Vireya_4_496"
+        ],
+        [
+          "Agrarian Federation of Tessara_4_305",
+          "Highland Republic of Vireya_4_496"
+        ],
+        [
+          "Agrarian Federation of Tessara_4_373",
+          "Highland Republic of Vireya_4_496"
+        ],
+        [
+          "Agrarian Federation of Tessara_4_373",
+          "Highland Republic of Vireya_3_150"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_3_182",
+        "Agrarian Federation of Tessara_4_305",
+        "Agrarian Federation of Tessara_4_373",
+        "Highland Republic of Vireya_3_150",
+        "Highland Republic of Vireya_4_496"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.6667,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 6,
+        "n_direct_cross_pairs": 4,
+        "n_lax_core": 5,
+        "n_class": 5
+      }
+    },
+    "Highland Republic of Vireya_3_161": {
+      "members": [
+        "Agrarian Federation of Tessara_2_15",
+        "Agrarian Federation of Tessara_3_48",
+        "Agrarian Federation of Tessara_4_449",
+        "Highland Republic of Vireya_3_161",
+        "Highland Republic of Vireya_4_276",
+        "Highland Republic of Vireya_4_462"
+      ],
+      "size": 6,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_2_15",
+        "Agrarian Federation of Tessara_3_48",
+        "Agrarian Federation of Tessara_4_449",
+        "Highland Republic of Vireya_3_161",
+        "Highland Republic of Vireya_4_276",
+        "Highland Republic of Vireya_4_462"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_4_449",
+          "Highland Republic of Vireya_4_462"
+        ],
+        [
+          "Agrarian Federation of Tessara_4_449",
+          "Highland Republic of Vireya_3_161"
+        ],
+        [
+          "Agrarian Federation of Tessara_2_15",
+          "Highland Republic of Vireya_4_276"
+        ],
+        [
+          "Agrarian Federation of Tessara_2_15",
+          "Highland Republic of Vireya_3_161"
+        ],
+        [
+          "Agrarian Federation of Tessara_3_48",
+          "Highland Republic of Vireya_3_161"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_2_15",
+        "Agrarian Federation of Tessara_3_48",
+        "Agrarian Federation of Tessara_4_449",
+        "Highland Republic of Vireya_3_161",
+        "Highland Republic of Vireya_4_276",
+        "Highland Republic of Vireya_4_462"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.5556,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 9,
+        "n_direct_cross_pairs": 5,
+        "n_lax_core": 6,
+        "n_class": 6
+      }
+    },
+    "Highland Republic of Vireya_4_219": {
+      "members": [
+        "Agrarian Federation of Tessara_2_28",
+        "Highland Republic of Vireya_4_219",
+        "Highland Republic of Vireya_4_325"
+      ],
+      "size": 3,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_2_28",
+        "Highland Republic of Vireya_4_219",
+        "Highland Republic of Vireya_4_325"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_2_28",
+          "Highland Republic of Vireya_4_219"
+        ],
+        [
+          "Agrarian Federation of Tessara_2_28",
+          "Highland Republic of Vireya_4_325"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_2_28",
+        "Highland Republic of Vireya_4_219",
+        "Highland Republic of Vireya_4_325"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 2,
+        "n_direct_cross_pairs": 2,
+        "n_lax_core": 3,
+        "n_class": 3
+      }
+    },
+    "Highland Republic of Vireya_4_230": {
+      "members": [
+        "Agrarian Federation of Tessara_4_450",
+        "Highland Republic of Vireya_4_230"
+      ],
+      "size": 2,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_4_450",
+        "Highland Republic of Vireya_4_230"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_4_450",
+          "Highland Republic of Vireya_4_230"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_4_450",
+        "Highland Republic of Vireya_4_230"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_4_247": {
+      "members": [
+        "Agrarian Federation of Tessara_4_369",
+        "Highland Republic of Vireya_4_247"
+      ],
+      "size": 2,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_4_369",
+        "Highland Republic of Vireya_4_247"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_4_369",
+          "Highland Republic of Vireya_4_247"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_4_369",
+        "Highland Republic of Vireya_4_247"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_4_264": {
+      "members": [
+        "Agrarian Federation of Tessara_3_170",
+        "Highland Republic of Vireya_4_264"
+      ],
+      "size": 2,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_3_170",
+        "Highland Republic of Vireya_4_264"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_3_170",
+          "Highland Republic of Vireya_4_264"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_3_170",
+        "Highland Republic of Vireya_4_264"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_4_323": {
+      "members": [
+        "Agrarian Federation of Tessara_4_431",
+        "Highland Republic of Vireya_4_323"
+      ],
+      "size": 2,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_4_431",
+        "Highland Republic of Vireya_4_323"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_4_431",
+          "Highland Republic of Vireya_4_323"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_4_431",
+        "Highland Republic of Vireya_4_323"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_4_343": {
+      "members": [
+        "Agrarian Federation of Tessara_3_105",
+        "Highland Republic of Vireya_4_343"
+      ],
+      "size": 2,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_3_105",
+        "Highland Republic of Vireya_4_343"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_3_105",
+          "Highland Republic of Vireya_4_343"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_3_105",
+        "Highland Republic of Vireya_4_343"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_4_358": {
+      "members": [
+        "Agrarian Federation of Tessara_3_180",
+        "Agrarian Federation of Tessara_4_462",
+        "Highland Republic of Vireya_4_358"
+      ],
+      "size": 3,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_3_180",
+        "Agrarian Federation of Tessara_4_462",
+        "Highland Republic of Vireya_4_358"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_4_462",
+          "Highland Republic of Vireya_4_358"
+        ],
+        [
+          "Agrarian Federation of Tessara_3_180",
+          "Highland Republic of Vireya_4_358"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_3_180",
+        "Agrarian Federation of Tessara_4_462",
+        "Highland Republic of Vireya_4_358"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 2,
+        "n_direct_cross_pairs": 2,
+        "n_lax_core": 3,
+        "n_class": 3
+      }
+    },
+    "Highland Republic of Vireya_4_429": {
+      "members": [
+        "Agrarian Federation of Tessara_3_77",
+        "Coastal State of Ondrel_4_203",
+        "Highland Republic of Vireya_4_429"
+      ],
+      "size": 3,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 3,
+      "validated_core_strict": [],
+      "strict_cliques": [],
+      "validated_core_lax": [
+        "Highland Republic of Vireya_4_429"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.6667,
+        "ipvr_lax_coverage": 0.3333,
+        "n_cross_pairs": 3,
+        "n_direct_cross_pairs": 2,
+        "n_lax_core": 1,
+        "n_class": 3
+      }
+    },
+    "Highland Republic of Vireya_4_460": {
+      "members": [
+        "Agrarian Federation of Tessara_3_121",
+        "Agrarian Federation of Tessara_4_523",
+        "Highland Republic of Vireya_4_460"
+      ],
+      "size": 3,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_3_121",
+        "Agrarian Federation of Tessara_4_523",
+        "Highland Republic of Vireya_4_460"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_3_121",
+          "Highland Republic of Vireya_4_460"
+        ],
+        [
+          "Agrarian Federation of Tessara_4_523",
+          "Highland Republic of Vireya_4_460"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_3_121",
+        "Agrarian Federation of Tessara_4_523",
+        "Highland Republic of Vireya_4_460"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 2,
+        "n_direct_cross_pairs": 2,
+        "n_lax_core": 3,
+        "n_class": 3
+      }
+    },
+    "Highland Republic of Vireya_4_500": {
+      "members": [
+        "Agrarian Federation of Tessara_4_464",
+        "Coastal State of Ondrel_4_226",
+        "Highland Republic of Vireya_4_500"
+      ],
+      "size": 3,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 3,
+      "validated_core_strict": [],
+      "strict_cliques": [],
+      "validated_core_lax": [
+        "Highland Republic of Vireya_4_500"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.6667,
+        "ipvr_lax_coverage": 0.3333,
+        "n_cross_pairs": 3,
+        "n_direct_cross_pairs": 2,
+        "n_lax_core": 1,
+        "n_class": 3
+      }
+    },
+    "Highland Republic of Vireya_4_506": {
+      "members": [
+        "Agrarian Federation of Tessara_3_176",
+        "Highland Republic of Vireya_4_506"
+      ],
+      "size": 2,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_3_176",
+        "Highland Republic of Vireya_4_506"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_3_176",
+          "Highland Republic of Vireya_4_506"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_3_176",
+        "Highland Republic of Vireya_4_506"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_4_510": {
+      "members": [
+        "Agrarian Federation of Tessara_3_89",
+        "Coastal State of Ondrel_4_309",
+        "Highland Republic of Vireya_4_510"
+      ],
+      "size": 3,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 3,
+      "validated_core_strict": [],
+      "strict_cliques": [],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_3_89"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.6667,
+        "ipvr_lax_coverage": 0.3333,
+        "n_cross_pairs": 3,
+        "n_direct_cross_pairs": 2,
+        "n_lax_core": 1,
+        "n_class": 3
+      }
+    },
+    "Highland Republic of Vireya_4_528": {
+      "members": [
+        "Agrarian Federation of Tessara_3_114",
+        "Highland Republic of Vireya_4_528"
+      ],
+      "size": 2,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_3_114",
+        "Highland Republic of Vireya_4_528"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_3_114",
+          "Highland Republic of Vireya_4_528"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_3_114",
+        "Highland Republic of Vireya_4_528"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_4_531": {
+      "members": [
+        "Agrarian Federation of Tessara_1_7",
+        "Highland Republic of Vireya_4_531"
+      ],
+      "size": 2,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_1_7",
+        "Highland Republic of Vireya_4_531"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_1_7",
+          "Highland Republic of Vireya_4_531"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_1_7",
+        "Highland Republic of Vireya_4_531"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_3_128": {
+      "members": [
+        "Coastal State of Ondrel_3_89",
+        "Highland Republic of Vireya_3_128"
+      ],
+      "size": 2,
+      "actors": [
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Coastal State of Ondrel_3_89",
+        "Highland Republic of Vireya_3_128"
+      ],
+      "strict_cliques": [
+        [
+          "Coastal State of Ondrel_3_89",
+          "Highland Republic of Vireya_3_128"
+        ]
+      ],
+      "validated_core_lax": [
+        "Coastal State of Ondrel_3_89",
+        "Highland Republic of Vireya_3_128"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_4_259": {
+      "members": [
+        "Coastal State of Ondrel_3_35",
+        "Coastal State of Ondrel_3_82",
+        "Coastal State of Ondrel_4_407",
+        "Coastal State of Ondrel_5_504",
+        "Highland Republic of Vireya_3_135",
+        "Highland Republic of Vireya_4_259",
+        "Highland Republic of Vireya_4_497"
+      ],
+      "size": 7,
+      "actors": [
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Coastal State of Ondrel_3_35",
+        "Coastal State of Ondrel_3_82",
+        "Coastal State of Ondrel_4_407",
+        "Coastal State of Ondrel_5_504",
+        "Highland Republic of Vireya_3_135",
+        "Highland Republic of Vireya_4_259",
+        "Highland Republic of Vireya_4_497"
+      ],
+      "strict_cliques": [
+        [
+          "Coastal State of Ondrel_4_407",
+          "Highland Republic of Vireya_4_259"
+        ],
+        [
+          "Coastal State of Ondrel_5_504",
+          "Highland Republic of Vireya_3_135"
+        ],
+        [
+          "Coastal State of Ondrel_5_504",
+          "Highland Republic of Vireya_4_497"
+        ],
+        [
+          "Coastal State of Ondrel_5_504",
+          "Highland Republic of Vireya_4_259"
+        ],
+        [
+          "Coastal State of Ondrel_3_35",
+          "Highland Republic of Vireya_4_497"
+        ],
+        [
+          "Coastal State of Ondrel_3_82",
+          "Highland Republic of Vireya_4_259"
+        ]
+      ],
+      "validated_core_lax": [
+        "Coastal State of Ondrel_3_35",
+        "Coastal State of Ondrel_3_82",
+        "Coastal State of Ondrel_4_407",
+        "Coastal State of Ondrel_5_504",
+        "Highland Republic of Vireya_3_135",
+        "Highland Republic of Vireya_4_259",
+        "Highland Republic of Vireya_4_497"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.5,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 12,
+        "n_direct_cross_pairs": 6,
+        "n_lax_core": 7,
+        "n_class": 7
+      }
+    },
+    "Highland Republic of Vireya_4_201": {
+      "members": [
+        "Coastal State of Ondrel_1_2",
+        "Highland Republic of Vireya_4_201"
+      ],
+      "size": 2,
+      "actors": [
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Coastal State of Ondrel_1_2",
+        "Highland Republic of Vireya_4_201"
+      ],
+      "strict_cliques": [
+        [
+          "Coastal State of Ondrel_1_2",
+          "Highland Republic of Vireya_4_201"
+        ]
+      ],
+      "validated_core_lax": [
+        "Coastal State of Ondrel_1_2",
+        "Highland Republic of Vireya_4_201"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_4_215": {
+      "members": [
+        "Coastal State of Ondrel_5_524",
+        "Highland Republic of Vireya_4_215"
+      ],
+      "size": 2,
+      "actors": [
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Coastal State of Ondrel_5_524",
+        "Highland Republic of Vireya_4_215"
+      ],
+      "strict_cliques": [
+        [
+          "Coastal State of Ondrel_5_524",
+          "Highland Republic of Vireya_4_215"
+        ]
+      ],
+      "validated_core_lax": [
+        "Coastal State of Ondrel_5_524",
+        "Highland Republic of Vireya_4_215"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_4_232": {
+      "members": [
+        "Coastal State of Ondrel_4_272",
+        "Highland Republic of Vireya_4_232"
+      ],
+      "size": 2,
+      "actors": [
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Coastal State of Ondrel_4_272",
+        "Highland Republic of Vireya_4_232"
+      ],
+      "strict_cliques": [
+        [
+          "Coastal State of Ondrel_4_272",
+          "Highland Republic of Vireya_4_232"
+        ]
+      ],
+      "validated_core_lax": [
+        "Coastal State of Ondrel_4_272",
+        "Highland Republic of Vireya_4_232"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_4_311": {
+      "members": [
+        "Coastal State of Ondrel_4_431",
+        "Highland Republic of Vireya_4_311"
+      ],
+      "size": 2,
+      "actors": [
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Coastal State of Ondrel_4_431",
+        "Highland Republic of Vireya_4_311"
+      ],
+      "strict_cliques": [
+        [
+          "Coastal State of Ondrel_4_431",
+          "Highland Republic of Vireya_4_311"
+        ]
+      ],
+      "validated_core_lax": [
+        "Coastal State of Ondrel_4_431",
+        "Highland Republic of Vireya_4_311"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_4_361": {
+      "members": [
+        "Coastal State of Ondrel_4_343",
+        "Highland Republic of Vireya_4_361"
+      ],
+      "size": 2,
+      "actors": [
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Coastal State of Ondrel_4_343",
+        "Highland Republic of Vireya_4_361"
+      ],
+      "strict_cliques": [
+        [
+          "Coastal State of Ondrel_4_343",
+          "Highland Republic of Vireya_4_361"
+        ]
+      ],
+      "validated_core_lax": [
+        "Coastal State of Ondrel_4_343",
+        "Highland Republic of Vireya_4_361"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_4_402": {
+      "members": [
+        "Coastal State of Ondrel_4_131",
+        "Coastal State of Ondrel_5_520",
+        "Highland Republic of Vireya_4_402"
+      ],
+      "size": 3,
+      "actors": [
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Coastal State of Ondrel_4_131",
+        "Coastal State of Ondrel_5_520",
+        "Highland Republic of Vireya_4_402"
+      ],
+      "strict_cliques": [
+        [
+          "Coastal State of Ondrel_5_520",
+          "Highland Republic of Vireya_4_402"
+        ],
+        [
+          "Coastal State of Ondrel_4_131",
+          "Highland Republic of Vireya_4_402"
+        ]
+      ],
+      "validated_core_lax": [
+        "Coastal State of Ondrel_4_131",
+        "Coastal State of Ondrel_5_520",
+        "Highland Republic of Vireya_4_402"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 2,
+        "n_direct_cross_pairs": 2,
+        "n_lax_core": 3,
+        "n_class": 3
+      }
+    },
+    "Highland Republic of Vireya_4_437": {
+      "members": [
+        "Coastal State of Ondrel_5_462",
+        "Highland Republic of Vireya_4_437"
+      ],
+      "size": 2,
+      "actors": [
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Coastal State of Ondrel_5_462",
+        "Highland Republic of Vireya_4_437"
+      ],
+      "strict_cliques": [
+        [
+          "Coastal State of Ondrel_5_462",
+          "Highland Republic of Vireya_4_437"
+        ]
+      ],
+      "validated_core_lax": [
+        "Coastal State of Ondrel_5_462",
+        "Highland Republic of Vireya_4_437"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_4_439": {
+      "members": [
+        "Coastal State of Ondrel_4_208",
+        "Highland Republic of Vireya_4_439"
+      ],
+      "size": 2,
+      "actors": [
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Coastal State of Ondrel_4_208",
+        "Highland Republic of Vireya_4_439"
+      ],
+      "strict_cliques": [
+        [
+          "Coastal State of Ondrel_4_208",
+          "Highland Republic of Vireya_4_439"
+        ]
+      ],
+      "validated_core_lax": [
+        "Coastal State of Ondrel_4_208",
+        "Highland Republic of Vireya_4_439"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_4_501": {
+      "members": [
+        "Coastal State of Ondrel_2_16",
+        "Highland Republic of Vireya_4_501"
+      ],
+      "size": 2,
+      "actors": [
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Coastal State of Ondrel_2_16",
+        "Highland Republic of Vireya_4_501"
+      ],
+      "strict_cliques": [
+        [
+          "Coastal State of Ondrel_2_16",
+          "Highland Republic of Vireya_4_501"
+        ]
+      ],
+      "validated_core_lax": [
+        "Coastal State of Ondrel_2_16",
+        "Highland Republic of Vireya_4_501"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_4_508": {
+      "members": [
+        "Coastal State of Ondrel_4_242",
+        "Highland Republic of Vireya_4_508"
+      ],
+      "size": 2,
+      "actors": [
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Coastal State of Ondrel_4_242",
+        "Highland Republic of Vireya_4_508"
+      ],
+      "strict_cliques": [
+        [
+          "Coastal State of Ondrel_4_242",
+          "Highland Republic of Vireya_4_508"
+        ]
+      ],
+      "validated_core_lax": [
+        "Coastal State of Ondrel_4_242",
+        "Highland Republic of Vireya_4_508"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Highland Republic of Vireya_4_512": {
+      "members": [
+        "Coastal State of Ondrel_4_145",
+        "Highland Republic of Vireya_4_512"
+      ],
+      "size": 2,
+      "actors": [
+        "Coastal State of Ondrel",
+        "Highland Republic of Vireya"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Coastal State of Ondrel_4_145",
+        "Highland Republic of Vireya_4_512"
+      ],
+      "strict_cliques": [
+        [
+          "Coastal State of Ondrel_4_145",
+          "Highland Republic of Vireya_4_512"
+        ]
+      ],
+      "validated_core_lax": [
+        "Coastal State of Ondrel_4_145",
+        "Highland Republic of Vireya_4_512"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Agrarian Federation of Tessara_2_11": {
+      "members": [
+        "Agrarian Federation of Tessara_2_11",
+        "Coastal State of Ondrel_4_130"
+      ],
+      "size": 2,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Coastal State of Ondrel"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_2_11",
+        "Coastal State of Ondrel_4_130"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_2_11",
+          "Coastal State of Ondrel_4_130"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_2_11",
+        "Coastal State of Ondrel_4_130"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Agrarian Federation of Tessara_2_33": {
+      "members": [
+        "Agrarian Federation of Tessara_2_33",
+        "Coastal State of Ondrel_4_290"
+      ],
+      "size": 2,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Coastal State of Ondrel"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_2_33",
+        "Coastal State of Ondrel_4_290"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_2_33",
+          "Coastal State of Ondrel_4_290"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_2_33",
+        "Coastal State of Ondrel_4_290"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Agrarian Federation of Tessara_3_152": {
+      "members": [
+        "Agrarian Federation of Tessara_3_152",
+        "Coastal State of Ondrel_4_408"
+      ],
+      "size": 2,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Coastal State of Ondrel"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_3_152",
+        "Coastal State of Ondrel_4_408"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_3_152",
+          "Coastal State of Ondrel_4_408"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_3_152",
+        "Coastal State of Ondrel_4_408"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Agrarian Federation of Tessara_4_317": {
+      "members": [
+        "Agrarian Federation of Tessara_4_317",
+        "Coastal State of Ondrel_4_448"
+      ],
+      "size": 2,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Coastal State of Ondrel"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_4_317",
+        "Coastal State of Ondrel_4_448"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_4_317",
+          "Coastal State of Ondrel_4_448"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_4_317",
+        "Coastal State of Ondrel_4_448"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Agrarian Federation of Tessara_4_441": {
+      "members": [
+        "Agrarian Federation of Tessara_4_441",
+        "Coastal State of Ondrel_4_190"
+      ],
+      "size": 2,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Coastal State of Ondrel"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_4_441",
+        "Coastal State of Ondrel_4_190"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_4_441",
+          "Coastal State of Ondrel_4_190"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_4_441",
+        "Coastal State of Ondrel_4_190"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "Agrarian Federation of Tessara_4_476": {
+      "members": [
+        "Agrarian Federation of Tessara_4_476",
+        "Coastal State of Ondrel_4_427"
+      ],
+      "size": 2,
+      "actors": [
+        "Agrarian Federation of Tessara",
+        "Coastal State of Ondrel"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "Agrarian Federation of Tessara_4_476",
+        "Coastal State of Ondrel_4_427"
+      ],
+      "strict_cliques": [
+        [
+          "Agrarian Federation of Tessara_4_476",
+          "Coastal State of Ondrel_4_427"
+        ]
+      ],
+      "validated_core_lax": [
+        "Agrarian Federation of Tessara_4_476",
+        "Coastal State of Ondrel_4_427"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    }
+  },
+  "statistics": {
+    "total_classes": 44,
+    "min_size": 2,
+    "max_size": 308,
+    "avg_size": 9.5227,
+    "min_actors": 2,
+    "max_actors": 3,
+    "classes_strict_nonempty": 38,
+    "classes_lax_nonempty": 44,
+    "ipvr_strict_avg": 0.9009,
+    "ipvr_lax_coverage_avg": 0.8869
+  },
+  "timestamp": "2026-08-27T15:42:43.415200"
+}

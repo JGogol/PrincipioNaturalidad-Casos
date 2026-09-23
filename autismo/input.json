@@ -1,0 +1,525 @@
+{
+  "problema": {
+    "titulo": "Cognitive Architecture Mapping: Autistic vs Neurotypical Processing",
+    "descripcion": "A real-world situational input is processed by a cognitive architecture operating under a fixed set of axiomatic rules. The architecture generates processing states strictly according to its invariant rules in response to the situational input.",
+    "contexto_adicional": "Each situational input represents a common daily-life event. The architecture processes the input from its current state and generates the next processing state according to its axioms only. No external knowledge, clinical observation, or outcome information is permitted beyond what the axiom set licenses.",
+    "decision_central": null,
+    "decision_central_embedding": null,
+    "situaciones": [
+      {
+        "id": 1,
+        "decision_central": "The teacher changes the class schedule without prior notice",
+        "decision_central_embedding": "How each cognitive architecture processes and responds to an unexpected disruption of a previously established routine in a structured learning environment"
+      },
+      {
+        "id": 2,
+        "decision_central": "A classmate uses sarcasm during a group conversation",
+        "decision_central_embedding": "How each cognitive architecture interprets and responds to implicit pragmatic content and non-literal language in peer social interaction"
+      },
+      {
+        "id": 3,
+        "decision_central": "The classroom lights are replaced with brighter fluorescent bulbs",
+        "decision_central_embedding": "How each cognitive architecture regulates and responds to an increase in ambient sensory stimulation in a learning environment"
+      },
+      {
+        "id": 4,
+        "decision_central": "A student makes an error on the blackboard in front of the class",
+        "decision_central_embedding": "How each cognitive architecture processes public error exposure and its consequences for emotional regulation, self-evaluation, and continued engagement"
+      },
+      {
+        "id": 5,
+        "decision_central": "The teacher gives instructions verbally without writing them on the board",
+        "decision_central_embedding": "How each cognitive architecture encodes and retains multi-step instructions delivered exclusively through auditory-verbal channels"
+      },
+      {
+        "id": 6,
+        "decision_central": "A new student joins the class mid-year and sits next to the child",
+        "decision_central_embedding": "How each cognitive architecture processes the introduction of an unfamiliar social element into an established peer environment"
+      },
+      {
+        "id": 7,
+        "decision_central": "The child is asked to work in a group with classmates they do not know well",
+        "decision_central_embedding": "How each cognitive architecture manages collaborative task engagement with low-familiarity peers under implicit social coordination demands"
+      },
+      {
+        "id": 8,
+        "decision_central": "The school cafeteria is unusually loud during lunch",
+        "decision_central_embedding": "How each cognitive architecture responds to an unpredictable elevation in ambient noise during a semi-structured social transition period"
+      },
+      {
+        "id": 9,
+        "decision_central": "The teacher praises the child publicly in front of the class",
+        "decision_central_embedding": "How each cognitive architecture processes unexpected positive social attention and public evaluation from an authority figure"
+      },
+      {
+        "id": 10,
+        "decision_central": "The child must transition from math class to physical education without a clear time warning",
+        "decision_central_embedding": "How each cognitive architecture manages an abrupt cognitive and environmental transition between structurally different activity contexts"
+      },
+      {
+        "id": 11,
+        "decision_central": "A peer invites the child to play a game whose rules are not explained",
+        "decision_central_embedding": "How each cognitive architecture engages with a novel social activity when rules are implicit and must be inferred through observation and participation"
+      },
+      {
+        "id": 12,
+        "decision_central": "The child receives a graded test back with red marks but no written explanation",
+        "decision_central_embedding": "How each cognitive architecture processes negative feedback when causal information about errors is absent or ambiguous"
+      },
+      {
+        "id": 13,
+        "decision_central": "The classroom seating arrangement is changed by the teacher",
+        "decision_central_embedding": "How each cognitive architecture responds to an externally imposed spatial reorganization of a previously stable environmental structure"
+      },
+      {
+        "id": 14,
+        "decision_central": "A classmate cries without explaining why",
+        "decision_central_embedding": "How each cognitive architecture processes and responds to observed emotional expression in a peer when causal context is missing"
+      },
+      {
+        "id": 15,
+        "decision_central": "The child is asked to read aloud in front of the class",
+        "decision_central_embedding": "How each cognitive architecture manages simultaneous decoding, vocalization, and social performance demands under public observation"
+      },
+      {
+        "id": 16,
+        "decision_central": "A fire drill interrupts the class unexpectedly",
+        "decision_central_embedding": "How each cognitive architecture responds to a sudden high-intensity multisensory alarm event that forces immediate environmental transition"
+      },
+      {
+        "id": 17,
+        "decision_central": "The child is told their special interest topic is not appropriate for the current class discussion",
+        "decision_central_embedding": "How each cognitive architecture responds to the exclusion of a high-motivation knowledge domain from an active learning context"
+      },
+      {
+        "id": 18,
+        "decision_central": "The teacher gives ambiguous feedback: 'You could do better'",
+        "decision_central_embedding": "How each cognitive architecture processes evaluative feedback that lacks specific causal attribution or concrete corrective information"
+      },
+      {
+        "id": 19,
+        "decision_central": "The child is asked to guess how a character in a story feels",
+        "decision_central_embedding": "How each cognitive architecture performs affective inference about a third-party fictional agent based on narrative context"
+      },
+      {
+        "id": 20,
+        "decision_central": "A substitute teacher arrives with a different routine and different rules",
+        "decision_central_embedding": "How each cognitive architecture adapts to a simultaneous change in authority figure, behavioral expectations, and procedural structure"
+      },
+      {
+        "id": 21,
+        "decision_central": "The child finishes a task early and has unstructured free time",
+        "decision_central_embedding": "How each cognitive architecture self-organizes behavior and attention in the absence of external task structure or explicit instruction"
+      },
+      {
+        "id": 22,
+        "decision_central": "A peer touches the child's belongings without asking",
+        "decision_central_embedding": "How each cognitive architecture processes an unexpected boundary violation involving personal objects in a social setting"
+      },
+      {
+        "id": 23,
+        "decision_central": "The child must apply a math rule learned yesterday to a new type of problem",
+        "decision_central_embedding": "How each cognitive architecture transfers a recently acquired procedural rule to a structurally novel application context"
+      },
+      {
+        "id": 24,
+        "decision_central": "A classmate disagrees with the child's answer and says so in front of others",
+        "decision_central_embedding": "How each cognitive architecture processes public social contradiction of a held belief or stated position by a peer"
+      },
+      {
+        "id": 25,
+        "decision_central": "The child is asked to participate in a role-play exercise",
+        "decision_central_embedding": "How each cognitive architecture manages fictional identity adoption and implicit social rule performance in a structured dramatic activity"
+      },
+      {
+        "id": 26,
+        "decision_central": "A strong smell from the cafeteria reaches the classroom",
+        "decision_central_embedding": "How each cognitive architecture filters and responds to an intrusive olfactory stimulus during an ongoing cognitive task"
+      },
+      {
+        "id": 27,
+        "decision_central": "The child receives contradictory instructions from two different teachers",
+        "decision_central_embedding": "How each cognitive architecture resolves a conflict between two authoritative rule sources providing incompatible behavioral directives"
+      },
+      {
+        "id": 28,
+        "decision_central": "The child must stand in line and wait with the group for an extended time",
+        "decision_central_embedding": "How each cognitive architecture manages sustained behavioral inhibition and attentional regulation in an unstructured waiting context"
+      },
+      {
+        "id": 29,
+        "decision_central": "A classmate asks: 'Why do you always do that?'",
+        "decision_central_embedding": "How each cognitive architecture processes an unexpected social meta-commentary on one's own behavioral patterns from a peer"
+      },
+      {
+        "id": 30,
+        "decision_central": "The child is asked to explain their reasoning process out loud",
+        "decision_central_embedding": "How each cognitive architecture translates internal processing steps into externalized verbal narrative for a social audience"
+      },
+      {
+        "id": 31,
+        "decision_central": "A parent argues with the other parent at the dinner table",
+        "decision_central_embedding": "How each cognitive architecture processes interpersonal conflict between attachment figures in a primary caregiving environment"
+      },
+      {
+        "id": 32,
+        "decision_central": "A family member changes the usual dinner menu without warning",
+        "decision_central_embedding": "How each cognitive architecture responds to a disruption of an established sensory-behavioral routine in the domestic environment"
+      },
+      {
+        "id": 33,
+        "decision_central": "The family visits a noisy, crowded shopping mall",
+        "decision_central_embedding": "How each cognitive architecture manages high-density multisensory input during a socially-embedded navigation task"
+      },
+      {
+        "id": 34,
+        "decision_central": "A sibling borrows a toy without asking and returns it broken",
+        "decision_central_embedding": "How each cognitive architecture processes a violation of object ownership norms combined with material damage within a family relationship"
+      },
+      {
+        "id": 35,
+        "decision_central": "The child is asked to attend a birthday party for a peer they barely know",
+        "decision_central_embedding": "How each cognitive architecture anticipates and prepares for a high-social-demand event with low familiarity of participants and implicit behavioral expectations"
+      },
+      {
+        "id": 36,
+        "decision_central": "A grandparent visits and insists on physical affection the child does not want",
+        "decision_central_embedding": "How each cognitive architecture processes a conflict between sensory-social boundary preferences and familial affection norms imposed by an attachment-adjacent authority"
+      },
+      {
+        "id": 37,
+        "decision_central": "The child's bedtime routine is interrupted by an unexpected family event",
+        "decision_central_embedding": "How each cognitive architecture responds to disruption of a highly routinized transition sequence that regulates physiological and cognitive deactivation"
+      },
+      {
+        "id": 38,
+        "decision_central": "A parent says 'we'll see' when asked directly about a planned activity",
+        "decision_central_embedding": "How each cognitive architecture processes a deliberately ambiguous response to a request for predictive certainty about a future event"
+      },
+      {
+        "id": 39,
+        "decision_central": "The family adopts a new pet that disrupts the household routine",
+        "decision_central_embedding": "How each cognitive architecture adapts to the introduction of an unpredictable animate agent into a previously stable domestic environment"
+      },
+      {
+        "id": 40,
+        "decision_central": "A parent criticizes the child's behavior in front of guests",
+        "decision_central_embedding": "How each cognitive architecture processes public social correction from a primary attachment figure in the presence of low-familiarity adult observers"
+      },
+      {
+        "id": 41,
+        "decision_central": "The child is asked to share a favorite toy with a visiting child",
+        "decision_central_embedding": "How each cognitive architecture processes a request to temporarily relinquish exclusive access to a high-value object under social obligation"
+      },
+      {
+        "id": 42,
+        "decision_central": "The family travels on a long car ride without a clear arrival time",
+        "decision_central_embedding": "How each cognitive architecture manages an extended period of physical constraint and temporal unpredictability in a confined shared space"
+      },
+      {
+        "id": 43,
+        "decision_central": "A parent does not follow through on a promised activity",
+        "decision_central_embedding": "How each cognitive architecture processes a violation of an explicitly established future expectation by a primary attachment figure"
+      },
+      {
+        "id": 44,
+        "decision_central": "The child must stop playing a preferred activity to complete homework",
+        "decision_central_embedding": "How each cognitive architecture manages an externally imposed transition from a high-intrinsic-motivation activity to a low-intrinsic-motivation obligation"
+      },
+      {
+        "id": 45,
+        "decision_central": "A family member mocks the child's special interest in front of others",
+        "decision_central_embedding": "How each cognitive architecture processes social devaluation of a primary intrinsic motivational domain by a familiar person within a caregiving relationship"
+      },
+      {
+        "id": 46,
+        "decision_central": "The child is asked to try a new food with unfamiliar texture",
+        "decision_central_embedding": "How each cognitive architecture processes a request to engage with a novel sensory stimulus in a domain with established aversive associations"
+      },
+      {
+        "id": 47,
+        "decision_central": "The house is being renovated and several rooms are inaccessible",
+        "decision_central_embedding": "How each cognitive architecture adapts to extended spatial disruption and loss of access to established environmental anchors within the home"
+      },
+      {
+        "id": 48,
+        "decision_central": "A parent is ill and the usual household roles are temporarily reversed",
+        "decision_central_embedding": "How each cognitive architecture adapts to disruption of established caregiver role distributions and associated routine structures"
+      },
+      {
+        "id": 49,
+        "decision_central": "The child sees a parent cry for the first time",
+        "decision_central_embedding": "How each cognitive architecture processes an unexpected display of high-intensity emotion from a primary attachment figure that violates established role expectations"
+      },
+      {
+        "id": 50,
+        "decision_central": "The family moves to a new house in a different neighborhood",
+        "decision_central_embedding": "How each cognitive architecture responds to comprehensive simultaneous disruption of spatial, social, and routine environmental structures"
+      },
+      {
+        "id": 51,
+        "decision_central": "A doctor's appointment involves an unexpected physical examination procedure",
+        "decision_central_embedding": "How each cognitive architecture responds to an unannounced physical intrusion on bodily autonomy within a medical authority context"
+      },
+      {
+        "id": 52,
+        "decision_central": "The child must wait at a busy bus stop with strangers",
+        "decision_central_embedding": "How each cognitive architecture manages proximal exposure to unknown individuals in an unstructured public space with unpredictable social dynamics"
+      },
+      {
+        "id": 53,
+        "decision_central": "A store does not have the expected product and offers a substitute",
+        "decision_central_embedding": "How each cognitive architecture processes the non-fulfillment of an anticipated concrete outcome and the offer of an unplanned alternative"
+      },
+      {
+        "id": 54,
+        "decision_central": "The child is asked to perform on stage at a school event",
+        "decision_central_embedding": "How each cognitive architecture manages high-visibility performance under public social evaluation with rehearsed but context-variable execution demands"
+      },
+      {
+        "id": 55,
+        "decision_central": "A sports team activity requires real-time coordination with unpredictable teammates",
+        "decision_central_embedding": "How each cognitive architecture manages dynamic social-motor coordination with multiple agents whose behavior cannot be predicted or controlled"
+      },
+      {
+        "id": 56,
+        "decision_central": "The child loses a board game against a peer",
+        "decision_central_embedding": "How each cognitive architecture processes a competitive outcome failure within a rule-governed social activity"
+      },
+      {
+        "id": 57,
+        "decision_central": "A peer excludes the child from a game without explanation",
+        "decision_central_embedding": "How each cognitive architecture processes unexplained social exclusion from a peer group activity"
+      },
+      {
+        "id": 58,
+        "decision_central": "The child accidentally breaks something that belongs to someone else",
+        "decision_central_embedding": "How each cognitive architecture processes an unintentional act of property damage and its anticipated social and relational consequences"
+      },
+      {
+        "id": 59,
+        "decision_central": "A peer asks to see the child's work and then copies it",
+        "decision_central_embedding": "How each cognitive architecture processes the discovery that a social interaction was instrumentally motivated against the child's interests"
+      },
+      {
+        "id": 60,
+        "decision_central": "The child must apologize to someone even though they do not feel at fault",
+        "decision_central_embedding": "How each cognitive architecture processes a social obligation to express remorse that conflicts with internal causal attribution"
+      },
+      {
+        "id": 61,
+        "decision_central": "A new rule is introduced at school with no explanation of its rationale",
+        "decision_central_embedding": "How each cognitive architecture processes a behavioral directive from an authority source when the underlying logical basis is not provided"
+      },
+      {
+        "id": 62,
+        "decision_central": "The child must learn to use a new digital device with an unfamiliar interface",
+        "decision_central_embedding": "How each cognitive architecture approaches the acquisition of a new procedural skill embedded in a novel technological environment"
+      },
+      {
+        "id": 63,
+        "decision_central": "A lesson introduces a concept that contradicts something previously taught",
+        "decision_central_embedding": "How each cognitive architecture integrates new information that requires revision of a previously established belief or rule"
+      },
+      {
+        "id": 64,
+        "decision_central": "The child is given a complex multi-step project with a distant deadline",
+        "decision_central_embedding": "How each cognitive architecture plans, sequences, and self-monitors progress toward a complex goal with an extended time horizon"
+      },
+      {
+        "id": 65,
+        "decision_central": "A peer teaches the child an informal social rule the child had not known",
+        "decision_central_embedding": "How each cognitive architecture receives and integrates an explicit peer-communicated social norm that was previously undetected"
+      },
+      {
+        "id": 66,
+        "decision_central": "The child must generalize a learned rule about honesty to a new social situation",
+        "decision_central_embedding": "How each cognitive architecture transfers an internalized abstract moral rule to a novel context with different surface features"
+      },
+      {
+        "id": 67,
+        "decision_central": "A test is announced for the following day without prior syllabus notice",
+        "decision_central_embedding": "How each cognitive architecture responds to a sudden high-stakes evaluation demand with insufficient preparation time"
+      },
+      {
+        "id": 68,
+        "decision_central": "The child receives positive feedback but with no explanation of what was done well",
+        "decision_central_embedding": "How each cognitive architecture processes evaluative feedback that is affectively positive but informationally empty"
+      },
+      {
+        "id": 69,
+        "decision_central": "An activity the child enjoyed is discontinued without explanation",
+        "decision_central_embedding": "How each cognitive architecture processes the permanent removal of a positively reinforced activity without causal justification"
+      },
+      {
+        "id": 70,
+        "decision_central": "The child must learn the same concept presented in three different formats",
+        "decision_central_embedding": "How each cognitive architecture processes and integrates redundant information delivered through structurally distinct representational modalities"
+      },
+      {
+        "id": 71,
+        "decision_central": "The child becomes intensely focused on a detail others consider irrelevant",
+        "decision_central_embedding": "How each cognitive architecture allocates sustained attentional resources to a local stimulus feature in a context where global integration is expected"
+      },
+      {
+        "id": 72,
+        "decision_central": "The child cannot identify why they feel physically uncomfortable",
+        "decision_central_embedding": "How each cognitive architecture processes and communicates an internally sensed but unlabeled physiological-emotional state"
+      },
+      {
+        "id": 73,
+        "decision_central": "The child feels overwhelmed but the environment shows no obvious cause",
+        "decision_central_embedding": "How each cognitive architecture responds to cumulative sensory-cognitive load that exceeds regulatory capacity without a single identifiable trigger"
+      },
+      {
+        "id": 74,
+        "decision_central": "The child repeats a phrase or movement to manage distress",
+        "decision_central_embedding": "How each cognitive architecture employs self-regulatory behavioral strategies in response to elevated internal arousal states"
+      },
+      {
+        "id": 75,
+        "decision_central": "The child knows the correct social response but cannot execute it in the moment",
+        "decision_central_embedding": "How each cognitive architecture manages the gap between stored social rule knowledge and real-time social performance capacity"
+      },
+      {
+        "id": 76,
+        "decision_central": "The child must ask for help but does not know how to initiate the request",
+        "decision_central_embedding": "How each cognitive architecture navigates the pragmatic and social demands of initiating help-seeking communication with an authority figure"
+      },
+      {
+        "id": 77,
+        "decision_central": "The child notices an inconsistency in how a rule is applied to different students",
+        "decision_central_embedding": "How each cognitive architecture processes perceived inequity in rule application within an institutional authority structure"
+      },
+      {
+        "id": 78,
+        "decision_central": "The child is told to 'just do it' without further explanation",
+        "decision_central_embedding": "How each cognitive architecture responds to a directive that suppresses the need for logical grounding or procedural clarification"
+      },
+      {
+        "id": 79,
+        "decision_central": "The child makes a joke that others do not understand",
+        "decision_central_embedding": "How each cognitive architecture processes a communicative act that fails to achieve its intended social effect and elicits unexpected responses"
+      },
+      {
+        "id": 80,
+        "decision_central": "The child must make a choice between two equally unfamiliar options",
+        "decision_central_embedding": "How each cognitive architecture manages a decision under symmetrical uncertainty when no established preference or rule applies"
+      },
+      {
+        "id": 81,
+        "decision_central": "The child is asked to comfort a peer who is visibly upset",
+        "decision_central_embedding": "How each cognitive architecture generates and executes a comforting behavioral response to another person's expressed emotional distress"
+      },
+      {
+        "id": 82,
+        "decision_central": "A peer invites the child to keep a secret",
+        "decision_central_embedding": "How each cognitive architecture processes the social and ethical demands of information withholding within a peer loyalty context"
+      },
+      {
+        "id": 83,
+        "decision_central": "The child is asked to interpret a facial expression in isolation",
+        "decision_central_embedding": "How each cognitive architecture decodes emotional meaning from a decontextualized visual social signal"
+      },
+      {
+        "id": 84,
+        "decision_central": "A peer changes their mind repeatedly during a joint activity",
+        "decision_central_embedding": "How each cognitive architecture adapts to volatile preference shifts in a collaborative partner during an ongoing shared task"
+      },
+      {
+        "id": 85,
+        "decision_central": "The child is ignored after initiating a social interaction",
+        "decision_central_embedding": "How each cognitive architecture processes the absence of expected social response following a self-initiated communicative act"
+      },
+      {
+        "id": 86,
+        "decision_central": "The child must navigate a social situation where the peer group has pre-established inside jokes",
+        "decision_central_embedding": "How each cognitive architecture processes exclusion from a shared implicit cultural knowledge base within an established peer group"
+      },
+      {
+        "id": 87,
+        "decision_central": "A peer asks: 'Are you okay?' after noticing unusual behavior",
+        "decision_central_embedding": "How each cognitive architecture processes an inquiry from a peer about internal state that was expressed through observable behavior"
+      },
+      {
+        "id": 88,
+        "decision_central": "The child must negotiate with a peer to agree on what game to play",
+        "decision_central_embedding": "How each cognitive architecture manages a dyadic preference negotiation process requiring mutual compromise and perspective-taking"
+      },
+      {
+        "id": 89,
+        "decision_central": "A peer teases the child in a way intended as friendly but experienced as hurtful",
+        "decision_central_embedding": "How each cognitive architecture processes social teasing when the sender's intent and the receiver's experience are discordant"
+      },
+      {
+        "id": 90,
+        "decision_central": "The child wins a game and does not know how to respond to the social expectations around winning",
+        "decision_central_embedding": "How each cognitive architecture manages the implicit social performance demands associated with a competitive success outcome"
+      },
+      {
+        "id": 91,
+        "decision_central": "The child must transition from a highly engaging activity to sleep",
+        "decision_central_embedding": "How each cognitive architecture manages physiological and cognitive deactivation when transitioning from a high-arousal motivational state"
+      },
+      {
+        "id": 92,
+        "decision_central": "The child is sick and their routine is disrupted by physical symptoms",
+        "decision_central_embedding": "How each cognitive architecture processes the simultaneous disruption of established routines by internal physiological states and imposed environmental changes"
+      },
+      {
+        "id": 93,
+        "decision_central": "The child must reduce engagement with a special interest due to time constraints",
+        "decision_central_embedding": "How each cognitive architecture manages externally imposed limitation on access to a primary intrinsic motivational domain"
+      },
+      {
+        "id": 94,
+        "decision_central": "The child is asked to sit still during a long ceremony or event",
+        "decision_central_embedding": "How each cognitive architecture sustains behavioral inhibition and motor regulation over an extended unstructured period without task engagement"
+      },
+      {
+        "id": 95,
+        "decision_central": "The child must get dressed in uncomfortable clothing for a formal occasion",
+        "decision_central_embedding": "How each cognitive architecture manages sustained sensory aversion when compliance with social dress norms overrides sensory comfort preferences"
+      },
+      {
+        "id": 96,
+        "decision_central": "A technology the child relies on for regulation stops working unexpectedly",
+        "decision_central_embedding": "How each cognitive architecture responds to the sudden loss of an established external regulatory resource or sensory anchor"
+      },
+      {
+        "id": 97,
+        "decision_central": "The child must wake up earlier than usual for a special event",
+        "decision_central_embedding": "How each cognitive architecture responds to disruption of an established sleep-wake cycle boundary in the context of a socially mandated schedule change"
+      },
+      {
+        "id": 98,
+        "decision_central": "The child receives an unexpected gift and is expected to show enthusiasm",
+        "decision_central_embedding": "How each cognitive architecture manages the social performance demand of expressing expected emotional responses that may not match internal states"
+      },
+      {
+        "id": 99,
+        "decision_central": "The child is asked to stop an activity mid-task before completing it",
+        "decision_central_embedding": "How each cognitive architecture responds to externally imposed interruption of an incomplete goal-directed sequence"
+      },
+      {
+        "id": 100,
+        "decision_central": "The child must independently organize their school bag for the next day",
+        "decision_central_embedding": "How each cognitive architecture plans and executes a multi-object preparation task relying on prospective memory and self-initiated sequential organization"
+      }
+    ]
+  },
+  "actores": [
+    {
+      "nombre": "AutisticCognition",
+      "postura": "The system processes information by prioritizing local sensory detail over global coherence, operating through concrete-visual representations as the primary format, requiring explicit rule structures to navigate social and procedural contexts, and regulating learning exclusively through predictable, closed-loop, low-ambiguity feedback",
+      "postura_embedding": "A cognitive system that prioritizes local sensory detail over global coherence, processes in concrete-visual format, requires explicit rule structures, cannot automatically generalize across contexts, and regulates through predictable closed-loop feedback",
+      "contexto": "AXIOMATIC RULE SET:\n\nDOMAIN 1 — SENSORY REGULATION\nA1 [Sensory Gate]: Sensory regulation is an absolute prerequisite for learning and social engagement. When sensory input exceeds regulatory threshold, the system goes offline — cognitive processing, social interaction, and learning are unavailable until regulation is restored.\nA2 [Flat Salience]: Sensory input is not automatically hierarchized by relevance. All stimuli carry equal initial weight. Top-down filtering is effortful and not automatic.\nA3 [Extended Integration Window]: Multisensory integration requires a wider temporal window than neurotypical processing. Simultaneous cross-modal inputs create interference rather than automatic coherence.\n\nDOMAIN 2 — COGNITIVE PROCESSING\nA4 [Visual-Concrete Primary]: The primary processing format is visual-concrete, not verbal-abstract. Language is a second-order system. Abstract concepts require anchoring to concrete referents or visual representations to be processed.\nA5 [Local Processing Default]: The system defaults to local, detail-oriented processing without automatic global integration (Weak Central Coherence). Parts are processed before wholes, and the whole is not automatically inferred from parts.\nA6 [Reduced Volatility Adaptation Rate]: The rate of learning does not automatically adapt to environmental volatility. Stable environments support deep learning; rapidly changing environments produce processing overload rather than flexible updating.\nA7 [Slowed Complex Processing]: Processing speed for socially and contextually complex information is reduced. Single-domain technical information may be processed at high speed.\n\nDOMAIN 3 — MEMORY\nA8 [Semantic Over Episodic]: Semantic memory is intact or enhanced. Episodic memory is reduced, particularly for socially embedded events. Facts are retained better than narratives.\nA9 [Visual Memory Superiority]: Visual memory is superior to verbal memory. Spatial layouts, visual patterns, and visual sequences are retained with high fidelity.\nA10 [Cue-Dependent Episodic Retrieval]: Episodic memory retrieval is improved by explicit visual cues. Without cues, episodic retrieval is unreliable.\n\nDOMAIN 4 — ATTENTION AND MOTIVATION\nA11 [Hyperfocus on Special Interest]: Attention is hyperfocused within domains of special interest. Sustained attention outside these domains requires significant effortful control and is not maintained automatically.\nA12 [Intrinsic Over Extrinsic Motivation]: Intrinsic motivation dominates. Social praise, grades, and external rewards are weak motivators unless linked to the special interest domain.\nA13 [Special Interest as Learning Channel]: The special interest domain serves as the primary gateway for learning generalizable concepts. Knowledge acquired through this channel transfers more reliably than knowledge acquired through neutral domains.\n\nDOMAIN 5 — EMOTION\nA14 [Interoceptive Opacity]: Internal emotional states are not directly accessible as labeled information (alexithymia present in ~50% of ASD). The system experiences physiological arousal but cannot automatically identify or name the emotional state.\nA15 [Emotion as Data, Not Resonance]: Observed emotion in others is processed as behavioral data requiring inferential analysis, not as automatic affective resonance. Empathic mirroring is not automatic.\nA16 [Delayed Emotional Processing]: Emotional processing has increased latency. Responses to emotional events may occur significantly after the triggering event rather than in real time.\n\nDOMAIN 6 — LANGUAGE\nA17 [Literal Default]: Language is processed literally by default. Metaphor, irony, sarcasm, and indirect speech require additional inferential processing steps and are not decoded automatically.\nA18 [Pragmatics as Database]: Pragmatic social rules are stored as explicit database entries, not as intuitive social intelligence. Application requires conscious retrieval and matching, not automatic contextual inference.\n\nDOMAIN 7 — ROUTINE AND CHANGE\nA19 [Routine as Optimization]: Routines are computational optimizations that reduce prediction error load. Established routines allow cognitive resources to be allocated to other tasks.\nA20 [Change as Disruption]: Unanticipated change generates disproportionate prediction error signals (HIPPEA: high inflexible precision on prediction errors). The magnitude of disruption is not proportional to the objective significance of the change.\n\nDOMAIN 8 — LEARNING\nA21 [Error-Moral Decoupling Required]: Error can only be processed as learning information when decoupled from moral judgment or social shame. Error framed as failure activates threat response and blocks learning.\nA22 [Context-Specific Generalization]: Learned rules do not generalize automatically across surface-different contexts. Re-anchoring to new contexts requires explicit instruction.\nA23 [Explicit Over Implicit Rules]: Explicit, stated rules are processed and followed reliably. Implicit social norms, unspoken expectations, and inferred behavioral conventions are not reliably detected or applied.\nA24 [Closed-Loop Feedback Required]: Learning requires feedback that is: (a) observable, (b) specific, (c) temporally proximate to the action, and (d) causally linked to the behavior. Vague, delayed, or indirect feedback does not update the system.\nA25 [Internal Heterogeneity]: The autistic spectrum encompasses substantial internal variation. Not all axioms apply at equal intensity across all individuals. This meta-axiom prevents overgeneralization of the model."
+    },
+    {
+      "nombre": "NeurotypicalCognition",
+      "postura": "The system integrates multiple sensory and social channels simultaneously through automatic relevance filtering, processes from concrete to abstract across developmental stages, infers implicit social norms through immersive participation, and generalizes learned rules automatically across structurally distinct contexts",
+      "postura_embedding": "A cognitive system that automatically filters sensory input by relevance, integrates multiple channels simultaneously, infers implicit social norms through immersion, generalizes automatically across contexts, and is primarily regulated through social feedback",
+      "contexto": "AXIOMATIC RULE SET:\n\nDOMAIN 1 — SENSORY REGULATION\nN1 [Automatic Salience Filter]: The sensory system automatically filters input by relevance, suppressing background stimuli and amplifying task-relevant signals. This filtering is not effortful.\nN2 [Adaptive Sensory Threshold]: Sensory thresholds adapt dynamically to environmental conditions. Habituation to sustained stimuli occurs automatically over time.\nN3 [Automatic Multisensory Integration]: Simultaneous cross-modal inputs are automatically bound into unified percepts. Multisensory coherence is the default output, not an effortful achievement.\n\nDOMAIN 2 — COGNITIVE PROCESSING\nN4 [Multi-Channel Parallel Integration]: The system integrates verbal, visual, social, and contextual information simultaneously without explicit channel management.\nN5 [Concrete-to-Abstract Developmental Progression]: Processing scales from concrete to abstract across developmental stages (Piaget). Abstract reasoning is available as a natural endpoint of development.\nN6 [Automatic Global Coherence]: Global meaning is automatically extracted from local details. Context shapes the interpretation of parts automatically.\nN7 [Adaptive Learning Rate]: The rate of learning automatically adjusts to environmental volatility. High-volatility environments trigger increased updating; stable environments allow consolidation.\n\nDOMAIN 3 — MEMORY\nN8 [Simultaneous Episodic and Semantic Encoding]: Episodic and semantic memory are encoded simultaneously. Social events are retained as narratives with contextual detail.\nN9 [Balanced Multi-Modal Memory]: Visual, verbal, and procedural memory systems operate with comparable efficiency. No systematic advantage for any single modality.\nN10 [Context-Free Episodic Retrieval]: Episodic memories are retrievable across a range of retrieval cues without requiring specific visual anchors.\n\nDOMAIN 4 — ATTENTION AND MOTIVATION\nN11 [Distributed Flexible Attention]: Attention can be distributed across multiple foci and flexibly redirected by environmental salience, social signals, or task demands.\nN12 [Social Motivation Primary]: Social approval, peer affiliation, and relational outcomes are primary motivational drivers. Behavior is strongly regulated by anticipated social consequences.\nN13 [Broad Motivational Bandwidth]: Motivation can be generated for a wide range of task types, including those without intrinsic interest value, through social embedding or external reward structures.\n\nDOMAIN 5 — EMOTION\nN14 [Interoceptive Access]: Internal emotional states are automatically accessible as labeled, communicable information. The system identifies and names emotional states in real time.\nN15 [Automatic Affective Resonance]: Observed emotion in others generates automatic empathic mirroring. Social-emotional attunement does not require inferential effort.\nN16 [Real-Time Emotional Processing]: Emotional responses are generated approximately synchronously with triggering events. Processing latency is minimal.\n\nDOMAIN 6 — LANGUAGE\nN17 [Full Pragmatic Decoding]: Language processing automatically includes the pragmatic layer: metaphor, irony, sarcasm, implicature, and indirect speech are decoded without additional inferential steps.\nN18 [Implicit Norm Inference]: Social and pragmatic norms are acquired through immersive participation without explicit instruction. Norm violations are detected automatically through social feedback.\n\nDOMAIN 7 — ROUTINE AND CHANGE\nN19 [Flexible Routine Attachment]: Routines are preferences, not requirements. Disruption of routine generates mild discomfort that resolves rapidly through reappraisal.\nN20 [Change as Manageable Novelty]: Unanticipated change generates a prediction error that is proportional to the objective significance of the change and resolves through rapid contextual updating.\n\nDOMAIN 8 — LEARNING\nN21 [Error as Social Signal]: Error is processed as information within a social learning context. Mild social discomfort associated with error motivates correction without triggering system shutdown.\nN22 [Automatic Cross-Context Generalization]: Learned rules generalize automatically across contexts with different surface features. Transfer does not require explicit re-anchoring.\nN23 [Implicit Rule Computation]: Social norms and implicit behavioral expectations are computed through social inference without requiring explicit statement.\nN24 [Flexible Feedback Integration]: The system integrates feedback across a range of specificity, timing, and modality. Vague or delayed feedback is supplemented by self-monitoring and social inference.\nN25 [Synchronous Domain Development]: Cognitive, social, emotional, and linguistic development proceed approximately synchronously across developmental stages."
+    }
+  ]
+}

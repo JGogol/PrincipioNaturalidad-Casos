@@ -1,0 +1,165 @@
+{
+  "test": "Permutation Test for Topological Significance",
+  "method": {
+    "n_permutations": 500,
+    "max_points_per_actor": 300,
+    "metric_space": "Cosine distance in 768d"
+  },
+  "actors": [
+    "AutisticCognition",
+    "NeurotypicalCognition"
+  ],
+  "n_actors": 2,
+  "n_pairs": 1,
+  "pairs": {
+    "AutisticCognition vs NeurotypicalCognition": {
+      "metrics": {
+        "H0_mean_lifetime_diff": {
+          "observed": 0.018440840834359262,
+          "null_mean": 0.004264093855950346,
+          "null_std": 0.0031213432880386016,
+          "null_95th": 0.010117133883728216,
+          "null_99th": 0.013420949953056899,
+          "p_value": 0.002,
+          "significant_95": true,
+          "significant_99": true,
+          "effect_size_z": 4.541873696730532
+        },
+        "H0_max_lifetime_diff": {
+          "observed": 0.015867412090301514,
+          "null_mean": 0.01509061062335968,
+          "null_std": 0.012223212065502264,
+          "null_95th": 0.03722971975803374,
+          "null_99th": 0.05435624778270715,
+          "p_value": 0.378,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.06355133681548487
+        },
+        "H0_feature_count_diff": {
+          "observed": 0.0,
+          "null_mean": 0.0,
+          "null_std": 0.0,
+          "null_95th": 0.0,
+          "null_99th": 0.0,
+          "p_value": 1.0,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0
+        },
+        "H0_std_lifetime_diff": {
+          "observed": 0.00143654497631409,
+          "null_mean": 0.002824807438419117,
+          "null_std": 0.0021786848456192814,
+          "null_95th": 0.0068675305098717014,
+          "null_99th": 0.009714069811602295,
+          "p_value": 0.68,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.6372020555870803
+        },
+        "H0_wasserstein": {
+          "observed": 5.544038867935021,
+          "null_mean": 1.8809728492055986,
+          "null_std": 0.7343941770443456,
+          "null_95th": 3.2580797970294935,
+          "null_99th": 4.335501641035079,
+          "p_value": 0.002,
+          "significant_95": true,
+          "significant_99": true,
+          "effect_size_z": 4.987874540988132
+        },
+        "H0_bottleneck": {
+          "observed": 0.02979588508605957,
+          "null_mean": 0.026315545082092284,
+          "null_std": 0.009881637429444317,
+          "null_95th": 0.045769339799880925,
+          "null_99th": 0.05657715439796444,
+          "p_value": 0.282,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.35220276283330504
+        },
+        "H1_mean_lifetime_diff": {
+          "observed": 0.004332284556892316,
+          "null_mean": 0.001380190877495884,
+          "null_std": 0.0010451356500355753,
+          "null_95th": 0.0033681665752370417,
+          "null_99th": 0.004342321787635312,
+          "p_value": 0.012,
+          "significant_95": true,
+          "significant_99": false,
+          "effect_size_z": 2.8246033701902196
+        },
+        "H1_max_lifetime_diff": {
+          "observed": 0.010665714740753174,
+          "null_mean": 0.01884933829307556,
+          "null_std": 0.01440938705558324,
+          "null_95th": 0.045232406258583,
+          "null_99th": 0.06618217587471006,
+          "p_value": 0.662,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.567936965032212
+        },
+        "H1_feature_count_diff": {
+          "observed": 7.0,
+          "null_mean": 17.442,
+          "null_std": 12.382190274745417,
+          "null_95th": 41.0,
+          "null_99th": 54.0,
+          "p_value": 0.812,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": -0.8433079906143416
+        },
+        "H1_std_lifetime_diff": {
+          "observed": 0.0036065153136425193,
+          "null_mean": 0.0016556962452448827,
+          "null_std": 0.0012402301471506273,
+          "null_95th": 0.003913697970595709,
+          "null_99th": 0.005618117617566872,
+          "p_value": 0.074,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 1.5729492408159527
+        },
+        "H1_wasserstein": {
+          "observed": 2.9754473325573754,
+          "null_mean": 1.5891620107845248,
+          "null_std": 0.16570285357322026,
+          "null_95th": 1.8972146626400161,
+          "null_99th": 2.0033315533603124,
+          "p_value": 0.0,
+          "significant_95": true,
+          "significant_99": true,
+          "effect_size_z": 8.366092024844239
+        },
+        "H1_bottleneck": {
+          "observed": 0.037822723388671875,
+          "null_mean": 0.03174055165052414,
+          "null_std": 0.007450006548683258,
+          "null_95th": 0.046359747648239136,
+          "null_99th": 0.05397830963134765,
+          "p_value": 0.19,
+          "significant_95": false,
+          "significant_99": false,
+          "effect_size_z": 0.8163981733979443
+        }
+      },
+      "h1_significant": 2,
+      "h1_total": 6,
+      "conclusion": "Parcial (2/6)"
+    }
+  },
+  "summary": {
+    "divergence_ranking": [
+      {
+        "pair": "AutisticCognition vs NeurotypicalCognition",
+        "wasserstein_observed": 2.9754473325573754,
+        "wasserstein_p": 0.0,
+        "wasserstein_z": 8.366092024844239
+      }
+    ]
+  }
+}
