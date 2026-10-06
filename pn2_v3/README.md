@@ -94,7 +94,7 @@ paper citan.
   publican sus salidas y, en `lectura/`, una implementación independiente que reproduce las cifras
   centrales desde el objeto. `p_tilde.py` sí se incluye porque define la relación que `F` certifica.
 - Las anotaciones del autor y de los modelos A, B y C sobre los 36 pares del Nilo (sólo está la de
-  uno de los modelos); ver `POR_AGREGAR.md`.
+  uno de los modelos). El paper ya no reporta esa anotación.
 
 ## Complementos (agregados el 6-oct-2026)
 
@@ -111,9 +111,8 @@ Formato de `cert_*.jsonl`: igual que `controles/premisas_nulas/` (una línea por
 j2_contr E→v, j2_contr v→E]`).
 
 `resultados/hansson_*.json` y `resultados/levi_*.json` son de una corrida anterior (9-sep); las de
-`complementos/contraccion_v4/` son las del régimen v4. **Ninguna de las dos reproduce la tabla de
-contracción del Suplemento S3** (|Ω| = 255, corte = 20, … para Egipto): esa tabla todavía no tiene
-archivo de salida.
+`complementos/contraccion_v4/` son las del régimen v4. El paper no reporta tablas de contracción: se
+publican como datos.
 
 ### recalculo/
 
