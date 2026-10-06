@@ -1,0 +1,18 @@
+Nilo F      Arab Republic of Egypt                   propias 501: retirar 1 paso alcanza 471; hacen falta 2+ pasos 30 (otro razonamiento lo devuelve)
+Nilo F      Federal Democratic Republic of Ethiopia  propias 500: retirar 1 paso alcanza 467; hacen falta 2+ pasos 33 (otro razonamiento lo devuelve)
+Nilo F      Republic of Sudan                        propias 500: retirar 1 paso alcanza 471; hacen falta 2+ pasos 29 (otro razonamiento lo devuelve)
+Nilo sinD   Arab Republic of Egypt                   propias 501: retirar 1 paso alcanza 487; hacen falta 2+ pasos 14 (otro razonamiento lo devuelve)
+Nilo sinD   Federal Democratic Republic of Ethiopia  propias 500: retirar 1 paso alcanza 484; hacen falta 2+ pasos 16 (otro razonamiento lo devuelve)
+Nilo sinD   Republic of Sudan                        propias 500: retirar 1 paso alcanza 489; hacen falta 2+ pasos 11 (otro razonamiento lo devuelve)
+Selene F      Commonwealth of Cerulea                  propias 502: retirar 1 paso alcanza 447; hacen falta 2+ pasos 55 (otro razonamiento lo devuelve)
+Selene F      Federation of Borealis                   propias 499: retirar 1 paso alcanza 439; hacen falta 2+ pasos 60 (otro razonamiento lo devuelve)
+Selene F      Republic of Aurelia                      propias 499: retirar 1 paso alcanza 421; hacen falta 2+ pasos 78 (otro razonamiento lo devuelve)
+Selene sinD   Commonwealth of Cerulea                  propias 502: retirar 1 paso alcanza 464; hacen falta 2+ pasos 38 (otro razonamiento lo devuelve)
+Selene sinD   Federation of Borealis                   propias 499: retirar 1 paso alcanza 463; hacen falta 2+ pasos 36 (otro razonamiento lo devuelve)
+Selene sinD   Republic of Aurelia                      propias 499: retirar 1 paso alcanza 439; hacen falta 2+ pasos 60 (otro razonamiento lo devuelve)
+Nilo coincidencia 1 (3 actores) Egypt seeks alternative downstream allies beyond S :: impugnar Egypt=2 Ethiopia=2 Sudan=2
+Nilo coincidencia 2 (3 actores) Water flow patterns to Egypt become less predictab :: impugnar Egypt=2 Ethiopia=2 Sudan=3
+Nilo coincidencia 4 (3 actores) Egypt appeals to African Union for mediation mecha :: impugnar Egypt=2 Ethiopia=2 Sudan=2
+Nilo coincidencia 6 (2 actores) Downstream flood preparedness systems lose predict :: impugnar Ethiopia=2 Sudan=2
+Selene coincidencia 1 (3 actores) Other nations lose meaningful input on habitat ope :: impugnar Cerulea=1 Borealis=2 Aurelia=1
+Selene coincidencia 2 (3 actores) Emergency response protocols lack single coordinat :: impugnar Cerulea=8 Borealis=12 Aurelia=4

@@ -124,3 +124,11 @@ python control_cruzado.py   # §4.2 / S4.2: observado vs. estimado, antes y desp
 ```
 
 Requiere numpy, scipy y pandas. Las salidas están en `RESULTADOS_*.txt`.
+
+### recalculo/menger/
+
+Costo de desconocer (§3.7 y Proposición de Menger en el Apéndice A del paper). `menger.py caso nombre
+var` calcula, para cada premisa y cada proposición de su región, los cortes mínimos k_F (pares a
+impugnar) y k_P (pasos propios a declarar inválidos) y escribe `menger.json`; `resumen.py`, `extra.py`
+y `rama.py` producen los `RESULTADOS_*.txt`; `nulo.py caso reps semilla` compara contra el nulo de
+campo (`nulo_*.json`). Requiere networkx además de numpy, scipy y pandas.

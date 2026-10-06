@@ -1,0 +1,36 @@
+== Nilo  (F, |F|=102)
+  Arab Republic of Egypt                     propias  501 (kF=inf todas: True) | ajenas  320  kF: 1:202(63%) 2:75(23%) 3:29(9%) 4+:14(4%)
+  Federal Democratic Republic of Ethiopia    propias  500 (kF=inf todas: True) | ajenas  322  kF: 1:234(73%) 2:49(15%) 3:6(2%) 4+:33(10%)
+  Republic of Sudan                          propias  500 (kF=inf todas: True) | ajenas  200  kF: 1:139(70%) 2:34(17%) 3:21(10%) 4+:6(3%)
+== Nilo  (sinD, |F|=76)
+  Arab Republic of Egypt                     propias  501 (kF=inf todas: True) | ajenas  281  kF: 1:190(68%) 2:69(25%) 3:18(6%) 4+:4(1%)
+  Federal Democratic Republic of Ethiopia    propias  500 (kF=inf todas: True) | ajenas  202  kF: 1:140(69%) 2:30(15%) 3:9(4%) 4+:23(11%)
+  Republic of Sudan                          propias  500 (kF=inf todas: True) | ajenas   65  kF: 1:46(71%) 2:9(14%) 3:7(11%) 4+:3(5%)
+== Selene  (F, |F|=218)
+  Commonwealth of Cerulea                    propias  502 (kF=inf todas: True) | ajenas  544  kF: 1:253(47%) 2:66(12%) 3:44(8%) 4+:181(33%)
+  Federation of Borealis                     propias  499 (kF=inf todas: True) | ajenas  440  kF: 1:225(51%) 2:48(11%) 3:67(15%) 4+:100(23%)
+  Republic of Aurelia                        propias  499 (kF=inf todas: True) | ajenas  336  kF: 1:195(58%) 2:68(20%) 3:18(5%) 4+:55(16%)
+== Selene  (sinD, |F|=147)
+  Commonwealth of Cerulea                    propias  502 (kF=inf todas: True) | ajenas  378  kF: 1:135(36%) 2:43(11%) 3:98(26%) 4+:102(27%)
+  Federation of Borealis                     propias  499 (kF=inf todas: True) | ajenas  344  kF: 1:167(49%) 2:56(16%) 3:56(16%) 4+:65(19%)
+  Republic of Aurelia                        propias  499 (kF=inf todas: True) | ajenas  209  kF: 1:120(57%) 2:46(22%) 3:25(12%) 4+:18(9%)
+== Nilo, coincidencias del terreno común (sin D, estricto): costo de desconocer por actor
+  1. [Egypt,Ethiopia,Sudan] Egypt seeks alternative downstream allies beyond Sudan :: Egypt=propia  Ethiopia=propia  Sudan=propia
+  2. [Egypt,Ethiopia,Sudan] Water flow patterns to Egypt become less predictable :: Egypt=propia  Ethiopia=propia  Sudan=propia
+  3. [Egypt] Egypt seeks bilateral agreements bypassing trilateral framew :: Egypt=propia  Ethiopia=1  Sudan=2
+  4. [Egypt,Ethiopia,Sudan] Egypt appeals to African Union for mediation mechanisms :: Egypt=propia  Ethiopia=propia  Sudan=propia
+  5. [Egypt] Egypt's bilateral negotiating leverage with Ethiopia becomes :: Egypt=propia  Ethiopia=5  Sudan=1
+  6. [Ethiopia,Sudan] Downstream flood preparedness systems lose predictive capaci :: Egypt=3  Ethiopia=propia  Sudan=propia
+  7. [Sudan] Sudan's bilateral relationships with neighbors become strain :: Egypt=1  Ethiopia=1  Sudan=propia
+  Mediación UA (nodo 1069): Egypt/F=4  Egypt/sinD=4  Ethiopia/F=4  Ethiopia/sinD=3  Sudan/F=propia  Sudan/sinD=propia
+== Selene, coincidencias del terreno común (sin D, estricto): costo de desconocer por actor
+  1. [Cerulea,Borealis,Aurelia] Other nations lose meaningful input on habitat operations :: Cerulea=propia  Borealis=propia  Aurelia=propia
+  2. [Cerulea,Borealis,Aurelia] Emergency response protocols lack single coordinating author :: Cerulea=propia  Borealis=propia  Aurelia=propia
+  3. [Cerulea] Cerulea gains negotiating leverage in resource allocation di :: Cerulea=propia  Borealis=2  Aurelia=1
+  4. [Cerulea] Other nations must choose between accepting Cerulea's crew s :: Cerulea=propia  Borealis=1  Aurelia=1
+  5. [Cerulea] Other nations become structurally dependent on Cerulea's tec :: Cerulea=propia  Borealis=2  Aurelia=1
+  6. [Cerulea] Other nations develop contingency plans independent of Cerul :: Cerulea=propia  Borealis=3  Aurelia=2
+  7. [Borealis] Technical troubleshooting becomes dependent on Borealis crew :: Cerulea=3  Borealis=propia  Aurelia=2
+  8. [Aurelia] Other crews develop suspicion about Republic of Aurelia's re :: Cerulea=2  Borealis=2  Aurelia=propia
+  9. [Aurelia] Other crews must request permission for basic life support a :: Cerulea=3  Borealis=1  Aurelia=propia
+  10. [Aurelia] Other crews cannot monitor critical system parameters indepe :: Cerulea=5  Borealis=4  Aurelia=propia

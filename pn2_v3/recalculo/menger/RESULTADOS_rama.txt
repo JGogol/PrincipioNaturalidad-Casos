@@ -1,0 +1,33 @@
+Nilo coincidencia 1: Egypt seeks alternative downstream allies beyond Sudan
+    Egypt: prof 6, rama hasta la premisa 6 pasos, lo que cuelga 1 (0.2% de su árbol)
+    Ethiopia: prof 4, rama hasta la premisa 4 pasos, lo que cuelga 1 (0.2% de su árbol)
+    Sudan: prof 5, rama hasta la premisa 5 pasos, lo que cuelga 1 (0.2% de su árbol)
+Nilo coincidencia 2: Water flow patterns to Egypt become less predictable
+    Egypt: prof 6, rama hasta la premisa 6 pasos, lo que cuelga 1 (0.2% de su árbol)
+    Ethiopia: prof 5, rama hasta la premisa 5 pasos, lo que cuelga 1 (0.2% de su árbol)
+    Sudan: prof 3, rama hasta la premisa 3 pasos, lo que cuelga 18 (3.6% de su árbol)
+Nilo coincidencia 4: Egypt appeals to African Union for mediation mechanisms
+    Egypt: prof 6, rama hasta la premisa 6 pasos, lo que cuelga 1 (0.2% de su árbol)
+    Ethiopia: prof 4, rama hasta la premisa 4 pasos, lo que cuelga 1 (0.2% de su árbol)
+    Sudan: prof 5, rama hasta la premisa 5 pasos, lo que cuelga 1 (0.2% de su árbol)
+Nilo coincidencia 6: Downstream flood preparedness systems lose predictive capaci
+    Ethiopia: prof 6, rama hasta la premisa 6 pasos, lo que cuelga 1 (0.2% de su árbol)
+    Sudan: prof 5, rama hasta la premisa 5 pasos, lo que cuelga 1 (0.2% de su árbol)
+    Sudan: prof 5, rama hasta la premisa 5 pasos, lo que cuelga 1 (0.2% de su árbol)
+Selene coincidencia 1: Other nations lose meaningful input on habitat operations
+    Cerulea: prof 5, rama hasta la premisa 5 pasos, lo que cuelga 4 (0.8% de su árbol)
+    Borealis: prof 5, rama hasta la premisa 5 pasos, lo que cuelga 1 (0.2% de su árbol)
+    Aurelia: prof 5, rama hasta la premisa 5 pasos, lo que cuelga 1 (0.2% de su árbol)
+Selene coincidencia 2: Emergency response protocols lack single coordinating author
+    Cerulea: prof 5, rama hasta la premisa 5 pasos, lo que cuelga 4 (0.8% de su árbol)
+    Cerulea: prof 6, rama hasta la premisa 6 pasos, lo que cuelga 1 (0.2% de su árbol)
+    Cerulea: prof 5, rama hasta la premisa 5 pasos, lo que cuelga 4 (0.8% de su árbol)
+    Cerulea: prof 4, rama hasta la premisa 4 pasos, lo que cuelga 19 (3.8% de su árbol)
+    Borealis: prof 5, rama hasta la premisa 5 pasos, lo que cuelga 1 (0.2% de su árbol)
+    Borealis: prof 5, rama hasta la premisa 5 pasos, lo que cuelga 1 (0.2% de su árbol)
+    Borealis: prof 4, rama hasta la premisa 4 pasos, lo que cuelga 16 (3.2% de su árbol)
+    Borealis: prof 5, rama hasta la premisa 5 pasos, lo que cuelga 1 (0.2% de su árbol)
+    Borealis: prof 4, rama hasta la premisa 4 pasos, lo que cuelga 6 (1.2% de su árbol)
+    Aurelia: prof 4, rama hasta la premisa 4 pasos, lo que cuelga 3 (0.6% de su árbol)
+    Aurelia: prof 5, rama hasta la premisa 5 pasos, lo que cuelga 1 (0.2% de su árbol)
+    Aurelia: prof 5, rama hasta la premisa 5 pasos, lo que cuelga 1 (0.2% de su árbol)
