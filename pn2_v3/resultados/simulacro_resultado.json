@@ -1,0 +1,21 @@
+{
+ "raiz_E": "ModerateAutism_1_5",
+ "actor_E": "ModerateAutism",
+ "n_nodos_E": 7,
+ "campana": "RESONANCIA",
+ "actores_tocados": [
+  "BroadlyAffectedAutism",
+  "MixedASDwithDelay",
+  "NeurotypicalCognition",
+  "SocialBehavioralAutism"
+ ],
+ "transitividad": true,
+ "pares_leidos": 4221,
+ "rupturas": 287,
+ "fusiones_por_actor": {
+  "BroadlyAffectedAutism": 10,
+  "MixedASDwithDelay": 8,
+  "NeurotypicalCognition": 2,
+  "SocialBehavioralAutism": 9
+ }
+}

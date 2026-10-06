@@ -1,0 +1,13 @@
+{
+ "clausura": {
+  "ext": 0,
+  "idem": 0,
+  "mono": 0,
+  "N": 200
+ },
+ "sistema_clausura_viol": 0,
+ "M": 1500,
+ "implicaciones": 904,
+ "redundantes": 805,
+ "base": 99
+}

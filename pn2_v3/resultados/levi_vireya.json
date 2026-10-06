@@ -1,0 +1,41 @@
+{
+ "Agrarian Federation of Tessara": {
+  "K": 500,
+  "O": 268,
+  "cascada": 382,
+  "contraido": 433,
+  "costo": 0.866,
+  "retenido": 67,
+  "fus_E": 0,
+  "exito": true,
+  "inclusion": true,
+  "consistencia": true,
+  "relevancia": true
+ },
+ "Coastal State of Ondrel": {
+  "K": 504,
+  "O": 245,
+  "cascada": 437,
+  "contraido": 471,
+  "costo": 0.9345238095238095,
+  "retenido": 33,
+  "fus_E": 0,
+  "exito": true,
+  "inclusion": true,
+  "consistencia": true,
+  "relevancia": true
+ },
+ "Highland Republic of Vireya": {
+  "K": 500,
+  "O": 330,
+  "cascada": 499,
+  "contraido": 500,
+  "costo": 1.0,
+  "retenido": 0,
+  "fus_E": 0,
+  "exito": true,
+  "inclusion": true,
+  "consistencia": true,
+  "relevancia": true
+ }
+}

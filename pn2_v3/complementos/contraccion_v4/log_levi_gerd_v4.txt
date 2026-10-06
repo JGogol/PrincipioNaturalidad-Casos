@@ -1,0 +1,10 @@
+============================================================
+REVISION DE LEVI  K*E = (K - ¬E) + E   [2026-05-01_01-11-03]
+============================================================
+actor         |K|    |O|  cascada contraido   costo retenido | exito incl consist RELEV
+Egypt         502    167      372       414   82.5%       88 |  ok    ok    ok     ok
+Ethiopia      501    166      343       382   76.2%      119 |  ok    ok    ok     ok
+Sudan         501    142      320       369   73.7%      132 |  ok    ok    ok     ok
+
+costo = fraccion del razonamiento que el actor debe ABANDONAR para absorber E (Levi: |K - ¬E| perdido)
+-> levi_*.json

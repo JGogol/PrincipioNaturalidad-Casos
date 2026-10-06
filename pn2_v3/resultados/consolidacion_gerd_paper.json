@@ -1,0 +1,151 @@
+{
+ "caso": "gerd",
+ "regimen": "norm",
+ "cobertura_j2": [
+  136799,
+  136799
+ ],
+ "kernels": 27587,
+ "actores": {
+  "Arab Republic of Egypt": {
+   "n": 502,
+   "atacados": 430,
+   "atacado_por": {
+    "Ethiopia": 6644,
+    "Sudan": 8054
+   },
+   "k_greedy": 0.3884462151394422,
+   "k_atrinch": 0.7649402390438247,
+   "corte": 1
+  },
+  "Federal Democratic Republic of Ethiopia": {
+   "n": 501,
+   "atacados": 458,
+   "atacado_por": {
+    "Egypt": 6644,
+    "Sudan": 12889
+   },
+   "k_greedy": 0.626746506986028,
+   "k_atrinch": 0.8383233532934131,
+   "corte": 1
+  },
+  "Republic of Sudan": {
+   "n": 501,
+   "atacados": 486,
+   "atacado_por": {
+    "Egypt": 8054,
+    "Ethiopia": 12889
+   },
+   "k_greedy": 0.7225548902195609,
+   "k_atrinch": 0.9461077844311377,
+   "corte": 1
+  }
+ },
+ "focos": [
+  {
+   "id": "Arab Republic of Egypt_4_36",
+   "actor": "Arab Republic of Egypt",
+   "grado": 333,
+   "depth": 4,
+   "texto": "Sudan's infrastructure coordination needs receive less attention"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_358",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "grado": 287,
+   "depth": 5,
+   "texto": "Sudan accepts technical coordination meetings without binding commitments"
+  },
+  {
+   "id": "Arab Republic of Egypt_6_264",
+   "actor": "Arab Republic of Egypt",
+   "grado": 286,
+   "depth": 6,
+   "texto": "Sudan's dam safety protocols remain uncoordinated with GERD operations"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_3_30",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "grado": 263,
+   "depth": 3,
+   "texto": "Sudan's water security planning loses historical legal foundation"
+  },
+  {
+   "id": "Arab Republic of Egypt_4_55",
+   "actor": "Arab Republic of Egypt",
+   "grado": 238,
+   "depth": 4,
+   "texto": "Sudan's infrastructure concerns receive reduced mediator attention"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_4_91",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "grado": 210,
+   "depth": 4,
+   "texto": "Ethiopia establishes unilateral drought response protocols"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_359",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "grado": 199,
+   "depth": 5,
+   "texto": "Sudan separates operational discussions from sovereignty questions"
+  },
+  {
+   "id": "Arab Republic of Egypt_6_340",
+   "actor": "Arab Republic of Egypt",
+   "grado": 199,
+   "depth": 6,
+   "texto": "Sudan's ability to raise infrastructure risks in negotiations weakens"
+  },
+  {
+   "id": "Republic of Sudan_4_134",
+   "actor": "Republic of Sudan",
+   "grado": 190,
+   "depth": 4,
+   "texto": "Sudan must accept whatever coordination terms Ethiopia offers"
+  },
+  {
+   "id": "Republic of Sudan_5_496",
+   "actor": "Republic of Sudan",
+   "grado": 186,
+   "depth": 5,
+   "texto": "Sudan becomes a passive recipient of upstream decisions"
+  },
+  {
+   "id": "Arab Republic of Egypt_6_263",
+   "actor": "Arab Republic of Egypt",
+   "grado": 185,
+   "depth": 6,
+   "texto": "Sudan postpones critical infrastructure investments near Blue Nile"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_356",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "grado": 180,
+   "depth": 5,
+   "texto": "Ethiopia avoids international oversight of upstream water development"
+  },
+  {
+   "id": "Republic of Sudan_5_394",
+   "actor": "Republic of Sudan",
+   "grado": 176,
+   "depth": 5,
+   "texto": "Sudan's domestic water security depends entirely on Ethiopian goodwill"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_4_411",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "grado": 174,
+   "depth": 4,
+   "texto": "Ethiopia rejects external monitoring of dam operations"
+  },
+  {
+   "id": "Republic of Sudan_5_584",
+   "actor": "Republic of Sudan",
+   "grado": 174,
+   "depth": 5,
+   "texto": "Sudan leverages multilateral backing to demand binding technical protocols"
+  }
+ ]
+}

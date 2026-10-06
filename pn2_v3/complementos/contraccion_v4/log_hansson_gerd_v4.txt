@@ -1,0 +1,38 @@
+== gerd: 1. CORTE (antichain superior de Omega) ==
+Egypt     |O|=167 |corte|= 42 prof.min=1 cascada=414/502  raiz en O: False
+    d1 |Sub|=105 acum=0.21  Ethiopia rejects Egypt's binding agreement demands as colonial-era impositions
+    d3 |Sub|= 42 acum=0.29  Arab Republic of Egypt gains negotiating advantage through aligned mediator priorities
+    d3 |Sub|= 30 acum=0.35  Regional powers align with competing positions on water sovereignty
+    d3 |Sub|= 30 acum=0.41  Ethiopia rejects frameworks perceived as constraining its sovereignty
+    d4 |Sub|= 27 acum=0.47  Egypt must evaluate whether Sudan's operational needs align with Egyptian water security
+    d4 |Sub|= 27 acum=0.52  Ethiopia rejects frameworks that constrain its hydroelectric capacity
+Ethiopia  |O|=166 |corte|= 39 prof.min=1 cascada=382/501  raiz en O: False
+    d1 |Sub|=175 acum=0.35  Colonial-era water allocation treaties lose practical enforcement power
+    d1 |Sub|= 35 acum=0.42  Egypt rejects Ethiopia's legal framework as illegitimate
+    d3 |Sub|= 23 acum=0.47  International water law shifts toward upstream sovereignty principles
+    d3 |Sub|= 21 acum=0.51  Other upstream nations gain legal justification for unilateral projects
+    d4 |Sub|= 16 acum=0.54  Other upstream nations gain precedent for unilateral dam construction
+    d3 |Sub|= 14 acum=0.57  Downstream nations face weakened legal positions globally
+Sudan     |O|=142 |corte|= 49 prof.min=1 cascada=369/501  raiz en O: False
+    d1 |Sub|=123 acum=0.25  Sudan seeks international arbitration mechanisms for water disputes
+    d2 |Sub|= 35 acum=0.32  Sudan rejects economic incentives without safety guarantees
+    d3 |Sub|= 27 acum=0.37  Sudan's downstream infrastructure risks become unaddressed through multilateral channels
+    d2 |Sub|= 21 acum=0.41  Sudan aligns with Egypt's position on halting unilateral operations
+    d3 |Sub|= 16 acum=0.44  Sudan loses its primary diplomatic leverage over GERD operations
+    d3 |Sub|= 15 acum=0.47  Sudan strengthens bilateral water agreements with South Sudan
+
+== gerd: 2. RESCATE por sostén ajeno ==
+actor       k_dep  k_dep+resc rescatados  rescatado por
+Egypt       82.5%       72.1%         52  {'Sudan': 16, 'Ethiopia': 10}
+Ethiopia    76.2%       72.7%         18  {'Egypt': 10, 'Sudan': 7}
+Sudan       73.7%       63.9%         49  {'Egypt': 10, 'Ethiopia': 8}
+
+== gerd: 3. dónde pega la propuesta ==
+Egypt     por prof.: d0:0/1 d1:1/2 d2:0/7 d3:6/18 d4:22/54 d5:38/139 d6:62/188 d7:37/87 d8:1/6
+          opone | puente 38/111=0.34  no-puente 129/391=0.33
+Ethiopia  por prof.: d0:0/1 d1:2/5 d2:8/18 d3:21/56 d4:46/147 d5:64/231 d6:25/43
+          opone | puente 44/90=0.49  no-puente 122/411=0.30
+Sudan     por prof.: d0:0/1 d1:1/4 d2:2/11 d3:10/34 d4:30/109 d5:80/272 d6:19/70
+          opone | puente 34/103=0.33  no-puente 108/398=0.27
+
+-> hansson_gerd.json

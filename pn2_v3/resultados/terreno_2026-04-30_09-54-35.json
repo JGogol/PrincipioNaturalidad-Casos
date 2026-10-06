@@ -1,0 +1,926 @@
+{
+ "caso": "../../casos/selene/runs/2026-04-30_09-54-35",
+ "n": 1503,
+ "F": 218,
+ "R_raiz": {
+  "Commonwealth of Cerulea": 1047,
+  "Federation of Borealis": 940,
+  "Republic of Aurelia": 836
+ },
+ "meet": 551,
+ "meet_comp": {
+  "Republic of Aurelia": 244,
+  "Federation of Borealis": 184,
+  "Commonwealth of Cerulea": 123
+ },
+ "cabezas": [
+  {
+   "id": "Republic of Aurelia_2_7",
+   "actor": "Republic of Aurelia",
+   "d": 2,
+   "n": 108,
+   "texto": "Other crews must request permission for basic life support adjustments"
+  },
+  {
+   "id": "Federation of Borealis_1_3",
+   "actor": "Federation of Borealis",
+   "d": 1,
+   "n": 78,
+   "texto": "Resource allocation debates intensify over geological operation priorities"
+  },
+  {
+   "id": "Republic of Aurelia_2_5",
+   "actor": "Republic of Aurelia",
+   "d": 2,
+   "n": 34,
+   "texto": "Other crews cannot monitor critical system parameters independently"
+  },
+  {
+   "id": "Commonwealth of Cerulea_4_66",
+   "actor": "Commonwealth of Cerulea",
+   "d": 4,
+   "n": 19,
+   "texto": "Habitat life support systems experience unmanaged strain from conflicting usage"
+  },
+  {
+   "id": "Federation of Borealis_4_59",
+   "actor": "Federation of Borealis",
+   "d": 4,
+   "n": 16,
+   "texto": "The habitat's integrated life support becomes a contested control point"
+  },
+  {
+   "id": "Republic of Aurelia_3_57",
+   "actor": "Republic of Aurelia",
+   "d": 3,
+   "n": 14,
+   "texto": "Physical confrontations occur over habitat control areas"
+  },
+  {
+   "id": "Commonwealth of Cerulea_4_65",
+   "actor": "Commonwealth of Cerulea",
+   "d": 4,
+   "n": 13,
+   "texto": "Each crew begins independent resource consumption without coordination"
+  },
+  {
+   "id": "Republic of Aurelia_3_43",
+   "actor": "Republic of Aurelia",
+   "d": 3,
+   "n": 10,
+   "texto": "Aurelia can reduce oxygen flow to non-Aurelian crew members"
+  },
+  {
+   "id": "Federation of Borealis_3_47",
+   "actor": "Federation of Borealis",
+   "d": 3,
+   "n": 10,
+   "texto": "Borealis experiences increased distrust toward other crews"
+  },
+  {
+   "id": "Commonwealth of Cerulea_4_53",
+   "actor": "Commonwealth of Cerulea",
+   "d": 4,
+   "n": 10,
+   "texto": "Habitat operations proceed without unified command structure"
+  },
+  {
+   "id": "Commonwealth of Cerulea_4_40",
+   "actor": "Commonwealth of Cerulea",
+   "d": 4,
+   "n": 9,
+   "texto": "Other nations must negotiate personnel choices with Cerulea"
+  },
+  {
+   "id": "Republic of Aurelia_3_58",
+   "actor": "Republic of Aurelia",
+   "d": 3,
+   "n": 8,
+   "texto": "Other crews attempt independent system modifications without Aurelian oversight"
+  },
+  {
+   "id": "Republic of Aurelia_3_25",
+   "actor": "Republic of Aurelia",
+   "d": 3,
+   "n": 8,
+   "texto": "Other crews cannot monitor life support system status"
+  },
+  {
+   "id": "Federation of Borealis_4_90",
+   "actor": "Federation of Borealis",
+   "d": 4,
+   "n": 7,
+   "texto": "Critical habitat operations proceed without coordinated oversight"
+  },
+  {
+   "id": "Federation of Borealis_4_80",
+   "actor": "Federation of Borealis",
+   "d": 4,
+   "n": 6,
+   "texto": "Other crews lose ability to monitor critical life support parameters"
+  },
+  {
+   "id": "Federation of Borealis_4_84",
+   "actor": "Federation of Borealis",
+   "d": 4,
+   "n": 6,
+   "texto": "Life support system parameters drift without coordinated monitoring"
+  },
+  {
+   "id": "Federation of Borealis_4_127",
+   "actor": "Federation of Borealis",
+   "d": 4,
+   "n": 5,
+   "texto": "Emergency protocols activate requiring immediate crew reduction decisions"
+  },
+  {
+   "id": "Commonwealth of Cerulea_5_135",
+   "actor": "Commonwealth of Cerulea",
+   "d": 5,
+   "n": 5,
+   "texto": "Other crews face reduced oxygen allocation ratios"
+  },
+  {
+   "id": "Commonwealth of Cerulea_5_145",
+   "actor": "Commonwealth of Cerulea",
+   "d": 5,
+   "n": 5,
+   "texto": "Other nations must negotiate crew composition through Cerulea"
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_234",
+   "actor": "Commonwealth of Cerulea",
+   "d": 6,
+   "n": 5,
+   "texto": "Other nations' crew members face systematic exclusion from critical resources"
+  },
+  {
+   "id": "Federation of Borealis_4_122",
+   "actor": "Federation of Borealis",
+   "d": 4,
+   "n": 5,
+   "texto": "Other nations develop counter-leverage strategies targeting Borealis dependencies"
+  },
+  {
+   "id": "Republic of Aurelia_4_170",
+   "actor": "Republic of Aurelia",
+   "d": 4,
+   "n": 5,
+   "texto": "Physical confrontation occurs within the confined habitat space"
+  },
+  {
+   "id": "Federation of Borealis_4_68",
+   "actor": "Federation of Borealis",
+   "d": 4,
+   "n": 4,
+   "texto": "Emergency response protocols become ineffective"
+  },
+  {
+   "id": "Commonwealth of Cerulea_5_191",
+   "actor": "Commonwealth of Cerulea",
+   "d": 5,
+   "n": 4,
+   "texto": "Other nations must choose between accepting Cerulea's crew size demands or losing critical capabilities"
+  },
+  {
+   "id": "Commonwealth of Cerulea_5_92",
+   "actor": "Commonwealth of Cerulea",
+   "d": 5,
+   "n": 4,
+   "texto": "Other nations lose meaningful input on habitat operations"
+  },
+  {
+   "id": "Commonwealth of Cerulea_5_179",
+   "actor": "Commonwealth of Cerulea",
+   "d": 5,
+   "n": 4,
+   "texto": "Life support system failures occur without coordinated technical response"
+  },
+  {
+   "id": "Republic of Aurelia_4_166",
+   "actor": "Republic of Aurelia",
+   "d": 4,
+   "n": 4,
+   "texto": "Competing crews develop independent information gathering methods"
+  },
+  {
+   "id": "Commonwealth of Cerulea_5_137",
+   "actor": "Commonwealth of Cerulea",
+   "d": 5,
+   "n": 4,
+   "texto": "Non-Cerulea personnel experience increased physiological stress"
+  },
+  {
+   "id": "Federation of Borealis_5_169",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 4,
+   "texto": "Life support resources get redistributed without multilateral consent"
+  },
+  {
+   "id": "Federation of Borealis_3_37",
+   "actor": "Federation of Borealis",
+   "d": 3,
+   "n": 4,
+   "texto": "Federation of Borealis activates emergency protocols for system protection"
+  },
+  {
+   "id": "Federation of Borealis_4_139",
+   "actor": "Federation of Borealis",
+   "d": 4,
+   "n": 4,
+   "texto": "Emergency protocols trigger simultaneous competing technical interventions"
+  },
+  {
+   "id": "Commonwealth of Cerulea_5_174",
+   "actor": "Commonwealth of Cerulea",
+   "d": 5,
+   "n": 4,
+   "texto": "Emergency conditions force unilateral actions despite consensus framework"
+  },
+  {
+   "id": "Republic of Aurelia_4_171",
+   "actor": "Republic of Aurelia",
+   "d": 4,
+   "n": 4,
+   "texto": "Critical habitat systems become contested operational battleground"
+  },
+  {
+   "id": "Federation of Borealis_4_69",
+   "actor": "Federation of Borealis",
+   "d": 4,
+   "n": 4,
+   "texto": "Borealis systems operate without coordinated oversight"
+  },
+  {
+   "id": "Republic of Aurelia_4_81",
+   "actor": "Republic of Aurelia",
+   "d": 4,
+   "n": 4,
+   "texto": "Critical habitat systems register multiple simultaneous control inputs"
+  },
+  {
+   "id": "Republic of Aurelia_4_123",
+   "actor": "Republic of Aurelia",
+   "d": 4,
+   "n": 4,
+   "texto": "Other crews develop alternative life support management protocols"
+  },
+  {
+   "id": "Republic of Aurelia_4_109",
+   "actor": "Republic of Aurelia",
+   "d": 4,
+   "n": 4,
+   "texto": "Other nations' crews are forced into defensive positioning"
+  },
+  {
+   "id": "Commonwealth of Cerulea_5_125",
+   "actor": "Commonwealth of Cerulea",
+   "d": 5,
+   "n": 4,
+   "texto": "Other nations lose direct control over habitat modifications"
+  },
+  {
+   "id": "Federation of Borealis_4_73",
+   "actor": "Federation of Borealis",
+   "d": 4,
+   "n": 4,
+   "texto": "Competing consumption schedules develop for water and oxygen reserves"
+  },
+  {
+   "id": "Republic of Aurelia_4_150",
+   "actor": "Republic of Aurelia",
+   "d": 4,
+   "n": 4,
+   "texto": "Mission safety becomes subordinated to territorial control assertions"
+  },
+  {
+   "id": "Commonwealth of Cerulea_5_180",
+   "actor": "Commonwealth of Cerulea",
+   "d": 5,
+   "n": 4,
+   "texto": "Medical emergencies develop without unified treatment protocols"
+  },
+  {
+   "id": "Republic of Aurelia_4_117",
+   "actor": "Republic of Aurelia",
+   "d": 4,
+   "n": 4,
+   "texto": "Aurelia's strategic leverage in habitat negotiations significantly diminishes"
+  },
+  {
+   "id": "Commonwealth of Cerulea_5_190",
+   "actor": "Commonwealth of Cerulea",
+   "d": 5,
+   "n": 4,
+   "texto": "Cerulea loses influence over habitat operational decisions"
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_246",
+   "actor": "Commonwealth of Cerulea",
+   "d": 6,
+   "n": 4,
+   "texto": "Other nations' crews face potential life support rationing"
+  },
+  {
+   "id": "Federation of Borealis_4_82",
+   "actor": "Federation of Borealis",
+   "d": 4,
+   "n": 3,
+   "texto": "System diagnostics become inaccessible to non-Borealis personnel"
+  },
+  {
+   "id": "Republic of Aurelia_3_28",
+   "actor": "Republic of Aurelia",
+   "d": 3,
+   "n": 3,
+   "texto": "Other crews lose ability to verify system safety margins"
+  },
+  {
+   "id": "Republic of Aurelia_4_162",
+   "actor": "Republic of Aurelia",
+   "d": 4,
+   "n": 3,
+   "texto": "Physical confrontations emerge over habitat system control panels"
+  },
+  {
+   "id": "Republic of Aurelia_4_133",
+   "actor": "Republic of Aurelia",
+   "d": 4,
+   "n": 3,
+   "texto": "Habitat's integrated control systems register conflicting command inputs"
+  },
+  {
+   "id": "Republic of Aurelia_4_100",
+   "actor": "Republic of Aurelia",
+   "d": 4,
+   "n": 2,
+   "texto": "Other crews begin developing contingency plans for system access"
+  },
+  {
+   "id": "Republic of Aurelia_5_261",
+   "actor": "Republic of Aurelia",
+   "d": 5,
+   "n": 1,
+   "texto": "Republic of Aurelia's crew sustains injuries during physical altercation"
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_482",
+   "actor": "Commonwealth of Cerulea",
+   "d": 6,
+   "n": 1,
+   "texto": "Physical confrontation over communication hardware becomes imminent"
+  },
+  {
+   "id": "Federation of Borealis_5_447",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Critical system interfaces become inaccessible due to physical blockade"
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_338",
+   "actor": "Commonwealth of Cerulea",
+   "d": 6,
+   "n": 1,
+   "texto": "Habitat temperature regulation ceases threatening crew survival"
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_521",
+   "actor": "Commonwealth of Cerulea",
+   "d": 6,
+   "n": 1,
+   "texto": "Emergency protocols override consensus-based decision making"
+  },
+  {
+   "id": "Federation of Borealis_5_445",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Habitat life support systems suffer physical damage during struggle"
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_430",
+   "actor": "Commonwealth of Cerulea",
+   "d": 6,
+   "n": 1,
+   "texto": "Habitat interior temperatures exceed human survivability limits"
+  },
+  {
+   "id": "Commonwealth of Cerulea_7_554",
+   "actor": "Commonwealth of Cerulea",
+   "d": 7,
+   "n": 1,
+   "texto": "Cerulea controls timing of critical system maintenance"
+  },
+  {
+   "id": "Federation of Borealis_5_245",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Critical habitat systems experience competing operational demands"
+  },
+  {
+   "id": "Commonwealth of Cerulea_7_544",
+   "actor": "Commonwealth of Cerulea",
+   "d": 7,
+   "n": 1,
+   "texto": "Safety procedures become inconsistent across different crew sections"
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_446",
+   "actor": "Commonwealth of Cerulea",
+   "d": 6,
+   "n": 1,
+   "texto": "Other nations develop contingency plans independent of Cerulea's framework"
+  },
+  {
+   "id": "Republic of Aurelia_6_535",
+   "actor": "Republic of Aurelia",
+   "d": 6,
+   "n": 1,
+   "texto": "Habitat's unified control system enters fail-safe lockdown mode"
+  },
+  {
+   "id": "Federation of Borealis_5_448",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Emergency protocols activate automatically due to detected physical threats"
+  },
+  {
+   "id": "Federation of Borealis_5_431",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Other crews lose ability to monitor essential system parameters"
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_248",
+   "actor": "Commonwealth of Cerulea",
+   "d": 6,
+   "n": 1,
+   "texto": "Other nations attempt independent operations without Earth coordination"
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_465",
+   "actor": "Commonwealth of Cerulea",
+   "d": 6,
+   "n": 1,
+   "texto": "Medical conditions deteriorate without professional intervention"
+  },
+  {
+   "id": "Federation of Borealis_5_397",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Other crews must negotiate without essential water ice resources"
+  },
+  {
+   "id": "Federation of Borealis_4_78",
+   "actor": "Federation of Borealis",
+   "d": 4,
+   "n": 1,
+   "texto": "Real-time crisis responses occur without Earth authorization"
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_558",
+   "actor": "Commonwealth of Cerulea",
+   "d": 6,
+   "n": 1,
+   "texto": "Habitat systems override crew input and execute predetermined survival protocols"
+  },
+  {
+   "id": "Federation of Borealis_5_259",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Other nations lose direct control over critical life support functions"
+  },
+  {
+   "id": "Republic of Aurelia_5_356",
+   "actor": "Republic of Aurelia",
+   "d": 5,
+   "n": 1,
+   "texto": "Republic of Aurelia's crew starts monitoring other teams' activities suspiciously"
+  },
+  {
+   "id": "Federation of Borealis_5_469",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Critical life support protocols become simultaneously conflicted"
+  },
+  {
+   "id": "Republic of Aurelia_5_229",
+   "actor": "Republic of Aurelia",
+   "d": 5,
+   "n": 1,
+   "texto": "Habitat's unified control system begins experiencing cascading failures"
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_354",
+   "actor": "Commonwealth of Cerulea",
+   "d": 6,
+   "n": 1,
+   "texto": "Medical emergencies may exceed available response window"
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_559",
+   "actor": "Commonwealth of Cerulea",
+   "d": 6,
+   "n": 1,
+   "texto": "Commonwealth of Cerulea loses control over its communication array operations"
+  },
+  {
+   "id": "Republic of Aurelia_6_443",
+   "actor": "Republic of Aurelia",
+   "d": 6,
+   "n": 1,
+   "texto": "Aurelia's engineer receives conflicting technical directives from multiple command structures"
+  },
+  {
+   "id": "Federation of Borealis_5_534",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Competing crews accept subordinate roles in operational hierarchy"
+  },
+  {
+   "id": "Republic of Aurelia_5_259",
+   "actor": "Republic of Aurelia",
+   "d": 5,
+   "n": 1,
+   "texto": "Joint crew decisions proceed without Aurelian technical input"
+  },
+  {
+   "id": "Commonwealth of Cerulea_5_216",
+   "actor": "Commonwealth of Cerulea",
+   "d": 5,
+   "n": 1,
+   "texto": "Cerulea gains negotiating leverage in resource allocation discussions"
+  },
+  {
+   "id": "Federation of Borealis_5_282",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Other crews must negotiate for basic life support access"
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_318",
+   "actor": "Commonwealth of Cerulea",
+   "d": 6,
+   "n": 1,
+   "texto": "System maintenance decisions require Cerulea's technical consent"
+  },
+  {
+   "id": "Republic of Aurelia_5_260",
+   "actor": "Republic of Aurelia",
+   "d": 5,
+   "n": 1,
+   "texto": "Habitat's integrated life support systems suffer operational disruption"
+  },
+  {
+   "id": "Federation of Borealis_5_432",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Habitat's integrated safety protocols become compromised by unilateral control"
+  },
+  {
+   "id": "Federation of Borealis_6_518",
+   "actor": "Federation of Borealis",
+   "d": 6,
+   "n": 1,
+   "texto": "Other nations lose ability to override life support decisions"
+  },
+  {
+   "id": "Commonwealth of Cerulea_7_508",
+   "actor": "Commonwealth of Cerulea",
+   "d": 7,
+   "n": 1,
+   "texto": "Reduced crews cannot maintain full operational capabilities"
+  },
+  {
+   "id": "Federation of Borealis_5_283",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Conflicting commands are issued to the same habitat systems simultaneously"
+  },
+  {
+   "id": "Federation of Borealis_5_390",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Federation of Borealis activates defensive protocols for critical systems"
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_550",
+   "actor": "Commonwealth of Cerulea",
+   "d": 6,
+   "n": 1,
+   "texto": "Other nations become structurally dependent on Cerulea's technical capabilities"
+  },
+  {
+   "id": "Federation of Borealis_5_412",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Alternative crews face potential system dependency crisis"
+  },
+  {
+   "id": "Federation of Borealis_5_193",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "CO2 scrubbing system parameters drift beyond safe operational limits"
+  },
+  {
+   "id": "Republic of Aurelia_5_421",
+   "actor": "Republic of Aurelia",
+   "d": 5,
+   "n": 1,
+   "texto": "Physical confrontation damages critical habitat systems"
+  },
+  {
+   "id": "Federation of Borealis_5_426",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Other crews begin emergency contingency planning for system failure"
+  },
+  {
+   "id": "Federation of Borealis_5_189",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Other crews begin developing workarounds for restricted systems"
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_203",
+   "actor": "Commonwealth of Cerulea",
+   "d": 6,
+   "n": 1,
+   "texto": "Other nations' technical procedures are subordinated to Cerulea's systems"
+  },
+  {
+   "id": "Republic of Aurelia_5_423",
+   "actor": "Republic of Aurelia",
+   "d": 5,
+   "n": 1,
+   "texto": "Habitat's unified control system experiences operational disruption"
+  },
+  {
+   "id": "Republic of Aurelia_5_262",
+   "actor": "Republic of Aurelia",
+   "d": 5,
+   "n": 1,
+   "texto": "Critical system monitoring becomes compromised during crew conflict"
+  },
+  {
+   "id": "Federation of Borealis_5_230",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Federation of Borealis initiates defensive preparations to protect critical systems"
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_388",
+   "actor": "Commonwealth of Cerulea",
+   "d": 6,
+   "n": 1,
+   "texto": "CO2 scrubbing systems approach maximum operational threshold"
+  },
+  {
+   "id": "Republic of Aurelia_6_534",
+   "actor": "Republic of Aurelia",
+   "d": 6,
+   "n": 1,
+   "texto": "Life support system receives contradictory operational parameters simultaneously"
+  },
+  {
+   "id": "Federation of Borealis_5_267",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Other nations lose input on life support system configurations"
+  },
+  {
+   "id": "Federation of Borealis_6_510",
+   "actor": "Federation of Borealis",
+   "d": 6,
+   "n": 1,
+   "texto": "Other crews experience degraded environmental conditions"
+  },
+  {
+   "id": "Federation of Borealis_5_238",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Life support systems begin operating without unified oversight protocols"
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_251",
+   "actor": "Commonwealth of Cerulea",
+   "d": 6,
+   "n": 1,
+   "texto": "Cerulea determines which personnel from other nations remain aboard"
+  },
+  {
+   "id": "Republic of Aurelia_5_335",
+   "actor": "Republic of Aurelia",
+   "d": 5,
+   "n": 1,
+   "texto": "Other crews begin independent contingency planning for survival"
+  },
+  {
+   "id": "Republic of Aurelia_5_263",
+   "actor": "Republic of Aurelia",
+   "d": 5,
+   "n": 1,
+   "texto": "Oxygen generation equipment experiences mechanical damage from struggle"
+  },
+  {
+   "id": "Republic of Aurelia_6_533",
+   "actor": "Republic of Aurelia",
+   "d": 6,
+   "n": 1,
+   "texto": "Conflicting commands overload habitat's integrated control processors"
+  },
+  {
+   "id": "Republic of Aurelia_5_417",
+   "actor": "Republic of Aurelia",
+   "d": 5,
+   "n": 1,
+   "texto": "Critical habitat systems become partially inaccessible to non-Aurelian personnel"
+  },
+  {
+   "id": "Republic of Aurelia_5_427",
+   "actor": "Republic of Aurelia",
+   "d": 5,
+   "n": 1,
+   "texto": "Other nations lose capacity for independent safety decision-making"
+  },
+  {
+   "id": "Commonwealth of Cerulea_7_547",
+   "actor": "Commonwealth of Cerulea",
+   "d": 7,
+   "n": 1,
+   "texto": "Other nations face operational paralysis on life support issues"
+  },
+  {
+   "id": "Federation of Borealis_5_209",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "n": 1,
+   "texto": "Physical confrontations occur near critical habitat infrastructure"
+  },
+  {
+   "id": "Republic of Aurelia_5_434",
+   "actor": "Republic of Aurelia",
+   "d": 5,
+   "n": 1,
+   "texto": "Aurelia's crew restricts other nations' access to critical systems"
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_511",
+   "actor": "Commonwealth of Cerulea",
+   "d": 6,
+   "n": 1,
+   "texto": "Habitat atmospheric composition begins deteriorating beyond safe parameters"
+  },
+  {
+   "id": "Republic of Aurelia_5_230",
+   "actor": "Republic of Aurelia",
+   "d": 5,
+   "n": 1,
+   "texto": "Life support parameters drift outside safe operational ranges"
+  }
+ ],
+ "puentes": 442,
+ "fusionados": 243,
+ "puentes_top": [
+  {
+   "id": "Commonwealth of Cerulea_5_211",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "Commonwealth of Cerulea's communication array experiences power allocation conflicts",
+   "ajenos": 459
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_324",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "Cerulea controls access to medical equipment for non-Cerulea personnel",
+   "ajenos": 444
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_241",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "Commonwealth of Cerulea controls oxygen allocation between crew members",
+   "ajenos": 444
+  },
+  {
+   "id": "Commonwealth of Cerulea_7_548",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "Emergency life support responses require Cerulea's prior authorization",
+   "ajenos": 444
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_303",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "Cerulea can selectively restrict information flow to other crews",
+   "ajenos": 438
+  },
+  {
+   "id": "Commonwealth of Cerulea_2_4",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "Other nations must negotiate from weakened bargaining positions",
+   "ajenos": 437
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_232",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "Crew selection decisions become source of inter-national conflict",
+   "ajenos": 426
+  },
+  {
+   "id": "Commonwealth of Cerulea_5_115",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "Cerulea determines life support priority allocation among crews",
+   "ajenos": 425
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_354",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "Medical emergencies may exceed available response window",
+   "ajenos": 423
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_388",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "CO2 scrubbing systems approach maximum operational threshold",
+   "ajenos": 423
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_511",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "Habitat atmospheric composition begins deteriorating beyond safe parameters",
+   "ajenos": 423
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_521",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "Emergency protocols override consensus-based decision making",
+   "ajenos": 423
+  },
+  {
+   "id": "Commonwealth of Cerulea_5_174",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "Emergency conditions force unilateral actions despite consensus framework",
+   "ajenos": 423
+  },
+  {
+   "id": "Commonwealth of Cerulea_5_145",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "Other nations must negotiate crew composition through Cerulea",
+   "ajenos": 423
+  },
+  {
+   "id": "Commonwealth of Cerulea_4_40",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "Other nations must negotiate personnel choices with Cerulea",
+   "ajenos": 423
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_446",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "Other nations develop contingency plans independent of Cerulea's framework",
+   "ajenos": 423
+  },
+  {
+   "id": "Commonwealth of Cerulea_5_135",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "Other crews face reduced oxygen allocation ratios",
+   "ajenos": 423
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_315",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "Other crews consider emergency protocols to restore oxygen equity",
+   "ajenos": 423
+  },
+  {
+   "id": "Commonwealth of Cerulea_4_65",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "Each crew begins independent resource consumption without coordination",
+   "ajenos": 423
+  },
+  {
+   "id": "Commonwealth of Cerulea_5_154",
+   "actor": "Commonwealth of Cerulea",
+   "texto": "Habitat's integrated life support systems receive conflicting operational commands",
+   "ajenos": 423
+  }
+ ]
+}

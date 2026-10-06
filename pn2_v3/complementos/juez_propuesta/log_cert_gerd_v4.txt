@@ -1,0 +1,9 @@
+[cert] regimen: P~ SIMETRICA | derivadas: SI | E_alias 'Proposal': DESCARTADO (aparece en los nodos del caso)
+   Arab Republic of Egypt                 ['Arab Republic of Egypt', 'Egypt']        residuo 0/502
+   Federal Democratic Republic of Ethiopia ['Federal Democratic Republic of Ethiopia', 'Ethiopia'] residuo 0/501
+   Republic of Sudan                      ['Republic of Sudan', 'Sudan']             residuo 0/501
+[cert] E=Proposal (17 nodos) vs 1504 nodos en 3 actores, doble juez
+[cert] reanudando: 51 bloques (E,actor) ya certificados
+[cert] cargando juez base...
+[cert] cargando juez moritz...
+[cert] COMPLETO -> cert_gerd_v4.jsonl  (0.0 h)

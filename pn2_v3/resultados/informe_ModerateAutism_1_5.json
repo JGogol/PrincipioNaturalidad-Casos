@@ -1,0 +1,31 @@
+{
+ "raiz_E": "ModerateAutism_1_5",
+ "n_arbol_E": 7,
+ "R_size": 684,
+ "lambda": {
+  "BroadlyAffectedAutism": 0.2149122807017544,
+  "MixedASDwithDelay": 0.21637426900584794,
+  "ModerateAutism": 0.21637426900584794,
+  "NeurotypicalCognition": 0.13450292397660818,
+  "SocialBehavioralAutism": 0.21783625730994152
+ },
+ "m_E": 0.7836257309941521,
+ "zonas": {
+  "F": 5,
+  "B": 2
+ },
+ "actores_tocados": [
+  "BroadlyAffectedAutism",
+  "MixedASDwithDelay",
+  "NeurotypicalCognition",
+  "SocialBehavioralAutism"
+ ],
+ "tipo_hub": "PARCIAL",
+ "costo_deriva": 0.13246268656716417,
+ "meet_por_actor": {
+  "BroadlyAffectedAutism": 147,
+  "MixedASDwithDelay": 148,
+  "NeurotypicalCognition": 92,
+  "SocialBehavioralAutism": 149
+ }
+}

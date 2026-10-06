@@ -1,0 +1,36 @@
+ 1 | CERT | impl 0.993 contr 0.000 cos 0.745 | Arab Republic of Egypt_6_432 || Republic of Sudan_6_572
+ 2 | CERT | impl 0.962 contr 0.002 cos 0.596 | Arab Republic of Egypt_5_248 || Republic of Sudan_6_563
+ 3 | CERT | impl 0.982 contr 0.004 cos 0.500 | Arab Republic of Egypt_5_233 || Republic of Sudan_5_601
+ 4 | CASI | impl 0.455 contr 0.003 cos 0.425 | Arab Republic of Egypt_5_350 || Federal Democratic Republic of Ethiopia_5_348
+ 5 | CERT | impl 0.800 contr 0.000 cos 0.653 | Arab Republic of Egypt_5_130 || Republic of Sudan_4_129
+ 6 | CERT | impl 0.997 contr 0.000 cos 0.836 | Arab Republic of Egypt_5_177 || Republic of Sudan_5_369
+ 7 | CASI | impl 0.494 contr 0.001 cos 0.617 | Arab Republic of Egypt_6_608 || Federal Democratic Republic of Ethiopia_6_492
+ 8 | CASI | impl 0.498 contr 0.024 cos 0.669 | Arab Republic of Egypt_3_31 || Republic of Sudan_5_404
+ 9 | CERT | impl 0.989 contr 0.001 cos 0.706 | Arab Republic of Egypt_7_594 || Federal Democratic Republic of Ethiopia_5_191
+10 | CERT | impl 0.552 contr 0.001 cos 0.355 | Federal Democratic Republic of Ethiopia_4_123 || Republic of Sudan_5_327
+11 | CASI | impl 0.490 contr 0.001 cos 0.427 | Arab Republic of Egypt_5_303 || Republic of Sudan_6_556
+12 | CERT | impl 0.992 contr 0.000 cos 0.604 | Federal Democratic Republic of Ethiopia_6_597 || Republic of Sudan_5_335
+13 | CERT | impl 0.984 contr 0.000 cos 0.754 | Arab Republic of Egypt_7_596 || Federal Democratic Republic of Ethiopia_5_438
+14 | CERT | impl 0.697 contr 0.086 cos 0.667 | Arab Republic of Egypt_6_538 || Federal Democratic Republic of Ethiopia_4_73
+15 | CASI | impl 0.451 contr 0.012 cos 0.625 | Federal Democratic Republic of Ethiopia_5_484 || Republic of Sudan_4_75
+16 | CERT | impl 0.985 contr 0.000 cos 0.610 | Arab Republic of Egypt_5_248 || Republic of Sudan_4_75
+17 | CERT | impl 0.939 contr 0.000 cos 0.513 | Arab Republic of Egypt_3_39 || Federal Democratic Republic of Ethiopia_5_302
+18 | CERT | impl 0.994 contr 0.000 cos 0.762 | Arab Republic of Egypt_6_580 || Republic of Sudan_5_319
+19 | CERT | impl 0.982 contr 0.000 cos 0.643 | Arab Republic of Egypt_5_214 || Republic of Sudan_5_484
+20 | CERT | impl 0.661 contr 0.000 cos 0.452 | Federal Democratic Republic of Ethiopia_5_536 || Republic of Sudan_5_202
+21 | CERT | impl 0.982 contr 0.000 cos 0.754 | Arab Republic of Egypt_7_551 || Federal Democratic Republic of Ethiopia_6_519
+22 | CERT | impl 0.995 contr 0.000 cos 0.659 | Arab Republic of Egypt_3_38 || Federal Democratic Republic of Ethiopia_3_115
+23 | CASI | impl 0.433 contr 0.076 cos 0.461 | Arab Republic of Egypt_5_130 || Republic of Sudan_5_355
+24 | CERT | impl 0.973 contr 0.000 cos 0.432 | Arab Republic of Egypt_5_151 || Federal Democratic Republic of Ethiopia_6_519
+25 | CERT | impl 0.832 contr 0.019 cos 0.761 | Arab Republic of Egypt_5_326 || Republic of Sudan_5_244
+26 | CASI | impl 0.483 contr 0.000 cos 0.437 | Arab Republic of Egypt_3_27 || Federal Democratic Republic of Ethiopia_6_540
+27 | CASI | impl 0.492 contr 0.009 cos 0.481 | Arab Republic of Egypt_7_612 || Republic of Sudan_5_357
+28 | CERT | impl 0.990 contr 0.000 cos 0.774 | Arab Republic of Egypt_6_477 || Federal Democratic Republic of Ethiopia_5_300
+29 | CERT | impl 0.556 contr 0.001 cos 0.596 | Arab Republic of Egypt_6_441 || Republic of Sudan_3_34
+30 | CASI | impl 0.490 contr 0.001 cos 0.690 | Arab Republic of Egypt_5_326 || Federal Democratic Republic of Ethiopia_4_268
+31 | CERT | impl 0.850 contr 0.158 cos 0.524 | Federal Democratic Republic of Ethiopia_4_91 || Republic of Sudan_5_304
+32 | CASI | impl 0.482 contr 0.000 cos 0.565 | Arab Republic of Egypt_6_564 || Republic of Sudan_5_277
+33 | CASI | impl 0.385 contr 0.067 cos 0.409 | Federal Democratic Republic of Ethiopia_6_588 || Republic of Sudan_5_273
+34 | CERT | impl 0.963 contr 0.001 cos 0.663 | Federal Democratic Republic of Ethiopia_6_597 || Republic of Sudan_5_431
+35 | CASI | impl 0.477 contr 0.000 cos 0.421 | Arab Republic of Egypt_6_478 || Republic of Sudan_5_372
+36 | CERT | impl 0.586 contr 0.080 cos 0.584 | Arab Republic of Egypt_5_143 || Republic of Sudan_5_601

@@ -1,0 +1,13 @@
+{
+ "clave": "nt_inferencia_social",
+ "por_actor": {
+  "NeurotypicalCognition": {
+   "ruptura_REAL": 177,
+   "artefacto_negacion": 5
+  },
+  "ModerateAutism": {
+   "artefacto_negacion": 90,
+   "ruptura_REAL": 1046
+  }
+ }
+}

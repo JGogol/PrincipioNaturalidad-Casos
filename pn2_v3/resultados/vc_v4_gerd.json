@@ -1,0 +1,25 @@
+{
+ "caso": "gerd",
+ "nucleos": 28398,
+ "excluidos": 83,
+ "tamano": 846,
+ "cota_inferior": 805,
+ "optimo_probado": false,
+ "reparto": {
+  "Arab Republic of Egypt": {
+   "cede": 154,
+   "de": 502,
+   "frac": 0.3068
+  },
+  "Federal Democratic Republic of Ethiopia": {
+   "cede": 335,
+   "de": 501,
+   "frac": 0.6687
+  },
+  "Republic of Sudan": {
+   "cede": 357,
+   "de": 501,
+   "frac": 0.7126
+  }
+ }
+}

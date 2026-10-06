@@ -1,0 +1,219 @@
+{
+ "caso": "selene",
+ "actores": {
+  "Commonwealth of Cerulea": {
+   "O": 176,
+   "corte": 1,
+   "corte_prof": [
+    0
+   ],
+   "cascada": 503,
+   "raiz_en_O": true,
+   "top_corte": [
+    {
+     "id": "Commonwealth of Cerulea_0_0",
+     "depth": 0,
+     "sub": 503,
+     "acum": 1.0,
+     "texto": "Cerulea claims essential-participant status based on its monopoly on Earth communication and medical capability. Argues that operational priority and hardware contribution are irrelevant if crews cannot communicate with Earth or treat medical emergencies. Demands guaranteed full-crew presence as a non-negotiable condition, noting that its physician and communication specialists cannot be reduced without endangering all occupants. Proposes a consensus-based decision framework requiring unanimous agreement for any life support modification. States that exclusion or reduction would force it to operate its communication array from its landing vehicle for crew safety reasons, which would interrupt the habitat's connection to Earth-based mission control."
+    }
+   ],
+   "k_dep": 1.0,
+   "k_dep_rescate": 0.8707753479125249,
+   "rescatados": 65,
+   "rescatado_por": {
+    "Borealis": 22,
+    "Aurelia": 33
+   },
+   "ejemplos_rescatados": [
+    "Other nations must negotiate personnel choices with Cerulea",
+    "Each crew begins independent resource consumption without coordination",
+    "Time-sensitive life support modifications face potential delays",
+    "Cerulea determines life support priority allocation among crews",
+    "Other nations lose direct control over habitat modifications"
+   ],
+   "opone_por_prof": {
+    "0": [
+     1,
+     1
+    ],
+    "1": [
+     2,
+     3
+    ],
+    "2": [
+     1,
+     6
+    ],
+    "3": [
+     9,
+     16
+    ],
+    "4": [
+     14,
+     44
+    ],
+    "5": [
+     51,
+     115
+    ],
+    "6": [
+     91,
+     294
+    ],
+    "7": [
+     7,
+     24
+    ]
+   },
+   "opone_puente": [
+    58,
+    151
+   ],
+   "opone_nopuente": [
+    118,
+    352
+   ]
+  },
+  "Federation of Borealis": {
+   "O": 142,
+   "corte": 1,
+   "corte_prof": [
+    0
+   ],
+   "cascada": 500,
+   "raiz_en_O": true,
+   "top_corte": [
+    {
+     "id": "Federation of Borealis_0_0",
+     "depth": 0,
+     "sub": 500,
+     "acum": 1.0,
+     "texto": "Borealis claims co-equal operational authority based on its dominant contribution to life support hardware. Asserts that without its contributed systems the habitat cannot sustain life regardless of other considerations. Demands equal representation in all operational decisions and considers subordination to another nation's command incompatible with the operational responsibility for the systems it built. Proposes a rotating command structure with periodic authority transfers. Additionally argues that its exclusive resource extraction capability makes it the most strategically essential crew for long-term survival, and that resource allocation should reflect the operational priority of its geological operations."
+    }
+   ],
+   "k_dep": 1.0,
+   "k_dep_rescate": 0.866,
+   "rescatados": 67,
+   "rescatado_por": {
+    "Aurelia": 37,
+    "Cerulea": 22
+   },
+   "ejemplos_rescatados": [
+    "Federation of Borealis activates emergency protocols for system protection",
+    "Borealis experiences increased distrust toward other crews",
+    "Equipment access becomes contested between competing extraction approaches",
+    "Other nations develop counter-leverage strategies targeting Borealis dependencies",
+    "Federation of Borealis restricts access to critical life support controls"
+   ],
+   "opone_por_prof": {
+    "0": [
+     1,
+     1
+    ],
+    "1": [
+     2,
+     4
+    ],
+    "2": [
+     3,
+     10
+    ],
+    "3": [
+     11,
+     33
+    ],
+    "4": [
+     22,
+     98
+    ],
+    "5": [
+     83,
+     290
+    ],
+    "6": [
+     20,
+     64
+    ]
+   },
+   "opone_puente": [
+    46,
+    136
+   ],
+   "opone_nopuente": [
+    96,
+    364
+   ]
+  },
+  "Republic of Aurelia": {
+   "O": 156,
+   "corte": 1,
+   "corte_prof": [
+    0
+   ],
+   "cascada": 500,
+   "raiz_en_O": true,
+   "top_corte": [
+    {
+     "id": "Republic of Aurelia_0_0",
+     "depth": 0,
+     "sub": 500,
+     "acum": 1.0,
+     "texto": "Aurelia claims operational priority based on first-arrival activation rights and majority funding contribution. Demands exclusive control of life support systems management and veto authority over habitat modifications. Proposes that other crews limit their presence to maintain safety margins, with Aurelia retaining full crew complement. Argues that its life support engineer is indispensable and that allowing unqualified personnel to access critical systems risks everyone's survival. Considers any arrangement that places Aurelian systems under shared command authority a fundamental threat to operational safety, given that its life support engineer alone holds end-to-end systems certification."
+    }
+   ],
+   "k_dep": 1.0,
+   "k_dep_rescate": 0.748,
+   "rescatados": 126,
+   "rescatado_por": {
+    "Cerulea": 33,
+    "Borealis": 37
+   },
+   "ejemplos_rescatados": [
+    "Aurelia restricts other crews' access to life support systems",
+    "Other crews cannot monitor critical system parameters independently",
+    "Aurelia gains unilateral control over oxygen distribution rates",
+    "Other crews must request permission for basic life support adjustments",
+    "Other crews develop dependency on Aurelian technical expertise"
+   ],
+   "opone_por_prof": {
+    "0": [
+     1,
+     1
+    ],
+    "1": [
+     1,
+     4
+    ],
+    "2": [
+     3,
+     13
+    ],
+    "3": [
+     18,
+     43
+    ],
+    "4": [
+     41,
+     125
+    ],
+    "5": [
+     69,
+     240
+    ],
+    "6": [
+     23,
+     74
+    ]
+   },
+   "opone_puente": [
+    45,
+    155
+   ],
+   "opone_nopuente": [
+    111,
+    345
+   ]
+  }
+ }
+}

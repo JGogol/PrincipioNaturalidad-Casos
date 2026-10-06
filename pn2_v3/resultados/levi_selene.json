@@ -1,0 +1,41 @@
+{
+ "Commonwealth of Cerulea": {
+  "K": 503,
+  "O": 186,
+  "cascada": 502,
+  "contraido": 503,
+  "costo": 1.0,
+  "retenido": 0,
+  "fus_E": 0,
+  "exito": true,
+  "inclusion": true,
+  "consistencia": true,
+  "relevancia": true
+ },
+ "Federation of Borealis": {
+  "K": 500,
+  "O": 162,
+  "cascada": 414,
+  "contraido": 440,
+  "costo": 0.88,
+  "retenido": 60,
+  "fus_E": 0,
+  "exito": true,
+  "inclusion": true,
+  "consistencia": true,
+  "relevancia": true
+ },
+ "Republic of Aurelia": {
+  "K": 500,
+  "O": 201,
+  "cascada": 492,
+  "contraido": 498,
+  "costo": 0.996,
+  "retenido": 2,
+  "fus_E": 0,
+  "exito": true,
+  "inclusion": true,
+  "consistencia": true,
+  "relevancia": true
+ }
+}

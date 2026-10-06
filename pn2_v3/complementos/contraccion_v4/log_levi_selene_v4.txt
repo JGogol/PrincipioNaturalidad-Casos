@@ -1,0 +1,10 @@
+============================================================
+REVISION DE LEVI  K*E = (K - ¬E) + E   [2026-04-30_09-54-35]
+============================================================
+actor         |K|    |O|  cascada contraido   costo retenido | exito incl consist RELEV
+Cerulea       503    176      502       503  100.0%        0 |  ok    ok    ok     ok
+Borealis      500    142      499       500  100.0%        0 |  ok    ok    ok     ok
+Aurelia       500    156      499       500  100.0%        0 |  ok    ok    ok     ok
+
+costo = fraccion del razonamiento que el actor debe ABANDONAR para absorber E (Levi: |K - ¬E| perdido)
+-> levi_*.json

@@ -1,0 +1,19 @@
+{
+ "C": {
+  "Agrarian Federation of Tessara": 0.0,
+  "Coastal State of Ondrel": 0.0,
+  "Highland Republic of Vireya": 0.0
+ },
+ "O": {
+  "Agrarian Federation of Tessara": 0.10925,
+  "Coastal State of Ondrel": 0.11284722222222222,
+  "Highland Republic of Vireya": 0.18825
+ },
+ "A": {
+  "Agrarian Federation of Tessara": -0.10925,
+  "Coastal State of Ondrel": -0.11284722222222222,
+  "Highland Republic of Vireya": -0.18825
+ },
+ "dispersion": 0.079,
+ "nulos_excluidos": 481
+}

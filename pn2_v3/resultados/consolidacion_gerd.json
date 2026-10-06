@@ -1,0 +1,151 @@
+{
+ "caso": "gerd",
+ "regimen": "norm",
+ "cobertura_j2": [
+  52643,
+  52643
+ ],
+ "kernels": 20900,
+ "actores": {
+  "Arab Republic of Egypt": {
+   "n": 502,
+   "atacados": 420,
+   "atacado_por": {
+    "Ethiopia": 4798,
+    "Sudan": 5947
+   },
+   "k_greedy": 0.41832669322709165,
+   "k_atrinch": 0.7350597609561753,
+   "corte": 1
+  },
+  "Federal Democratic Republic of Ethiopia": {
+   "n": 501,
+   "atacados": 452,
+   "atacado_por": {
+    "Egypt": 4798,
+    "Sudan": 10155
+   },
+   "k_greedy": 0.6107784431137725,
+   "k_atrinch": 0.8243512974051896,
+   "corte": 1
+  },
+  "Republic of Sudan": {
+   "n": 501,
+   "atacados": 485,
+   "atacado_por": {
+    "Egypt": 5947,
+    "Ethiopia": 10155
+   },
+   "k_greedy": 0.6327345309381237,
+   "k_atrinch": 0.9001996007984032,
+   "corte": 1
+  }
+ },
+ "focos": [
+  {
+   "id": "Arab Republic of Egypt_4_36",
+   "actor": "Arab Republic of Egypt",
+   "grado": 201,
+   "depth": 4,
+   "texto": "Sudan's infrastructure coordination needs receive less attention"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_4_411",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "grado": 174,
+   "depth": 4,
+   "texto": "Ethiopia rejects external monitoring of dam operations"
+  },
+  {
+   "id": "Arab Republic of Egypt_6_264",
+   "actor": "Arab Republic of Egypt",
+   "grado": 163,
+   "depth": 6,
+   "texto": "Sudan's dam safety protocols remain uncoordinated with GERD operations"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_4_91",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "grado": 161,
+   "depth": 4,
+   "texto": "Ethiopia establishes unilateral drought response protocols"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_4_168",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "grado": 158,
+   "depth": 4,
+   "texto": "Ethiopia resists international mediation in future water conflicts"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_358",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "grado": 156,
+   "depth": 5,
+   "texto": "Sudan accepts technical coordination meetings without binding commitments"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_356",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "grado": 152,
+   "depth": 5,
+   "texto": "Ethiopia avoids international oversight of upstream water development"
+  },
+  {
+   "id": "Republic of Sudan_4_134",
+   "actor": "Republic of Sudan",
+   "grado": 146,
+   "depth": 4,
+   "texto": "Sudan must accept whatever coordination terms Ethiopia offers"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_3_30",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "grado": 137,
+   "depth": 3,
+   "texto": "Sudan's water security planning loses historical legal foundation"
+  },
+  {
+   "id": "Republic of Sudan_5_336",
+   "actor": "Republic of Sudan",
+   "grado": 137,
+   "depth": 5,
+   "texto": "Sudan loses access to Ethiopian technical dam operation data"
+  },
+  {
+   "id": "Republic of Sudan_5_584",
+   "actor": "Republic of Sudan",
+   "grado": 135,
+   "depth": 5,
+   "texto": "Sudan leverages multilateral backing to demand binding technical protocols"
+  },
+  {
+   "id": "Arab Republic of Egypt_6_263",
+   "actor": "Arab Republic of Egypt",
+   "grado": 135,
+   "depth": 6,
+   "texto": "Sudan postpones critical infrastructure investments near Blue Nile"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_346",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "grado": 134,
+   "depth": 5,
+   "texto": "Ethiopia reduces coordination with Egyptian and Sudanese water management authorities"
+  },
+  {
+   "id": "Republic of Sudan_6_551",
+   "actor": "Republic of Sudan",
+   "grado": 126,
+   "depth": 6,
+   "texto": "Sudan develops standardized water allocation protocols with farmers"
+  },
+  {
+   "id": "Arab Republic of Egypt_6_538",
+   "actor": "Arab Republic of Egypt",
+   "grado": 124,
+   "depth": 6,
+   "texto": "Ethiopia reduces cooperation with current mediating institutions"
+  }
+ ]
+}

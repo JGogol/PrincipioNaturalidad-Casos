@@ -1,0 +1,23 @@
+== selene: 1. CORTE (antichain superior de Omega) ==
+Cerulea   |O|=176 |corte|=  1 prof.min=0 cascada=503/503  raiz en O: True
+    d0 |Sub|=503 acum=1.00  Cerulea claims essential-participant status based on its monopoly on Earth communication and me
+Borealis  |O|=142 |corte|=  1 prof.min=0 cascada=500/500  raiz en O: True
+    d0 |Sub|=500 acum=1.00  Borealis claims co-equal operational authority based on its dominant contribution to life suppo
+Aurelia   |O|=156 |corte|=  1 prof.min=0 cascada=500/500  raiz en O: True
+    d0 |Sub|=500 acum=1.00  Aurelia claims operational priority based on first-arrival activation rights and majority fundi
+
+== selene: 2. RESCATE por sostén ajeno ==
+actor       k_dep  k_dep+resc rescatados  rescatado por
+Cerulea    100.0%       87.1%         65  {'Borealis': 22, 'Aurelia': 33}
+Borealis   100.0%       86.6%         67  {'Aurelia': 37, 'Cerulea': 22}
+Aurelia    100.0%       74.8%        126  {'Cerulea': 33, 'Borealis': 37}
+
+== selene: 3. dónde pega la propuesta ==
+Cerulea   por prof.: d0:1/1 d1:2/3 d2:1/6 d3:9/16 d4:14/44 d5:51/115 d6:91/294 d7:7/24
+          opone | puente 58/151=0.38  no-puente 118/352=0.34
+Borealis  por prof.: d0:1/1 d1:2/4 d2:3/10 d3:11/33 d4:22/98 d5:83/290 d6:20/64
+          opone | puente 46/136=0.34  no-puente 96/364=0.26
+Aurelia   por prof.: d0:1/1 d1:1/4 d2:3/13 d3:18/43 d4:41/125 d5:69/240 d6:23/74
+          opone | puente 45/155=0.29  no-puente 111/345=0.32
+
+-> hansson_selene.json

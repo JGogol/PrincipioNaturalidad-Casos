@@ -1,0 +1,375 @@
+{
+ "caso": "vireya",
+ "actores": {
+  "Agrarian Federation of Tessara": {
+   "O": 212,
+   "corte": 70,
+   "corte_prof": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+   ],
+   "cascada": 363,
+   "raiz_en_O": false,
+   "top_corte": [
+    {
+     "id": "Agrarian Federation of Tessara_1_1",
+     "depth": 1,
+     "sub": 77,
+     "acum": 0.154,
+     "texto": "Agrarian Federation of Tessara formally places itself in a pre-dispute posture toward Vireya."
+    },
+    {
+     "id": "Agrarian Federation of Tessara_2_17",
+     "depth": 2,
+     "sub": 41,
+     "acum": 0.236,
+     "texto": "Agrarian Federation of Tessara begins internal assessment of feasible unilateral options."
+    },
+    {
+     "id": "Agrarian Federation of Tessara_1_3",
+     "depth": 1,
+     "sub": 41,
+     "acum": 0.318,
+     "texto": "Agrarian Federation of Tessara perceives the Meridian Declaration as its primary, if weak, legal anchor."
+    },
+    {
+     "id": "Agrarian Federation of Tessara_2_14",
+     "depth": 2,
+     "sub": 21,
+     "acum": 0.36,
+     "texto": "Agrarian Federation of Tessara cannot verify whether Phase II causes measurable moisture reduction downwind."
+    },
+    {
+     "id": "Agrarian Federation of Tessara_2_13",
+     "depth": 2,
+     "sub": 15,
+     "acum": 0.39,
+     "texto": "Agrarian Federation of Tessara perceives any agreement lacking monitoring provisions as legally void."
+    },
+    {
+     "id": "Agrarian Federation of Tessara_2_18",
+     "depth": 2,
+     "sub": 10,
+     "acum": 0.41,
+     "texto": "Agrarian Federation of Tessara perceives its bargaining leverage as temporarily elevated."
+    }
+   ],
+   "k_dep": 0.726,
+   "k_dep_rescate": 0.662,
+   "rescatados": 32,
+   "rescatado_por": {
+    "Ondrel": 6,
+    "Vireya": 31
+   },
+   "ejemplos_rescatados": [
+    "Agrarian Federation of Tessara prioritizes securing binding commitments over interim goodwill gestures.",
+    "Agrarian Federation of Tessara assesses whether shared watercourse conventions apply to atmospheric resources.",
+    "Agrarian Federation of Tessara assesses unilateral protective measures as increasingly necessary.",
+    "Agrarian Federation of Tessara seeks third-party arbitration or international adjudication of the dispute.",
+    "Agrarian Federation of Tessara's flexibility on timing concessions is effectively frozen pending data."
+   ],
+   "opone_por_prof": {
+    "0": [
+     0,
+     1
+    ],
+    "1": [
+     2,
+     6
+    ],
+    "2": [
+     13,
+     30
+    ],
+    "3": [
+     84,
+     151
+    ],
+    "4": [
+     113,
+     312
+    ]
+   },
+   "opone_puente": [
+    91,
+    195
+   ],
+   "opone_nopuente": [
+    121,
+    305
+   ]
+  },
+  "Coastal State of Ondrel": {
+   "O": 207,
+   "corte": 42,
+   "corte_prof": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    5,
+    5,
+    5
+   ],
+   "cascada": 440,
+   "raiz_en_O": false,
+   "top_corte": [
+    {
+     "id": "Coastal State of Ondrel_1_4",
+     "depth": 1,
+     "sub": 114,
+     "acum": 0.226,
+     "texto": "Coastal State of Ondrel links Tessaran harvest failure directly to its own migration absorption risk."
+    },
+    {
+     "id": "Coastal State of Ondrel_1_5",
+     "depth": 1,
+     "sub": 82,
+     "acum": 0.389,
+     "texto": "Coastal State of Ondrel requires measurable river flow data to enforce any salinity compensation claim."
+    },
+    {
+     "id": "Coastal State of Ondrel_2_23",
+     "depth": 2,
+     "sub": 29,
+     "acum": 0.446,
+     "texto": "Coastal State of Ondrel perceives its transit contract with Vireya as now at risk of breach."
+    },
+    {
+     "id": "Coastal State of Ondrel_2_22",
+     "depth": 2,
+     "sub": 27,
+     "acum": 0.5,
+     "texto": "Coastal State of Ondrel's conduit operation enters a legally ambiguous suspension status."
+    },
+    {
+     "id": "Coastal State of Ondrel_2_14",
+     "depth": 2,
+     "sub": 25,
+     "acum": 0.55,
+     "texto": "Coastal State of Ondrel perceives its conduit operation as a negotiating instrument."
+    },
+    {
+     "id": "Coastal State of Ondrel_2_17",
+     "depth": 2,
+     "sub": 23,
+     "acum": 0.595,
+     "texto": "Coastal State of Ondrel views Vireya's export revenue dependence as a credible pressure point."
+    }
+   ],
+   "k_dep": 0.873015873015873,
+   "k_dep_rescate": 0.7619047619047619,
+   "rescatados": 56,
+   "rescatado_por": {
+    "Tessara": 6,
+    "Vireya": 83
+   },
+   "ejemplos_rescatados": [
+    "Coastal State of Ondrel treats the unenforceability finding as weakening its conduit contract negotiating position.",
+    "Coastal State of Ondrel calculates that threatening non-cooperation strengthens its negotiating position.",
+    "Coastal State of Ondrel links its conduit cooperation directly to Tessaran harvest outcome projections.",
+    "Coastal State of Ondrel assesses financial exposure from potential conduit revenue loss.",
+    "Coastal State of Ondrel begins contingency planning for reduced conduit revenue flows."
+   ],
+   "opone_por_prof": {
+    "0": [
+     0,
+     1
+    ],
+    "1": [
+     2,
+     5
+    ],
+    "2": [
+     12,
+     21
+    ],
+    "3": [
+     35,
+     87
+    ],
+    "4": [
+     137,
+     341
+    ],
+    "5": [
+     21,
+     49
+    ]
+   },
+   "opone_puente": [
+    76,
+    173
+   ],
+   "opone_nopuente": [
+    131,
+    331
+   ]
+  },
+  "Highland Republic of Vireya": {
+   "O": 224,
+   "corte": 1,
+   "corte_prof": [
+    0
+   ],
+   "cascada": 500,
+   "raiz_en_O": true,
+   "top_corte": [
+    {
+     "id": "Highland Republic of Vireya_0_0",
+     "depth": 0,
+     "sub": 500,
+     "acum": 1.0,
+     "texto": "Vireya asserts the sovereign right to harvest moisture from the airspace above its territory and will energize Phase II on the announced schedule. It offers voluntary seasonal telemetry summaries but rejects any binding capture quota, calling downwind attribution scientifically unproven. It frames the Array as the only remedy for its structural drought and the foundation of highland development, and states it will protect the project against any interference."
+    }
+   ],
+   "k_dep": 1.0,
+   "k_dep_rescate": 0.81,
+   "rescatados": 95,
+   "rescatado_por": {
+    "Ondrel": 108,
+    "Tessara": 63
+   },
+   "ejemplos_rescatados": [
+    "Highland Republic of Vireya frames water security achievement as validating its sovereign atmospheric harvesting position.",
+    "Highland Republic of Vireya recognizes counterparts will seek alternative attribution evidence independently.",
+    "Highland Republic of Vireya anticipates financial liability exposure from reduced conduit throughput to Ondrel.",
+    "Highland Republic of Vireya anticipates reputational costs from being framed as a regional water aggressor.",
+    "Highland Republic of Vireya perceives the contract dispute as threatening its sovereign infrastructure program."
+   ],
+   "opone_por_prof": {
+    "0": [
+     1,
+     1
+    ],
+    "1": [
+     2,
+     7
+    ],
+    "2": [
+     16,
+     33
+    ],
+    "3": [
+     56,
+     135
+    ],
+    "4": [
+     149,
+     324
+    ]
+   },
+   "opone_puente": [
+    94,
+    239
+   ],
+   "opone_nopuente": [
+    130,
+    261
+   ]
+  }
+ }
+}

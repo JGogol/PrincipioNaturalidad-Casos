@@ -1,0 +1,28 @@
+# Cruces restantes sobre el objeto GERD — 2026-09-11 22:03 UTC
+# EXPLORATORIO. Sin criterio de muerte previo.
+
+[i] el reticulo de regiones: cuantas intersecciones distintas hay
+    400 regiones distintas -> 79800 pares | intersecciones DISTINTAS 338 (0.4%)
+    tamano de la interseccion: 0 en 96.1% | mediana 0 | max 374
+
+[ii] los gluts: donde cae la contradiccion interna
+    tipo: {'directo': 42158, 'lineal': 984}
+    profundidad del ancestro comun: mediana 0 | 0 en 58.5% de los casos
+    nodos que actuan de inyector: 821 distintos; el mayor 6499 veces (d1, Sudan demands legally binding coordination protocols before )
+    ser inyector y ser puente: 234 de 821 inyectores son puentes (28.5%); base 20.2%
+
+[iii] el padre que contradice al hijo: predice algo?
+    104 hijos cuelgan de una arista contradictoria (6.9%)
+    grado intra    contradictorios   26.03 | resto   21.90 | nulo por profundidad   21.77 +- 1.66  z  +2.6
+    grado kernel   contradictorios   49.89 | resto   43.80 | nulo por profundidad   44.55 +- 4.07  z  +1.3
+    |Reg|          contradictorios   31.15 | resto   30.12 | nulo por profundidad   31.15 +- 7.29  z  +0.0
+
+[iv] lo que queda de la implicacion cuando se le saca el coseno
+    r(coseno, implicacion) = +0.122 ; el coseno explica el 1.5% de la varianza
+    r(residuo, contradiccion) = -0.069
+    r(residuo, |diferencia de profundidad|) = -0.005
+
+[v] la frontera, recomputada desde el objeto
+    convergencia certificada |V_F| = 137 | aparente {g>=tau} = 1121 | exactitud alpha = 0.122
+    frontera = 984 nodos (65.4% del bosque)
+    nodos en pares parecidos-y-opuestos: frontera 83.0% | certificados 89.1% | resto 73.4%

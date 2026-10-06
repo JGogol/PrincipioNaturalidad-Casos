@@ -1,0 +1,39 @@
+{
+ "caso": "selene",
+ "run": "..\\..\\casos\\selene\\runs\\2026-04-30_09-54-35",
+ "fecha": "2026-09-11 10:36",
+ "n": 1503,
+ "actores": [
+  "Commonwealth of Cerulea",
+  "Federation of Borealis",
+  "Republic of Aurelia"
+ ],
+ "aristas": 1500,
+ "pares_j1": 143793,
+ "pares_j2": 52561,
+ "codificacion": "uint16: 0=no evaluado, 1..Q+1 -> x=(q-1)/Q, Q=65534",
+ "umbrales": {
+  "tau": 0.55,
+  "gamma": 0.3,
+  "delta": 0.5,
+  "coseno": 0.35
+ },
+ "criterio": "avg",
+ "rechazos_inversion_roles": 58,
+ "embeddings": 768,
+ "gluts_intra_actor": 36902,
+ "aristas_padre_hijo": 0,
+ "nota_intra": "subconjunto que paso el criterio de glut de phase0, no el campo intra-actor completo",
+ "jueces": {
+  "j1": "cross-encoder/nli-deberta-v3-base (ONNX)",
+  "j2": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+ },
+ "verificacion": {
+  "ajustes_de_borde": 6,
+  "cruces_de_umbral_residuales": 0,
+  "F_datos": 218,
+  "F_rearmado": 218,
+  "faltan": 0,
+  "sobran": 0
+ }
+}

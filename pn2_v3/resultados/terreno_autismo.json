@@ -1,0 +1,405 @@
+{
+ "caso": "autismo",
+ "n": 753,
+ "F": 904,
+ "R_raiz": {
+  "BroadlyAffectedAutism": 692,
+  "MixedASDwithDelay": 692,
+  "ModerateAutism": 690,
+  "NeurotypicalCognition": 742,
+  "SocialBehavioralAutism": 690
+ },
+ "meet": 684,
+ "meet_comp": {
+  "BroadlyAffectedAutism": 147,
+  "ModerateAutism": 148,
+  "NeurotypicalCognition": 92,
+  "SocialBehavioralAutism": 149,
+  "MixedASDwithDelay": 148
+ },
+ "cabezas": [
+  {
+   "id": "NeurotypicalCognition_1_3",
+   "actor": "NeurotypicalCognition",
+   "d": 1,
+   "n": 69,
+   "texto": "NeurotypicalCognition rapidly updates its contextual expectations"
+  },
+  {
+   "id": "ModerateAutism_1_4",
+   "actor": "ModerateAutism",
+   "d": 1,
+   "n": 58,
+   "texto": "ModerateAutism cannot generalize prior routine to new context"
+  },
+  {
+   "id": "MixedASDwithDelay_1_4",
+   "actor": "MixedASDwithDelay",
+   "d": 1,
+   "n": 47,
+   "texto": "MixedASDwithDelay cannot apply prior schedule rule to new context"
+  },
+  {
+   "id": "SocialBehavioralAutism_1_5",
+   "actor": "SocialBehavioralAutism",
+   "d": 1,
+   "n": 39,
+   "texto": "SocialBehavioralAutism needs a visual anchor for the new schedule"
+  },
+  {
+   "id": "BroadlyAffectedAutism_1_4",
+   "actor": "BroadlyAffectedAutism",
+   "d": 1,
+   "n": 38,
+   "texto": "BroadlyAffectedAutism cannot generalize prior routine to new schedule"
+  },
+  {
+   "id": "MixedASDwithDelay_2_9",
+   "actor": "MixedASDwithDelay",
+   "d": 2,
+   "n": 35,
+   "texto": "MixedASDwithDelay's disruption is disproportionate to the schedule change's actual significance"
+  },
+  {
+   "id": "BroadlyAffectedAutism_1_2",
+   "actor": "BroadlyAffectedAutism",
+   "d": 1,
+   "n": 30,
+   "texto": "BroadlyAffectedAutism loses cognitive resources previously freed by routine"
+  },
+  {
+   "id": "MixedASDwithDelay_2_16",
+   "actor": "MixedASDwithDelay",
+   "d": 2,
+   "n": 29,
+   "texto": "MixedASDwithDelay experiences disruption disproportionate to actual change"
+  },
+  {
+   "id": "SocialBehavioralAutism_1_4",
+   "actor": "SocialBehavioralAutism",
+   "d": 1,
+   "n": 28,
+   "texto": "SocialBehavioralAutism requires explicit retrieval of new schedule rules"
+  },
+  {
+   "id": "ModerateAutism_2_18",
+   "actor": "ModerateAutism",
+   "d": 2,
+   "n": 25,
+   "texto": "ModerateAutism must reallocate cognitive resources to handle the change"
+  },
+  {
+   "id": "SocialBehavioralAutism_1_2",
+   "actor": "SocialBehavioralAutism",
+   "d": 1,
+   "n": 23,
+   "texto": "SocialBehavioralAutism loses the resource-saving benefit of routine"
+  },
+  {
+   "id": "ModerateAutism_1_3",
+   "actor": "ModerateAutism",
+   "d": 1,
+   "n": 22,
+   "texto": "ModerateAutism lacks an explicit rule for the new schedule"
+  },
+  {
+   "id": "BroadlyAffectedAutism_2_15",
+   "actor": "BroadlyAffectedAutism",
+   "d": 2,
+   "n": 21,
+   "texto": "BroadlyAffectedAutism generates disproportionate distress relative to the change"
+  },
+  {
+   "id": "SocialBehavioralAutism_2_23",
+   "actor": "SocialBehavioralAutism",
+   "d": 2,
+   "n": 20,
+   "texto": "SocialBehavioralAutism's cognitive processing goes offline until regulated"
+  },
+  {
+   "id": "SocialBehavioralAutism_1_3",
+   "actor": "SocialBehavioralAutism",
+   "d": 1,
+   "n": 20,
+   "texto": "SocialBehavioralAutism cannot automatically apply rules to the new schedule"
+  },
+  {
+   "id": "ModerateAutism_1_2",
+   "actor": "ModerateAutism",
+   "d": 1,
+   "n": 20,
+   "texto": "ModerateAutism loses the resource-saving benefit of routine"
+  },
+  {
+   "id": "SocialBehavioralAutism_2_22",
+   "actor": "SocialBehavioralAutism",
+   "d": 2,
+   "n": 19,
+   "texto": "SocialBehavioralAutism cannot allocate resources to other tasks"
+  },
+  {
+   "id": "ModerateAutism_2_16",
+   "actor": "ModerateAutism",
+   "d": 2,
+   "n": 16,
+   "texto": "ModerateAutism experiences disruption disproportionate to the schedule change's significance"
+  },
+  {
+   "id": "MixedASDwithDelay_2_8",
+   "actor": "MixedASDwithDelay",
+   "d": 2,
+   "n": 15,
+   "texto": "MixedASDwithDelay's cognitive processing and social engagement go offline"
+  },
+  {
+   "id": "BroadlyAffectedAutism_2_14",
+   "actor": "BroadlyAffectedAutism",
+   "d": 2,
+   "n": 15,
+   "texto": "BroadlyAffectedAutism becomes unavailable for learning and interaction"
+  },
+  {
+   "id": "BroadlyAffectedAutism_2_20",
+   "actor": "BroadlyAffectedAutism",
+   "d": 2,
+   "n": 14,
+   "texto": "BroadlyAffectedAutism risks going offline for learning and engagement"
+  },
+  {
+   "id": "BroadlyAffectedAutism_2_16",
+   "actor": "BroadlyAffectedAutism",
+   "d": 2,
+   "n": 13,
+   "texto": "BroadlyAffectedAutism loses the resource-saving benefit of routine"
+  },
+  {
+   "id": "NeurotypicalCognition_3_36",
+   "actor": "NeurotypicalCognition",
+   "d": 3,
+   "n": 12,
+   "texto": "NeurotypicalCognition redirects attention to the new task demands"
+  },
+  {
+   "id": "MixedASDwithDelay_2_18",
+   "actor": "MixedASDwithDelay",
+   "d": 2,
+   "n": 11,
+   "texto": "MixedASDwithDelay risks going offline from regulatory overload"
+  },
+  {
+   "id": "BroadlyAffectedAutism_2_18",
+   "actor": "BroadlyAffectedAutism",
+   "d": 2,
+   "n": 8,
+   "texto": "BroadlyAffectedAutism experiences disruption disproportionate to schedule change significance"
+  },
+  {
+   "id": "ModerateAutism_1_5",
+   "actor": "ModerateAutism",
+   "d": 1,
+   "n": 7,
+   "texto": "ModerateAutism risks losing access to learning and engagement"
+  },
+  {
+   "id": "NeurotypicalCognition_3_47",
+   "actor": "NeurotypicalCognition",
+   "d": 3,
+   "n": 6,
+   "texto": "NeurotypicalCognition consolidates the new schedule once volatility decreases"
+  },
+  {
+   "id": "MixedASDwithDelay_3_43",
+   "actor": "MixedASDwithDelay",
+   "d": 3,
+   "n": 5,
+   "texto": "MixedASDwithDelay must divert resources to reprocess schedule"
+  },
+  {
+   "id": "BroadlyAffectedAutism_1_5",
+   "actor": "BroadlyAffectedAutism",
+   "d": 1,
+   "n": 4,
+   "texto": "BroadlyAffectedAutism risks going offline from regulatory overload"
+  },
+  {
+   "id": "BroadlyAffectedAutism_2_17",
+   "actor": "BroadlyAffectedAutism",
+   "d": 2,
+   "n": 4,
+   "texto": "BroadlyAffectedAutism cannot flexibly update to the new schedule"
+  },
+  {
+   "id": "NeurotypicalCognition_4_69",
+   "actor": "NeurotypicalCognition",
+   "d": 4,
+   "n": 2,
+   "texto": "NeurotypicalCognition redirects attention toward new schedule demands"
+  },
+  {
+   "id": "MixedASDwithDelay_2_11",
+   "actor": "MixedASDwithDelay",
+   "d": 2,
+   "n": 2,
+   "texto": "MixedASDwithDelay fails to flexibly update to the new schedule"
+  },
+  {
+   "id": "MixedASDwithDelay_1_2",
+   "actor": "MixedASDwithDelay",
+   "d": 1,
+   "n": 2,
+   "texto": "MixedASDwithDelay loses cognitive resource savings from routine"
+  },
+  {
+   "id": "MixedASDwithDelay_3_44",
+   "actor": "MixedASDwithDelay",
+   "d": 3,
+   "n": 2,
+   "texto": "MixedASDwithDelay cannot generalize old schedule rules automatically"
+  },
+  {
+   "id": "NeurotypicalCognition_6_242",
+   "actor": "NeurotypicalCognition",
+   "d": 6,
+   "n": 1,
+   "texto": "NeurotypicalCognition treats the new routine as updated preference"
+  },
+  {
+   "id": "NeurotypicalCognition_5_182",
+   "actor": "NeurotypicalCognition",
+   "d": 5,
+   "n": 1,
+   "texto": "NeurotypicalCognition treats the schedule environment as more stable"
+  },
+  {
+   "id": "NeurotypicalCognition_6_244",
+   "actor": "NeurotypicalCognition",
+   "d": 6,
+   "n": 1,
+   "texto": "NeurotypicalCognition integrates new schedule information without explicit management"
+  }
+ ],
+ "puentes": 547,
+ "fusionados": 458,
+ "puentes_top": [
+  {
+   "id": "NeurotypicalCognition_1_3",
+   "actor": "NeurotypicalCognition",
+   "texto": "NeurotypicalCognition rapidly updates its contextual expectations",
+   "ajenos": 592
+  },
+  {
+   "id": "NeurotypicalCognition_6_225",
+   "actor": "NeurotypicalCognition",
+   "texto": "NeurotypicalCognition consolidates new schedule as stable expectation",
+   "ajenos": 592
+  },
+  {
+   "id": "NeurotypicalCognition_4_57",
+   "actor": "NeurotypicalCognition",
+   "texto": "NeurotypicalCognition treats the changed routine as a mere preference",
+   "ajenos": 592
+  },
+  {
+   "id": "NeurotypicalCognition_6_220",
+   "actor": "NeurotypicalCognition",
+   "texto": "NeurotypicalCognition treats the new schedule as preferred routine",
+   "ajenos": 592
+  },
+  {
+   "id": "NeurotypicalCognition_6_296",
+   "actor": "NeurotypicalCognition",
+   "texto": "NeurotypicalCognition applies prior coping patterns to this new schedule",
+   "ajenos": 592
+  },
+  {
+   "id": "NeurotypicalCognition_5_101",
+   "actor": "NeurotypicalCognition",
+   "texto": "NeurotypicalCognition seeks clarifying cues about the new schedule",
+   "ajenos": 592
+  },
+  {
+   "id": "NeurotypicalCognition_4_61",
+   "actor": "NeurotypicalCognition",
+   "texto": "NeurotypicalCognition initiates corrective action toward the new schedule",
+   "ajenos": 592
+  },
+  {
+   "id": "NeurotypicalCognition_3_47",
+   "actor": "NeurotypicalCognition",
+   "texto": "NeurotypicalCognition consolidates the new schedule once volatility decreases",
+   "ajenos": 592
+  },
+  {
+   "id": "NeurotypicalCognition_5_182",
+   "actor": "NeurotypicalCognition",
+   "texto": "NeurotypicalCognition treats the schedule environment as more stable",
+   "ajenos": 592
+  },
+  {
+   "id": "NeurotypicalCognition_3_36",
+   "actor": "NeurotypicalCognition",
+   "texto": "NeurotypicalCognition redirects attention to the new task demands",
+   "ajenos": 592
+  },
+  {
+   "id": "NeurotypicalCognition_4_69",
+   "actor": "NeurotypicalCognition",
+   "texto": "NeurotypicalCognition redirects attention toward new schedule demands",
+   "ajenos": 592
+  },
+  {
+   "id": "NeurotypicalCognition_6_244",
+   "actor": "NeurotypicalCognition",
+   "texto": "NeurotypicalCognition integrates new schedule information without explicit management",
+   "ajenos": 592
+  },
+  {
+   "id": "NeurotypicalCognition_6_242",
+   "actor": "NeurotypicalCognition",
+   "texto": "NeurotypicalCognition treats the new routine as updated preference",
+   "ajenos": 592
+  },
+  {
+   "id": "BroadlyAffectedAutism_1_1",
+   "actor": "BroadlyAffectedAutism",
+   "texto": "BroadlyAffectedAutism generates disproportionate prediction error signal",
+   "ajenos": 541
+  },
+  {
+   "id": "ModerateAutism_1_1",
+   "actor": "ModerateAutism",
+   "texto": "ModerateAutism generates disproportionate prediction error signals",
+   "ajenos": 540
+  },
+  {
+   "id": "MixedASDwithDelay_1_1",
+   "actor": "MixedASDwithDelay",
+   "texto": "MixedASDwithDelay generates disproportionate prediction error signal",
+   "ajenos": 539
+  },
+  {
+   "id": "SocialBehavioralAutism_1_1",
+   "actor": "SocialBehavioralAutism",
+   "texto": "SocialBehavioralAutism generates disproportionate prediction error signals",
+   "ajenos": 539
+  },
+  {
+   "id": "BroadlyAffectedAutism_1_3",
+   "actor": "BroadlyAffectedAutism",
+   "texto": "BroadlyAffectedAutism experiences processing overload from the sudden change",
+   "ajenos": 538
+  },
+  {
+   "id": "BroadlyAffectedAutism_1_5",
+   "actor": "BroadlyAffectedAutism",
+   "texto": "BroadlyAffectedAutism risks going offline from regulatory overload",
+   "ajenos": 537
+  },
+  {
+   "id": "BroadlyAffectedAutism_2_23",
+   "actor": "BroadlyAffectedAutism",
+   "texto": "BroadlyAffectedAutism cannot engage in learning until regulated",
+   "ajenos": 537
+  }
+ ]
+}

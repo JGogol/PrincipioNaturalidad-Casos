@@ -1,0 +1,97 @@
+{
+ "subset": [
+  "NeurotypicalCognition",
+  "ModerateAutism"
+ ],
+ "campana_dir": {
+  "NeurotypicalCognition": {
+   "inerte": 1702,
+   "discrepan": 302,
+   "fuente": 67,
+   "sumidero": 21,
+   "mutua": 8
+  },
+  "ModerateAutism": {
+   "inerte": 2000,
+   "discrepan": 96,
+   "fuente": 3,
+   "sumidero": 1
+  }
+ },
+ "ruptura_bruta": {
+  "NeurotypicalCognition": 160,
+  "ModerateAutism": 1129
+ },
+ "tocados": [
+  "NeurotypicalCognition"
+ ],
+ "zonas": {
+  "B": 9,
+  "F": 5
+ },
+ "R": 76,
+ "lambda": {
+  "Reading": 14,
+  "NeurotypicalCognition": 39,
+  "ModerateAutism": 23
+ },
+ "hub": "n/a (<2 actores tocados)",
+ "n_fusiones": 11,
+ "fusiones": [
+  [
+   "LecturaSocialTacita_2_5",
+   "NeurotypicalCognition_5_141",
+   "NeurotypicalCognition"
+  ],
+  [
+   "LecturaSocialTacita_2_7",
+   "NeurotypicalCognition_4_68",
+   "NeurotypicalCognition"
+  ],
+  [
+   "LecturaSocialTacita_2_7",
+   "NeurotypicalCognition_2_7",
+   "NeurotypicalCognition"
+  ],
+  [
+   "LecturaSocialTacita_2_7",
+   "NeurotypicalCognition_1_4",
+   "NeurotypicalCognition"
+  ],
+  [
+   "LecturaSocialTacita_1_2",
+   "NeurotypicalCognition_6_276",
+   "NeurotypicalCognition"
+  ],
+  [
+   "LecturaSocialTacita_1_2",
+   "NeurotypicalCognition_6_255",
+   "NeurotypicalCognition"
+  ],
+  [
+   "LecturaSocialTacita_2_10",
+   "NeurotypicalCognition_4_99",
+   "NeurotypicalCognition"
+  ],
+  [
+   "LecturaSocialTacita_1_4",
+   "NeurotypicalCognition_5_173",
+   "NeurotypicalCognition"
+  ],
+  [
+   "LecturaSocialTacita_1_4",
+   "NeurotypicalCognition_3_35",
+   "NeurotypicalCognition"
+  ],
+  [
+   "LecturaSocialTacita_1_4",
+   "NeurotypicalCognition_6_244",
+   "NeurotypicalCognition"
+  ],
+  [
+   "LecturaSocialTacita_1_4",
+   "NeurotypicalCognition_6_276",
+   "NeurotypicalCognition"
+  ]
+ ]
+}

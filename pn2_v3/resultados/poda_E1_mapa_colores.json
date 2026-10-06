@@ -1,0 +1,184 @@
+{
+ "PRE": {
+  "vivos": 753,
+  "F_vivas": 1557,
+  "tasa_endpoints": 0.7197875166002656,
+  "vivos_por_actor": {
+   "NeurotypicalCognition": 150,
+   "MixedASDwithDelay": 152,
+   "ModerateAutism": 150,
+   "BroadlyAffectedAutism": 150,
+   "SocialBehavioralAutism": 151
+  },
+  "densidad_pares": {
+   "BroadlyAffectedAutism|MixedASDwithDelay": 115.79,
+   "BroadlyAffectedAutism|ModerateAutism": 111.11,
+   "BroadlyAffectedAutism|NeurotypicalCognition": 8.0,
+   "BroadlyAffectedAutism|SocialBehavioralAutism": 107.28,
+   "MixedASDwithDelay|ModerateAutism": 129.39,
+   "MixedASDwithDelay|NeurotypicalCognition": 4.82,
+   "MixedASDwithDelay|SocialBehavioralAutism": 94.98,
+   "ModerateAutism|NeurotypicalCognition": 5.33,
+   "ModerateAutism|SocialBehavioralAutism": 99.78,
+   "NeurotypicalCognition|SocialBehavioralAutism": 8.83
+  },
+  "n_componentes": 25,
+  "gigante": 467,
+  "mezcla_gigante": {
+   "MixedASDwithDelay": 101,
+   "ModerateAutism": 111,
+   "BroadlyAffectedAutism": 114,
+   "SocialBehavioralAutism": 109,
+   "NeurotypicalCognition": 32
+  }
+ },
+ "A_cascada_tau0.3": {
+  "vivos": 104,
+  "F_vivas": 30,
+  "tasa_endpoints": 0.34615384615384615,
+  "vivos_por_actor": {
+   "NeurotypicalCognition": 33,
+   "BroadlyAffectedAutism": 17,
+   "MixedASDwithDelay": 17,
+   "ModerateAutism": 12,
+   "SocialBehavioralAutism": 25
+  },
+  "densidad_pares": {
+   "BroadlyAffectedAutism|MixedASDwithDelay": 103.81,
+   "BroadlyAffectedAutism|ModerateAutism": 196.08,
+   "BroadlyAffectedAutism|SocialBehavioralAutism": 164.71,
+   "MixedASDwithDelay|ModerateAutism": 147.06,
+   "MixedASDwithDelay|NeurotypicalCognition": 17.83,
+   "MixedASDwithDelay|SocialBehavioralAutism": 164.71,
+   "ModerateAutism|SocialBehavioralAutism": 133.33,
+   "NeurotypicalCognition|SocialBehavioralAutism": 12.12
+  },
+  "n_componentes": 13,
+  "gigante": 5,
+  "mezcla_gigante": {
+   "BroadlyAffectedAutism": 1,
+   "SocialBehavioralAutism": 3,
+   "MixedASDwithDelay": 1
+  }
+ },
+ "A_cascada_tau0.5": {
+  "vivos": 109,
+  "F_vivas": 31,
+  "tasa_endpoints": 0.3394495412844037,
+  "vivos_por_actor": {
+   "NeurotypicalCognition": 33,
+   "BroadlyAffectedAutism": 17,
+   "MixedASDwithDelay": 18,
+   "ModerateAutism": 12,
+   "SocialBehavioralAutism": 29
+  },
+  "densidad_pares": {
+   "BroadlyAffectedAutism|MixedASDwithDelay": 98.04,
+   "BroadlyAffectedAutism|ModerateAutism": 196.08,
+   "BroadlyAffectedAutism|SocialBehavioralAutism": 141.99,
+   "MixedASDwithDelay|ModerateAutism": 138.89,
+   "MixedASDwithDelay|NeurotypicalCognition": 16.84,
+   "MixedASDwithDelay|SocialBehavioralAutism": 134.1,
+   "ModerateAutism|SocialBehavioralAutism": 114.94,
+   "NeurotypicalCognition|SocialBehavioralAutism": 20.9
+  },
+  "n_componentes": 13,
+  "gigante": 5,
+  "mezcla_gigante": {
+   "BroadlyAffectedAutism": 1,
+   "SocialBehavioralAutism": 3,
+   "MixedASDwithDelay": 1
+  }
+ },
+ "A_cascada_tau0.7": {
+  "vivos": 118,
+  "F_vivas": 35,
+  "tasa_endpoints": 0.3728813559322034,
+  "vivos_por_actor": {
+   "NeurotypicalCognition": 33,
+   "BroadlyAffectedAutism": 17,
+   "MixedASDwithDelay": 18,
+   "ModerateAutism": 12,
+   "SocialBehavioralAutism": 38
+  },
+  "densidad_pares": {
+   "BroadlyAffectedAutism|MixedASDwithDelay": 98.04,
+   "BroadlyAffectedAutism|ModerateAutism": 196.08,
+   "BroadlyAffectedAutism|SocialBehavioralAutism": 108.36,
+   "MixedASDwithDelay|ModerateAutism": 138.89,
+   "MixedASDwithDelay|NeurotypicalCognition": 16.84,
+   "MixedASDwithDelay|SocialBehavioralAutism": 146.2,
+   "ModerateAutism|SocialBehavioralAutism": 109.65,
+   "NeurotypicalCognition|SocialBehavioralAutism": 15.95
+  },
+  "n_componentes": 16,
+  "gigante": 5,
+  "mezcla_gigante": {
+   "BroadlyAffectedAutism": 1,
+   "SocialBehavioralAutism": 3,
+   "MixedASDwithDelay": 1
+  }
+ },
+ "A_cascada_tau0.9": {
+  "vivos": 137,
+  "F_vivas": 40,
+  "tasa_endpoints": 0.3722627737226277,
+  "vivos_por_actor": {
+   "NeurotypicalCognition": 33,
+   "BroadlyAffectedAutism": 17,
+   "MixedASDwithDelay": 20,
+   "ModerateAutism": 14,
+   "SocialBehavioralAutism": 53
+  },
+  "densidad_pares": {
+   "BroadlyAffectedAutism|MixedASDwithDelay": 88.24,
+   "BroadlyAffectedAutism|ModerateAutism": 168.07,
+   "BroadlyAffectedAutism|SocialBehavioralAutism": 77.69,
+   "MixedASDwithDelay|ModerateAutism": 107.14,
+   "MixedASDwithDelay|NeurotypicalCognition": 15.15,
+   "MixedASDwithDelay|SocialBehavioralAutism": 94.34,
+   "ModerateAutism|SocialBehavioralAutism": 121.29,
+   "NeurotypicalCognition|SocialBehavioralAutism": 17.15
+  },
+  "n_componentes": 18,
+  "gigante": 5,
+  "mezcla_gigante": {
+   "BroadlyAffectedAutism": 1,
+   "SocialBehavioralAutism": 3,
+   "MixedASDwithDelay": 1
+  }
+ },
+ "B_solo_juez_tau0.5": {
+  "vivos": 455,
+  "F_vivas": 459,
+  "tasa_endpoints": 0.5934065934065934,
+  "vivos_por_actor": {
+   "NeurotypicalCognition": 132,
+   "MixedASDwithDelay": 64,
+   "ModerateAutism": 73,
+   "BroadlyAffectedAutism": 98,
+   "SocialBehavioralAutism": 88
+  },
+  "densidad_pares": {
+   "BroadlyAffectedAutism|MixedASDwithDelay": 106.82,
+   "BroadlyAffectedAutism|ModerateAutism": 85.27,
+   "BroadlyAffectedAutism|NeurotypicalCognition": 3.87,
+   "BroadlyAffectedAutism|SocialBehavioralAutism": 128.71,
+   "MixedASDwithDelay|ModerateAutism": 109.16,
+   "MixedASDwithDelay|NeurotypicalCognition": 9.47,
+   "MixedASDwithDelay|SocialBehavioralAutism": 120.74,
+   "ModerateAutism|NeurotypicalCognition": 10.38,
+   "ModerateAutism|SocialBehavioralAutism": 101.18,
+   "NeurotypicalCognition|SocialBehavioralAutism": 11.19
+  },
+  "n_componentes": 28,
+  "gigante": 155,
+  "mezcla_gigante": {
+   "SocialBehavioralAutism": 41,
+   "MixedASDwithDelay": 27,
+   "BroadlyAffectedAutism": 47,
+   "ModerateAutism": 33,
+   "NeurotypicalCognition": 7
+  }
+ }
+}

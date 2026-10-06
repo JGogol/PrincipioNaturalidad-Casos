@@ -1,0 +1,134 @@
+Sos un anotador. Te paso 24 pares de proposiciones (A y B) en inglés, tomadas de
+un corpus donde tres partes en conflicto razonan sobre un mismo problema: el
+reparto del soporte vital de un hábitat compartido.
+
+El nombre propio de cada parte fue reemplazado por el marcador ACTOR. Eso es
+deliberado: la pregunta NO es si las dice el mismo actor.
+
+Para cada par, decidí si A y B afirman EL MISMO COMPROMISO — es decir, si
+describen el mismo curso de acción o el mismo estado de cosas, con independencia
+de cuál de las partes lo protagonice.
+
+Categorías, elegí UNA por par:
+
+  IGUAL     A y B dicen lo mismo módulo quién actúa. Reemplazar una por la otra
+            no cambiaría a qué queda comprometida la parte que la sostiene.
+
+  DISTINTO  A y B hablan de cosas diferentes. Pueden compartir tema, tono o
+            vocabulario y aun así no ser el mismo compromiso.
+
+  DUDOSO    No podés decidir sin más contexto.
+
+Reglas:
+- No expliques salvo que te lo pida la última columna.
+- Que las dos suenen parecido, o pertenezcan al mismo conflicto, NO alcanza para
+  IGUAL. Preguntate: ¿si una parte suscribe A, queda comprometida con B?
+- Que una sea más específica que la otra tampoco alcanza: "el oxígeno cae bajo
+  el mínimo" no es lo mismo que "los parámetros de soporte vital se vuelven
+  inestables".
+- No uses la numeración como pista: el orden es aleatorio.
+
+Devolveme exactamente esto, una línea por par, sin texto adicional antes ni
+después:
+
+  <número> | <IGUAL|DISTINTO|DUDOSO> | <justificación en menos de 15 palabras>
+
+Al final, una sola línea con el conteo: IGUAL=n DISTINTO=n DUDOSO=n
+
+Los pares:
+
+1.
+A: Oxygen generation efficiency drops below minimum crew requirements
+B: ACTOR emphasizes funding contribution as legal basis
+
+2.
+A: ACTOR gains technical monopoly over habitat operations
+B: ACTOR gains unilateral control over life support operations
+
+3.
+A: ACTOR gains de facto control over habitat capacity decisions
+B: Life support engineer certification gains decisive bargaining power
+
+4.
+A: Critical habitat systems experience competing operational demands
+B: Critical life support parameters become unstable
+
+5.
+A: Emergency situations escalate without timely coordinated response
+B: Critical life support parameters drift without unified oversight
+
+6.
+A: ACTOR views collaborative decision-making as fundamentally compromised
+B: ACTOR claims operational priority based on first-arrival activation rights and majority funding contribution. Demands exclusive control of life support systems management and veto authority over habitat modifications. Proposes that other crews limit their presence to maintain safety margins, with ACTOR retaining full crew complement. Argues that its life support engineer is indispensable and that allowing unqualified personnel to access critical systems risks everyone's survival. Considers any arrangement that places ACTOR systems under shared command authority a fundamental threat to operational safety, given that its life support engineer alone holds end-to-end systems certification.
+
+7.
+A: Life support resources get redistributed without multilateral consent
+B: ACTOR gains unilateral control over oxygen distribution rates
+
+8.
+A: ACTOR prioritizes water allocation for its ice extraction operations
+B: Habitat life support systems sustain damage from physical altercation
+
+9.
+A: Available drinking water reserves drop below safety thresholds
+B: ACTOR requests priority power allocation for geological equipment
+
+10.
+A: ACTOR crew makes unilateral life support decisions
+B: ACTOR gains unilateral control over oxygen distribution rates
+
+11.
+A: ACTOR gains veto power over habitat operational decisions
+B: ACTOR becomes the de facto gatekeeper for station modifications
+
+12.
+A: ACTOR creates single points of failure in habitat operations
+B: Life support system integrity becomes compromised through competing interventions
+
+13.
+A: ACTOR loses negotiating leverage as survival takes precedence
+B: Life support system integrity becomes compromised through competing interventions
+
+14.
+A: ACTOR prioritizes its own crew's survival parameters
+B: ACTOR escalates protective measures around life support controls
+
+15.
+A: ACTOR gains technical monopoly over habitat operations
+B: ACTOR makes unilateral decisions about life support operations
+
+16.
+A: Resource consumption exceeds sustainable allocation rates
+B: CO2 scrubbing system parameters drift beyond safe operational limits
+
+17.
+A: Physical access to equipment creates de facto operational leverage
+B: Life support engineer certification gains decisive bargaining power
+
+18.
+A: Life support efficiency degrades from system confusion
+B: Habitat power allocation disputes emerge from extraction equipment demands
+
+19.
+A: ACTOR becomes the de facto gatekeeper for all habitat operations
+B: ACTOR gains unilateral control over life support operations
+
+20.
+A: Habitat operations become dependent on ACTOR's unilateral decisions
+B: ACTOR becomes the de facto arbiter of station operations
+
+21.
+A: Alternative crews face potential system dependency crisis
+B: Critical life support parameters become unstable
+
+22.
+A: ACTOR positions crew members near essential life support equipment
+B: Critical habitat systems become partially inaccessible to non-ACTOR personnel
+
+23.
+A: ACTOR establishes unilateral control over essential survival resources
+B: Critical life support decisions require immediate action without consensus
+
+24.
+A: Life support system reliability becomes uncertain without ACTOR expertise
+B: Critical habitat systems experience operational anomalies from untrained interference

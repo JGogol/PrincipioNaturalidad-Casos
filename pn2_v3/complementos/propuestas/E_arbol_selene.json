@@ -1,0 +1,114 @@
+{
+ "E_nombre": "ProtocoloComandoRotativo",
+ "E_alias": "Protocol",
+ "E_postura": "A binding trilateral protocol establishes rotating joint operational command of the station, allocates life support by medical triage independent of national contribution, and gives each agency one equal vote with no unilateral veto.",
+ "fecha": "2026-09-02T21:49:30.274134",
+ "n_nodos": 13,
+ "nodos": [
+  {
+   "id": "ProtocoloComandoRotativo_0_0",
+   "texto": "A binding trilateral protocol establishes rotating joint operational command of the station, allocates life support by medical triage independent of national contribution, and gives each agency one equal vote with no unilateral veto.",
+   "nivel": 0,
+   "padre": null,
+   "hijos": [
+    "ProtocoloComandoRotativo_1_1",
+    "ProtocoloComandoRotativo_1_2",
+    "ProtocoloComandoRotativo_1_3",
+    "ProtocoloComandoRotativo_1_4",
+    "ProtocoloComandoRotativo_1_5",
+    "ProtocoloComandoRotativo_1_6",
+    "ProtocoloComandoRotativo_1_7"
+   ]
+  },
+  {
+   "id": "ProtocoloComandoRotativo_1_1",
+   "texto": "Each agency's operational authority becomes time-bounded by rotation schedule.",
+   "nivel": 1,
+   "padre": "ProtocoloComandoRotativo_0_0",
+   "hijos": []
+  },
+  {
+   "id": "ProtocoloComandoRotativo_1_2",
+   "texto": "Medical triage criteria must be formally codified before first allocation decision.",
+   "nivel": 1,
+   "padre": "ProtocoloComandoRotativo_0_0",
+   "hijos": []
+  },
+  {
+   "id": "ProtocoloComandoRotativo_1_3",
+   "texto": "No single agency can unilaterally override life support resource distribution.",
+   "nivel": 1,
+   "padre": "ProtocoloComandoRotativo_0_0",
+   "hijos": [
+    "ProtocoloComandoRotativo_2_8",
+    "ProtocoloComandoRotativo_2_9",
+    "ProtocoloComandoRotativo_2_10",
+    "ProtocoloComandoRotativo_2_11",
+    "ProtocoloComandoRotativo_2_12"
+   ]
+  },
+  {
+   "id": "ProtocoloComandoRotativo_2_8",
+   "texto": "Any life support change requires multi-agency consensus before implementation.",
+   "nivel": 2,
+   "padre": "ProtocoloComandoRotativo_1_3",
+   "hijos": []
+  },
+  {
+   "id": "ProtocoloComandoRotativo_2_9",
+   "texto": "Individual crew members cannot be denied oxygen allocation unilaterally.",
+   "nivel": 2,
+   "padre": "ProtocoloComandoRotativo_1_3",
+   "hijos": []
+  },
+  {
+   "id": "ProtocoloComandoRotativo_2_10",
+   "texto": "Resource disputes must be escalated to the joint command structure.",
+   "nivel": 2,
+   "padre": "ProtocoloComandoRotativo_1_3",
+   "hijos": []
+  },
+  {
+   "id": "ProtocoloComandoRotativo_2_11",
+   "texto": "ProtocoloComandoRotativo's triage protocol becomes the binding allocation mechanism.",
+   "nivel": 2,
+   "padre": "ProtocoloComandoRotativo_1_3",
+   "hijos": []
+  },
+  {
+   "id": "ProtocoloComandoRotativo_2_12",
+   "texto": "No nation can prioritize its own four crew members over others unilaterally.",
+   "nivel": 2,
+   "padre": "ProtocoloComandoRotativo_1_3",
+   "hijos": []
+  },
+  {
+   "id": "ProtocoloComandoRotativo_1_4",
+   "texto": "Majority voting becomes the operative decision mechanism for all station functions.",
+   "nivel": 1,
+   "padre": "ProtocoloComandoRotativo_0_0",
+   "hijos": []
+  },
+  {
+   "id": "ProtocoloComandoRotativo_1_5",
+   "texto": "ProtocoloComandoRotativo requires a designated arbitration procedure for tied votes.",
+   "nivel": 1,
+   "padre": "ProtocoloComandoRotativo_0_0",
+   "hijos": []
+  },
+  {
+   "id": "ProtocoloComandoRotativo_1_6",
+   "texto": "Rotating command creates defined handover moments requiring documented system status transfer.",
+   "nivel": 1,
+   "padre": "ProtocoloComandoRotativo_0_0",
+   "hijos": []
+  },
+  {
+   "id": "ProtocoloComandoRotativo_1_7",
+   "texto": "Each crew member's national affiliation becomes legally subordinate to triage priority ranking.",
+   "nivel": 1,
+   "padre": "ProtocoloComandoRotativo_0_0",
+   "hijos": []
+  }
+ ]
+}

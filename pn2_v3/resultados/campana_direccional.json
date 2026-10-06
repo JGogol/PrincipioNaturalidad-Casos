@@ -1,0 +1,20 @@
+{
+ "por_actor": {
+  "ModerateAutism": {
+   "inerte": 1782,
+   "discrepan": 17,
+   "fuente": 1
+  },
+  "NeurotypicalCognition": {
+   "inerte": 1706,
+   "discrepan": 78,
+   "fuente": 15,
+   "sumidero": 1
+  }
+ },
+ "ruptura_bruta": {
+  "ModerateAutism": 1041,
+  "NeurotypicalCognition": 370
+ },
+ "nota": "ruptura requiere control de negacion; no se lee como hallazgo"
+}

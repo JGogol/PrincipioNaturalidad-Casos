@@ -1,0 +1,40 @@
+{
+ "tocados": [],
+ "zonas": {
+  "B": 17
+ },
+ "n_fus": 0,
+ "R": 17,
+ "lambda": {
+  "Proposal": 17
+ },
+ "hub": "n/a",
+ "meet": {
+  "Arab Republic of Egypt": 0,
+  "Federal Democratic Republic of Ethiopia": 0,
+  "Republic of Sudan": 0
+ },
+ "campana": {
+  "Arab Republic of Egypt": {
+   "inerte": 8365,
+   "discrepan": 167,
+   "sumidero": 1,
+   "fuente": 1
+  },
+  "Federal Democratic Republic of Ethiopia": {
+   "inerte": 8330,
+   "discrepan": 185,
+   "fuente": 2
+  },
+  "Republic of Sudan": {
+   "inerte": 8292,
+   "discrepan": 224,
+   "sumidero": 1
+  }
+ },
+ "ruptura": {
+  "Arab Republic of Egypt": 1815,
+  "Federal Democratic Republic of Ethiopia": 2465,
+  "Republic of Sudan": 2324
+ }
+}

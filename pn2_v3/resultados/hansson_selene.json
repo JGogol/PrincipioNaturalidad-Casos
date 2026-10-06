@@ -1,0 +1,317 @@
+{
+ "caso": "selene",
+ "actores": {
+  "Commonwealth of Cerulea": {
+   "O": 183,
+   "corte": 1,
+   "corte_prof": [
+    0
+   ],
+   "cascada": 503,
+   "raiz_en_O": true,
+   "top_corte": [
+    {
+     "id": "Commonwealth of Cerulea_0_0",
+     "depth": 0,
+     "sub": 503,
+     "acum": 1.0,
+     "texto": "Cerulea claims essential-participant status based on its monopoly on Earth communication and medical capability. Argues that operational priority and hardware contribution are irrelevant if crews cannot communicate with Earth or treat medical emergencies. Demands guaranteed full-crew presence as a non-negotiable condition, noting that its physician and communication specialists cannot be reduced without endangering all occupants. Proposes a consensus-based decision framework requiring unanimous agreement for any life support modification. States that exclusion or reduction would force it to operate its communication array from its landing vehicle for crew safety reasons, which would interrupt the habitat's connection to Earth-based mission control."
+    }
+   ],
+   "k_dep": 1.0,
+   "k_dep_rescate": 0.8846918489065606,
+   "rescatados": 58,
+   "rescatado_por": {
+    "Aurelia": 27,
+    "Borealis": 18
+   },
+   "ejemplos_rescatados": [
+    "Cerulea determines which personnel remain in habitat",
+    "System modifications proceed without Cerulea's technical input",
+    "Each crew begins independent resource consumption without coordination",
+    "Cerulea prioritizes its own crew for habitat slots",
+    "Time-sensitive life support modifications face potential delays"
+   ],
+   "opone_por_prof": {
+    "0": [
+     1,
+     1
+    ],
+    "1": [
+     2,
+     3
+    ],
+    "2": [
+     1,
+     6
+    ],
+    "3": [
+     8,
+     16
+    ],
+    "4": [
+     14,
+     44
+    ],
+    "5": [
+     45,
+     115
+    ],
+    "6": [
+     103,
+     294
+    ],
+    "7": [
+     9,
+     24
+    ]
+   },
+   "opone_puente": [
+    64,
+    151
+   ],
+   "opone_nopuente": [
+    119,
+    352
+   ]
+  },
+  "Federation of Borealis": {
+   "O": 165,
+   "corte": 24,
+   "corte_prof": [
+    1,
+    1,
+    1,
+    3,
+    3,
+    3,
+    4,
+    4,
+    4,
+    4,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+   ],
+   "cascada": 444,
+   "raiz_en_O": false,
+   "top_corte": [
+    {
+     "id": "Federation of Borealis_1_1",
+     "depth": 1,
+     "sub": 172,
+     "acum": 0.344,
+     "texto": "Other nations reject Borealis's co-equal authority claims"
+    },
+    {
+     "id": "Federation of Borealis_1_2",
+     "depth": 1,
+     "sub": 122,
+     "acum": 0.588,
+     "texto": "Rotating command structure proposal creates immediate implementation disputes"
+    },
+    {
+     "id": "Federation of Borealis_1_3",
+     "depth": 1,
+     "sub": 78,
+     "acum": 0.744,
+     "texto": "Resource allocation debates intensify over geological operation priorities"
+    },
+    {
+     "id": "Federation of Borealis_3_39",
+     "depth": 3,
+     "sub": 16,
+     "acum": 0.776,
+     "texto": "Mission control loses effective oversight of crew actions"
+    },
+    {
+     "id": "Federation of Borealis_3_26",
+     "depth": 3,
+     "sub": 14,
+     "acum": 0.804,
+     "texto": "Borealis gains disproportionate bargaining power in resource discussions"
+    },
+    {
+     "id": "Federation of Borealis_3_43",
+     "depth": 3,
+     "sub": 10,
+     "acum": 0.824,
+     "texto": "Federation of Borealis gains maximum negotiating leverage through crisis"
+    }
+   ],
+   "k_dep": 0.888,
+   "k_dep_rescate": 0.804,
+   "rescatados": 42,
+   "rescatado_por": {
+    "Aurelia": 24,
+    "Cerulea": 13
+   },
+   "ejemplos_rescatados": [
+    "Borealis experiences increased distrust toward other crews",
+    "Habitat power allocation disputes emerge from extraction equipment demands",
+    "Borealis begins withholding technical information about its life support systems",
+    "Borealis starts monitoring other crews' activities more closely",
+    "Borealis questions the reliability of other nations' operational commitments"
+   ],
+   "opone_por_prof": {
+    "0": [
+     0,
+     1
+    ],
+    "1": [
+     3,
+     4
+    ],
+    "2": [
+     3,
+     10
+    ],
+    "3": [
+     13,
+     33
+    ],
+    "4": [
+     28,
+     98
+    ],
+    "5": [
+     95,
+     290
+    ],
+    "6": [
+     23,
+     64
+    ]
+   },
+   "opone_puente": [
+    50,
+    136
+   ],
+   "opone_nopuente": [
+    115,
+    364
+   ]
+  },
+  "Republic of Aurelia": {
+   "O": 199,
+   "corte": 6,
+   "corte_prof": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    2
+   ],
+   "cascada": 498,
+   "raiz_en_O": false,
+   "top_corte": [
+    {
+     "id": "Republic of Aurelia_1_2",
+     "depth": 1,
+     "sub": 173,
+     "acum": 0.346,
+     "texto": "Aurelia restricts other crews' access to life support systems"
+    },
+    {
+     "id": "Republic of Aurelia_1_1",
+     "depth": 1,
+     "sub": 171,
+     "acum": 0.688,
+     "texto": "Other crews reject Aurelia's exclusive control demands"
+    },
+    {
+     "id": "Republic of Aurelia_1_4",
+     "depth": 1,
+     "sub": 109,
+     "acum": 0.906,
+     "texto": "Aurelia's crew begins implementing unilateral operational protocols"
+    },
+    {
+     "id": "Republic of Aurelia_2_19",
+     "depth": 2,
+     "sub": 18,
+     "acum": 0.942,
+     "texto": "Aurelia's legal foundation for exclusive control becomes disputed"
+    },
+    {
+     "id": "Republic of Aurelia_2_21",
+     "depth": 2,
+     "sub": 14,
+     "acum": 0.97,
+     "texto": "Aurelia must defend first-arrival doctrine without clear treaty support"
+    },
+    {
+     "id": "Republic of Aurelia_2_20",
+     "depth": 2,
+     "sub": 13,
+     "acum": 0.996,
+     "texto": "International space law precedent remains unestablished for this scenario"
+    }
+   ],
+   "k_dep": 0.996,
+   "k_dep_rescate": 0.74,
+   "rescatados": 128,
+   "rescatado_por": {
+    "Cerulea": 27,
+    "Borealis": 39
+   },
+   "ejemplos_rescatados": [
+    "Other crews cannot monitor critical system parameters independently",
+    "Other crews must request permission for basic life support adjustments",
+    "Other crews develop dependency on Aurelian technical expertise",
+    "Non-Aurelian personnel cannot independently troubleshoot life support issues",
+    "Other crews' mission autonomy becomes compromised"
+   ],
+   "opone_por_prof": {
+    "0": [
+     0,
+     1
+    ],
+    "1": [
+     3,
+     4
+    ],
+    "2": [
+     6,
+     13
+    ],
+    "3": [
+     16,
+     43
+    ],
+    "4": [
+     46,
+     125
+    ],
+    "5": [
+     102,
+     240
+    ],
+    "6": [
+     26,
+     74
+    ]
+   },
+   "opone_puente": [
+    50,
+    155
+   ],
+   "opone_nopuente": [
+    149,
+    345
+   ]
+  }
+ }
+}

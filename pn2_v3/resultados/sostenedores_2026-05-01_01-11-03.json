@@ -1,0 +1,96 @@
+{
+ "caso": "../../casos/gerd/runs/2026-05-01_01-11-03",
+ "top": [
+  {
+   "id": "Republic of Sudan_5_319",
+   "actor": "Republic of Sudan",
+   "d": 5,
+   "texto": "Sudan requests African Union mediation intervention",
+   "sost": 161,
+   "por_actor": {
+    "Arab Republic of Egypt": 69,
+    "Federal Democratic Republic of Ethiopia": 50,
+    "Republic of Sudan": 42
+   },
+   "ajenos": 119,
+   "premisas": {
+    "Arab Republic of Egypt": 1,
+    "Federal Democratic Republic of Ethiopia": 1,
+    "Republic of Sudan": 0
+   }
+  },
+  {
+   "id": "Republic of Sudan_5_404",
+   "actor": "Republic of Sudan",
+   "d": 5,
+   "texto": "Sudan gains potential allies with independent water security concerns",
+   "sost": 154,
+   "por_actor": {
+    "Arab Republic of Egypt": 66,
+    "Federal Democratic Republic of Ethiopia": 50,
+    "Republic of Sudan": 38
+   },
+   "ajenos": 116,
+   "premisas": {
+    "Arab Republic of Egypt": 2,
+    "Federal Democratic Republic of Ethiopia": 1,
+    "Republic of Sudan": 0
+   }
+  },
+  {
+   "id": "Republic of Sudan_5_233",
+   "actor": "Republic of Sudan",
+   "d": 5,
+   "texto": "Sudan shifts diplomatic focus toward non-Nile regional partnerships",
+   "sost": 154,
+   "por_actor": {
+    "Arab Republic of Egypt": 66,
+    "Federal Democratic Republic of Ethiopia": 50,
+    "Republic of Sudan": 38
+   },
+   "ajenos": 116,
+   "premisas": {
+    "Arab Republic of Egypt": 1,
+    "Federal Democratic Republic of Ethiopia": 1,
+    "Republic of Sudan": 0
+   }
+  },
+  {
+   "id": "Republic of Sudan_5_244",
+   "actor": "Republic of Sudan",
+   "d": 5,
+   "texto": "Sudan's negotiating position with Ethiopia becomes externally constrained",
+   "sost": 150,
+   "por_actor": {
+    "Arab Republic of Egypt": 63,
+    "Federal Democratic Republic of Ethiopia": 50,
+    "Republic of Sudan": 37
+   },
+   "ajenos": 113,
+   "premisas": {
+    "Arab Republic of Egypt": 1,
+    "Federal Democratic Republic of Ethiopia": 2,
+    "Republic of Sudan": 0
+   }
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_4_416",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 4,
+   "texto": "Ethiopia engages African Union mediation mechanisms",
+   "sost": 161,
+   "por_actor": {
+    "Arab Republic of Egypt": 69,
+    "Federal Democratic Republic of Ethiopia": 50,
+    "Republic of Sudan": 42
+   },
+   "ajenos": 111,
+   "premisas": {
+    "Arab Republic of Egypt": 1,
+    "Federal Democratic Republic of Ethiopia": 0,
+    "Republic of Sudan": 1
+   }
+  }
+ ],
+ "comprometidos_por_todas": 370
+}

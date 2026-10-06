@@ -1,0 +1,77 @@
+{
+ "caso": "autismo",
+ "n": 753,
+ "J2": {
+  "filas": null,
+  "contr": {
+   "crudo": {
+    "k50_80_90": [
+     2,
+     19,
+     74
+    ],
+    "nulo": [
+     90,
+     254,
+     353
+    ],
+    "P1": true
+   },
+   "centrado": {
+    "k50_80_90": [
+     2,
+     34,
+     101
+    ],
+    "nulo": [
+     137,
+     291,
+     384
+    ],
+    "P1": true
+   },
+   "u1_por_actor": {
+    "BroadlyAffected": 0.021,
+    "MixedASDwithDelay": 0.023,
+    "Moderate": 0.022,
+    "Neurotypical": 0.062,
+    "SocialBehavioral": 0.021
+   }
+  },
+  "impl": {
+   "crudo": {
+    "k50_80_90": [
+     12,
+     71,
+     138
+    ],
+    "nulo": [
+     124,
+     278,
+     373
+    ],
+    "P1": false
+   },
+   "centrado": {
+    "k50_80_90": [
+     15,
+     76,
+     144
+    ],
+    "nulo": [
+     133,
+     286,
+     379
+    ],
+    "P1": false
+   },
+   "u1_por_actor": {
+    "BroadlyAffected": 0.031,
+    "MixedASDwithDelay": 0.034,
+    "Moderate": 0.03,
+    "Neurotypical": 0.005,
+    "SocialBehavioral": 0.023
+   }
+  }
+ }
+}

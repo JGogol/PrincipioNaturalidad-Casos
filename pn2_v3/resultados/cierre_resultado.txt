@@ -1,0 +1,21 @@
+# Cierre: base de embeddings, lambda contra nulo, reticulo y frontera en los tres casos — 2026-09-11 22:07 UTC
+# EXPLORATORIO.
+
+[A] base de clusters de embedding (GERD)
+        k  F interna         nulo            z M en 1 cl.
+       10      24.5%         9.6%          5.6      10/10
+       41      16.7%         2.8%          8.2      37/41
+      100      15.7%         1.2%         14.6      79/100
+      300      11.8%         0.4%         16.8     158/300
+
+[B] la composicion lambda contra un nulo que preserva grados
+    gerd    304 regiones mixtas | dispersion de lambda 0.2180 | nulo 0.1737 +- 0.0143 | z +3.1
+            la composicion mas repetida: (np.float64(0.32), np.float64(0.24), np.float64(0.45)) en 38 de 304 regiones
+    selene  442 regiones mixtas | dispersion de lambda 0.1474 | nulo 0.1289 +- 0.0117 | z +1.6
+            la composicion mas repetida: (np.float64(0.21), np.float64(0.34), np.float64(0.44)) en 188 de 442 regiones
+
+[C] reticulo y frontera en los tres casos
+    caso       alpha   frontera   inters.   vacias   cert.%  front.%
+    gerd       0.122       984      374    97.1%    89.1%    83.0%
+    selene     0.208       925      349    91.2%    58.0%    43.8%
+    vireya     0.302       953      370    88.1%    52.8%    43.2%

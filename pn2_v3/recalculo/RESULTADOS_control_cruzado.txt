@@ -1,0 +1,24 @@
+== campo cruzado (juez 1, sin verificación Λ)
+  pares que pasan el prefiltro: 110419
+  estrato A (coseno más alto, exhaustivo): 5000 evaluados, 41 certificados; coseno mínimo de A = 0.5028
+  estrato B (muestra al azar de 105419): 40000 evaluados, 16 certificados
+  OBSERVADO: 57 certificados sobre 45000 pares evaluados
+  ESTIMADO sobre todo el campo: 41 + 16·105419/40000 = 83.2  -> tasa 7.532e-04
+  nodos distintos del Nilo entre los certificados: 43
+
+== certificado interno (mismo juez 1, mismos umbrales)
+  gerd: 345202 pares; certificados antes de Λ = 121, después de Λ = 102
+  selene: 143793 pares; certificados antes de Λ = 276, después de Λ = 218
+
+== comparación cruzado / Nilo
+  tasa cruzada estimada / tasa Nilo después de Λ (lo que compara el texto actual): 2.55
+  tasa cruzada estimada / tasa Nilo ANTES de Λ (comparación homogénea): 2.15
+
+== por bandas de coseno (tasa de certificados; cruzado bajo 0,503 desde la muestra B)
+  banda            Nilo post-Λ  Nilo pre-Λ     cruzado  / post   / pre
+  [0.350, 0.400)      3.77e-05    4.72e-05    1.98e-04     5.2     4.2   (n cruzado 25248)
+  [0.400, 0.450)      6.93e-05    1.16e-04    4.78e-04     6.9     4.1   (n cruzado 10458)
+  [0.450, 0.503)      1.21e-04    1.52e-04    1.40e-03    11.5     9.2   (n cruzado 4290)
+  [0.503, 0.600)      3.34e-04    4.61e-04    5.56e-03    16.7    12.1   (n cruzado 4496)
+  [0.600, 0.700)      1.52e-03    1.57e-03    3.18e-02    20.9    20.2   (n cruzado 471)
+  [0.700, 1.010)      8.00e-03    8.73e-03    3.03e-02     3.8     3.5   (n cruzado 33)

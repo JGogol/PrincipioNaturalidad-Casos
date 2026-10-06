@@ -1,0 +1,162 @@
+# Cruces sobre el objeto (A,T) — 2026-09-11 14:31 UTC
+# EXPLORATORIO: ningun criterio de muerte fijado de antemano. Nada de esto es confirmatorio.
+
+==========================================================================
+GERD
+==========================================================================
+
+[1] que compuerta frena a cada par inter-actor (345202 evaluados)
+    prefiltro coseno               0    0.00%
+    umbral de implicacion     345079   99.96%
+    veto de contradiccion          2    0.00%
+    inversion de roles            19    0.01%
+    CERTIFICA                    102    0.03%
+
+[2] atributos PN1: puentes (304) contra el resto (1200)
+    atributo              puentes      resto   p perm
+    peso_acumulado         5.1773     6.4025   0.0005
+    peso_arista            1.2638     1.2937   0.2009
+    sim_con_raiz           0.3575     0.3371   0.1094
+    sim_con_problema       0.3699     0.3619   0.5567
+    profundidad            4.0000     5.0000   0.0005
+
+[3] compacidad del terreno comun en el espacio de embeddings (370 nodos)
+    coseno medio interno  0.3816   nulo 0.3698 +- 0.0051   z = +2.3
+
+[4] contradiccion INTRA-actor: 16682 pares, 22.2 por nodo
+    actor           pares   por nodo nodos tocados
+    Egypt            6017       24.0       483/502
+    Ethiopia         4893       19.5       494/501
+    Sudan            5772       23.0       491/501
+    grado intra: puentes 19.0 vs resto 17.0 (p=0.3118)
+    grado intra: terreno comun 19.0 vs resto 17.0 (p=0.2469)
+
+[5] ancestros que mas contradicciones internas inyectan (316 distintos)
+    10425  d0 Sudan     Sudan conditions its acceptance on the implementation of a robust real-time tech
+     9587  d0 Ethiopia  Ethiopia invokes the principle of 'Equitable and Reasonable Utilization' recogni
+     6215  d1 Egypt     International mediators face increased pressure to propose compromise frameworks
+     5218  d0 Egypt     Egypt demands a legally binding agreement (not voluntary guidelines) that oblige
+     1325  d1 Ethiopia  Ethiopia gains international legal precedent for upstream rights
+
+==========================================================================
+SELENE
+==========================================================================
+
+[1] que compuerta frena a cada par inter-actor (143793 evaluados)
+    prefiltro coseno               0    0.00%
+    umbral de implicacion     143510   99.80%
+    veto de contradiccion          7    0.00%
+    inversion de roles            58    0.04%
+    CERTIFICA                    218    0.15%
+
+[2] atributos PN1: puentes (442) contra el resto (1061)
+    atributo              puentes      resto   p perm
+    peso_acumulado         5.2346     6.0996   0.0005
+    peso_arista            1.1843     1.2522   0.0005
+    sim_con_raiz           0.3976     0.3655   0.0005
+    sim_con_problema       0.4158     0.3830   0.0005
+    profundidad            5.0000     5.0000   1.0000
+
+[3] compacidad del terreno comun en el espacio de embeddings (551 nodos)
+    coseno medio interno  0.3014   nulo 0.2806 +- 0.0031   z = +6.8
+
+[4] contradiccion INTRA-actor: 12383 pares, 16.5 por nodo
+    actor           pares   por nodo nodos tocados
+    Cerulea          3325       13.2       470/503
+    Borealis         2899       11.6       465/500
+    Aurelia          6159       24.6       473/500
+    grado intra: puentes 9.0 vs resto 12.0 (p=0.0110)
+    grado intra: terreno comun 10.0 vs resto 11.0 (p=0.4728)
+
+[5] ancestros que mas contradicciones internas inyectan (264 distintos)
+    11596  d0 Aurelia   Aurelia claims operational priority based on first-arrival activation rights and
+     7796  d0 Borealis  Borealis claims co-equal operational authority based on its dominant contributio
+     5129  d0 Cerulea   Cerulea claims essential-participant status based on its monopoly on Earth commu
+     2092  d1 Cerulea   Consensus framework gives Cerulea veto power over decisions
+     1496  d1 Aurelia   Other crews reject Aurelia's exclusive control demands
+
+==========================================================================
+VIREYA
+==========================================================================
+
+[1] que compuerta frena a cada par inter-actor (242384 evaluados)
+    prefiltro coseno               0    0.00%
+    umbral de implicacion     241811   99.76%
+    veto de contradiccion          5    0.00%
+    inversion de roles            65    0.03%
+    CERTIFICA                    503    0.21%
+
+[2] atributos PN1: puentes (607) contra el resto (897)
+    atributo              puentes      resto   p perm
+    peso_acumulado         3.4468     4.0708   0.0005
+    peso_arista            1.0908     1.0701   0.0635
+    sim_con_raiz           0.4944     0.4961   0.8996
+    sim_con_problema       0.4230     0.4354   0.0680
+    profundidad            3.0000     4.0000   0.0005
+
+[3] compacidad del terreno comun en el espacio de embeddings (772 nodos)
+    coseno medio interno  0.3759   nulo 0.3609 +- 0.0020   z = +7.4
+
+
+############ CONTROLES DE CONFUSION ############
+
+========================================================================
+GERD
+========================================================================
+
+[A] peso_acumulado, puente vs no-puente, DENTRO de cada profundidad
+     prof   n pte mediana pte mediana no   p perm
+        3      54      3.865      3.862   0.9555
+        4      77      5.160      5.229   0.5417
+        5      86      6.577      6.469   0.5087
+        6      40      7.648      7.486   0.4353
+
+[B] ancestros que inyectan MAS contradiccion de la esperada por combinatoria
+    (esperado = pares cuyo LCA es ese nodo; se listan los de >=200 pares posibles)
+       obs  esperado    lift  nodo
+       170        69    2.46  d3 Egypt     Arab Republic of Egypt gains negotiating advantage through aligned
+        66        27    2.45  d4 Egypt     Egypt must evaluate whether Sudan's operational needs align with E
+        67        36    1.85  d2 Ethiopia  Sudan loses treaty-based water allocation guarantees from colonial
+       308       168    1.83  d2 Ethiopia  Other upstream nations cite Ethiopia's precedent in water disputes
+        37        24    1.54  d2 Egypt     Egypt views diplomatic channels as increasingly ineffective
+        46        31    1.49  d3 Egypt     Ethiopia's electricity generation concerns receive secondary consi
+    -- las premisas, para comparar --
+      5218      4841    1.08  d0 Egypt     Egypt demands a legally binding agreement (not voluntary guideline
+      9587     10426    0.92  d0 Ethiopia  Ethiopia invokes the principle of 'Equitable and Reasonable Utiliz
+     10425     10576    0.99  d0 Sudan     Sudan conditions its acceptance on the implementation of a robust 
+
+========================================================================
+SELENE
+========================================================================
+
+[A] peso_acumulado, puente vs no-puente, DENTRO de cada profundidad
+     prof   n pte mediana pte mediana no   p perm
+        3      65      3.506      3.577   0.3458
+        4     115      4.735      4.873   0.0505
+        5     142      6.004      5.986   0.7566
+        6      74      7.318      7.817   0.0010
+
+[B] ancestros que inyectan MAS contradiccion de la esperada por combinatoria
+    (esperado = pares cuyo LCA es ese nodo; se listan los de >=200 pares posibles)
+       obs  esperado    lift  nodo
+        89        34    2.62  d2 Aurelia   Other crews cannot monitor critical system parameters independentl
+        34        20    1.70  d2 Aurelia   Aurelia's crew restricts access to critical habitat control system
+        41        25    1.67  d3 Aurelia   Non-Aurelian personnel cannot independently troubleshoot life supp
+        70        43    1.62  d2 Aurelia   Aurelia's life support engineer becomes focal point of inter-crew 
+        99        68    1.46  d2 Aurelia   Aurelia faces immediate challenge to its operational authority ove
+       150       106    1.42  d2 Aurelia   Republic of Aurelia must defend its exclusive control position aga
+    -- las premisas, para comparar --
+      5129      5989    0.86  d0 Cerulea   Cerulea claims essential-participant status based on its monopoly 
+      7796      9047    0.86  d0 Borealis  Borealis claims co-equal operational authority based on its domina
+     11596      8727    1.33  d0 Aurelia   Aurelia claims operational priority based on first-arrival activat
+
+========================================================================
+VIREYA
+========================================================================
+
+[A] peso_acumulado, puente vs no-puente, DENTRO de cada profundidad
+     prof   n pte mediana pte mediana no   p perm
+        3     225      3.127      3.316   0.0005
+        4     269      4.170      4.137   0.1174
+        5      15      4.373      4.307   0.2454
+

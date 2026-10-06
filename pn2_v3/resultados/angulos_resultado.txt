@@ -1,0 +1,100 @@
+# Otros angulos sobre el objeto — 2026-09-11 15:28 UTC
+# EXPLORATORIO. Sin criterio de muerte previo.
+
+========================================================================
+GERD
+========================================================================
+
+[1] reciprocidad de la implicacion (tau=0.55)
+    pares dirigidos sobre umbral en UNA direccion : 3016
+    pares sobre umbral en LAS DOS                 : 89
+    reciprocidad = 5.573%   (de cada 1000 implicaciones, 56 son mutuas)
+    tau=0.55  dirigidas   3194  mutuas    89  reciprocidad  5.57%
+    tau=0.70  dirigidas   2893  mutuas    82  reciprocidad  5.67%
+    tau=0.90  dirigidas   2287  mutuas    61  reciprocidad  5.33%
+
+[2] la implicacion dirigida sobre umbral: 1351 componentes fuertes, 21 con mas de un nodo
+    el mayor ciclo tiene 123 proposiciones
+
+[3] implicacion dirigida entre actores (filas: premisa; %% de pares sobre tau)
+                   Egypt  Ethiopia     Sudan
+    Egypt              -    0.539%    0.512%
+    Ethiopia      0.581%         -    0.514%
+    Sudan         0.372%    0.285%         -
+    contradiccion (max de las dos direcciones, % sobre delta=0.50)
+    Egypt              -    36.69%    36.31%
+    Ethiopia      36.69%         -    39.95%
+    Sudan         36.31%    39.95%         -
+
+[4] geometria contra juez  r(coseno, implicacion) = +0.122   r(coseno, contradiccion) = -0.044
+[5] rango efectivo  [PRUEBA INVALIDA, nulo mal construido; no usar]
+    observado  59 / 200 / 317      nulo permutado  61 / 182 / 273
+
+[6] grafo de conflicto: 1 componentes; el mayor tiene 1465 nodos (100% de los tocados)
+    grado  397  Ethiopia  d5  Sudan engages in real-time data sharing arrangements
+    grado  348  Egypt     d4  Sudan's infrastructure coordination needs receive less attention
+    grado  304  Ethiopia  d5  Sudan accepts technical coordination meetings without binding commitme
+
+========================================================================
+SELENE
+========================================================================
+
+[1] reciprocidad de la implicacion (tau=0.55)
+    pares dirigidos sobre umbral en UNA direccion : 3139
+    pares sobre umbral en LAS DOS                 : 206
+    reciprocidad = 11.602%   (de cada 1000 implicaciones, 116 son mutuas)
+    tau=0.55  dirigidas   3551  mutuas   206  reciprocidad 11.60%
+    tau=0.70  dirigidas   3176  mutuas   177  reciprocidad 11.15%
+    tau=0.90  dirigidas   2439  mutuas   142  reciprocidad 11.64%
+
+[2] la implicacion dirigida sobre umbral: 1132 componentes fuertes, 28 con mas de un nodo
+    el mayor ciclo tiene 342 proposiciones
+
+[3] implicacion dirigida entre actores (filas: premisa; %% de pares sobre tau)
+                 Aurelia  Borealis   Cerulea
+    Aurelia            -    1.114%    1.240%
+    Borealis      1.081%         -    1.113%
+    Cerulea       1.601%    1.336%         -
+    contradiccion (max de las dos direcciones, % sobre delta=0.50)
+    Aurelia            -    39.38%    27.92%
+    Borealis      39.38%         -    35.44%
+    Cerulea       27.92%    35.44%         -
+
+[4] geometria contra juez  r(coseno, implicacion) = +0.186   r(coseno, contradiccion) = -0.074
+[5] rango efectivo  [PRUEBA INVALIDA, nulo mal construido; no usar]
+    observado  74 / 238 / 367      nulo permutado  60 / 164 / 239
+
+[6] grafo de conflicto: 1 componentes; el mayor tiene 1388 nodos (100% de los tocados)
+    grado  143  Borealis  d4  Federation of Borealis crew makes unilateral life support decisions
+    grado  136  Borealis  d5  Borealis crew makes unilateral adjustments to life support parameters
+    grado  134  Borealis  d3  Each nation begins independent resource management protocols
+
+========================================================================
+VIREYA
+========================================================================
+
+[1] reciprocidad de la implicacion (tau=0.55)
+    pares dirigidos sobre umbral en UNA direccion : 10671
+    pares sobre umbral en LAS DOS                 : 573
+    reciprocidad = 9.698%   (de cada 1000 implicaciones, 97 son mutuas)
+    tau=0.55  dirigidas  11817  mutuas   573  reciprocidad  9.70%
+    tau=0.70  dirigidas  10219  mutuas   464  reciprocidad  9.08%
+    tau=0.90  dirigidas   7296  mutuas   308  reciprocidad  8.44%
+
+[2] la implicacion dirigida sobre umbral: 789 componentes fuertes, 5 con mas de un nodo
+    el mayor ciclo tiene 711 proposiciones
+
+[3] implicacion dirigida entre actores (filas: premisa; %% de pares sobre tau)
+                  Ondrel   Tessara    Vireya
+    Ondrel             -    0.777%    2.745%
+    Tessara       0.480%         -    0.975%
+    Vireya        4.768%    4.211%         -
+    contradiccion (max de las dos direcciones, % sobre delta=0.50)
+    Ondrel             -    91.03%    40.74%
+    Tessara       91.03%         -    45.43%
+    Vireya        40.74%    45.43%         -
+
+[4] geometria contra juez  r(coseno, implicacion) = +0.159   r(coseno, contradiccion) = -0.133
+[5] rango efectivo  [PRUEBA INVALIDA, nulo mal construido; no usar]
+    observado  41 / 194 / 325      nulo permutado  66 / 203 / 309
+

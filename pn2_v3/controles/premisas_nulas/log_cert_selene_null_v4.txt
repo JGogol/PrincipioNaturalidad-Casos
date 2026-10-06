@@ -1,0 +1,23 @@
+[cert] regimen: P~ SIMETRICA | derivadas: SI | E_alias 'Null': se aplica
+   Commonwealth of Cerulea                ['Commonwealth of Cerulea', 'CCerulea', 'Cerulea'] residuo 0/503
+   Federation of Borealis                 ['Federation of Borealis', 'FBorealis', 'Borealis'] residuo 0/500
+   Republic of Aurelia                    ['Republic of Aurelia', 'RAurelia', 'Aurelia'] residuo 0/500
+[cert] E=Null (3 nodos) vs 1503 nodos en 3 actores, doble juez
+[cert] cargando juez base...
+[cert] cargando juez moritz...
+The model cross-encoder/nli-deberta-v3-base was already converted to ONNX but got `export=True`, the model will be converted to ONNX once again. Don't forget to save the resulting model with `.save_pretrained()`
+`torch_dtype` is deprecated! Use `dtype` instead!
+  Cargando MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli...
+The model MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli was already converted to ONNX but got `export=True`, the model will be converted to ONNX once again. Don't forget to save the resulting model with `.save_pretrained()`
+  Modelo cargado. label_map = {0: 'entailment', 1: 'neutral', 2: 'contradiction'}
+  ent_idx = 0, contr_idx = 2
+  null_0         x Cerulea                          4.3 min   [1/9, ~34 min restantes]
+  null_0         x Borealis                         3.5 min   [2/9, ~27 min restantes]
+  null_0         x Aurelia                          5.1 min   [3/9, ~26 min restantes]
+  null_1         x Cerulea                          5.2 min   [4/9, ~23 min restantes]
+  null_1         x Borealis                         5.5 min   [5/9, ~19 min restantes]
+  null_1         x Aurelia                          5.0 min   [6/9, ~14 min restantes]
+  null_2         x Cerulea                          4.9 min   [7/9, ~10 min restantes]
+  null_2         x Borealis                         3.6 min   [8/9, ~5 min restantes]
+  null_2         x Aurelia                          3.1 min   [9/9, ~0 min restantes]
+[cert] COMPLETO -> cert_selene_null_v4.jsonl  (0.7 h)

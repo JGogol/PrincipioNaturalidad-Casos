@@ -1,0 +1,3 @@
+# el objeto (A.npz, T.npz) es parte del deposito: se publica aunque la raiz del repo ignore *.npz
+!*.npz
+__pycache__/

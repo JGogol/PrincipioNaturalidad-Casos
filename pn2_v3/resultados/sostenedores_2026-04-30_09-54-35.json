@@ -1,0 +1,96 @@
+{
+ "caso": "../../casos/selene/runs/2026-04-30_09-54-35",
+ "top": [
+  {
+   "id": "Federation of Borealis_5_508",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "texto": "Borealis restricts information sharing with other crews",
+   "sost": 350,
+   "por_actor": {
+    "Commonwealth of Cerulea": 118,
+    "Federation of Borealis": 111,
+    "Republic of Aurelia": 121
+   },
+   "ajenos": 239,
+   "premisas": {
+    "Commonwealth of Cerulea": 1,
+    "Federation of Borealis": 0,
+    "Republic of Aurelia": 1
+   }
+  },
+  {
+   "id": "Federation of Borealis_5_507",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "texto": "Borealis develops suspicions about other crews' undisclosed activities",
+   "sost": 349,
+   "por_actor": {
+    "Commonwealth of Cerulea": 118,
+    "Federation of Borealis": 110,
+    "Republic of Aurelia": 121
+   },
+   "ajenos": 239,
+   "premisas": {
+    "Commonwealth of Cerulea": 1,
+    "Federation of Borealis": 0,
+    "Republic of Aurelia": 1
+   }
+  },
+  {
+   "id": "Federation of Borealis_5_506",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "texto": "Borealis crew begins documenting other nations' resource usage patterns",
+   "sost": 350,
+   "por_actor": {
+    "Commonwealth of Cerulea": 118,
+    "Federation of Borealis": 111,
+    "Republic of Aurelia": 121
+   },
+   "ajenos": 239,
+   "premisas": {
+    "Commonwealth of Cerulea": 1,
+    "Federation of Borealis": 0,
+    "Republic of Aurelia": 1
+   }
+  },
+  {
+   "id": "Federation of Borealis_5_483",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "texto": "Borealis prioritizes unilateral control over its contributed hardware systems",
+   "sost": 351,
+   "por_actor": {
+    "Commonwealth of Cerulea": 118,
+    "Federation of Borealis": 112,
+    "Republic of Aurelia": 121
+   },
+   "ajenos": 239,
+   "premisas": {
+    "Commonwealth of Cerulea": 1,
+    "Federation of Borealis": 0,
+    "Republic of Aurelia": 1
+   }
+  },
+  {
+   "id": "Federation of Borealis_5_482",
+   "actor": "Federation of Borealis",
+   "d": 5,
+   "texto": "Borealis reduces information sharing about its system capabilities",
+   "sost": 351,
+   "por_actor": {
+    "Commonwealth of Cerulea": 118,
+    "Federation of Borealis": 112,
+    "Republic of Aurelia": 121
+   },
+   "ajenos": 239,
+   "premisas": {
+    "Commonwealth of Cerulea": 1,
+    "Federation of Borealis": 0,
+    "Republic of Aurelia": 1
+   }
+  }
+ ],
+ "comprometidos_por_todas": 551
+}

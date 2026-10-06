@@ -1,0 +1,39 @@
+{
+ "caso": "gerd",
+ "run": "..\\..\\casos\\gerd\\runs\\2026-05-01_01-11-03",
+ "fecha": "2026-09-11 10:35",
+ "n": 1504,
+ "actores": [
+  "Arab Republic of Egypt",
+  "Federal Democratic Republic of Ethiopia",
+  "Republic of Sudan"
+ ],
+ "aristas": 1501,
+ "pares_j1": 345202,
+ "pares_j2": 136799,
+ "codificacion": "uint16: 0=no evaluado, 1..Q+1 -> x=(q-1)/Q, Q=65534",
+ "umbrales": {
+  "tau": 0.55,
+  "gamma": 0.3,
+  "delta": 0.5,
+  "coseno": 0.35
+ },
+ "criterio": "avg",
+ "rechazos_inversion_roles": 19,
+ "embeddings": 768,
+ "gluts_intra_actor": 43142,
+ "aristas_padre_hijo": 1501,
+ "nota_intra": "subconjunto que paso el criterio de glut de phase0, no el campo intra-actor completo",
+ "jueces": {
+  "j1": "cross-encoder/nli-deberta-v3-base (ONNX)",
+  "j2": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+ },
+ "verificacion": {
+  "ajustes_de_borde": 7,
+  "cruces_de_umbral_residuales": 0,
+  "F_datos": 102,
+  "F_rearmado": 102,
+  "faltan": 0,
+  "sobran": 0
+ }
+}

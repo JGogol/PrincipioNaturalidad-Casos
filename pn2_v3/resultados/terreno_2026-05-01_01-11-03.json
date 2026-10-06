@@ -1,0 +1,590 @@
+{
+ "caso": "../../casos/gerd/runs/2026-05-01_01-11-03",
+ "n": 1504,
+ "F": 102,
+ "R_raiz": {
+  "Arab Republic of Egypt": 822,
+  "Federal Democratic Republic of Ethiopia": 823,
+  "Republic of Sudan": 701
+ },
+ "meet": 370,
+ "meet_comp": {
+  "Republic of Sudan": 194,
+  "Arab Republic of Egypt": 106,
+  "Federal Democratic Republic of Ethiopia": 70
+ },
+ "cabezas": [
+  {
+   "id": "Republic of Sudan_2_8",
+   "actor": "Republic of Sudan",
+   "d": 2,
+   "n": 71,
+   "texto": "Sudan threatens to withdraw from existing trilateral negotiation frameworks"
+  },
+  {
+   "id": "Republic of Sudan_2_10",
+   "actor": "Republic of Sudan",
+   "d": 2,
+   "n": 70,
+   "texto": "Sudan seeks alternative water security partnerships"
+  },
+  {
+   "id": "Arab Republic of Egypt_3_23",
+   "actor": "Arab Republic of Egypt",
+   "d": 3,
+   "n": 30,
+   "texto": "Regional powers align with competing positions on water sovereignty"
+  },
+  {
+   "id": "Republic of Sudan_3_34",
+   "actor": "Republic of Sudan",
+   "d": 3,
+   "n": 24,
+   "texto": "Sudan seeks alternative water storage contingency plans"
+  },
+  {
+   "id": "Arab Republic of Egypt_3_39",
+   "actor": "Arab Republic of Egypt",
+   "d": 3,
+   "n": 20,
+   "texto": "Egypt increases military posturing regarding water security threats"
+  },
+  {
+   "id": "Republic of Sudan_3_47",
+   "actor": "Republic of Sudan",
+   "d": 3,
+   "n": 18,
+   "texto": "Sudan faces increased uncertainty about downstream water flows"
+  },
+  {
+   "id": "Arab Republic of Egypt_4_55",
+   "actor": "Arab Republic of Egypt",
+   "d": 4,
+   "n": 14,
+   "texto": "Sudan's infrastructure concerns receive reduced mediator attention"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_3_42",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 3,
+   "n": 14,
+   "texto": "Downstream nations face weakened legal positions globally"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_3_43",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 3,
+   "n": 11,
+   "texto": "Regional water cooperation frameworks become destabilized"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_4_126",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 4,
+   "n": 8,
+   "texto": "Regional water allocation frameworks become destabilized"
+  },
+  {
+   "id": "Arab Republic of Egypt_5_166",
+   "actor": "Arab Republic of Egypt",
+   "d": 5,
+   "n": 5,
+   "texto": "Arab Republic of Egypt seeks alternative water supply arrangements"
+  },
+  {
+   "id": "Arab Republic of Egypt_5_248",
+   "actor": "Arab Republic of Egypt",
+   "d": 5,
+   "n": 5,
+   "texto": "Egypt signals reduced dependence on Nile water negotiations"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_191",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 5,
+   "n": 5,
+   "texto": "Downstream countries pursue alternative water security strategies independently"
+  },
+  {
+   "id": "Arab Republic of Egypt_5_115",
+   "actor": "Arab Republic of Egypt",
+   "d": 5,
+   "n": 5,
+   "texto": "Egypt prioritizes bilateral negotiations with Ethiopia over trilateral frameworks"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_189",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 5,
+   "n": 5,
+   "texto": "Regional water disputes shift toward bilateral rather than multilateral frameworks"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_178",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 5,
+   "n": 4,
+   "texto": "International water law becomes increasingly fragmented and contested"
+  },
+  {
+   "id": "Arab Republic of Egypt_5_151",
+   "actor": "Arab Republic of Egypt",
+   "d": 5,
+   "n": 4,
+   "texto": "International community loses leverage over GERD operations"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_4_123",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 4,
+   "n": 3,
+   "texto": "Federal Democratic Republic of Ethiopia operates GERD without external legal constraints"
+  },
+  {
+   "id": "Republic of Sudan_4_129",
+   "actor": "Republic of Sudan",
+   "d": 4,
+   "n": 3,
+   "texto": "Sudan loses direct influence over bilateral GERD agreements"
+  },
+  {
+   "id": "Arab Republic of Egypt_6_160",
+   "actor": "Arab Republic of Egypt",
+   "d": 6,
+   "n": 3,
+   "texto": "Alternative bilateral negotiations exclude multilateral frameworks"
+  },
+  {
+   "id": "Arab Republic of Egypt_5_143",
+   "actor": "Arab Republic of Egypt",
+   "d": 5,
+   "n": 3,
+   "texto": "Regional powers begin choosing sides in the dispute"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_3_114",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 3,
+   "n": 2,
+   "texto": "Ethiopia prioritizes unilateral operational decisions over multilateral consensus"
+  },
+  {
+   "id": "Arab Republic of Egypt_5_130",
+   "actor": "Arab Republic of Egypt",
+   "d": 5,
+   "n": 2,
+   "texto": "Egypt faces reduced diplomatic leverage over GERD operations"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_6_540",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 6,
+   "n": 1,
+   "texto": "Bilateral water negotiations replace multilateral frameworks"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_349",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 5,
+   "n": 1,
+   "texto": "International water governance frameworks face systematic challenges"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_438",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 5,
+   "n": 1,
+   "texto": "Military posturing increases along transboundary water infrastructure"
+  },
+  {
+   "id": "Republic of Sudan_5_404",
+   "actor": "Republic of Sudan",
+   "d": 5,
+   "n": 1,
+   "texto": "Sudan gains potential allies with independent water security concerns"
+  },
+  {
+   "id": "Arab Republic of Egypt_6_489",
+   "actor": "Arab Republic of Egypt",
+   "d": 6,
+   "n": 1,
+   "texto": "Water flow patterns to Egypt become less predictable"
+  },
+  {
+   "id": "Arab Republic of Egypt_5_233",
+   "actor": "Arab Republic of Egypt",
+   "d": 5,
+   "n": 1,
+   "texto": "International partners evaluate their own strategic interests regarding Nile negotiations"
+  },
+  {
+   "id": "Arab Republic of Egypt_7_566",
+   "actor": "Arab Republic of Egypt",
+   "d": 7,
+   "n": 1,
+   "texto": "Egypt considers bypassing trilateral negotiations for bilateral water agreements"
+  },
+  {
+   "id": "Republic of Sudan_5_600",
+   "actor": "Republic of Sudan",
+   "d": 5,
+   "n": 1,
+   "texto": "Sudan's bilateral relationships with neighbors become strained"
+  },
+  {
+   "id": "Arab Republic of Egypt_6_383",
+   "actor": "Arab Republic of Egypt",
+   "d": 6,
+   "n": 1,
+   "texto": "Egypt perceives exclusion from critical upstream water negotiations"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_604",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 5,
+   "n": 1,
+   "texto": "Ethiopia withdraws from existing transboundary water institutions"
+  },
+  {
+   "id": "Arab Republic of Egypt_5_228",
+   "actor": "Arab Republic of Egypt",
+   "d": 5,
+   "n": 1,
+   "texto": "Arab Republic of Egypt seeks alternative bilateral arrangements with Ethiopia"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_6_542",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 6,
+   "n": 1,
+   "texto": "Water security becomes militarized in affected regions"
+  },
+  {
+   "id": "Arab Republic of Egypt_6_441",
+   "actor": "Arab Republic of Egypt",
+   "d": 6,
+   "n": 1,
+   "texto": "Arab Republic of Egypt mobilizes emergency water conservation measures"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_4_416",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 4,
+   "n": 1,
+   "texto": "Ethiopia engages African Union mediation mechanisms"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_263",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 5,
+   "n": 1,
+   "texto": "Downstream agricultural planning loses synchronization with upstream water management"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_287",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 5,
+   "n": 1,
+   "texto": "Sudan's hydroelectric power generation becomes unstable"
+  },
+  {
+   "id": "Republic of Sudan_5_526",
+   "actor": "Republic of Sudan",
+   "d": 5,
+   "n": 1,
+   "texto": "African Union delays comprehensive technical review of GERD operations"
+  },
+  {
+   "id": "Arab Republic of Egypt_6_580",
+   "actor": "Arab Republic of Egypt",
+   "d": 6,
+   "n": 1,
+   "texto": "Egypt appeals to African Union for mediation mechanisms"
+  },
+  {
+   "id": "Arab Republic of Egypt_6_477",
+   "actor": "Arab Republic of Egypt",
+   "d": 6,
+   "n": 1,
+   "texto": "Regional powers begin independent bilateral negotiations outside multilateral frameworks"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_536",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 5,
+   "n": 1,
+   "texto": "Downstream water flow becomes more variable and unpredictable"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_362",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 5,
+   "n": 1,
+   "texto": "Regional military tensions increase over water infrastructure control"
+  },
+  {
+   "id": "Republic of Sudan_5_601",
+   "actor": "Republic of Sudan",
+   "d": 5,
+   "n": 1,
+   "texto": "International actors begin positioning themselves regarding GERD dispute"
+  },
+  {
+   "id": "Arab Republic of Egypt_6_474",
+   "actor": "Arab Republic of Egypt",
+   "d": 6,
+   "n": 1,
+   "texto": "Egypt develops independent verification capacity for flow measurements"
+  },
+  {
+   "id": "Arab Republic of Egypt_6_266",
+   "actor": "Arab Republic of Egypt",
+   "d": 6,
+   "n": 1,
+   "texto": "Sudan's flood management systems operate without upstream coordination"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_4_418",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 4,
+   "n": 1,
+   "texto": "Ethiopia solicits support from non-riparian international partners"
+  },
+  {
+   "id": "Republic of Sudan_5_406",
+   "actor": "Republic of Sudan",
+   "d": 5,
+   "n": 1,
+   "texto": "Competing hydrological methodologies emerge among member states"
+  },
+  {
+   "id": "Republic of Sudan_5_427",
+   "actor": "Republic of Sudan",
+   "d": 5,
+   "n": 1,
+   "texto": "Sudan threatens withdrawal from regional water cooperation frameworks"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_602",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 5,
+   "n": 1,
+   "texto": "Ethiopia's regional diplomatic isolation increases"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_302",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 5,
+   "n": 1,
+   "texto": "Downstream nations strengthen military capabilities near transboundary waters"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_300",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 5,
+   "n": 1,
+   "texto": "Downstream countries pursue bilateral agreements bypassing multilateral frameworks"
+  },
+  {
+   "id": "Arab Republic of Egypt_6_530",
+   "actor": "Arab Republic of Egypt",
+   "d": 6,
+   "n": 1,
+   "texto": "Egypt reduces dependency on Nile River for water security"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_350",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 5,
+   "n": 1,
+   "texto": "Regional water conflicts intensify due to legal ambiguity"
+  },
+  {
+   "id": "Arab Republic of Egypt_6_425",
+   "actor": "Arab Republic of Egypt",
+   "d": 6,
+   "n": 1,
+   "texto": "Egypt's negotiating position deteriorates in water diplomacy"
+  },
+  {
+   "id": "Republic of Sudan_5_258",
+   "actor": "Republic of Sudan",
+   "d": 5,
+   "n": 1,
+   "texto": "Sudan's water infrastructure planning becomes reactive rather than proactive"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_6_519",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 6,
+   "n": 1,
+   "texto": "Regional water cooperation frameworks lose binding authority over Ethiopian infrastructure decisions"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_196",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 5,
+   "n": 1,
+   "texto": "Federal Democratic Republic of Ethiopia operates GERD with reduced external oversight"
+  },
+  {
+   "id": "Arab Republic of Egypt_6_339",
+   "actor": "Arab Republic of Egypt",
+   "d": 6,
+   "n": 1,
+   "texto": "Egypt seeks alternative downstream allies beyond Sudan"
+  },
+  {
+   "id": "Arab Republic of Egypt_5_307",
+   "actor": "Arab Republic of Egypt",
+   "d": 5,
+   "n": 1,
+   "texto": "Egypt's negotiation flexibility decreases in upcoming trilateral discussions"
+  },
+  {
+   "id": "Republic of Sudan_5_335",
+   "actor": "Republic of Sudan",
+   "d": 5,
+   "n": 1,
+   "texto": "Sudan forfeits early warning systems for downstream flooding"
+  },
+  {
+   "id": "Arab Republic of Egypt_6_450",
+   "actor": "Arab Republic of Egypt",
+   "d": 6,
+   "n": 1,
+   "texto": "Regional diplomatic alliances shift around water security issues"
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_6_597",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "d": 6,
+   "n": 1,
+   "texto": "Downstream flood preparedness systems lose predictive capacity"
+  }
+ ],
+ "puentes": 304,
+ "fusionados": 137,
+ "puentes_top": [
+  {
+   "id": "Federal Democratic Republic of Ethiopia_4_73",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "texto": "Federal Democratic Republic of Ethiopia reduces coordination with downstream monitoring systems",
+   "ajenos": 300
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_196",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "texto": "Federal Democratic Republic of Ethiopia operates GERD with reduced external oversight",
+   "ajenos": 299
+  },
+  {
+   "id": "Arab Republic of Egypt_6_538",
+   "actor": "Arab Republic of Egypt",
+   "texto": "Ethiopia reduces cooperation with current mediating institutions",
+   "ajenos": 267
+  },
+  {
+   "id": "Arab Republic of Egypt_6_266",
+   "actor": "Arab Republic of Egypt",
+   "texto": "Sudan's flood management systems operate without upstream coordination",
+   "ajenos": 262
+  },
+  {
+   "id": "Arab Republic of Egypt_4_55",
+   "actor": "Arab Republic of Egypt",
+   "texto": "Sudan's infrastructure concerns receive reduced mediator attention",
+   "ajenos": 262
+  },
+  {
+   "id": "Arab Republic of Egypt_6_525",
+   "actor": "Arab Republic of Egypt",
+   "texto": "Trilateral negotiation framework weakens through bilateral defection",
+   "ajenos": 260
+  },
+  {
+   "id": "Arab Republic of Egypt_6_475",
+   "actor": "Arab Republic of Egypt",
+   "texto": "Egypt creates legal documentation for potential international arbitration",
+   "ajenos": 225
+  },
+  {
+   "id": "Arab Republic of Egypt_5_130",
+   "actor": "Arab Republic of Egypt",
+   "texto": "Egypt faces reduced diplomatic leverage over GERD operations",
+   "ajenos": 202
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_300",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "texto": "Downstream countries pursue bilateral agreements bypassing multilateral frameworks",
+   "ajenos": 201
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_3_42",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "texto": "Downstream nations face weakened legal positions globally",
+   "ajenos": 201
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_293",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "texto": "Regional water law becomes fragmented and contradictory",
+   "ajenos": 201
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_3_43",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "texto": "Regional water cooperation frameworks become destabilized",
+   "ajenos": 201
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_4_126",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "texto": "Regional water allocation frameworks become destabilized",
+   "ajenos": 201
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_349",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "texto": "International water governance frameworks face systematic challenges",
+   "ajenos": 201
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_178",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "texto": "International water law becomes increasingly fragmented and contested",
+   "ajenos": 201
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_189",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "texto": "Regional water disputes shift toward bilateral rather than multilateral frameworks",
+   "ajenos": 201
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_6_498",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "texto": "Multilateral institutions lose influence over transboundary water governance",
+   "ajenos": 201
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_6_499",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "texto": "Regional water coordination mechanisms become fragmented",
+   "ajenos": 201
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_191",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "texto": "Downstream countries pursue alternative water security strategies independently",
+   "ajenos": 201
+  },
+  {
+   "id": "Federal Democratic Republic of Ethiopia_5_263",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "texto": "Downstream agricultural planning loses synchronization with upstream water management",
+   "ajenos": 201
+  }
+ ]
+}

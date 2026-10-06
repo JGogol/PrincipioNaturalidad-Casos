@@ -1,0 +1,116 @@
+{
+ "caso": "autismo",
+ "top": [
+  {
+   "id": "NeurotypicalCognition_6_288",
+   "actor": "NeurotypicalCognition",
+   "d": 6,
+   "texto": "NeurotypicalCognition sustains engagement despite low intrinsic interest",
+   "sost": 518,
+   "por_actor": {
+    "BroadlyAffectedAutism": 117,
+    "MixedASDwithDelay": 122,
+    "ModerateAutism": 119,
+    "NeurotypicalCognition": 46,
+    "SocialBehavioralAutism": 114
+   },
+   "ajenos": 472,
+   "premisas": {
+    "BroadlyAffectedAutism": 2,
+    "MixedASDwithDelay": 2,
+    "ModerateAutism": 1,
+    "NeurotypicalCognition": 0,
+    "SocialBehavioralAutism": 1
+   }
+  },
+  {
+   "id": "NeurotypicalCognition_6_212",
+   "actor": "NeurotypicalCognition",
+   "d": 6,
+   "texto": "NeurotypicalCognition infers the teacher's implicit expectations for the change",
+   "sost": 519,
+   "por_actor": {
+    "BroadlyAffectedAutism": 117,
+    "MixedASDwithDelay": 122,
+    "ModerateAutism": 119,
+    "NeurotypicalCognition": 47,
+    "SocialBehavioralAutism": 114
+   },
+   "ajenos": 472,
+   "premisas": {
+    "BroadlyAffectedAutism": 1,
+    "MixedASDwithDelay": 2,
+    "ModerateAutism": 2,
+    "NeurotypicalCognition": 0,
+    "SocialBehavioralAutism": 1
+   }
+  },
+  {
+   "id": "NeurotypicalCognition_6_211",
+   "actor": "NeurotypicalCognition",
+   "d": 6,
+   "texto": "NeurotypicalCognition corrects its behavior using the new information",
+   "sost": 519,
+   "por_actor": {
+    "BroadlyAffectedAutism": 117,
+    "MixedASDwithDelay": 122,
+    "ModerateAutism": 119,
+    "NeurotypicalCognition": 47,
+    "SocialBehavioralAutism": 114
+   },
+   "ajenos": 472,
+   "premisas": {
+    "BroadlyAffectedAutism": 1,
+    "MixedASDwithDelay": 2,
+    "ModerateAutism": 2,
+    "NeurotypicalCognition": 0,
+    "SocialBehavioralAutism": 1
+   }
+  },
+  {
+   "id": "NeurotypicalCognition_6_210",
+   "actor": "NeurotypicalCognition",
+   "d": 6,
+   "texto": "NeurotypicalCognition seeks social cues to clarify the new schedule",
+   "sost": 519,
+   "por_actor": {
+    "BroadlyAffectedAutism": 117,
+    "MixedASDwithDelay": 122,
+    "ModerateAutism": 119,
+    "NeurotypicalCognition": 47,
+    "SocialBehavioralAutism": 114
+   },
+   "ajenos": 472,
+   "premisas": {
+    "BroadlyAffectedAutism": 1,
+    "MixedASDwithDelay": 2,
+    "ModerateAutism": 2,
+    "NeurotypicalCognition": 0,
+    "SocialBehavioralAutism": 1
+   }
+  },
+  {
+   "id": "NeurotypicalCognition_5_116",
+   "actor": "NeurotypicalCognition",
+   "d": 5,
+   "texto": "NeurotypicalCognition remains behaviorally engaged without system shutdown",
+   "sost": 518,
+   "por_actor": {
+    "BroadlyAffectedAutism": 117,
+    "MixedASDwithDelay": 122,
+    "ModerateAutism": 119,
+    "NeurotypicalCognition": 46,
+    "SocialBehavioralAutism": 114
+   },
+   "ajenos": 472,
+   "premisas": {
+    "BroadlyAffectedAutism": 1,
+    "MixedASDwithDelay": 2,
+    "ModerateAutism": 2,
+    "NeurotypicalCognition": 0,
+    "SocialBehavioralAutism": 1
+   }
+  }
+ ],
+ "comprometidos_por_todas": 684
+}

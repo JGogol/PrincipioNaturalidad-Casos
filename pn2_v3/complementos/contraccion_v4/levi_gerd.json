@@ -1,0 +1,41 @@
+{
+ "Arab Republic of Egypt": {
+  "K": 502,
+  "O": 167,
+  "cascada": 372,
+  "contraido": 414,
+  "costo": 0.8247011952191236,
+  "retenido": 88,
+  "fus_E": 0,
+  "exito": true,
+  "inclusion": true,
+  "consistencia": true,
+  "relevancia": true
+ },
+ "Federal Democratic Republic of Ethiopia": {
+  "K": 501,
+  "O": 166,
+  "cascada": 343,
+  "contraido": 382,
+  "costo": 0.7624750499001997,
+  "retenido": 119,
+  "fus_E": 0,
+  "exito": true,
+  "inclusion": true,
+  "consistencia": true,
+  "relevancia": true
+ },
+ "Republic of Sudan": {
+  "K": 501,
+  "O": 142,
+  "cascada": 320,
+  "contraido": 369,
+  "costo": 0.7365269461077845,
+  "retenido": 132,
+  "fus_E": 0,
+  "exito": true,
+  "inclusion": true,
+  "consistencia": true,
+  "relevancia": true
+ }
+}

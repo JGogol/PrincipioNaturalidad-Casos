@@ -1,0 +1,401 @@
+{
+ "caso": "gerd",
+ "actores": {
+  "Arab Republic of Egypt": {
+   "O": 203,
+   "corte": 50,
+   "corte_prof": [
+    1,
+    3,
+    3,
+    3,
+    3,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7
+   ],
+   "cascada": 431,
+   "raiz_en_O": false,
+   "top_corte": [
+    {
+     "id": "Arab Republic of Egypt_1_1",
+     "depth": 1,
+     "sub": 105,
+     "acum": 0.209,
+     "texto": "Ethiopia rejects Egypt's binding agreement demands as colonial-era impositions"
+    },
+    {
+     "id": "Arab Republic of Egypt_3_18",
+     "depth": 3,
+     "sub": 42,
+     "acum": 0.293,
+     "texto": "Arab Republic of Egypt gains negotiating advantage through aligned mediator priorities"
+    },
+    {
+     "id": "Arab Republic of Egypt_3_23",
+     "depth": 3,
+     "sub": 30,
+     "acum": 0.353,
+     "texto": "Regional powers align with competing positions on water sovereignty"
+    },
+    {
+     "id": "Arab Republic of Egypt_3_14",
+     "depth": 3,
+     "sub": 30,
+     "acum": 0.412,
+     "texto": "Ethiopia rejects frameworks perceived as constraining its sovereignty"
+    },
+    {
+     "id": "Arab Republic of Egypt_4_42",
+     "depth": 4,
+     "sub": 27,
+     "acum": 0.466,
+     "texto": "Egypt must evaluate whether Sudan's operational needs align with Egyptian water security"
+    },
+    {
+     "id": "Arab Republic of Egypt_4_33",
+     "depth": 4,
+     "sub": 27,
+     "acum": 0.52,
+     "texto": "Ethiopia rejects frameworks that constrain its hydroelectric capacity"
+    }
+   ],
+   "k_dep": 0.8585657370517928,
+   "k_dep_rescate": 0.7629482071713147,
+   "rescatados": 48,
+   "rescatado_por": {
+    "Sudan": 14,
+    "Ethiopia": 10
+   },
+   "ejemplos_rescatados": [
+    "Egypt seeks alternative international forums beyond trilateral negotiations",
+    "Egypt increases military posturing regarding water security threats",
+    "Regional powers begin diplomatic interventions to prevent conflict",
+    "Egypt's military preparations strain national budget resources",
+    "International community expresses concern over potential armed conflict"
+   ],
+   "opone_por_prof": {
+    "0": [
+     0,
+     1
+    ],
+    "1": [
+     1,
+     2
+    ],
+    "2": [
+     0,
+     7
+    ],
+    "3": [
+     6,
+     18
+    ],
+    "4": [
+     21,
+     54
+    ],
+    "5": [
+     47,
+     139
+    ],
+    "6": [
+     76,
+     188
+    ],
+    "7": [
+     49,
+     87
+    ],
+    "8": [
+     3,
+     6
+    ]
+   },
+   "opone_puente": [
+    42,
+    111
+   ],
+   "opone_nopuente": [
+    161,
+    391
+   ]
+  },
+  "Federal Democratic Republic of Ethiopia": {
+   "O": 261,
+   "corte": 5,
+   "corte_prof": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "cascada": 500,
+   "raiz_en_O": false,
+   "top_corte": [
+    {
+     "id": "Federal Democratic Republic of Ethiopia_1_4",
+     "depth": 1,
+     "sub": 175,
+     "acum": 0.349,
+     "texto": "Colonial-era water allocation treaties lose practical enforcement power"
+    },
+    {
+     "id": "Federal Democratic Republic of Ethiopia_1_3",
+     "depth": 1,
+     "sub": 172,
+     "acum": 0.693,
+     "texto": "Ethiopia gains international legal precedent for upstream rights"
+    },
+    {
+     "id": "Federal Democratic Republic of Ethiopia_1_5",
+     "depth": 1,
+     "sub": 85,
+     "acum": 0.862,
+     "texto": "Ethiopia retains unilateral control over GERD operations"
+    },
+    {
+     "id": "Federal Democratic Republic of Ethiopia_1_1",
+     "depth": 1,
+     "sub": 35,
+     "acum": 0.932,
+     "texto": "Egypt rejects Ethiopia's legal framework as illegitimate"
+    },
+    {
+     "id": "Federal Democratic Republic of Ethiopia_1_2",
+     "depth": 1,
+     "sub": 33,
+     "acum": 0.998,
+     "texto": "Sudan demands binding operational commitments from Ethiopia"
+    }
+   ],
+   "k_dep": 0.998003992015968,
+   "k_dep_rescate": 0.9760479041916168,
+   "rescatados": 11,
+   "rescatado_por": {
+    "Egypt": 11,
+    "Sudan": 6
+   },
+   "ejemplos_rescatados": [
+    "Ethiopia seeks alternative diplomatic frameworks outside trilateral negotiations",
+    "Ethiopia invokes African Union frameworks for transboundary water disputes",
+    "Ethiopia engages African Union mediation mechanisms",
+    "Ethiopia solicits support from non-riparian international partners",
+    "International water law becomes increasingly fragmented and contested"
+   ],
+   "opone_por_prof": {
+    "0": [
+     0,
+     1
+    ],
+    "1": [
+     5,
+     5
+    ],
+    "2": [
+     10,
+     18
+    ],
+    "3": [
+     39,
+     56
+    ],
+    "4": [
+     75,
+     147
+    ],
+    "5": [
+     107,
+     231
+    ],
+    "6": [
+     25,
+     43
+    ]
+   },
+   "opone_puente": [
+    51,
+    90
+   ],
+   "opone_nopuente": [
+    210,
+    411
+   ]
+  },
+  "Republic of Sudan": {
+   "O": 290,
+   "corte": 28,
+   "corte_prof": [
+    1,
+    2,
+    2,
+    2,
+    2,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+   ],
+   "cascada": 459,
+   "raiz_en_O": false,
+   "top_corte": [
+    {
+     "id": "Republic of Sudan_1_1",
+     "depth": 1,
+     "sub": 140,
+     "acum": 0.279,
+     "texto": "Sudan demands legally binding coordination protocols before dam operations"
+    },
+    {
+     "id": "Republic of Sudan_2_9",
+     "depth": 2,
+     "sub": 56,
+     "acum": 0.391,
+     "texto": "Sudan prioritizes defensive infrastructure protection measures"
+    },
+    {
+     "id": "Republic of Sudan_2_12",
+     "depth": 2,
+     "sub": 45,
+     "acum": 0.481,
+     "texto": "Sudan formally requests third-party mediation through international courts"
+    },
+    {
+     "id": "Republic of Sudan_2_11",
+     "depth": 2,
+     "sub": 38,
+     "acum": 0.557,
+     "texto": "Sudan demands binding operational safeguards from Ethiopia"
+    },
+    {
+     "id": "Republic of Sudan_2_17",
+     "depth": 2,
+     "sub": 35,
+     "acum": 0.627,
+     "texto": "Sudan rejects economic incentives without safety guarantees"
+    },
+    {
+     "id": "Republic of Sudan_3_22",
+     "depth": 3,
+     "sub": 26,
+     "acum": 0.679,
+     "texto": "Sudan seeks World Bank emergency water security funding"
+    }
+   ],
+   "k_dep": 0.9161676646706587,
+   "k_dep_rescate": 0.8702594810379242,
+   "rescatados": 23,
+   "rescatado_por": {
+    "Ethiopia": 6,
+    "Egypt": 14
+   },
+   "ejemplos_rescatados": [
+    "Sudan threatens to withdraw from existing trilateral negotiation frameworks",
+    "Ethiopia and Egypt proceed with bilateral negotiations excluding Sudan",
+    "Sudan seeks alternative water storage contingency plans",
+    "Sudan requests African Union mediation on transboundary waters",
+    "Sudan pursues bilateral agreements with Ethiopia outside trilateral framework"
+   ],
+   "opone_por_prof": {
+    "0": [
+     0,
+     1
+    ],
+    "1": [
+     1,
+     4
+    ],
+    "2": [
+     5,
+     11
+    ],
+    "3": [
+     20,
+     34
+    ],
+    "4": [
+     70,
+     109
+    ],
+    "5": [
+     154,
+     272
+    ],
+    "6": [
+     40,
+     70
+    ]
+   },
+   "opone_puente": [
+    57,
+    103
+   ],
+   "opone_nopuente": [
+    233,
+    398
+   ]
+  }
+ }
+}

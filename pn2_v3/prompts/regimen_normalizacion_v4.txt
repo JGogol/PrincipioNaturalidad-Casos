@@ -1,0 +1,42 @@
+Régimen de normalización P̃ (v4, 2026-09-10): decisiones y medición, tomado de la cabecera del script de certificación.
+
+Certificacion PESADA y RESUMABLE de E vs todos los nodos de un caso, doble juez.
+v4 (2026-09-10). Dos cambios sobre v3, ambos sobre el REGIMEN DE TEXTO; la matematica
+del certificado no cambia.
+
+  (1) CLAVE DE NORMALIZACION CORRECTA. v2 pasaba el nombre formal del arbol
+      ("Arab Republic of Egypt") y v3 el alias de input.json. Medido sobre los tres casos,
+      ninguna de las dos limpia el texto en general:
+                             nombre formal   alias input.json
+        gerd    (Egypt...)       34,4 %          100,0 %
+        selene  (Aurelia...)     52,4 %           44,0 %   (alias 'RAurelia' no aparece nunca)
+        vireya  (Highland...)    99,4 %          100,0 %   (pero deja "Highland Republic of ACTOR")
+      v4 normaliza con TODAS las claves conocidas, de la mas larga a la mas corta:
+      nombre formal, alias de input.json (si lo hay) y forma corta real (ultima palabra del
+      nombre formal). Deja 100 % de los nodos sin mencion propia en los tres casos.
+
+  (2) P~ SIMETRICA. v2/v3 normalizaban el texto de E solo con su propio nombre/alias, asi que
+      E conservaba el nombre del actor contra el que se lo comparaba ("Ethiopia must release...")
+      mientras los nodos del actor decian "ACTOR ...". v4 normaliza el texto de E con las claves
+      del actor de cada bloque: los dos lados del par quedan en el mismo regimen.
+      Con --asimetrico se recupera el comportamiento de v3 (para comparar).
+
+  (3) FORMAS DERIVADAS. "Aurelian", "Ethiopian", "Egyptian", "Sudanese", "Tessaran" identifican
+      al actor igual que su nombre, y \bAurelia\b no las alcanza. Peor: aparecen de forma muy
+      desigual entre actores (Aurelian 80 vs 0 y 0; Tessaran 42 vs Vireyan 5 vs Ondrel 0;
+      Ethiopian 54 / Egyptian 34 / Sudanese 18), asi que el residuo NO es ruido uniforme: sesga
+      justo la cantidad que se mide por actor. v4 extiende la forma corta con los sufijos
+      demonimicos observados (n | an | ian | ese | s, con posesivo). --sin-derivadas lo desactiva.
+
+  (4) EL ALIAS DE E YA NO PISA SUSTANTIVOS COMUNES. normE en v2/v3 aplicaba E_alias, que es
+      'Proposal' / 'Protocol' / 'Instrument': palabras que tambien estan en los nodos del caso
+      (Protocol en 100 nodos de selene, 6,7 %). Es decir, se borraban de E y NO de los nodos:
+      la misma asimetria que estamos corrigiendo. v4 aplica E_alias solo si no aparece en ningun
+      nodo del caso; E_nombre (el identificador unico) se aplica siempre. El log dice cual rige.
+
+Checkpoint por (nodo de E, actor): si se corta, reanuda perdiendo a lo sumo un bloque (~5 min).
+El jsonl admite varias lineas por nodo de E; los lectores (perfil_oposicion, levi_caso,
+hansson_corte_rescate, pn_tensor) arman un dict (E, nodo) y no se enteran.
+
+Uso: python cert_caso_v4.py <E_arbol.json> <run_dir> <out_prefix> [--asimetrico]
+Ej : python cert_caso_v4.py E_arbol_gerd.json ../../casos/gerd/runs/2026-05-01_01-11-03 gerd_v4

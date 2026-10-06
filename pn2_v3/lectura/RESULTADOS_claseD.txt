@@ -1,0 +1,26 @@
+== Nilo |F| = 102 D = 26
+cantidad                    observado      sin D | quitando 26 al azar: med [p2.5,p97.5] pct(sin D)
+terreno_comun                     370        146 |   231.50 [  122.97,  347.05]   8
+puentes                           304        265 |   265.50 [  252.00,  279.00]  45
+base                              610        592 |   591.00 [  585.98,  598.00]  50
+regiones_distintas               1403       1430 |  1426.00 [ 1423.00, 1430.00]  94
+frac_vacias                     0.973      0.986 |     0.98 [    0.97,    0.99]  77
+intersecciones_distintas          165        131 |   112.00 [   82.97,  176.08]  80
+max_reg                           823        783 |   769.00 [  683.98,  817.00]  54
+reparto_desigualdad             0.335      0.747 |     0.32 [    0.12,    0.58] 100
+mediana_reg_puentes            29.500     18.000 |    25.00 [   17.00,   38.00]   4
+triangulos                          3          3 |     1.00 [    0.00,    3.00]  96
+triángulos inter-actor: observado 3 · nulo de campo med 0.0 [0.0, 0.0]
+== Selene |F| = 218 D = 71
+cantidad                    observado      sin D | quitando 71 al azar: med [p2.5,p97.5] pct(sin D)
+terreno_comun                     551        346 |   424.50 [  322.80,  490.00]  10
+puentes                           442        363 |   377.00 [  360.00,  392.02]   6
+base                              673        638 |   641.00 [  633.98,  649.00]  17
+regiones_distintas               1271       1351 |  1342.00 [ 1328.00, 1359.00]  75
+frac_vacias                     0.920      0.965 |     0.94 [    0.92,    0.97]  90
+intersecciones_distintas          117        155 |   134.00 [  105.97,  168.05]  86
+max_reg                          1047        881 |   954.00 [  857.95, 1005.02]   9
+reparto_desigualdad             0.220      0.422 |     0.28 [    0.16,    0.38] 100
+mediana_reg_puentes           538.000    154.000 |   345.50 [   64.95,  473.02]  14
+triangulos                          8          2 |     2.00 [    0.00,    5.00]  28
+triángulos inter-actor: observado 8 · nulo de campo med 0.0 [0.0, 0.0]

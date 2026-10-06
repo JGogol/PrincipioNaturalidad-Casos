@@ -1,0 +1,18 @@
+{
+ "subset": [
+  "NeurotypicalCognition",
+  "ModerateAutism"
+ ],
+ "tocados": [],
+ "zonas": {
+  "B": 10,
+  "-": 2
+ },
+ "R": 12,
+ "lambda": {
+  "Intervention": 12
+ },
+ "hub": "n/a (<2 actores tocados)",
+ "n_fusiones": 0,
+ "fusiones": []
+}

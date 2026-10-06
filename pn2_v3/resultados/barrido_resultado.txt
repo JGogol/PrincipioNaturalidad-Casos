@@ -1,0 +1,55 @@
+# Barrido exploratorio sobre el objeto GERD — 2026-09-11 15:00 UTC
+# EXPLORATORIO. Sin criterio de muerte previo. Nada confirmatorio.
+
+objeto gerd: 1504 nodos | pares j1 345202 | pares j2 136799
+
+[A] los dos jueces sobre los mismos pares
+    pares en comun: 136799
+    implicacion    r = +0.212   medias 0.004 vs 0.013
+    contradiccion  r = +0.193   medias 0.931 vs 0.565
+    contradiccion >= 0.30: j1 136799 | j2  88197 | ambos  88197 | acuerdo Jaccard 0.645
+    contradiccion >= 0.50: j1 130329 | j2  78085 | ambos  75721 | acuerdo Jaccard 0.571
+
+[B] la frontera: parecido sin certificar
+    coseno [0.35,0.50)   255453 pares | certifican  0.01% | contradicen 40.65% | impl media 0.004
+    coseno [0.50,0.70)    85625 pares | certifican  0.06% | contradicen 36.83% | impl media 0.011
+    coseno [0.70,0.90)     4081 pares | certifican  0.76% | contradicen 34.53% | impl media 0.049
+    coseno [0.90,1.01)       43 pares | certifican  4.65% | contradicen 30.23% | impl media 0.194
+
+[C] implicacion y contradiccion en el mismo par
+                              pares
+    implica y no contradice      121
+    contradice y no implica   130327
+    las dos cosas                 2
+    ninguna                  214752
+
+[D] profundidad contra todo (medianas por nivel; n = nodos en ese nivel)
+    nivel      n   gradoF    |Reg|  campo g    intra   kernel
+        1     11      0.0      393    0.987       14       39
+        2     36      0.1       53    0.958       14       34
+        3    108      0.2       14    0.974       14       38
+        4    310      0.1        4    0.972       19       41
+        5    642      0.1        1    0.976       18       32
+        6    301      0.2        1    0.977       19       27
+        7     87      0.1        1    0.955       14       24
+
+[E] el padre contradice al hijo?
+    juez 1  contradiccion padre-hijo: mediana 0.0007 | >=0.30 en 176/1501 aristas | >=0.50 en 164
+    juez 2  contradiccion padre-hijo: mediana 0.0027 | >=0.30 en 131/1501 aristas | >=0.50 en 104
+
+[F] contradecirse a si mismo contra contradecir a los otros
+    r(grado intra, grado kernel) = +0.396
+    nodos con MENOS contradiccion interna (n=378): kernels 18.4
+    nodos con MAS   contradiccion interna (n=390): kernels 70.8
+    certificados (en F): intra 25.0 | no certificados: intra 21.9
+
+[G] geometria: los tres actores en el espacio de embeddings
+    distancia entre centroides:
+      Egypt     - Ethiopia   coseno 0.8052
+      Egypt     - Sudan      coseno 0.8186
+      Ethiopia  - Sudan      coseno 0.7999
+    coseno mediano: pares certificados 0.639 | kernels 0.438 | evaluados 0.437
+
+[H] tamano de las regiones
+    |Reg| max 823 | mediana 1 | % de nodos con |Reg|=|Sub| (region propia): 79.8%
+    tamanos mas repetidos: 1(x894), 4(x125), 3(x67), 5(x55), 2(x50)

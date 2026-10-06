@@ -1,0 +1,23 @@
+[cert] regimen: P~ SIMETRICA | derivadas: SI | E_alias 'Null': se aplica
+   Arab Republic of Egypt                 ['Arab Republic of Egypt', 'Egypt']        residuo 0/502
+   Federal Democratic Republic of Ethiopia ['Federal Democratic Republic of Ethiopia', 'Ethiopia'] residuo 0/501
+   Republic of Sudan                      ['Republic of Sudan', 'Sudan']             residuo 0/501
+[cert] E=Null (3 nodos) vs 1504 nodos en 3 actores, doble juez
+[cert] cargando juez base...
+[cert] cargando juez moritz...
+The model cross-encoder/nli-deberta-v3-base was already converted to ONNX but got `export=True`, the model will be converted to ONNX once again. Don't forget to save the resulting model with `.save_pretrained()`
+`torch_dtype` is deprecated! Use `dtype` instead!
+  Cargando MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli...
+The model MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli was already converted to ONNX but got `export=True`, the model will be converted to ONNX once again. Don't forget to save the resulting model with `.save_pretrained()`
+  Modelo cargado. label_map = {0: 'entailment', 1: 'neutral', 2: 'contradiction'}
+  ent_idx = 0, contr_idx = 2
+  null_0         x Egypt                            4.1 min   [1/9, ~33 min restantes]
+  null_0         x Ethiopia                         2.9 min   [2/9, ~24 min restantes]
+  null_0         x Sudan                            5.0 min   [3/9, ~24 min restantes]
+  null_1         x Egypt                            5.1 min   [4/9, ~21 min restantes]
+  null_1         x Ethiopia                         4.9 min   [5/9, ~18 min restantes]
+  null_1         x Sudan                            5.1 min   [6/9, ~14 min restantes]
+  null_2         x Egypt                            4.5 min   [7/9, ~9 min restantes]
+  null_2         x Ethiopia                         4.6 min   [8/9, ~5 min restantes]
+  null_2         x Sudan                            2.8 min   [9/9, ~0 min restantes]
+[cert] COMPLETO -> cert_gerd_null_v4.jsonl  (0.7 h)

@@ -1,0 +1,10 @@
+== gerd: 1501 aristas
+  j1_ph_impl: evaluadas 1501; mediana padre->hijo = 0.0006; hijo->padre = 0.0007; padre->hijo >= 0,55: 68
+  j1_ph_contr: evaluadas 1501; mediana padre->hijo = 0.0003; hijo->padre = 0.0004; padre->hijo >= 0,55: 97
+  j2_ph_impl: evaluadas 1501; mediana padre->hijo = 0.0030; hijo->padre = 0.0041; padre->hijo >= 0,55: 92
+  j2_ph_contr: evaluadas 1501; mediana padre->hijo = 0.0013; hijo->padre = 0.0016; padre->hijo >= 0,55: 53
+== selene: 1500 aristas
+  j1_ph_impl: la capa no existe en este caso
+  j1_ph_contr: la capa no existe en este caso
+  j2_ph_impl: la capa no existe en este caso
+  j2_ph_contr: la capa no existe en este caso

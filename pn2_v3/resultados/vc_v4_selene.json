@@ -1,0 +1,25 @@
+{
+ "caso": "selene",
+ "nucleos": 14049,
+ "excluidos": 83,
+ "tamano": 743,
+ "cota_inferior": 728,
+ "optimo_probado": false,
+ "reparto": {
+  "Commonwealth of Cerulea": {
+   "cede": 153,
+   "de": 503,
+   "frac": 0.3042
+  },
+  "Federation of Borealis": {
+   "cede": 307,
+   "de": 500,
+   "frac": 0.614
+  },
+  "Republic of Aurelia": {
+   "cede": 283,
+   "de": 500,
+   "frac": 0.566
+  }
+ }
+}

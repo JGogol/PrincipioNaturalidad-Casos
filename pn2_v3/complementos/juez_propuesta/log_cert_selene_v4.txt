@@ -1,0 +1,9 @@
+[cert] regimen: P~ SIMETRICA | derivadas: SI | E_alias 'Protocol': DESCARTADO (aparece en los nodos del caso)
+   Commonwealth of Cerulea                ['Commonwealth of Cerulea', 'CCerulea', 'Cerulea'] residuo 0/503
+   Federation of Borealis                 ['Federation of Borealis', 'FBorealis', 'Borealis'] residuo 0/500
+   Republic of Aurelia                    ['Republic of Aurelia', 'RAurelia', 'Aurelia'] residuo 0/500
+[cert] E=Protocol (13 nodos) vs 1503 nodos en 3 actores, doble juez
+[cert] reanudando: 39 bloques (E,actor) ya certificados
+[cert] cargando juez base...
+[cert] cargando juez moritz...
+[cert] COMPLETO -> cert_selene_v4.jsonl  (0.0 h)

@@ -1,0 +1,29 @@
+ANOTACION DE CLAUDE — cerrada antes de ver la de ChatGPT
+Mismo criterio y mismo formato que el prompt. Numeracion de pares_selene_24.txt.
+
+ 1 | DISTINTO | eficiencia de oxigeno cayendo no es invocar aporte financiero como base legal
+ 2 | IGUAL | monopolio tecnico sobre operaciones = control unilateral sobre soporte vital
+ 3 | DISTINTO | control sobre decisiones de capacidad no es que la certificacion gane poder
+ 4 | DISTINTO | demandas operativas en competencia no es que los parametros se desestabilicen
+ 5 | DUDOSO | ambas describen deriva por falta de coordinacion; el objeto difiere
+ 6 | DISTINTO | B es una premiza raiz larga con multiples reclamos; A es una actitud
+ 7 | IGUAL | redistribucion sin consenso multilateral = control unilateral de un actor
+ 8 | DISTINTO | priorizar agua para extraccion no es que los sistemas sufran dano por altercado
+ 9 | DISTINTO | reservas de agua cayendo no es pedir prioridad de energia para equipos
+10 | IGUAL | decisiones unilaterales de soporte vital = control unilateral sobre oxigeno
+11 | IGUAL | poder de veto sobre decisiones = ser el guardian de las modificaciones
+12 | DISTINTO | crear puntos unicos de falla no es integridad comprometida por intervenciones
+13 | DISTINTO | perder poder de negociacion no es integridad del sistema comprometida
+14 | DISTINTO | priorizar la supervivencia propia no es escalar medidas sobre los controles
+15 | IGUAL | monopolio tecnico = decidir unilateralmente sobre soporte vital
+16 | DISTINTO | consumo excediendo asignacion no es deriva del depurador de CO2
+17 | DUDOSO | ambas dicen que una capacidad confiere poder; la capacidad es otra
+18 | DISTINTO | degradacion por confusion no es disputa de energia por equipos de extraccion
+19 | IGUAL | guardian de todas las operaciones = control unilateral sobre soporte vital
+20 | IGUAL | operaciones dependen de sus decisiones = ser el arbitro de facto
+21 | DISTINTO | crisis de dependencia de otras tripulaciones no es inestabilidad de parametros
+22 | DISTINTO | ubicar tripulantes cerca del equipo no es que los sistemas queden inaccesibles
+23 | DUDOSO | control unilateral y decidir sin consenso se solapan pero no coinciden
+24 | DISTINTO | fiabilidad incierta sin experiencia no es anomalias por interferencia
+
+IGUAL=7 DISTINTO=14 DUDOSO=3

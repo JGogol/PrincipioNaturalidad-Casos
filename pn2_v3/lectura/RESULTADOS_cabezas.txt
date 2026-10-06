@@ -1,0 +1,18 @@
+== Nilo
+  F       completo  |M|= 370 cabezas= 64 coincidencias= 21 (de tres 4, de dos 6, de uno 11)
+  F       estricto  |M|=  80 cabezas= 27 coincidencias= 12 (de tres 3, de dos 1, de uno 8)
+  sin D   completo  |M|= 146 cabezas= 28 coincidencias= 13 (de tres 2, de dos 5, de uno 6)
+  sin D   estricto  |M|=  32 cabezas= 15 coincidencias=  7 (de tres 3, de dos 1, de uno 3)
+  solo S  completo  |M|=  26 cabezas=  9 coincidencias=  4 (de tres 1, de dos 1, de uno 2)
+  solo S  estricto  |M|=   4 cabezas=  4 coincidencias=  2 (de tres 0, de dos 1, de uno 1)
+  nulo de campo, completo: coincidencias mediana 47 [28, 63]; de los tres actores 4 [0, 7]
+  nulo de campo, estricto: coincidencias mediana 34 [22, 49]; de los tres actores 0 [0, 2]
+== Selene
+  F       completo  |M|= 551 cabezas=112 coincidencias= 16 (de tres 1, de dos 5, de uno 10)
+  F       estricto  |M|= 283 cabezas= 51 coincidencias=  8 (de tres 1, de dos 1, de uno 6)
+  sin D   completo  |M|= 346 cabezas= 70 coincidencias= 20 (de tres 3, de dos 4, de uno 13)
+  sin D   estricto  |M|= 215 cabezas= 23 coincidencias= 10 (de tres 2, de dos 0, de uno 8)
+  solo S  completo  |M|= 163 cabezas= 52 coincidencias=  8 (de tres 2, de dos 0, de uno 6)
+  solo S  estricto  |M|=  68 cabezas= 19 coincidencias=  3 (de tres 1, de dos 1, de uno 1)
+  nulo de campo, completo: coincidencias mediana 40 [1, 97]; de los tres actores 1 [1, 5]
+  nulo de campo, estricto: coincidencias mediana 56 [26, 83]; de los tres actores 2 [1, 6]

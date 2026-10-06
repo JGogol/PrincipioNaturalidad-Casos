@@ -1,0 +1,88 @@
+{
+ "subset": [
+  "NeurotypicalCognition",
+  "ModerateAutism"
+ ],
+ "campana_dir": {
+  "NeurotypicalCognition": {
+   "inerte": 2005,
+   "discrepan": 182,
+   "fuente": 33,
+   "mutua": 6,
+   "sumidero": 24
+  },
+  "ModerateAutism": {
+   "inerte": 2198,
+   "discrepan": 43,
+   "fuente": 2,
+   "sumidero": 7
+  }
+ },
+ "ruptura_bruta": {
+  "NeurotypicalCognition": 182,
+  "ModerateAutism": 1136
+ },
+ "tocados": [
+  "NeurotypicalCognition"
+ ],
+ "zonas": {
+  "B": 10,
+  "F": 4,
+  "-": 1
+ },
+ "R": 68,
+ "lambda": {
+  "NeurotypicalCognition": 30,
+  "ModerateAutism": 23,
+  "Inference": 15
+ },
+ "hub": "n/a (<2 actores tocados)",
+ "n_fusiones": 9,
+ "fusiones": [
+  [
+   "InferenciaSocialImplicita_1_1",
+   "NeurotypicalCognition_3_35",
+   "NeurotypicalCognition"
+  ],
+  [
+   "InferenciaSocialImplicita_1_1",
+   "NeurotypicalCognition_5_155",
+   "NeurotypicalCognition"
+  ],
+  [
+   "InferenciaSocialImplicita_2_13",
+   "NeurotypicalCognition_5_182",
+   "NeurotypicalCognition"
+  ],
+  [
+   "InferenciaSocialImplicita_2_13",
+   "NeurotypicalCognition_6_201",
+   "NeurotypicalCognition"
+  ],
+  [
+   "InferenciaSocialImplicita_2_13",
+   "NeurotypicalCognition_6_225",
+   "NeurotypicalCognition"
+  ],
+  [
+   "InferenciaSocialImplicita_1_3",
+   "NeurotypicalCognition_6_276",
+   "NeurotypicalCognition"
+  ],
+  [
+   "InferenciaSocialImplicita_1_3",
+   "NeurotypicalCognition_4_52",
+   "NeurotypicalCognition"
+  ],
+  [
+   "InferenciaSocialImplicita_2_5",
+   "NeurotypicalCognition_3_37",
+   "NeurotypicalCognition"
+  ],
+  [
+   "InferenciaSocialImplicita_2_5",
+   "NeurotypicalCognition_4_84",
+   "NeurotypicalCognition"
+  ]
+ ]
+}

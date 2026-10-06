@@ -1,0 +1,45 @@
+consenso: 753 nodos, |F|=904, nulos=61, pares J1 max>=.3: 48545, kernels (regla paper) = 12356
+
+matriz de kernels (pares):
+   BroadlyAffected    Neurotypical         3327
+   Neurotypical       SocialBehavioral     3277
+   Moderate           Neurotypical         2480
+   MixedASDDelay      Neurotypical         1729
+   MixedASDDelay      Moderate              318
+   BroadlyAffected    Moderate              317
+   BroadlyAffected    SocialBehavioral      297
+   BroadlyAffected    MixedASDDelay         286
+   Moderate           SocialBehavioral      173
+   MixedASDDelay      SocialBehavioral      152
+
+NT vs subtipo (kernels solo entre esos dos actores):
+subtipo                kernels NT atacado ST atacado  corteNT  corteST | greedy NT/ST
+BroadlyAffected           3327    146/150    125/150        1        1 | 11/117
+      ej. NT: NeurotypicalCognition transfers rules without needing re-anchoring
+          BroadlyAffected: BroadlyAffectedAutism's behavior remains unchanged without causal feed
+MixedASDDelay             1729    140/150    112/150        1        4 | 27/88
+      ej. NT: NeurotypicalCognition transfers rules without needing re-anchoring
+          MixedASDDelay: MixedASDwithDelay's cognitive processing becomes unavailable
+Moderate                  2480    141/150    127/150        1       10 | 20/108
+      ej. NT: NeurotypicalCognition transfers rules without needing re-anchoring
+          Moderate: ModerateAutism cannot reallocate cognitive resources to tasks
+SocialBehavioral          3277    143/150    122/150        1        5 | 10/114
+      ej. NT: NeurotypicalCognition transfers rules without needing re-anchoring
+          SocialBehavioral: SocialBehavioralAutism blocks learning from the schedule change
+
+focos globales:
+    245 Neurotypical       d5 NeurotypicalCognition transfers rules without needing re-anchoring
+    208 Neurotypical       d6 NeurotypicalCognition integrates new schedule information without explicit manag
+    198 Neurotypical       d4 NeurotypicalCognition rapidly integrates the new schedule context
+    185 Neurotypical       d4 NeurotypicalCognition transfers the new schedule rule without re-anchoring
+    184 Neurotypical       d6 NeurotypicalCognition consolidates new schedule as stable expectation
+    170 Neurotypical       d3 NeurotypicalCognition generalizes acceptance to future schedule changes
+    168 Neurotypical       d5 NeurotypicalCognition resumes normal engagement with the new schedule
+    160 Neurotypical       d1 NeurotypicalCognition rapidly updates its contextual expectations
+
+premisas atacadas:
+   BroadlyAffected    {'Neurotypical': 24, 'SocialBehavioral': 6, 'MixedASDDelay': 1, 'Moderate': 2}
+   MixedASDDelay      {}
+   Moderate           {}
+   Neurotypical       {'SocialBehavioral': 65, 'MixedASDDelay': 8, 'Moderate': 20, 'BroadlyAffected': 46}
+   SocialBehavioral   {}

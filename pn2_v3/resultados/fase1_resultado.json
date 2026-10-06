@@ -1,0 +1,105 @@
+{
+ "gate": {
+  "ent_avg": 0.55,
+  "contr_max": 0.3,
+  "consenso": "3/5"
+ },
+ "excluidos_nulls": 7,
+ "P3": {
+  "C1_offtopic": 0,
+  "C2_offtopic": 0
+ },
+ "familias": {
+  "E_A": {
+   "cert_total": 0,
+   "por_actor": {
+    "BroadlyAffecte": 0,
+    "MixedASDwithDe": 0,
+    "ModerateAutism": 0,
+    "NeurotypicalCo": 0,
+    "SocialBehavior": 0
+   },
+   "PRIMARIO": false,
+   "nt_cert": 0,
+   "balance_min_max": 0.0,
+   "en_gigante": 0,
+   "cert_por_texto": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "nodos_cert": []
+  },
+  "E_B": {
+   "cert_total": 0,
+   "por_actor": {
+    "BroadlyAffecte": 0,
+    "MixedASDwithDe": 0,
+    "ModerateAutism": 0,
+    "NeurotypicalCo": 0,
+    "SocialBehavior": 0
+   },
+   "PRIMARIO": false,
+   "nt_cert": 0,
+   "balance_min_max": 0.0,
+   "en_gigante": 0,
+   "cert_por_texto": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "nodos_cert": []
+  },
+  "E_C": {
+   "cert_total": 0,
+   "por_actor": {
+    "BroadlyAffecte": 0,
+    "MixedASDwithDe": 0,
+    "ModerateAutism": 0,
+    "NeurotypicalCo": 0,
+    "SocialBehavior": 0
+   },
+   "PRIMARIO": false,
+   "nt_cert": 0,
+   "balance_min_max": 0.0,
+   "en_gigante": 0,
+   "cert_por_texto": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "nodos_cert": []
+  },
+  "CTRL": {
+   "cert_total": 0,
+   "por_actor": {
+    "BroadlyAffecte": 0,
+    "MixedASDwithDe": 0,
+    "ModerateAutism": 0,
+    "NeurotypicalCo": 0,
+    "SocialBehavior": 0
+   },
+   "PRIMARIO": false,
+   "nt_cert": 0,
+   "balance_min_max": 0.0,
+   "en_gigante": 0,
+   "cert_por_texto": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "nodos_cert": []
+  }
+ },
+ "P1": false,
+ "P2": true,
+ "orden_desempate": []
+}

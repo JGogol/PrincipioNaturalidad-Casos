@@ -1,0 +1,41 @@
+ANOTACION DE CLAUDE — 36 items del Nilo, cerrada antes de ver las otras dos.
+Criterio estricto: el alcance tiene que coincidir, no solo el esquema.
+
+ 1 | DISTINTO | explorar posibilidades no es desarrollar capacidades
+ 2 | IGUAL | senalar menor dependencia = desviar recursos de esa planificacion
+ 3 | IGUAL | evaluar intereses y posicionarse ante la disputa son el mismo movimiento
+ 4 | DISTINTO | reevaluar posiciones no es acelerar estrategias legales defensivas
+ 5 | IGUAL | menor influencia diplomatica = perder influencia sobre acuerdos bilaterales
+ 6 | IGUAL | requests y seeks asistencia tecnica al mismo tipo de organismo
+ 7 | DISTINTO | reducir presion diplomatica no es rechazar restricciones externas
+ 8 | DISTINTO | buscar socios no es ganar socios; uno es intento, otro resultado
+ 9 | DISTINTO | medidas unilaterales de proteccion no son estrategias alternativas de seguridad
+10 | DISTINTO | operar sin restricciones legales no es implementar medidas de proteccion
+11 | DISTINTO | consolidar documentos para revision no es construir experticia domestica
+12 | IGUAL | perder capacidad predictiva de crecidas = perder alerta temprana de crecidas
+13 | IGUAL | reforzar capacidades militares junto a aguas = aumento de postura militar ahi
+14 | DISTINTO | reducir cooperacion con mediadores no es reducir coordinacion de monitoreo
+15 | DISTINTO | reducir criticas no es diversificar la infraestructura hidrica
+16 | IGUAL | senalar menor dependencia = diversificar fuera de infraestructura del Nilo
+17 | IGUAL | aumentar postura militar por seguridad hidrica = reforzar capacidades ahi
+18 | IGUAL | apelar a la UA por mediacion = pedir intervencion mediadora de la UA
+19 | IGUAL | movilizar recursos para internacionalizar = activar canales por el riesgo
+20 | DISTINTO | caudal mas variable no es que el riego quede desorganizado
+21 | IGUAL | instituciones pierden influencia = los marcos pierden autoridad vinculante
+22 | IGUAL | foros alternativos = marcos diplomaticos alternativos, ambos fuera del trilateral
+23 | DISTINTO | perder influencia no es buscar acuerdos bilaterales
+24 | DISTINTO | la comunidad internacional pierde influencia no es que los marcos pierdan autoridad
+25 | IGUAL | apalancamiento diluido = posicion restringida externamente
+26 | DISTINTO | explorar medidas unilaterales no es que lo bilateral reemplace lo multilateral
+27 | DISTINTO | recibir pedidos de mandato no es pedir financiamiento al Banco Mundial
+28 | IGUAL | negociaciones bilaterales por fuera del marco multilateral, las dos
+29 | DISTINTO | movilizar conservacion de emergencia no es buscar almacenamiento alternativo
+30 | DISTINTO | apalancamiento diluido no es percibir una dinamica de dos contra uno
+31 | IGUAL | protocolos unilaterales de sequia = planes unilaterales de contingencia
+32 | DISTINTO | reducir dependencia de un mecanismo no es retirarse de la negociacion
+33 | DISTINTO | ofrecer acceso a mercado energetico no es calcular requerimientos de desalinizacion
+34 | IGUAL | perder capacidad predictiva = perder capacidad de prepararse para crecidas
+35 | DISTINTO | buscar foros alternativos no es pedir formalmente jurisdiccion de una corte
+36 | IGUAL | elegir bandos y posicionarse ante la disputa son lo mismo
+
+IGUAL=17 DISTINTO=19 DUDOSO=0

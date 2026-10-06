@@ -1,0 +1,242 @@
+{
+ "gerd": {
+  "n": 1504,
+  "actores": [
+   "Egypt",
+   "Ethiopia",
+   "Sudan"
+  ],
+  "raw": {
+   "nulos": 90,
+   "omega": 754,
+   "actores": {
+    "Egypt": {
+     "O": 52.61,
+     "C": 0.0,
+     "k_min": 0.4044,
+     "k_dep": 0.8586,
+     "k_resc": 0.7629,
+     "corte": 50
+    },
+    "Ethiopia": {
+     "O": 96.75,
+     "C": 0.0,
+     "k_min": 0.521,
+     "k_dep": 0.998,
+     "k_resc": 0.976,
+     "corte": 5
+    },
+    "Sudan": {
+     "O": 88.53,
+     "C": 0.0,
+     "k_min": 0.5788,
+     "k_dep": 0.9162,
+     "k_resc": 0.8703,
+     "corte": 28
+    }
+   },
+   "orden": [
+    "Ethiopia",
+    "Sudan",
+    "Egypt"
+   ],
+   "delta": 44.13
+  },
+  "P~": {
+   "nulos": 500,
+   "omega": 533,
+   "actores": {
+    "Egypt": {
+     "O": 63.51,
+     "C": 0.0,
+     "k_min": 0.4223,
+     "k_dep": 0.8805,
+     "k_resc": 0.7948,
+     "corte": 43
+    },
+    "Ethiopia": {
+     "O": 60.94,
+     "C": 0.0,
+     "k_min": 0.3553,
+     "k_dep": 0.8124,
+     "k_resc": 0.7764,
+     "corte": 40
+    },
+    "Sudan": {
+     "O": 35.69,
+     "C": 0.0,
+     "k_min": 0.2854,
+     "k_dep": 0.7485,
+     "k_resc": 0.6547,
+     "corte": 43
+    }
+   },
+   "orden": [
+    "Egypt",
+    "Ethiopia",
+    "Sudan"
+   ],
+   "delta": 27.82
+  }
+ },
+ "selene": {
+  "n": 1503,
+  "actores": [
+   "Cerulea",
+   "Borealis",
+   "Aurelia"
+  ],
+  "raw": {
+   "nulos": 258,
+   "omega": 547,
+   "actores": {
+    "Cerulea": {
+     "O": 63.77,
+     "C": 0.0,
+     "k_min": 0.3638,
+     "k_dep": 1.0,
+     "k_resc": 0.8847,
+     "corte": 1
+    },
+    "Borealis": {
+     "O": 62.15,
+     "C": 0.0,
+     "k_min": 0.33,
+     "k_dep": 0.888,
+     "k_resc": 0.804,
+     "corte": 24
+    },
+    "Aurelia": {
+     "O": 66.92,
+     "C": 0.0,
+     "k_min": 0.398,
+     "k_dep": 0.996,
+     "k_resc": 0.74,
+     "corte": 6
+    }
+   },
+   "orden": [
+    "Aurelia",
+    "Cerulea",
+    "Borealis"
+   ],
+   "delta": 4.77
+  },
+  "P~": {
+   "nulos": 227,
+   "omega": 549,
+   "actores": {
+    "Cerulea": {
+     "O": 63.62,
+     "C": 0.0,
+     "k_min": 0.3698,
+     "k_dep": 1.0,
+     "k_resc": 0.8966,
+     "corte": 1
+    },
+    "Borealis": {
+     "O": 60.15,
+     "C": 0.0,
+     "k_min": 0.324,
+     "k_dep": 0.88,
+     "k_resc": 0.798,
+     "corte": 26
+    },
+    "Aurelia": {
+     "O": 64.46,
+     "C": 0.0,
+     "k_min": 0.402,
+     "k_dep": 0.996,
+     "k_resc": 0.734,
+     "corte": 6
+    }
+   },
+   "orden": [
+    "Aurelia",
+    "Cerulea",
+    "Borealis"
+   ],
+   "delta": 4.31
+  }
+ },
+ "vireya": {
+  "n": 1504,
+  "actores": [
+   "Tessara",
+   "Ondrel",
+   "Vireya"
+  ],
+  "raw": {
+   "nulos": 651,
+   "omega": 643,
+   "actores": {
+    "Tessara": {
+     "O": 86.5,
+     "C": 0.0,
+     "k_min": 0.424,
+     "k_dep": 0.726,
+     "k_resc": 0.662,
+     "corte": 70
+    },
+    "Ondrel": {
+     "O": 68.33,
+     "C": 0.0,
+     "k_min": 0.4107,
+     "k_dep": 0.873,
+     "k_resc": 0.7619,
+     "corte": 42
+    },
+    "Vireya": {
+     "O": 104.25,
+     "C": 0.0,
+     "k_min": 0.448,
+     "k_dep": 1.0,
+     "k_resc": 0.81,
+     "corte": 1
+    }
+   },
+   "orden": [
+    "Vireya",
+    "Tessara",
+    "Ondrel"
+   ],
+   "delta": 35.92
+  },
+  "P~": {
+   "nulos": 481,
+   "omega": 843,
+   "actores": {
+    "Tessara": {
+     "O": 109.25,
+     "C": 0.0,
+     "k_min": 0.536,
+     "k_dep": 0.866,
+     "k_resc": 0.782,
+     "corte": 51
+    },
+    "Ondrel": {
+     "O": 112.85,
+     "C": 0.0,
+     "k_min": 0.4861,
+     "k_dep": 0.9345,
+     "k_resc": 0.8274,
+     "corte": 34
+    },
+    "Vireya": {
+     "O": 188.25,
+     "C": 0.0,
+     "k_min": 0.66,
+     "k_dep": 1.0,
+     "k_resc": 0.884,
+     "corte": 1
+    }
+   },
+   "orden": [
+    "Vireya",
+    "Ondrel",
+    "Tessara"
+   ],
+   "delta": 79.0
+  }
+ }
+}

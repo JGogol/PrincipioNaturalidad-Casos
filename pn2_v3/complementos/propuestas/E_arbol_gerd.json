@@ -1,0 +1,147 @@
+{
+ "E_nombre": "PropuestaOperacionSequia",
+ "E_alias": "Proposal",
+ "E_postura": "An independent binding agreement sets a drought-indexed annual filling and release schedule for the dam, adjusted each year to jointly monitored river flow, guaranteeing a minimum downstream volume during droughts.",
+ "fecha": "2026-09-02T15:53:16.598815",
+ "n_nodos": 17,
+ "nodos": [
+  {
+   "id": "PropuestaOperacionSequia_0_0",
+   "texto": "An independent binding agreement sets a drought-indexed annual filling and release schedule for the dam, adjusted each year to jointly monitored river flow, guaranteeing a minimum downstream volume during droughts.",
+   "nivel": 0,
+   "padre": null,
+   "hijos": [
+    "PropuestaOperacionSequia_1_1",
+    "PropuestaOperacionSequia_1_2",
+    "PropuestaOperacionSequia_1_3",
+    "PropuestaOperacionSequia_1_4",
+    "PropuestaOperacionSequia_1_6",
+    "PropuestaOperacionSequia_1_7",
+    "PropuestaOperacionSequia_1_8"
+   ]
+  },
+  {
+   "id": "PropuestaOperacionSequia_1_1",
+   "texto": "Ethiopia must release a defined minimum flow volume during droughts.",
+   "nivel": 1,
+   "padre": "PropuestaOperacionSequia_0_0",
+   "hijos": [
+    "PropuestaOperacionSequia_2_12",
+    "PropuestaOperacionSequia_2_13",
+    "PropuestaOperacionSequia_2_14",
+    "PropuestaOperacionSequia_2_15",
+    "PropuestaOperacionSequia_2_16",
+    "PropuestaOperacionSequia_2_17"
+   ]
+  },
+  {
+   "id": "PropuestaOperacionSequia_2_12",
+   "texto": "Ethiopia's hydropower generation capacity decreases during mandatory drought releases.",
+   "nivel": 2,
+   "padre": "PropuestaOperacionSequia_1_1",
+   "hijos": []
+  },
+  {
+   "id": "PropuestaOperacionSequia_2_13",
+   "texto": "GERD reservoir levels drop below optimal turbine operation thresholds.",
+   "nivel": 2,
+   "padre": "PropuestaOperacionSequia_1_1",
+   "hijos": []
+  },
+  {
+   "id": "PropuestaOperacionSequia_2_14",
+   "texto": "Egypt receives a predictable minimum annual water volume during droughts.",
+   "nivel": 2,
+   "padre": "PropuestaOperacionSequia_1_1",
+   "hijos": []
+  },
+  {
+   "id": "PropuestaOperacionSequia_2_15",
+   "texto": "Sudan can synchronize its downstream dam operations to guaranteed release schedules.",
+   "nivel": 2,
+   "padre": "PropuestaOperacionSequia_1_1",
+   "hijos": []
+  },
+  {
+   "id": "PropuestaOperacionSequia_2_16",
+   "texto": "Ethiopia's ability to export surplus electricity to neighbors is reduced during droughts.",
+   "nivel": 2,
+   "padre": "PropuestaOperacionSequia_1_1",
+   "hijos": []
+  },
+  {
+   "id": "PropuestaOperacionSequia_2_17",
+   "texto": "Compliance monitoring mechanisms must track Ethiopia's actual release volumes in real time.",
+   "nivel": 2,
+   "padre": "PropuestaOperacionSequia_1_1",
+   "hijos": []
+  },
+  {
+   "id": "PropuestaOperacionSequia_1_2",
+   "texto": "Joint hydrological monitoring stations become operationally mandatory.",
+   "nivel": 1,
+   "padre": "PropuestaOperacionSequia_0_0",
+   "hijos": []
+  },
+  {
+   "id": "PropuestaOperacionSequia_1_3",
+   "texto": "Ethiopia's unilateral filling decisions are legally constrained.",
+   "nivel": 1,
+   "padre": "PropuestaOperacionSequia_0_0",
+   "hijos": []
+  },
+  {
+   "id": "PropuestaOperacionSequia_1_4",
+   "texto": "Egypt receives a contractually guaranteed minimum annual water volume.",
+   "nivel": 1,
+   "padre": "PropuestaOperacionSequia_0_0",
+   "hijos": []
+  },
+  {
+   "id": "PropuestaOperacionSequia_1_6",
+   "texto": "PropuestaOperacionSequia requires a shared drought-definition threshold agreed upon.",
+   "nivel": 1,
+   "padre": "PropuestaOperacionSequia_0_0",
+   "hijos": [
+    "PropuestaOperacionSequia_2_9",
+    "PropuestaOperacionSequia_2_10",
+    "PropuestaOperacionSequia_2_11"
+   ]
+  },
+  {
+   "id": "PropuestaOperacionSequia_2_9",
+   "texto": "PropuestaOperacionSequia requires hydrological data standardization across all three nations.",
+   "nivel": 2,
+   "padre": "PropuestaOperacionSequia_1_6",
+   "hijos": []
+  },
+  {
+   "id": "PropuestaOperacionSequia_2_10",
+   "texto": "PropuestaOperacionSequia necessitates a joint technical committee to define drought metrics.",
+   "nivel": 2,
+   "padre": "PropuestaOperacionSequia_1_6",
+   "hijos": []
+  },
+  {
+   "id": "PropuestaOperacionSequia_2_11",
+   "texto": "PropuestaOperacionSequia exposes divergent national interests in drought classification criteria.",
+   "nivel": 2,
+   "padre": "PropuestaOperacionSequia_1_6",
+   "hijos": []
+  },
+  {
+   "id": "PropuestaOperacionSequia_1_7",
+   "texto": "Annual schedule adjustments require trilateral data-sharing compliance.",
+   "nivel": 1,
+   "padre": "PropuestaOperacionSequia_0_0",
+   "hijos": []
+  },
+  {
+   "id": "PropuestaOperacionSequia_1_8",
+   "texto": "Ethiopia's hydropower generation is subordinated to minimum release obligations during droughts.",
+   "nivel": 1,
+   "padre": "PropuestaOperacionSequia_0_0",
+   "hijos": []
+  }
+ ]
+}

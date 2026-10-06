@@ -1,0 +1,17 @@
+Analiza las siguientes fusiones propuestas entre proposiciones de diferentes actores en un conflicto.
+
+Para cada par, determina si representan:
+- MISMA PERSPECTIVA: Equivalentes semánticamente, pueden fusionarse
+- ROLES INVERTIDOS: Mismo evento pero perspectivas opuestas (ej: agresor vs víctima)
+
+FUSIONES A VERIFICAR:
+
+{pares}
+RESPUESTA:
+Lista SOLO los índices de fusiones con ROLES INVERTIDOS que deben RECHAZARSE.
+Formato: RECHAZAR: [índices separados por coma] | RAZÓN: [explicación breve]
+Si todas son válidas, responde: TODAS_VÁLIDAS
+
+Ejemplos de respuesta:
+- RECHAZAR: 2, 5 | RAZÓN: En [2] actor A es agresor y B es víctima; en [5] perspectivas opuestas sobre responsabilidad
+- TODAS_VÁLIDAS

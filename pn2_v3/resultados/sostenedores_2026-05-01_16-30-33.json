@@ -1,0 +1,86 @@
+{
+ "caso": "../../casos/jamison/runs/2026-05-01_16-30-33",
+ "top": [
+  {
+   "id": "Kay Jamison [DepressiveState]_6_392",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 6,
+   "texto": "Kay Jamison [DepressiveState] will experience relief from sharing the burden of ambivalence about treatment",
+   "sost": 78,
+   "por_actor": {
+    "Kay Jamison [DepressiveState]": 34,
+    "Kay Jamison [ManicState]": 44
+   },
+   "ajenos": 44,
+   "premisas": {
+    "Kay Jamison [DepressiveState]": 0,
+    "Kay Jamison [ManicState]": 1
+   }
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_448",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 6,
+   "texto": "Kay Jamison [DepressiveState] will have reduced cognitive deterioration from repeated episodes",
+   "sost": 76,
+   "por_actor": {
+    "Kay Jamison [DepressiveState]": 33,
+    "Kay Jamison [ManicState]": 43
+   },
+   "ajenos": 43,
+   "premisas": {
+    "Kay Jamison [DepressiveState]": 0,
+    "Kay Jamison [ManicState]": 1
+   }
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_602",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 6,
+   "texto": "Kay Jamison [DepressiveState] will view physical side effects as evidence of protection",
+   "sost": 73,
+   "por_actor": {
+    "Kay Jamison [DepressiveState]": 31,
+    "Kay Jamison [ManicState]": 42
+   },
+   "ajenos": 42,
+   "premisas": {
+    "Kay Jamison [DepressiveState]": 0,
+    "Kay Jamison [ManicState]": 1
+   }
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_600",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 6,
+   "texto": "Kay Jamison [DepressiveState] will maintain lithium treatment despite visible tremor",
+   "sost": 73,
+   "por_actor": {
+    "Kay Jamison [DepressiveState]": 31,
+    "Kay Jamison [ManicState]": 42
+   },
+   "ajenos": 42,
+   "premisas": {
+    "Kay Jamison [DepressiveState]": 0,
+    "Kay Jamison [ManicState]": 1
+   }
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_467",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 6,
+   "texto": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania",
+   "sost": 72,
+   "por_actor": {
+    "Kay Jamison [DepressiveState]": 30,
+    "Kay Jamison [ManicState]": 42
+   },
+   "ajenos": 42,
+   "premisas": {
+    "Kay Jamison [DepressiveState]": 0,
+    "Kay Jamison [ManicState]": 1
+   }
+  }
+ ],
+ "comprometidos_por_todas": 136
+}

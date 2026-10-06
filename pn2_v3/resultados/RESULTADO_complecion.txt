@@ -1,0 +1,48 @@
+entradas observadas inter-actor: 453604 de 453604
+kernels reales: 12356
+
+=== régimen E: ajuste 162994, test 222176 entradas; pares evaluables 111088 ===
+   baseline media global           RMSE 0.3785
+   baseline bloque actor x actor   RMSE 0.3474
+   baseline fila+columna           RMSE 0.2909
+   mejor baseline: fila+columna (0.2909)
+   rango 1   RMSE 0.2904 (1.00 x baseline)  kernels: P 0.820 R 0.250 F1 0.383 (tp 1511 fp 331 fn 4543)
+   rango 2   RMSE 0.2546 (0.88 x baseline)  kernels: P 0.795 R 0.430 F1 0.558 (tp 2601 fp 671 fn 3453)
+   rango 5   RMSE 0.2315 (0.80 x baseline)  kernels: P 0.811 R 0.561 F1 0.663 (tp 3398 fp 794 fn 2656)
+   rango 10  RMSE 0.2211 (0.76 x baseline)  kernels: P 0.829 R 0.648 F1 0.727 (tp 3920 fp 809 fn 2134)
+   rango 20  RMSE 0.2269 (0.78 x baseline)  kernels: P 0.831 R 0.669 F1 0.742 (tp 4052 fp 823 fn 2002)
+   rango 50  RMSE 0.2914 (1.00 x baseline)  kernels: P 0.814 R 0.580 F1 0.678 (tp 3514 fp 801 fn 2540)
+
+=== régimen F: ajuste 17938, test 290810 entradas; pares evaluables 145405 ===
+   baseline media global           RMSE 0.3766
+   baseline bloque actor x actor   RMSE 0.3465
+   baseline fila+columna           RMSE 0.3766
+   mejor baseline: bloque actor x actor (0.3465)
+   rango 1   RMSE 0.3747 (1.08 x baseline)  kernels: P 0.000 R 0.000 F1 0.000 (tp 0 fp 0 fn 7637)
+   rango 2   RMSE 0.3762 (1.09 x baseline)  kernels: P 0.000 R 0.000 F1 0.000 (tp 0 fp 0 fn 7637)
+   rango 5   RMSE 0.3765 (1.09 x baseline)  kernels: P 0.000 R 0.000 F1 0.000 (tp 0 fp 0 fn 7637)
+   rango 10  RMSE 0.3765 (1.09 x baseline)  kernels: P 0.000 R 0.000 F1 0.000 (tp 0 fp 0 fn 7637)
+   rango 20  RMSE 0.3766 (1.09 x baseline)  kernels: P 0.000 R 0.000 F1 0.000 (tp 0 fp 0 fn 7637)
+   rango 50  RMSE 0.3766 (1.09 x baseline)  kernels: P 0.000 R 0.000 F1 0.000 (tp 0 fp 0 fn 7637)
+DIAGNÓSTICO post-hoc (rango 20, régimen E). Error absoluto por franja del valor real:
+   real [0.00,0.10)  n= 155261  |error| medio 0.082  mediana 0.026
+   real [0.10,0.30)  n=  11454  |error| medio 0.200  mediana 0.148
+   real [0.30,0.45)  n=   4443  |error| medio 0.201  mediana 0.176
+   real [0.45,0.55)  n=   2652  |error| medio 0.217  mediana 0.192
+   real [0.55,0.70)  n=   4089  |error| medio 0.261  mediana 0.240
+   real [0.70,0.90)  n=   7990  |error| medio 0.328  mediana 0.297
+   real [0.90,1.01)  n=  36287  |error| medio 0.224  mediana 0.158
+
+Cruce del umbral 0.50 (lo que decide un kernel):
+   real < 0.50    n= 172523  clasificado del lado equivocado: 4.5%
+   real >= 0.50   n=  49653  clasificado del lado equivocado: 25.9%
+   zona gris [0.40,0.60): n=5322, del lado equivocado 47.9%
+
+Distribución del campo real (por qué el umbral es frágil):
+   [0.00,0.10)  69.9%
+   [0.10,0.30)   5.2%
+   [0.30,0.45)   2.0%
+   [0.45,0.55)   1.2%
+   [0.55,0.70)   1.8%
+   [0.70,0.90)   3.6%
+   [0.90,1.01)  16.3%

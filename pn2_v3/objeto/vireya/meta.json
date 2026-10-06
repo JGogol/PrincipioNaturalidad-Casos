@@ -1,0 +1,39 @@
+{
+ "caso": "vireya",
+ "run": "..\\..\\casos\\vireya\\runs\\2026-08-28_21-26-39",
+ "fecha": "2026-09-11 10:36",
+ "n": 1504,
+ "actores": [
+  "Agrarian Federation of Tessara",
+  "Coastal State of Ondrel",
+  "Highland Republic of Vireya"
+ ],
+ "aristas": 1501,
+ "pares_j1": 242384,
+ "pares_j2": 0,
+ "codificacion": "uint16: 0=no evaluado, 1..Q+1 -> x=(q-1)/Q, Q=65534",
+ "umbrales": {
+  "tau": 0.55,
+  "gamma": 0.3,
+  "delta": 0.5,
+  "coseno": 0.35
+ },
+ "criterio": "min",
+ "rechazos_inversion_roles": 65,
+ "embeddings": 768,
+ "gluts_intra_actor": 0,
+ "aristas_padre_hijo": 0,
+ "nota_intra": "subconjunto que paso el criterio de glut de phase0, no el campo intra-actor completo",
+ "jueces": {
+  "j1": "cross-encoder/nli-deberta-v3-base (ONNX)",
+  "j2": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+ },
+ "verificacion": {
+  "ajustes_de_borde": 6,
+  "cruces_de_umbral_residuales": 0,
+  "F_datos": 503,
+  "F_rearmado": 503,
+  "faltan": 0,
+  "sobran": 0
+ }
+}

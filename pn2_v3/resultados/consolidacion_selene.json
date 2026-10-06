@@ -1,0 +1,151 @@
+{
+ "caso": "selene",
+ "regimen": "norm",
+ "cobertura_j2": [
+  18446,
+  18446
+ ],
+ "kernels": 6757,
+ "actores": {
+  "Commonwealth of Cerulea": {
+   "n": 503,
+   "atacados": 339,
+   "atacado_por": {
+    "Borealis": 1634,
+    "Aurelia": 1800
+   },
+   "k_greedy": 0.3399602385685885,
+   "k_atrinch": 0.5566600397614314,
+   "corte": 1
+  },
+  "Federation of Borealis": {
+   "n": 500,
+   "atacados": 348,
+   "atacado_por": {
+    "Cerulea": 1634,
+    "Aurelia": 3323
+   },
+   "k_greedy": 0.506,
+   "k_atrinch": 0.596,
+   "corte": 32
+  },
+  "Republic of Aurelia": {
+   "n": 500,
+   "atacados": 387,
+   "atacado_por": {
+    "Cerulea": 1800,
+    "Borealis": 3323
+   },
+   "k_greedy": 0.274,
+   "k_atrinch": 0.626,
+   "corte": 4
+  }
+ },
+ "focos": [
+  {
+   "id": "Federation of Borealis_6_286",
+   "actor": "Federation of Borealis",
+   "grado": 79,
+   "depth": 6,
+   "texto": "System redundancy planning requires Borealis exclusive participation"
+  },
+  {
+   "id": "Republic of Aurelia_5_213",
+   "actor": "Republic of Aurelia",
+   "grado": 74,
+   "depth": 5,
+   "texto": "Other crews must accept Aurelia's resource distribution without technical dispute"
+  },
+  {
+   "id": "Commonwealth of Cerulea_6_326",
+   "actor": "Commonwealth of Cerulea",
+   "grado": 71,
+   "depth": 6,
+   "texto": "Other crews must comply with Cerulea's medical directives"
+  },
+  {
+   "id": "Federation of Borealis_4_141",
+   "actor": "Federation of Borealis",
+   "grado": 71,
+   "depth": 4,
+   "texto": "Borealis considers unilateral control of its contributed systems justified"
+  },
+  {
+   "id": "Republic of Aurelia_5_137",
+   "actor": "Republic of Aurelia",
+   "grado": 71,
+   "depth": 5,
+   "texto": "Other nations' crews develop contingency protocols bypassing Aurelian authorization"
+  },
+  {
+   "id": "Federation of Borealis_2_11",
+   "actor": "Federation of Borealis",
+   "grado": 65,
+   "depth": 2,
+   "texto": "Borealis considers unilateral control of its life support systems"
+  },
+  {
+   "id": "Federation of Borealis_5_223",
+   "actor": "Federation of Borealis",
+   "grado": 64,
+   "depth": 5,
+   "texto": "Other crews must accept Borealis terms to maintain life support"
+  },
+  {
+   "id": "Republic of Aurelia_5_267",
+   "actor": "Republic of Aurelia",
+   "grado": 64,
+   "depth": 5,
+   "texto": "Other crews develop independent contingency plans without Republic of Aurelia's knowledge"
+  },
+  {
+   "id": "Republic of Aurelia_5_247",
+   "actor": "Republic of Aurelia",
+   "grado": 64,
+   "depth": 5,
+   "texto": "Other crews can operate habitat systems without Aurelian oversight"
+  },
+  {
+   "id": "Federation of Borealis_4_112",
+   "actor": "Federation of Borealis",
+   "grado": 63,
+   "depth": 4,
+   "texto": "Other crews challenge Borealis's exclusive control over extraction scheduling"
+  },
+  {
+   "id": "Republic of Aurelia_4_89",
+   "actor": "Republic of Aurelia",
+   "grado": 60,
+   "depth": 4,
+   "texto": "Other crews must accept Aurelia's technical decisions without independent validation"
+  },
+  {
+   "id": "Federation of Borealis_5_369",
+   "actor": "Federation of Borealis",
+   "grado": 58,
+   "depth": 5,
+   "texto": "Borealis begins restricting other crews' access to critical systems"
+  },
+  {
+   "id": "Federation of Borealis_5_173",
+   "actor": "Federation of Borealis",
+   "grado": 58,
+   "depth": 5,
+   "texto": "Other crews conduct technical assessment of Borealis system dependencies"
+  },
+  {
+   "id": "Republic of Aurelia_5_205",
+   "actor": "Republic of Aurelia",
+   "grado": 58,
+   "depth": 5,
+   "texto": "Other crews prepare unilateral actions bypassing Aurelian oversight"
+  },
+  {
+   "id": "Federation of Borealis_5_377",
+   "actor": "Federation of Borealis",
+   "grado": 57,
+   "depth": 5,
+   "texto": "Other nations begin independent operational planning without Borealis coordination"
+  }
+ ]
+}

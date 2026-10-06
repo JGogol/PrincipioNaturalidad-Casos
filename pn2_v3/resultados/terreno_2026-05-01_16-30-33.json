@@ -1,0 +1,399 @@
+{
+ "caso": "../../casos/jamison/runs/2026-05-01_16-30-33",
+ "n": 1004,
+ "F": 38,
+ "R_raiz": {
+  "Kay Jamison [DepressiveState]": 600,
+  "Kay Jamison [ManicState]": 540
+ },
+ "meet": 136,
+ "meet_comp": {
+  "Kay Jamison [ManicState]": 99,
+  "Kay Jamison [DepressiveState]": 37
+ },
+ "cabezas": [
+  {
+   "id": "Kay Jamison [ManicState]_3_48",
+   "actor": "Kay Jamison [ManicState]",
+   "d": 3,
+   "n": 27,
+   "texto": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision"
+  },
+  {
+   "id": "Kay Jamison [ManicState]_4_58",
+   "actor": "Kay Jamison [ManicState]",
+   "d": 4,
+   "n": 16,
+   "texto": "Kay Jamison [ManicState] experiences decreased insight into illness severity"
+  },
+  {
+   "id": "Kay Jamison [ManicState]_3_41",
+   "actor": "Kay Jamison [ManicState]",
+   "d": 3,
+   "n": 15,
+   "texto": "Kay Jamison [ManicState] loses lithium's mood-stabilizing neurochemical effects"
+  },
+  {
+   "id": "Kay Jamison [ManicState]_3_40",
+   "actor": "Kay Jamison [ManicState]",
+   "d": 3,
+   "n": 10,
+   "texto": "Kay Jamison [ManicState] experiences return of unmedicated manic symptom intensity"
+  },
+  {
+   "id": "Kay Jamison [ManicState]_5_179",
+   "actor": "Kay Jamison [ManicState]",
+   "d": 5,
+   "n": 6,
+   "texto": "Kay Jamison [ManicState] reduces communication with her treating psychiatrist"
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_5_109",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 5,
+   "n": 5,
+   "texto": "Kay Jamison [DepressiveState] will have diminished verbal fluency in professional settings"
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_4_52",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 4,
+   "n": 5,
+   "texto": "Kay Jamison [DepressiveState] will view medication side effects as preferable to illness symptoms"
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_5_115",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 5,
+   "n": 5,
+   "texto": "Kay Jamison [DepressiveState] will avoid hospitalization for mood episodes"
+  },
+  {
+   "id": "Kay Jamison [ManicState]_4_87",
+   "actor": "Kay Jamison [ManicState]",
+   "d": 4,
+   "n": 4,
+   "texto": "Kay Jamison [ManicState] will perceive enhanced mental clarity and sharpness"
+  },
+  {
+   "id": "Kay Jamison [ManicState]_5_371",
+   "actor": "Kay Jamison [ManicState]",
+   "d": 5,
+   "n": 4,
+   "texto": "Kay Jamison [ManicState] will experience validation that medication was suppressing her true capabilities"
+  },
+  {
+   "id": "Kay Jamison [ManicState]_4_136",
+   "actor": "Kay Jamison [ManicState]",
+   "d": 4,
+   "n": 4,
+   "texto": "Kay Jamison [ManicState] will become increasingly isolated from collegial input"
+  },
+  {
+   "id": "Kay Jamison [ManicState]_5_316",
+   "actor": "Kay Jamison [ManicState]",
+   "d": 5,
+   "n": 4,
+   "texto": "Kay Jamison [ManicState] will resist or reject direct supervisory interventions regarding her clinical work"
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_5_154",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 5,
+   "n": 3,
+   "texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity"
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_5_218",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 5,
+   "n": 3,
+   "texto": "Kay Jamison [DepressiveState] will prioritize functional stability over physical appearance concerns"
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_5_165",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 5,
+   "n": 3,
+   "texto": "Kay Jamison [DepressiveState] feels her rational insights during depression will be overridden by manic denial"
+  },
+  {
+   "id": "Kay Jamison [ManicState]_6_379",
+   "actor": "Kay Jamison [ManicState]",
+   "d": 6,
+   "n": 1,
+   "texto": "Kay Jamison [ManicState] will avoid stigmatization as psychiatrically impaired"
+  },
+  {
+   "id": "Kay Jamison [ManicState]_5_346",
+   "actor": "Kay Jamison [ManicState]",
+   "d": 5,
+   "n": 1,
+   "texto": "Kay Jamison [ManicState] will experience inflated assessment of her current capabilities"
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_406",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 6,
+   "n": 1,
+   "texto": "Kay Jamison [DepressiveState] avoids discussing treatment options with her doctor"
+  },
+  {
+   "id": "Kay Jamison [ManicState]_6_568",
+   "actor": "Kay Jamison [ManicState]",
+   "d": 6,
+   "n": 1,
+   "texto": "Kay Jamison [ManicState] will view administrative requirements as beneath her enhanced capabilities"
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_448",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 6,
+   "n": 1,
+   "texto": "Kay Jamison [DepressiveState] will have reduced cognitive deterioration from repeated episodes"
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_401",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 6,
+   "n": 1,
+   "texto": "Kay Jamison [DepressiveState] will need to manage social interactions while displaying medication side effects"
+  },
+  {
+   "id": "Kay Jamison [ManicState]_5_439",
+   "actor": "Kay Jamison [ManicState]",
+   "d": 5,
+   "n": 1,
+   "texto": "Kay Jamison [ManicState] will have less discretionary time available for personal activities"
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_567",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 6,
+   "n": 1,
+   "texto": "Kay Jamison [DepressiveState] anticipates losing her capacity for meaningful relationships"
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_539",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 6,
+   "n": 1,
+   "texto": "Kay Jamison [DepressiveState] will acknowledge treatment non-adherence during hypomanic phases"
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_293",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 6,
+   "n": 1,
+   "texto": "Kay Jamison [DepressiveState] will experience decreased confidence in professional judgment"
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_7_526",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 7,
+   "n": 1,
+   "texto": "Kay Jamison [DepressiveState] views her professional identity as secondary to interpersonal functioning"
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_350",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 6,
+   "n": 1,
+   "texto": "Kay Jamison [DepressiveState] anticipates helplessness against her own future manic judgment"
+  },
+  {
+   "id": "Kay Jamison [ManicState]_6_610",
+   "actor": "Kay Jamison [ManicState]",
+   "d": 6,
+   "n": 1,
+   "texto": "Kay Jamison [ManicState] will avoid audience distraction from physical symptoms"
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_392",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 6,
+   "n": 1,
+   "texto": "Kay Jamison [DepressiveState] will experience relief from sharing the burden of ambivalence about treatment"
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_510",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 6,
+   "n": 1,
+   "texto": "Kay Jamison [DepressiveState] experiences learned helplessness regarding her psychiatric condition"
+  },
+  {
+   "id": "Kay Jamison [ManicState]_6_612",
+   "actor": "Kay Jamison [ManicState]",
+   "d": 6,
+   "n": 1,
+   "texto": "Kay Jamison [ManicState] will eliminate self-consciousness about visible medication effects"
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_382",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 6,
+   "n": 1,
+   "texto": "Kay Jamison [DepressiveState] will lose neuroprotective benefits of lithium treatment"
+  },
+  {
+   "id": "Kay Jamison [ManicState]_6_366",
+   "actor": "Kay Jamison [ManicState]",
+   "d": 6,
+   "n": 1,
+   "texto": "Kay Jamison [ManicState] withholds information about medication changes from her psychiatrist"
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_381",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 6,
+   "n": 1,
+   "texto": "Kay Jamison [DepressiveState] faces progressive worsening of episode severity"
+  },
+  {
+   "id": "Kay Jamison [ManicState]_6_407",
+   "actor": "Kay Jamison [ManicState]",
+   "d": 6,
+   "n": 1,
+   "texto": "Kay Jamison [ManicState] conceals her actual medication adherence from her psychiatrist"
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_496",
+   "actor": "Kay Jamison [DepressiveState]",
+   "d": 6,
+   "n": 1,
+   "texto": "Kay Jamison [DepressiveState] will describe social withdrawal from professional colleagues"
+  },
+  {
+   "id": "Kay Jamison [ManicState]_6_516",
+   "actor": "Kay Jamison [ManicState]",
+   "d": 6,
+   "n": 1,
+   "texto": "Kay Jamison [ManicState] becomes difficult for colleagues to follow in conversations"
+  }
+ ],
+ "puentes": 139,
+ "fusionados": 47,
+ "puentes_top": [
+  {
+   "id": "Kay Jamison [DepressiveState]_6_406",
+   "actor": "Kay Jamison [DepressiveState]",
+   "texto": "Kay Jamison [DepressiveState] avoids discussing treatment options with her doctor",
+   "ajenos": 73
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_4_52",
+   "actor": "Kay Jamison [DepressiveState]",
+   "texto": "Kay Jamison [DepressiveState] will view medication side effects as preferable to illness symptoms",
+   "ajenos": 39
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_5_118",
+   "actor": "Kay Jamison [DepressiveState]",
+   "texto": "Kay Jamison [DepressiveState] will dismiss concerns about medication's impact on mental acuity",
+   "ajenos": 39
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_5_218",
+   "actor": "Kay Jamison [DepressiveState]",
+   "texto": "Kay Jamison [DepressiveState] will prioritize functional stability over physical appearance concerns",
+   "ajenos": 39
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_5_115",
+   "actor": "Kay Jamison [DepressiveState]",
+   "texto": "Kay Jamison [DepressiveState] will avoid hospitalization for mood episodes",
+   "ajenos": 39
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_313",
+   "actor": "Kay Jamison [DepressiveState]",
+   "texto": "Kay Jamison [DepressiveState] will avoid involuntary psychiatric commitment",
+   "ajenos": 39
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_5_154",
+   "actor": "Kay Jamison [DepressiveState]",
+   "texto": "Kay Jamison [DepressiveState] anticipates losing insight into her illness severity",
+   "ajenos": 39
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_467",
+   "actor": "Kay Jamison [DepressiveState]",
+   "texto": "Kay Jamison [DepressiveState] anticipates future denial of depression severity during mania",
+   "ajenos": 39
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_5_165",
+   "actor": "Kay Jamison [DepressiveState]",
+   "texto": "Kay Jamison [DepressiveState] feels her rational insights during depression will be overridden by manic denial",
+   "ajenos": 39
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_350",
+   "actor": "Kay Jamison [DepressiveState]",
+   "texto": "Kay Jamison [DepressiveState] anticipates helplessness against her own future manic judgment",
+   "ajenos": 28
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_510",
+   "actor": "Kay Jamison [DepressiveState]",
+   "texto": "Kay Jamison [DepressiveState] experiences learned helplessness regarding her psychiatric condition",
+   "ajenos": 28
+  },
+  {
+   "id": "Kay Jamison [DepressiveState]_6_381",
+   "actor": "Kay Jamison [DepressiveState]",
+   "texto": "Kay Jamison [DepressiveState] faces progressive worsening of episode severity",
+   "ajenos": 28
+  },
+  {
+   "id": "Kay Jamison [ManicState]_6_407",
+   "actor": "Kay Jamison [ManicState]",
+   "texto": "Kay Jamison [ManicState] conceals her actual medication adherence from her psychiatrist",
+   "ajenos": 25
+  },
+  {
+   "id": "Kay Jamison [ManicState]_6_366",
+   "actor": "Kay Jamison [ManicState]",
+   "texto": "Kay Jamison [ManicState] withholds information about medication changes from her psychiatrist",
+   "ajenos": 25
+  },
+  {
+   "id": "Kay Jamison [ManicState]_5_179",
+   "actor": "Kay Jamison [ManicState]",
+   "texto": "Kay Jamison [ManicState] reduces communication with her treating psychiatrist",
+   "ajenos": 25
+  },
+  {
+   "id": "Kay Jamison [ManicState]_6_387",
+   "actor": "Kay Jamison [ManicState]",
+   "texto": "Kay Jamison [ManicState] maintains her current medication decisions without professional input",
+   "ajenos": 25
+  },
+  {
+   "id": "Kay Jamison [ManicState]_6_386",
+   "actor": "Kay Jamison [ManicState]",
+   "texto": "Kay Jamison [ManicState] experiences decreased external reality-testing regarding her behavior",
+   "ajenos": 21
+  },
+  {
+   "id": "Kay Jamison [ManicState]_5_316",
+   "actor": "Kay Jamison [ManicState]",
+   "texto": "Kay Jamison [ManicState] will resist or reject direct supervisory interventions regarding her clinical work",
+   "ajenos": 21
+  },
+  {
+   "id": "Kay Jamison [ManicState]_3_48",
+   "actor": "Kay Jamison [ManicState]",
+   "texto": "Kay Jamison [ManicState] will experience decreased perceived need for psychiatric supervision",
+   "ajenos": 21
+  },
+  {
+   "id": "Kay Jamison [ManicState]_6_449",
+   "actor": "Kay Jamison [ManicState]",
+   "texto": "Kay Jamison [ManicState] will prioritize subjective wellness over clinical indicators",
+   "ajenos": 21
+  }
+ ]
+}
