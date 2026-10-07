@@ -1,0 +1,179 @@
+{
+ "actores": [
+  "Arab Republic of Egypt",
+  "Federal Democratic Republic of Ethiopia",
+  "Republic of Sudan"
+ ],
+ "criterio": "tau=0.55 gamma=0.30, juez 1, sin prefiltro ni Lambda",
+ "legitima": {
+  "nodos": 17,
+  "pares_certificados": 5,
+  "sosten": [
+   0.025896414342629483,
+   0.021956087824351298,
+   0.011976047904191617
+  ]
+ },
+ "ajena": {
+  "nodos": 13,
+  "pares_certificados": 0,
+  "sosten": [
+   0.0,
+   0.0,
+   0.0
+  ]
+ },
+ "internos_top": [
+  {
+   "i": 988,
+   "texto": "Ethiopia engages African Union mediation mechanisms",
+   "actor": "Federal Democratic Republic of Ethiopia",
+   "sosten": [
+    0.1375,
+    0.0998,
+    0.0838
+   ]
+  },
+  {
+   "i": 1069,
+   "texto": "Sudan requests African Union mediation intervention",
+   "actor": "Republic of Sudan",
+   "sosten": [
+    0.1375,
+    0.0998,
+    0.0838
+   ]
+  },
+  {
+   "i": 442,
+   "texto": "Egypt appeals to African Union for mediation mechanisms",
+   "actor": "Arab Republic of Egypt",
+   "sosten": [
+    0.1375,
+    0.0998,
+    0.0838
+   ]
+  },
+  {
+   "i": 1090,
+   "texto": "Sudan reduces diplomatic engagement with Ethiopia on GERD",
+   "actor": "Republic of Sudan",
+   "sosten": [
+    0.1315,
+    0.0838,
+    0.0838
+   ]
+  },
+  {
+   "i": 419,
+   "texto": "Egypt reduces diplomatic pressure on Ethiopia regarding GERD operations",
+   "actor": "Arab Republic of Egypt",
+   "sosten": [
+    0.1315,
+    0.0838,
+    0.0838
+   ]
+  },
+  {
+   "i": 1101,
+   "texto": "Sudan increases groundwater extraction capacity",
+   "actor": "Republic of Sudan",
+   "sosten": [
+    0.1295,
+    0.0838,
+    0.0798
+   ]
+  },
+  {
+   "i": 1100,
+   "texto": "Sudan develops Red Sea desalination infrastructure",
+   "actor": "Republic of Sudan",
+   "sosten": [
+    0.1295,
+    0.0838,
+    0.0798
+   ]
+  },
+  {
+   "i": 1099,
+   "texto": "Sudan strengthens water partnerships with non-Nile basin countries",
+   "actor": "Republic of Sudan",
+   "sosten": [
+    0.1295,
+    0.0838,
+    0.0798
+   ]
+  },
+  {
+   "i": 1147,
+   "texto": "Sudan diverts resources from Nile-focused water planning",
+   "actor": "Republic of Sudan",
+   "sosten": [
+    0.1295,
+    0.0838,
+    0.0778
+   ]
+  },
+  {
+   "i": 459,
+   "texto": "Egypt reduces dependency on Nile River for water security",
+   "actor": "Arab Republic of Egypt",
+   "sosten": [
+    0.1295,
+    0.0838,
+    0.0778
+   ]
+  },
+  {
+   "i": 417,
+   "texto": "Egypt signals reduced dependence on Nile water negotiations",
+   "actor": "Arab Republic of Egypt",
+   "sosten": [
+    0.1295,
+    0.0838,
+    0.0778
+   ]
+  },
+  {
+   "i": 1098,
+   "texto": "Sudan diversifies away from Nile-dependent water infrastructure",
+   "actor": "Republic of Sudan",
+   "sosten": [
+    0.1295,
+    0.0838,
+    0.0778
+   ]
+  },
+  {
+   "i": 421,
+   "texto": "Ethiopia perceives Egypt's alternative partnerships as negotiation withdrawal",
+   "actor": "Arab Republic of Egypt",
+   "sosten": [
+    0.1315,
+    0.0838,
+    0.0778
+   ]
+  },
+  {
+   "i": 420,
+   "texto": "Sudan questions Egypt's commitment to trilateral cooperation framework",
+   "actor": "Arab Republic of Egypt",
+   "sosten": [
+    0.1315,
+    0.0838,
+    0.0778
+   ]
+  },
+  {
+   "i": 418,
+   "texto": "Regional powers interpret Egypt's diversification as Nile basin destabilization",
+   "actor": "Arab Republic of Egypt",
+   "sosten": [
+    0.1315,
+    0.0838,
+    0.0778
+   ]
+  }
+ ],
+ "n_tocados_por_3": 370
+}
