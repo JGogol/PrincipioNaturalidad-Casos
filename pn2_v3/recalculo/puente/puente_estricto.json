@@ -1,0 +1,405 @@
+{
+ "actores": [
+  "Arab Republic of Egypt",
+  "Federal Democratic Republic of Ethiopia",
+  "Republic of Sudan"
+ ],
+ "F": 102,
+ "D": 26,
+ "con_D": {
+  "completa": {
+   "n_tocados_por_3": 370,
+   "top": [
+    {
+     "i": 419,
+     "actor": "Egypt",
+     "texto": "Egypt reduces diplomatic pressure on Ethiopia regarding GERD operations",
+     "sosten": [
+      0.1315,
+      0.0838,
+      0.0838
+     ]
+    },
+    {
+     "i": 442,
+     "actor": "Egypt",
+     "texto": "Egypt appeals to African Union for mediation mechanisms",
+     "sosten": [
+      0.1375,
+      0.0998,
+      0.0838
+     ]
+    },
+    {
+     "i": 988,
+     "actor": "Ethiopia",
+     "texto": "Ethiopia engages African Union mediation mechanisms",
+     "sosten": [
+      0.1375,
+      0.0998,
+      0.0838
+     ]
+    },
+    {
+     "i": 1069,
+     "actor": "Sudan",
+     "texto": "Sudan requests African Union mediation intervention",
+     "sosten": [
+      0.1375,
+      0.0998,
+      0.0838
+     ]
+    },
+    {
+     "i": 1090,
+     "actor": "Sudan",
+     "texto": "Sudan reduces diplomatic engagement with Ethiopia on GERD",
+     "sosten": [
+      0.1315,
+      0.0838,
+      0.0838
+     ]
+    },
+    {
+     "i": 1099,
+     "actor": "Sudan",
+     "texto": "Sudan strengthens water partnerships with non-Nile basin countries",
+     "sosten": [
+      0.1295,
+      0.0838,
+      0.0798
+     ]
+    },
+    {
+     "i": 1100,
+     "actor": "Sudan",
+     "texto": "Sudan develops Red Sea desalination infrastructure",
+     "sosten": [
+      0.1295,
+      0.0838,
+      0.0798
+     ]
+    },
+    {
+     "i": 1101,
+     "actor": "Sudan",
+     "texto": "Sudan increases groundwater extraction capacity",
+     "sosten": [
+      0.1295,
+      0.0838,
+      0.0798
+     ]
+    }
+   ]
+  },
+  "estricta": {
+   "n_tocados_por_3": 80,
+   "top": [
+    {
+     "i": 732,
+     "actor": "Ethiopia",
+     "texto": "Regional water coordination mechanisms become fragmented",
+     "sosten": [
+      0.0159,
+      0.014,
+      0.022
+     ]
+    },
+    {
+     "i": 347,
+     "actor": "Egypt",
+     "texto": "Water flow patterns to Egypt become less predictable",
+     "sosten": [
+      0.0139,
+      0.024,
+      0.0279
+     ]
+    },
+    {
+     "i": 644,
+     "actor": "Ethiopia",
+     "texto": "Downstream flood preparedness systems lose predictive capacity",
+     "sosten": [
+      0.0139,
+      0.014,
+      0.024
+     ]
+    },
+    {
+     "i": 1464,
+     "actor": "Sudan",
+     "texto": "Sudan's agricultural sector experiences increased economic losses from crop failures",
+     "sosten": [
+      0.0139,
+      0.0479,
+      0.014
+     ]
+    },
+    {
+     "i": 1465,
+     "actor": "Sudan",
+     "texto": "Sudan's irrigation infrastructure operates below optimal efficiency levels",
+     "sosten": [
+      0.0139,
+      0.0479,
+      0.014
+     ]
+    },
+    {
+     "i": 1466,
+     "actor": "Sudan",
+     "texto": "Sudan's farmers increasingly abandon water-dependent crops for drought-resistant alternati",
+     "sosten": [
+      0.0139,
+      0.0479,
+      0.014
+     ]
+    },
+    {
+     "i": 1467,
+     "actor": "Sudan",
+     "texto": "Sudan's agricultural productivity declines due to unpredictable water availability",
+     "sosten": [
+      0.0139,
+      0.0479,
+      0.014
+     ]
+    },
+    {
+     "i": 1470,
+     "actor": "Sudan",
+     "texto": "Sudan's electricity generation capacity from Roseires becomes more unpredictable",
+     "sosten": [
+      0.0139,
+      0.022,
+      0.014
+     ]
+    }
+   ]
+  },
+  "legitima": {
+   "completa": [
+    0.0259,
+    0.022,
+    0.012
+   ],
+   "estricta": [
+    0.0259,
+    0.022,
+    0.012
+   ],
+   "pares": 5
+  },
+  "ajena": {
+   "completa": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "estricta": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "pares": 0
+  }
+ },
+ "sin_D": {
+  "completa": {
+   "n_tocados_por_3": 146,
+   "top": [
+    {
+     "i": 482,
+     "actor": "Egypt",
+     "texto": "Egypt's bilateral negotiating leverage with Ethiopia becomes diluted",
+     "sosten": [
+      0.0637,
+      0.0519,
+      0.0439
+     ]
+    },
+    {
+     "i": 1112,
+     "actor": "Sudan",
+     "texto": "Sudan's negotiating position with Ethiopia becomes externally constrained",
+     "sosten": [
+      0.0637,
+      0.0519,
+      0.0439
+     ]
+    },
+    {
+     "i": 89,
+     "actor": "Egypt",
+     "texto": "Egypt seeks alternative downstream allies beyond Sudan",
+     "sosten": [
+      0.0618,
+      0.0279,
+      0.0539
+     ]
+    },
+    {
+     "i": 442,
+     "actor": "Egypt",
+     "texto": "Egypt appeals to African Union for mediation mechanisms",
+     "sosten": [
+      0.0677,
+      0.0279,
+      0.0539
+     ]
+    },
+    {
+     "i": 987,
+     "actor": "Ethiopia",
+     "texto": "Ethiopia solicits support from non-riparian international partners",
+     "sosten": [
+      0.0618,
+      0.0279,
+      0.0539
+     ]
+    },
+    {
+     "i": 988,
+     "actor": "Ethiopia",
+     "texto": "Ethiopia engages African Union mediation mechanisms",
+     "sosten": [
+      0.0677,
+      0.0279,
+      0.0539
+     ]
+    },
+    {
+     "i": 1069,
+     "actor": "Sudan",
+     "texto": "Sudan requests African Union mediation intervention",
+     "sosten": [
+      0.0677,
+      0.0279,
+      0.0539
+     ]
+    },
+    {
+     "i": 1088,
+     "actor": "Sudan",
+     "texto": "Sudan shifts diplomatic focus toward non-Nile regional partnerships",
+     "sosten": [
+      0.0618,
+      0.0279,
+      0.0539
+     ]
+    }
+   ]
+  },
+  "estricta": {
+   "n_tocados_por_3": 32,
+   "top": [
+    {
+     "i": 644,
+     "actor": "Ethiopia",
+     "texto": "Downstream flood preparedness systems lose predictive capacity",
+     "sosten": [
+      0.0139,
+      0.014,
+      0.024
+     ]
+    },
+    {
+     "i": 1464,
+     "actor": "Sudan",
+     "texto": "Sudan's agricultural sector experiences increased economic losses from crop failures",
+     "sosten": [
+      0.0139,
+      0.022,
+      0.014
+     ]
+    },
+    {
+     "i": 1465,
+     "actor": "Sudan",
+     "texto": "Sudan's irrigation infrastructure operates below optimal efficiency levels",
+     "sosten": [
+      0.0139,
+      0.022,
+      0.014
+     ]
+    },
+    {
+     "i": 1466,
+     "actor": "Sudan",
+     "texto": "Sudan's farmers increasingly abandon water-dependent crops for drought-resistant alternati",
+     "sosten": [
+      0.0139,
+      0.022,
+      0.014
+     ]
+    },
+    {
+     "i": 1467,
+     "actor": "Sudan",
+     "texto": "Sudan's agricultural productivity declines due to unpredictable water availability",
+     "sosten": [
+      0.0139,
+      0.022,
+      0.014
+     ]
+    },
+    {
+     "i": 1470,
+     "actor": "Sudan",
+     "texto": "Sudan's electricity generation capacity from Roseires becomes more unpredictable",
+     "sosten": [
+      0.0139,
+      0.022,
+      0.014
+     ]
+    },
+    {
+     "i": 347,
+     "actor": "Egypt",
+     "texto": "Water flow patterns to Egypt become less predictable",
+     "sosten": [
+      0.0139,
+      0.012,
+      0.022
+     ]
+    },
+    {
+     "i": 1340,
+     "actor": "Sudan",
+     "texto": "Sudan's bilateral relationships with neighbors become strained",
+     "sosten": [
+      0.0139,
+      0.012,
+      0.012
+     ]
+    }
+   ]
+  },
+  "legitima": {
+   "completa": [
+    0.0259,
+    0.022,
+    0.012
+   ],
+   "estricta": [
+    0.0259,
+    0.022,
+    0.012
+   ],
+   "pares": 5
+  },
+  "ajena": {
+   "completa": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "estricta": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "pares": 0
+  }
+ }
+}
